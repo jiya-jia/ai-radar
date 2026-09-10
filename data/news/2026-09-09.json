@@ -1,7 +1,7 @@
 {
   "date": "2026-09-09",
-  "generated_at": "2026-09-10T09:37:44+08:00",
-  "count": 16,
+  "generated_at": "2026-09-10T09:44:59+08:00",
+  "count": 18,
   "items": [
     {
       "title": "ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’",
@@ -112,6 +112,15 @@
       "time": "10:32"
     },
     {
+      "title": "群核科技联手英伟达、英特尔、浙大，三篇 ECCV 论文给物理 AI 造基础设施",
+      "desc": "去哪训练、拿什么学、怎么考？这是物理AI从实验室走向现实世界的三个核心问题，现在有了系统性答案。 作者丨 张 璐 编辑丨 幸丽娟 物理人工智能（Physical AI）与具身智能正在经历一场深刻的范式转移…",
+      "link": "https://www.leiphone.com/category/private/Y5eqFriHBTvAOukX.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-09-09T10:28:00+08:00",
+      "time": "10:28"
+    },
+    {
       "title": "规模要追平智谱！DeepSeek今年将扩招到1000人；继姚顺雨后，田永龙也进入腾讯CEO/总裁办公室；网传闪充车型订单积压25万辆，比亚迪回应",
       "desc": "要闻提示 1.DeepSeek扩招150人，0个AI研究岗！目标是今年扩招到1000人 2.继姚顺雨后，田永龙也进入腾讯CEO/总裁办公室 3.被投诉三文鱼出现寄生虫！山姆回应：脂肪线，系正常鱼肉组织 4.阿里电商业务战略调整：将打通1688与国际站 5.网传闪充车型订单积压25万辆…",
       "link": "https://www.leiphone.com/category/zaobao/bx7l7B6CyNAubHQg.html",
@@ -119,6 +128,15 @@
       "category": "融资",
       "published": "2026-09-09T08:30:00+08:00",
       "time": "08:30"
+    },
+    {
+      "title": "Why this month's Microsoft patch release is a doozy",
+      "desc": "Microsoft’s patch for September is a doozy, with a record number of roughly 972 vulnerabilities fixed and 112 of them meeting the high critical-severity…",
+      "link": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+      "source": "Ars Technica",
+      "category": "研究",
+      "published": "2026-09-09T05:11:46+08:00",
+      "time": "05:11"
     },
     {
       "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
