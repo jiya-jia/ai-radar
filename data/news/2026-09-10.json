@@ -1,0 +1,133 @@
+{
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T09:37:44+08:00",
+  "count": 14,
+  "items": [
+    {
+      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "desc": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+      "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-09-10T08:00:37+08:00",
+      "time": "08:00"
+    },
+    {
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "desc": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+      "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "source": "TechCrunch AI",
+      "category": "研究",
+      "published": "2026-09-10T06:25:22+08:00",
+      "time": "06:25"
+    },
+    {
+      "title": "Suno releases its first AI music model made with record industry help",
+      "desc": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-09-10T05:42:19+08:00",
+      "time": "05:42"
+    },
+    {
+      "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
+      "desc": "Open AI CEO Sam Altman speaks during the G20 Innovation Ministerial. | (Photo by Matt RAMEY / AFP via Getty Images) OpenAI's announcement Tuesday that it has…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+      "source": "The Verge AI",
+      "category": "研究",
+      "published": "2026-09-10T05:16:34+08:00",
+      "time": "05:16"
+    },
+    {
+      "title": "Read the Apple document explaining how new listening features still protect your privacy",
+      "desc": "At Wednesday's iPhone Duo launch event , Apple announced a handful of new Siri AI Audio Intelligence features , including Siri Recap, Live Rewind, Sound…",
+      "link": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-09-10T04:44:43+08:00",
+      "time": "04:44"
+    },
+    {
+      "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
+      "desc": "The United States has now named six Chinese AI firms accused of waging industrial-scale attacks distilling US frontier AI model capabilities and perhaps…",
+      "link": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
+      "source": "Ars Technica",
+      "category": "模型",
+      "published": "2026-09-10T04:06:28+08:00",
+      "time": "04:06"
+    },
+    {
+      "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
+      "desc": "\" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0023.jpg?q…",
+      "link": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
+      "source": "The Verge AI",
+      "category": "产品",
+      "published": "2026-09-10T03:30:12+08:00",
+      "time": "03:30"
+    },
+    {
+      "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
+      "desc": "一比根号二的小胖折叠",
+      "link": "https://www.qbitai.com/2026/09/486450.html",
+      "source": "量子位",
+      "category": "产品",
+      "published": "2026-09-10T03:24:22+08:00",
+      "time": "03:24"
+    },
+    {
+      "title": "The hinge for Apple’s new foldable phone was built with AI",
+      "desc": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
+      "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-09-10T03:21:48+08:00",
+      "time": "03:21"
+    },
+    {
+      "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
+      "desc": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
+      "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-09-10T02:08:35+08:00",
+      "time": "02:08"
+    },
+    {
+      "title": "Microsoft has new AI privacy rules for schools",
+      "desc": "Microsoft agreed to a set of safety and privacy principles for AI in schools a week after two major school systems announced a ban on student-facing AI…",
+      "link": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
+      "source": "The Verge AI",
+      "category": "政策",
+      "published": "2026-09-10T01:07:48+08:00",
+      "time": "01:07"
+    },
+    {
+      "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
+      "desc": "When a prominent researcher quits a job at a frontier AI lab these days, it's often to pursue a new startup or protest a new business model…",
+      "link": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
+      "source": "Ars Technica",
+      "category": "研究",
+      "published": "2026-09-10T00:59:40+08:00",
+      "time": "00:59"
+    },
+    {
+      "title": "Google's AI genome system evaluates every possible one-base change",
+      "desc": "On Tuesday, Google announced AlphaGenome Atlas , a resource that attempts to predict the consequences of every possible single-base variant in the human…",
+      "link": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/",
+      "source": "Ars Technica",
+      "category": "资讯",
+      "published": "2026-09-10T00:34:18+08:00",
+      "time": "00:34"
+    },
+    {
+      "title": "Superintelligence is coming. Should we let it?",
+      "desc": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating…",
+      "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+      "source": "TechCrunch AI",
+      "category": "研究",
+      "published": "2026-09-10T00:05:35+08:00",
+      "time": "00:05"
+    }
+  ]
+}

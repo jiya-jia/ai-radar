@@ -1,0 +1,151 @@
+{
+  "date": "2026-09-09",
+  "generated_at": "2026-09-10T09:37:44+08:00",
+  "count": 16,
+  "items": [
+    {
+      "title": "ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’",
+      "desc": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating…",
+      "link": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/",
+      "source": "TechCrunch AI",
+      "category": "研究",
+      "published": "2026-09-09T23:50:13+08:00",
+      "time": "23:50"
+    },
+    {
+      "title": "Viral AI assistant Instinct now has its own email address",
+      "desc": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
+      "link": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-09-09T23:13:12+08:00",
+      "time": "23:13"
+    },
+    {
+      "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+      "desc": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
+      "link": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+      "source": "TechCrunch AI",
+      "category": "研究",
+      "published": "2026-09-09T23:02:47+08:00",
+      "time": "23:02"
+    },
+    {
+      "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
+      "desc": "It took Michael Lines six months before he was ready to review the ChatGPT logs he said drove him into a religious mania that almost ended his life…",
+      "link": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
+      "source": "Ars Technica",
+      "category": "模型",
+      "published": "2026-09-09T19:00:10+08:00",
+      "time": "19:00"
+    },
+    {
+      "title": "CloudNC aims to accelerate AI supply chain machining",
+      "desc": "CloudNC has secured $20 million in new capital to scale its AI precision machining technology across global supply chain networks…",
+      "link": "https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/",
+      "source": "AI News",
+      "category": "芯片",
+      "published": "2026-09-09T18:34:20+08:00",
+      "time": "18:34"
+    },
+    {
+      "title": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
+      "desc": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
+      "link": "https://www.qbitai.com/2026/09/486370.html",
+      "source": "量子位",
+      "category": "芯片",
+      "published": "2026-09-09T17:57:54+08:00",
+      "time": "17:57"
+    },
+    {
+      "title": "Worried Anthropic researchers warn that AI ‘could kill all humans’",
+      "desc": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+      "source": "The Verge AI",
+      "category": "研究",
+      "published": "2026-09-09T17:56:28+08:00",
+      "time": "17:56"
+    },
+    {
+      "title": "Samsung taps Mistral AI models for semiconductor manufacturing",
+      "desc": "Samsung has partnered with Mistral AI to deploy on-premises models across its semiconductor manufacturing and engineering operations…",
+      "link": "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/",
+      "source": "AI News",
+      "category": "融资",
+      "published": "2026-09-09T16:52:19+08:00",
+      "time": "16:52"
+    },
+    {
+      "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
+      "desc": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。",
+      "link": "https://www.qbitai.com/2026/09/486288.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-09-09T13:02:30+08:00",
+      "time": "13:02"
+    },
+    {
+      "title": "SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！",
+      "desc": "8月28日-9月1日，SkyProduction（天工工作台）联合阿里巴巴通义万相，推出了Wan 3.0模型限时免费活动",
+      "link": "https://www.qbitai.com/2026/09/486052.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-09-09T11:39:58+08:00",
+      "time": "11:39"
+    },
+    {
+      "title": "What OpenAI’s latest controversy tells us about the future of math",
+      "desc": "A milestone wrapped in controversy: OpenAI claims to have solved one of mathematics' most prestigious unsolved problems, the Navier–Stokes existence and…",
+      "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+      "source": "MIT Tech Review",
+      "category": "研究",
+      "published": "2026-09-09T11:10:08+08:00",
+      "time": "11:10"
+    },
+    {
+      "title": "ECCV 2026 专访：让大模型「忘掉XYZ」，RoboTracer 用 3D 空间感知与度量推理重塑机器人轨迹追踪",
+      "desc": "用像素坐标加绝对深度表示轨迹，换本体不必重训模型。 作者丨 张 璐 编辑丨 幸丽娟 试想，对一个家庭服务机器人下达指令： 拿水壶从左到右依次给花浇水，喷头需悬停在每朵花上方 1 到 5 厘米处。 这个指令看似日常，对现在的具身系统却很苛刻：既要分清花的左右顺序，又要把喷头停在每朵花上方约 1–5 厘米…",
+      "link": "https://www.leiphone.com/category/private/sgaqS952UXuoJUVJ.html",
+      "source": "雷峰网",
+      "category": "机器人",
+      "published": "2026-09-09T10:32:00+08:00",
+      "time": "10:32"
+    },
+    {
+      "title": "规模要追平智谱！DeepSeek今年将扩招到1000人；继姚顺雨后，田永龙也进入腾讯CEO/总裁办公室；网传闪充车型订单积压25万辆，比亚迪回应",
+      "desc": "要闻提示 1.DeepSeek扩招150人，0个AI研究岗！目标是今年扩招到1000人 2.继姚顺雨后，田永龙也进入腾讯CEO/总裁办公室 3.被投诉三文鱼出现寄生虫！山姆回应：脂肪线，系正常鱼肉组织 4.阿里电商业务战略调整：将打通1688与国际站 5.网传闪充车型订单积压25万辆…",
+      "link": "https://www.leiphone.com/category/zaobao/bx7l7B6CyNAubHQg.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-09-09T08:30:00+08:00",
+      "time": "08:30"
+    },
+    {
+      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+      "desc": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-09-09T04:53:52+08:00",
+      "time": "04:53"
+    },
+    {
+      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+      "desc": "I used ChatGPT and its Sketch tool to make this AI-generated image of a cat. OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-09-09T04:16:09+08:00",
+      "time": "04:16"
+    },
+    {
+      "title": "“This is the AI men actually use”: Meta ads pushed apps nudifying real teens",
+      "desc": "Meta took days to remove ads containing AI-generated child sexual abuse material (CSAM) on Facebook and Instagram…",
+      "link": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
+      "source": "Ars Technica",
+      "category": "资讯",
+      "published": "2026-09-09T02:43:09+08:00",
+      "time": "02:43"
+    }
+  ]
+}
