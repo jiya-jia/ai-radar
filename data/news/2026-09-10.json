@@ -1,8 +1,98 @@
 {
   "date": "2026-09-10",
-  "generated_at": "2026-09-10T09:44:59+08:00",
-  "count": 14,
+  "generated_at": "2026-09-11T00:54:04+08:00",
+  "count": 24,
   "items": [
+    {
+      "title": "Meta’s Muse AI works and creeps me out",
+      "desc": "I turned my Muse assistant into a purple cat. | Screenshot: The Verge Meta has launched its new Muse assistant, marking the company's first real foray into…",
+      "link": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+      "source": "The Verge AI",
+      "category": "产品",
+      "published": "2026-09-10T23:00:00+08:00",
+      "time": "23:00"
+    },
+    {
+      "title": "Maven Robotics wants to steal your robot deployment deal",
+      "desc": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
+      "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+      "source": "TechCrunch AI",
+      "category": "机器人",
+      "published": "2026-09-10T22:17:37+08:00",
+      "time": "22:17"
+    },
+    {
+      "title": "Mathematicians want proof OpenAI didn’t use their work",
+      "desc": "Sam Altman, chief executive officer of OpenAI, during a media tour of the Stargate AI data center…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+      "source": "The Verge AI",
+      "category": "研究",
+      "published": "2026-09-10T19:00:57+08:00",
+      "time": "19:00"
+    },
+    {
+      "title": "Powering AI is an architecture problem",
+      "desc": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off…",
+      "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+      "source": "MIT Tech Review",
+      "category": "芯片",
+      "published": "2026-09-10T19:00:00+08:00",
+      "time": "19:00"
+    },
+    {
+      "title": "深度解读 DeepSeek V4.1 Flash 全新架构，如何成为显存杀手",
+      "desc": "KV 缓存暴降 437 倍，Agent 成本大洗牌。 作者丨高允毅 编辑丨岑 峰 刚刚 DeepSeek V4.1-Flash 上线，最值得关注的是它的全新架构。 这是一次针对长上下文场景的架构重写。过去，更强的智力往往意味着更庞大的算力，超长上下文背后是极高的硬件需求…",
+      "link": "https://www.leiphone.com/category/yanxishe/U8PtVze3OZTTnJc4.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-09-10T19:00:00+08:00",
+      "time": "19:00"
+    },
+    {
+      "title": "蚂蚁数科推出 Agentar 金融版 助力金融机构打造智能体超级工厂",
+      "desc": "9月10日，在2026 Inclusion·外滩大会见解论坛上，蚂蚁数科AI业务总裁余滨表示，蚂蚁数科推出Agentar 金融版，提供开箱即用的金融智能体专家团、行业 Skill、MCP、智能体评测工具及治理能力，为金融机构打造覆盖智能体开发、部署、协作、评测与管理的智能体超级工厂…",
+      "link": "https://www.leiphone.com/category/industrynews/HoBDVtC0QpjjwVfv.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-09-10T18:49:00+08:00",
+      "time": "18:49"
+    },
+    {
+      "title": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
+      "desc": "大晓机器人联合南洋理工大学 S-Lab、上海人工智能实验室发布全新人–场景交互重建研究 HSImul3R",
+      "link": "https://www.qbitai.com/2026/09/486747.html",
+      "source": "量子位",
+      "category": "机器人",
+      "published": "2026-09-10T15:57:55+08:00",
+      "time": "15:57"
+    },
+    {
+      "title": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
+      "desc": "主打生成更快，细节更好，改图也终于越来越像“真·修图”了。",
+      "link": "https://www.qbitai.com/2026/09/486684.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-09-10T15:25:39+08:00",
+      "time": "15:25"
+    },
+    {
+      "title": "OpenAI 攻克千禧难题？深度拆解 1 万个 Agent 如何造出流体奇点",
+      "desc": "万级并行推理背后，是构造、修正与验证的完整闭环。 作者丨 郑佳美 编辑丨岑 峰 9 月 8 日，OpenAI 公布了一套针对 Navier–Stokes 千禧年问题的有限时间奇点构造。一个仍在训练的内部模型，配合约 1 万个 Agent 持续搜索约 88 小时，随后又用 Lean 完成形式化…",
+      "link": "https://www.leiphone.com/category/ai/yLQMlOgEGqoVMGFA.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-09-10T15:00:00+08:00",
+      "time": "15:00"
+    },
+    {
+      "title": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
+      "desc": "9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行",
+      "link": "https://www.qbitai.com/2026/09/486436.html",
+      "source": "量子位",
+      "category": "芯片",
+      "published": "2026-09-10T09:39:13+08:00",
+      "time": "09:39"
+    },
     {
       "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
       "desc": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
