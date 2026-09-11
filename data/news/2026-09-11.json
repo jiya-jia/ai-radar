@@ -1,8 +1,71 @@
 {
   "date": "2026-09-11",
-  "generated_at": "2026-09-11T13:44:42+08:00",
-  "count": 16,
+  "generated_at": "2026-09-12T00:55:19+08:00",
+  "count": 23,
   "items": [
+    {
+      "title": "Meta says it’s changing AI suggestions after posing invasive personal questions",
+      "desc": "via Instagram \" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta-invasive-qs.png?quality=90&strip=all…",
+      "link": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-09-11T22:25:21+08:00",
+      "time": "22:25"
+    },
+    {
+      "title": "啊？Anthropic最高320万招销售，只为服务Meta",
+      "desc": "原来你俩互相下单呢",
+      "link": "https://www.qbitai.com/2026/09/487573.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-09-11T22:05:16+08:00",
+      "time": "22:05"
+    },
+    {
+      "title": "Claude users found ways around safeguards for bioweapons research",
+      "desc": "Anthropic said it stopped multiple attempts by scientists this year to use its technology for research that could help develop biological weapons, as experts…",
+      "link": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
+      "source": "Ars Technica",
+      "category": "研究",
+      "published": "2026-09-11T21:02:35+08:00",
+      "time": "21:02"
+    },
+    {
+      "title": "AI新经济走向真实商业，蚂蚁APASS构建Agent信任基础设施",
+      "desc": "9月11日，在2026 Inclusion·外滩大会AI支付论坛上，蚂蚁集团发布面向智能体（Agent）商业活动的信任基础设施APASS。 基于KYA（Know Your Agent）理念，APASS通过智能体可信身份产品和智能体风控服务，建立身份与行为两条信任链…",
+      "link": "https://www.leiphone.com/category/industrynews/gVe8AKc2ibKGewUO.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-09-11T17:21:00+08:00",
+      "time": "17:21"
+    },
+    {
+      "title": "让智能体自主探索而不越界，蚂蚁密算开源可信原生智能体HOP 3.0",
+      "desc": "在2026 Inclusion·外滩大会上，蚂蚁密算董事长韦韬宣布可信原生智能体HOP 3.0正式开源，向开发者、企业和行业专家开放“智能体原生语言”相关技术能力，推动产业智能体从依赖模型自觉，走向边界明确、过程可控、结果可核验的可信执行…",
+      "link": "https://www.leiphone.com/category/industrynews/3lj2fGLhrOPKY8OJ.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-09-11T15:32:00+08:00",
+      "time": "15:32"
+    },
+    {
+      "title": "金融领域首个智能体安全标准发布",
+      "desc": "金融领域首个智能体安全标准发布 明确未经金融机构授权，不得自动化操作金融App 近日（8月27日），北京金融科技产业联盟发布《智能体技术金融应用安全要求》团体标准，为国内首个聚焦金融领域智能体应用安全的团体标准…",
+      "link": "https://www.leiphone.com/category/industrynews/tyenZtjsxcp3OzDb.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-09-11T15:31:00+08:00",
+      "time": "15:31"
+    },
+    {
+      "title": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济",
+      "desc": "9月9日，墨芯人工智能亮相以\"共创AI新经济\"为主题的2026 Inclusion·外滩大会。",
+      "link": "https://www.qbitai.com/2026/09/487273.html",
+      "source": "量子位",
+      "category": "芯片",
+      "published": "2026-09-11T14:19:03+08:00",
+      "time": "14:19"
+    },
     {
       "title": "3万台无人车之后，这家公司盯上了城市级物理AI",
       "desc": "3万台无人车之后，这家公司盯上了城市级物理AI",

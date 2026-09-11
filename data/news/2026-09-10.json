@@ -1,8 +1,17 @@
 {
   "date": "2026-09-10",
-  "generated_at": "2026-09-11T13:44:42+08:00",
-  "count": 26,
+  "generated_at": "2026-09-12T00:55:19+08:00",
+  "count": 31,
   "items": [
+    {
+      "title": "Universal Music is launching an AI music platform with ElevenLabs",
+      "desc": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-09-10T23:38:19+08:00",
+      "time": "23:38"
+    },
     {
       "title": "Meta’s Muse AI works and creeps me out",
       "desc": "I turned my Muse assistant into a purple cat. | Screenshot: The Verge Meta has launched its new Muse assistant, marking the company's first real foray into…",
@@ -13,6 +22,15 @@
       "time": "23:00"
     },
     {
+      "title": "AI agents are flooding public services with new requests",
+      "desc": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
+      "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+      "source": "TechCrunch AI",
+      "category": "研究",
+      "published": "2026-09-10T22:53:50+08:00",
+      "time": "22:53"
+    },
+    {
       "title": "Maven Robotics wants to steal your robot deployment deal",
       "desc": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
       "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
@@ -20,6 +38,15 @@
       "category": "机器人",
       "published": "2026-09-10T22:17:37+08:00",
       "time": "22:17"
+    },
+    {
+      "title": "Why the current tech backlash feels different",
+      "desc": "This interview has been lightly edited for length and clarity. Nick Statt: Hello and welcome to Decoder , Nilay’s show about big ideas and other problems…",
+      "link": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
+      "source": "The Verge AI",
+      "category": "政策",
+      "published": "2026-09-10T22:00:00+08:00",
+      "time": "22:00"
     },
     {
       "title": "Mathematicians want proof OpenAI didn’t use their work",
@@ -58,6 +85,15 @@
       "time": "18:49"
     },
     {
+      "title": "ECCV上，顶尖学者们开始研究如何让AI做生意了",
+      "desc": "多模态AI大牛轮番登台，全球64支团队组团解题",
+      "link": "https://www.qbitai.com/2026/09/486934.html",
+      "source": "量子位",
+      "category": "研究",
+      "published": "2026-09-10T18:17:46+08:00",
+      "time": "18:17"
+    },
+    {
       "title": "JD.com expands physical AI in logistics with 3 million robots",
       "desc": "JD.com is expanding AI and robotics across its logistics network under a new Physical AI Acceleration Plan, while reiterating a five-year target to procure 3…",
       "link": "https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/",
@@ -65,6 +101,15 @@
       "category": "芯片",
       "published": "2026-09-10T18:00:00+08:00",
       "time": "18:00"
+    },
+    {
+      "title": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
+      "desc": "9月10日，阿里巴巴集团旗下高德正式发布全球首个3D原生城市世界模型ABot-Earth 0.7。",
+      "link": "https://www.qbitai.com/2026/09/486900.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-09-10T16:17:05+08:00",
+      "time": "16:17"
     },
     {
       "title": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
