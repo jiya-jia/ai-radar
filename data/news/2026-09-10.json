@@ -1,7 +1,7 @@
 {
   "date": "2026-09-10",
-  "generated_at": "2026-09-11T00:54:04+08:00",
-  "count": 24,
+  "generated_at": "2026-09-11T13:44:42+08:00",
+  "count": 26,
   "items": [
     {
       "title": "Meta’s Muse AI works and creeps me out",
@@ -58,6 +58,15 @@
       "time": "18:49"
     },
     {
+      "title": "JD.com expands physical AI in logistics with 3 million robots",
+      "desc": "JD.com is expanding AI and robotics across its logistics network under a new Physical AI Acceleration Plan, while reiterating a five-year target to procure 3…",
+      "link": "https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/",
+      "source": "AI News",
+      "category": "芯片",
+      "published": "2026-09-10T18:00:00+08:00",
+      "time": "18:00"
+    },
+    {
       "title": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
       "desc": "大晓机器人联合南洋理工大学 S-Lab、上海人工智能实验室发布全新人–场景交互重建研究 HSImul3R",
       "link": "https://www.qbitai.com/2026/09/486747.html",
@@ -65,6 +74,15 @@
       "category": "机器人",
       "published": "2026-09-10T15:57:55+08:00",
       "time": "15:57"
+    },
+    {
+      "title": "这个新开源的世界模型只有1.3B，单卡就能实时跑！",
+      "desc": "轻量版LingBot-World 2.0",
+      "link": "https://www.qbitai.com/2026/09/486716.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-09-10T15:44:00+08:00",
+      "time": "15:44"
     },
     {
       "title": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
