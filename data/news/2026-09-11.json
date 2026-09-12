@@ -1,7 +1,7 @@
 {
   "date": "2026-09-11",
-  "generated_at": "2026-09-12T13:31:58+08:00",
-  "count": 23,
+  "generated_at": "2026-09-12T23:59:58+08:00",
+  "count": 25,
   "items": [
     {
       "title": "Meta says it’s changing AI suggestions after posing invasive personal questions",
@@ -31,6 +31,15 @@
       "time": "21:02"
     },
     {
+      "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
+      "desc": "NVIDIA is using Palantir Foundry and cuOpt to automate its hardware supply chain allocation decisions across global manufacturing sites…",
+      "link": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/",
+      "source": "AI News",
+      "category": "芯片",
+      "published": "2026-09-11T20:00:18+08:00",
+      "time": "20:00"
+    },
+    {
       "title": "AI新经济走向真实商业，蚂蚁APASS构建Agent信任基础设施",
       "desc": "9月11日，在2026 Inclusion·外滩大会AI支付论坛上，蚂蚁集团发布面向智能体（Agent）商业活动的信任基础设施APASS。 基于KYA（Know Your Agent）理念，APASS通过智能体可信身份产品和智能体风控服务，建立身份与行为两条信任链…",
       "link": "https://www.leiphone.com/category/industrynews/gVe8AKc2ibKGewUO.html",
@@ -38,6 +47,15 @@
       "category": "融资",
       "published": "2026-09-11T17:21:00+08:00",
       "time": "17:21"
+    },
+    {
+      "title": "不简单，“吃货快乐榜”也全面AI化了",
+      "desc": "不简单，“吃货快乐榜”也全面AI化了",
+      "link": "https://www.qbitai.com/2026/09/487282.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-09-11T16:59:28+08:00",
+      "time": "16:59"
     },
     {
       "title": "让智能体自主探索而不越界，蚂蚁密算开源可信原生智能体HOP 3.0",

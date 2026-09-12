@@ -1,8 +1,89 @@
 {
   "date": "2026-09-12",
-  "generated_at": "2026-09-12T13:31:58+08:00",
-  "count": 12,
+  "generated_at": "2026-09-12T23:59:58+08:00",
+  "count": 21,
   "items": [
+    {
+      "title": "Trump is giving data centers a pass to pollute",
+      "desc": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+      "source": "The Verge AI",
+      "category": "政策",
+      "published": "2026-09-12T22:41:27+08:00",
+      "time": "22:41"
+    },
+    {
+      "title": "I spent $4,000 on a robot dog from China",
+      "desc": "On a sunny morning in June, I walked to work with a quadruped robot beside me. I’ve never gotten more attention from strangers…",
+      "link": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
+      "source": "Ars Technica",
+      "category": "机器人",
+      "published": "2026-09-12T19:00:53+08:00",
+      "time": "19:00"
+    },
+    {
+      "title": "OpenAI just wants to win",
+      "desc": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+      "source": "The Verge AI",
+      "category": "研究",
+      "published": "2026-09-12T19:00:00+08:00",
+      "time": "19:00"
+    },
+    {
+      "title": "从“GPASS”到“灵影”，蚂蚁为AI终端铺设Agent基础设施",
+      "desc": "9月11日，在2026 Inclusion·外滩大会“AI驱动新终端新服务”论坛上，蚂蚁集团宣布，GPASS智能终端可信连接技术框架正式升级为“灵影”。 灵影定位于面向AI眼镜等新终端的Agent原生操作系统及开放平台，围绕自然交互、智能体运行、多端协同和安全可信提供底层能力，并向芯片伙伴、硬件厂商和开发者开放…",
+      "link": "https://www.leiphone.com/category/industrynews/XOOL34t59O0TvCAQ.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-09-12T17:13:00+08:00",
+      "time": "17:13"
+    },
+    {
+      "title": "师生激辩外滩大会：云谷学校论坛给出一份“教育AI使用说明书”",
+      "desc": "9月12日上午，由杭州云谷学校与《三联生活周刊》联合推出的2026 Inclusion·外滩大会见解论坛教育专场，在上海黄浦世博园区举行。论坛以“认知增强，还是认知外包？——AI时代的教育选择”为主题，从人文、艺术到技术视角，从一线课堂到未来职场…",
+      "link": "https://www.leiphone.com/category/industrynews/0i0LRe3Ohg0FXYk1.html",
+      "source": "雷峰网",
+      "category": "研究",
+      "published": "2026-09-12T17:01:00+08:00",
+      "time": "17:01"
+    },
+    {
+      "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
+      "desc": "Claude越界攻击真实系统，并非只是测试系统的设置问题，模型本身的安全问题也出了问题。",
+      "link": "https://www.qbitai.com/2026/09/487796.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-09-12T16:49:02+08:00",
+      "time": "16:49"
+    },
+    {
+      "title": "从完成任务到自主发现，Agent后训练寻找下一个Scaling Law",
+      "desc": "当大模型开始调用工具、执行复杂任务，衡量其能力的标准也在发生变化：不仅要看能否给出正确答案，更要看能否在真实环境中持续行动、检查结果，并根据反馈调整策略。从模型能力到任务价值，这一转变需要怎样的训练方法与基础设施？智能体能否在工作中积累经验、不断进化…",
+      "link": "https://www.leiphone.com/category/industrynews/e7IcZ05CQ6HtNZZ2.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-09-12T16:40:00+08:00",
+      "time": "16:40"
+    },
+    {
+      "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+      "desc": "触觉、记忆、Ego数据、自进化……这个世界模型全都有",
+      "link": "https://www.qbitai.com/2026/09/487752.html",
+      "source": "量子位",
+      "category": "机器人",
+      "published": "2026-09-12T16:15:31+08:00",
+      "time": "16:15"
+    },
+    {
+      "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
+      "desc": "FrontierMath Tier 4，饱和了",
+      "link": "https://www.qbitai.com/2026/09/487701.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-09-12T15:33:54+08:00",
+      "time": "15:33"
+    },
     {
       "title": "外滩大会观察：AI进入产业，数据正在成为新动能",
       "desc": "AI时代，数据的价值正在被重新发现。 9月9日至12日，2026 Inclusion·外滩大会在上海世博园举行。相比过去聚焦“AI能做什么”，今年大会上，一个更底层的问题被反复讨论：当AI真正进入产业，企业手里的海量数据，如何才能被AI真正用起来？ 在“数智进化：让多模态数据成为AI核心燃料”见解论坛上…",
