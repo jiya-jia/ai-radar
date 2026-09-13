@@ -1,7 +1,7 @@
 {
   "date": "2026-09-11",
-  "generated_at": "2026-09-12T23:59:58+08:00",
-  "count": 25,
+  "generated_at": "2026-09-13T13:51:31+08:00",
+  "count": 28,
   "items": [
     {
       "title": "Meta says it’s changing AI suggestions after posing invasive personal questions",
@@ -38,6 +38,33 @@
       "category": "芯片",
       "published": "2026-09-11T20:00:18+08:00",
       "time": "20:00"
+    },
+    {
+      "title": "从一台车出发到三百城，九识成为城市治理的「运力底座」",
+      "desc": "当多数公司还在发布会的PPT里讲“物理AI”的故事时，九识的无人车规模已经超过3万辆，覆盖300余座城市，累计真实运营里程达到2.5亿公里。 近日，九识召开战略发布会，宣布公司未来重心将聚焦物理AI赋能城市治理…",
+      "link": "https://www.leiphone.com/category/transportation/JXhS5Joxp68qFEmE.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-09-11T18:54:00+08:00",
+      "time": "18:54"
+    },
+    {
+      "title": "半世纪前的AI画作到AI歌手线下开唱，2026外滩大会AI艺术节勾勒人机共创新图景",
+      "desc": "当AI开始绘画、拍电影，甚至“出道”成为艺人，艺术的边界在哪里？ 9月9日，随着2026 Inclusion·外滩大会在上海开幕，大会首次设立的特色板块——AI艺术节同步亮相。围绕AI概念艺术展、AI影像展映、AI音乐会三大单元，这场由AI与人类共同参与的艺术实践，将原本更多发生在线上的AI创作带到线下…",
+      "link": "https://www.leiphone.com/category/industrynews/9kc5LWEjsnYINmQO.html",
+      "source": "雷峰网",
+      "category": "研究",
+      "published": "2026-09-11T17:59:00+08:00",
+      "time": "17:59"
+    },
+    {
+      "title": "不堆 Transformer，斯坦福吴佳俊如何用物理重新定义多模态融合？｜ECCV 2026",
+      "desc": "视觉、听觉、触觉三种数据，其实是同一组物理属性在不同感官通道上的投影。 作者丨 陈淑瑜 编辑丨岑 峰 2026年9月8日，欧洲计算机视觉会议 ECCV 在瑞典马尔默召开。在 9 月 9 日的“ Embodied Multimodal Reasoning in Physical…",
+      "link": "https://www.leiphone.com/category/private/rSWX8JI9JPPBvt0j.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-09-11T17:39:00+08:00",
+      "time": "17:39"
     },
     {
       "title": "AI新经济走向真实商业，蚂蚁APASS构建Agent信任基础设施",
