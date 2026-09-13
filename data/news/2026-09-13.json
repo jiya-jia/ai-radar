@@ -1,8 +1,62 @@
 {
   "date": "2026-09-13",
-  "generated_at": "2026-09-13T13:51:31+08:00",
-  "count": 7,
+  "generated_at": "2026-09-14T00:50:42+08:00",
+  "count": 13,
   "items": [
+    {
+      "title": "斜跃智能完成数亿元天使+轮融资，加速推进Duplex Reasoning全新范式具身基础模型",
+      "desc": "近日，斜跃智能完成数亿元天使+轮融资，线性资本、钧山资本、弘颐资本、隐山资本等机构参与投资。随着这一轮融资完成，斜跃将持续推进具身基础模型训练、算力与数据基础设施建设和核心团队扩充，以及家庭机器人本体研发和场景验证…",
+      "link": "https://www.leiphone.com/category/industrynews/PHYwHDvtZ5GGXTK6.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-09-13T18:30:00+08:00",
+      "time": "18:30"
+    },
+    {
+      "title": "让AI真正“住进家里”：后摩智能×绿联HomeAgent探索家庭智能新形态",
+      "desc": "9月12日晚，绿联科技品牌全球发布会正式举行。绿联发布与后摩智能合作的UGREEN HomeAgent HA100 Pro，以本地AI算力打造家庭AI中枢。 当AI开始从云端走向终端，它正在进入越来越多真实的生活场景，家庭正是其中之一…",
+      "link": "https://www.leiphone.com/category/chips/OWi6OEGUYbDYwZof.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-09-13T17:16:00+08:00",
+      "time": "17:16"
+    },
+    {
+      "title": "蚂蚁数科在外滩大会达成31项AI合作，推动智能体走进千行百业",
+      "desc": "在近日举行的2026 Inclusion·外滩大会上，蚂蚁数科围绕绿色能源、智能终端、酒店文旅、数字内容等领域达成31项合作，携手多家签约单位推动AI智能体、区块链、可信数据等技术在千行百业加速落地…",
+      "link": "https://www.leiphone.com/category/industrynews/z9XsFJXTUkbHBZFs.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-09-13T17:13:00+08:00",
+      "time": "17:13"
+    },
+    {
+      "title": "大模型牌桌上，蚂蚁如何出牌？",
+      "desc": "谈起国内 AI 公司，人们首先想到的往往是智谱、MiniMax、月之暗面等大模型创业公司，或者阿里、腾讯、字节这些拥有云和流量入口的大厂。 在这张竞争地图里，蚂蚁的位置一直没有那么容易被描述。它也做大模型，也做面向消费者的 AI 应用，现在甚至开始进入具身智能…",
+      "link": "https://www.leiphone.com/category/ai/0j9Qu8Jg28bUaM5w.html",
+      "source": "雷峰网",
+      "category": "机器人",
+      "published": "2026-09-13T16:22:00+08:00",
+      "time": "16:22"
+    },
+    {
+      "title": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
+      "desc": "亮源新创的Physical Al路线清晰了",
+      "link": "https://www.qbitai.com/2026/09/488672.html",
+      "source": "量子位",
+      "category": "机器人",
+      "published": "2026-09-13T15:38:20+08:00",
+      "time": "15:38"
+    },
+    {
+      "title": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你",
+      "desc": "Agent的下一步是关系型生产力",
+      "link": "https://www.qbitai.com/2026/09/488447.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-09-13T14:40:25+08:00",
+      "time": "14:40"
+    },
     {
       "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
       "desc": "RSI太危险，得管！",
