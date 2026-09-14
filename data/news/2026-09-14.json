@@ -1,0 +1,88 @@
+{
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T13:58:10+08:00",
+  "count": 9,
+  "items": [
+    {
+      "title": "AI开始改进“改进自己的方法”，RSI进入平方时代丨MetaRSI",
+      "desc": "小模型突破瓶颈，旗舰模型打开新空间",
+      "link": "https://www.qbitai.com/2026/09/488832.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-09-14T11:45:46+08:00",
+      "time": "11:45"
+    },
+    {
+      "title": "中国物理AI大突破：PhysBrain 1.5登顶全球开源榜一，空间智能与GPT-6 Astra并驾齐驱",
+      "desc": "这家中国公司，刚跑完了物理闭环里最难的一段路",
+      "link": "https://www.qbitai.com/2026/09/488725.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-09-14T11:18:42+08:00",
+      "time": "11:18"
+    },
+    {
+      "title": "豆包手机助手发布消费者版本 首款新机将于9月16日正式开售",
+      "desc": "9月14日，豆包手机助手消费者版本正式发布。 豆包手机助手以豆包 App 为基础，与手机厂商在系统层面展开合作，围绕交互、任务执行、本地记忆及检索等核心体验，进一步探索 AI 在手机中的应用。据官方视频介绍，相比去年底推出的技术预览版，这次的消费者版本更强调稳定性和日常可用性…",
+      "link": "https://www.leiphone.com/category/industrynews/p1zBbVMbsyYNHOJ4.html",
+      "source": "雷峰网",
+      "category": "产品",
+      "published": "2026-09-14T10:55:00+08:00",
+      "time": "10:55"
+    },
+    {
+      "title": "NUS Show Lab 寿政教授：打通自回归与离散扩散，打造下一代具身大模型底座｜ECCV 2026",
+      "desc": "告别模型拼贴套路，自回归与离散扩散的融合，正在开启 AI 的体验时代。 作者丨 张璐 编辑丨岑峰 “理解”和“生成”真的无法在同一个模型底座中完美融合吗？ 不同于拼接独立模型的传统做法，NUS Show Lab 选择了一条更原生的架构路线：在单个 Transformer 中同时打通自回归预测与离散扩散生成…",
+      "link": "https://www.leiphone.com/category/private/m2CuWb5rm0qnkznY.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-09-14T10:50:00+08:00",
+      "time": "10:50"
+    },
+    {
+      "title": "TUM 教授 Angela Dai：放下完美数据执念，「逆向自监督」重构 3D 空间智能 | ECCV 2026",
+      "desc": "2D去噪范式在真实3D遮挡前失效，破局关键在于将物理机制转化为结构先验。 作者丨 张璐 编辑丨 岑峰 大模型在文本与 2D 图像上的狂飙，归功于互联网上近乎无穷的干净数据。但当 AI 试图跨越屏幕、理解真实的 3D 物理世界时，这套经验法则瞬间失效…",
+      "link": "https://www.leiphone.com/category/private/IHKmBYxnV5IvYoN0.html",
+      "source": "雷峰网",
+      "category": "机器人",
+      "published": "2026-09-14T10:47:00+08:00",
+      "time": "10:47"
+    },
+    {
+      "title": "智谱提前剧透下一代GLM：完全自训练方法公开了",
+      "desc": "模型、论文都还没出，没想到先从财务公告上剧透了",
+      "link": "https://www.qbitai.com/2026/09/488694.html",
+      "source": "量子位",
+      "category": "研究",
+      "published": "2026-09-14T08:30:56+08:00",
+      "time": "08:30"
+    },
+    {
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "desc": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-09-14T03:41:48+08:00",
+      "time": "03:41"
+    },
+    {
+      "title": "What’s behind the AI industry’s latest warnings of doom?",
+      "desc": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+      "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-09-14T03:40:15+08:00",
+      "time": "03:40"
+    },
+    {
+      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "desc": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around…",
+      "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-09-14T00:30:00+08:00",
+      "time": "00:30"
+    }
+  ]
+}

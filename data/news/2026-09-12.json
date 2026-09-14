@@ -1,7 +1,7 @@
 {
   "date": "2026-09-12",
-  "generated_at": "2026-09-14T00:50:42+08:00",
-  "count": 21,
+  "generated_at": "2026-09-14T13:58:10+08:00",
+  "count": 24,
   "items": [
     {
       "title": "Trump is giving data centers a pass to pollute",
@@ -11,6 +11,15 @@
       "category": "政策",
       "published": "2026-09-12T22:41:27+08:00",
       "time": "22:41"
+    },
+    {
+      "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
+      "desc": "太初（杭州）集成电路有限公司新一代超智融合计算系统元碁Hypertintellix入选“算力中国·年度卓越成就”。",
+      "link": "https://www.qbitai.com/2026/09/487860.html",
+      "source": "量子位",
+      "category": "芯片",
+      "published": "2026-09-12T19:38:16+08:00",
+      "time": "19:38"
     },
     {
       "title": "I spent $4,000 on a robot dog from China",
@@ -76,6 +85,15 @@
       "time": "16:15"
     },
     {
+      "title": "外滩大会蚂蚁集团吴敏芝谈AI时代组织价值：个体越强，组织越要回答凭什么留住人才",
+      "desc": "“都说AI让我们效率更高了，为什么我们反而变得更累了？”“自己每天教AI工作，是不是也在训练未来的替代者。”今年“外滩大会AI科技人文十问”中的这两个问题道出了AI进入工作之后人们的期待与不安，也引出了组织需要回答的问题：效率提升如何带来共同成长，个体能力增强之后，组织又靠什么凝聚人才？ 9月12日…",
+      "link": "https://www.leiphone.com/category/industrynews/1kiVmZKNSYhfRDdS.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-09-12T15:56:00+08:00",
+      "time": "15:56"
+    },
+    {
       "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
       "desc": "FrontierMath Tier 4，饱和了",
       "link": "https://www.qbitai.com/2026/09/487701.html",
@@ -83,6 +101,15 @@
       "category": "模型",
       "published": "2026-09-12T15:33:54+08:00",
       "time": "15:33"
+    },
+    {
+      "title": "AI重塑支付：从工具到生态，一场关于价值重估的产业对话",
+      "desc": "过去的支付，是人完成交易的最后一步；到了智能体时代，支付成为AI进入真实商业世界的关键一步。 9月11日，在2026 Inclusion·外滩大会“Agentic Commerce的新可能”圆桌上，Kimi增长与商业化技术负责人付强、自然选择创始人Tristan、BAI资本高级合伙人赵鹏岚、蚂蚁集团AI支付总监林正茂…",
+      "link": "https://www.leiphone.com/category/industrynews/XVMBHPxkYkYLjpvy.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-09-12T14:43:00+08:00",
+      "time": "14:43"
     },
     {
       "title": "外滩大会观察：AI进入产业，数据正在成为新动能",
