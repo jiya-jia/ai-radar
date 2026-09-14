@@ -1,0 +1,34 @@
+{
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T02:21:40+08:00",
+  "count": 3,
+  "items": [
+    {
+      "title": "The AI industry has taken a doomer turn. What now?",
+      "desc": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here…",
+      "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+      "source": "MIT Tech Review",
+      "category": "融资",
+      "published": "2026-09-15T01:54:22+08:00",
+      "time": "01:54"
+    },
+    {
+      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+      "desc": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and…",
+      "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-09-15T00:27:53+08:00",
+      "time": "00:27"
+    },
+    {
+      "title": "AI agents blew the whistle on their cheating colleagues",
+      "desc": "Cheating spread like a virus. When one agent called \"prover-theta\" found a loophole to fake math proofs, others reverse-engineered the exploit within…",
+      "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+      "source": "MIT Tech Review",
+      "category": "政策",
+      "published": "2026-09-15T00:00:00+08:00",
+      "time": "00:00"
+    }
+  ]
+}

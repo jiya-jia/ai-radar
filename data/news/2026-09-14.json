@@ -1,8 +1,107 @@
 {
   "date": "2026-09-14",
-  "generated_at": "2026-09-14T13:58:10+08:00",
-  "count": 9,
+  "generated_at": "2026-09-15T02:21:40+08:00",
+  "count": 21,
   "items": [
+    {
+      "title": "Microsoft AI opens review on Humanist AI Code of Conduct",
+      "desc": "Microsoft AI has published a draft Humanist AI Code of Conduct, opening a six-week public consultation on operational constraints for model training and…",
+      "link": "https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/",
+      "source": "AI News",
+      "category": "芯片",
+      "published": "2026-09-14T23:30:41+08:00",
+      "time": "23:30"
+    },
+    {
+      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+      "desc": "If you're building an AI company, the question isn't whether foundation models will continue to evolve…",
+      "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-09-14T23:00:00+08:00",
+      "time": "23:00"
+    },
+    {
+      "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
+      "desc": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup…",
+      "link": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-09-14T22:30:00+08:00",
+      "time": "22:30"
+    },
+    {
+      "title": "蚂蚁发布大模型内生式安全护栏SingProbe，让AI边生成边识别风险",
+      "desc": "大模型正在进入日常问答、办公辅助、客户服务等真实业务场景。用户期待AI快速给出有用的回答，也需要这些回答安全、可靠。如何及时发现不安全内容和编造信息，同时减少安全审核对响应速度和用户体验的影响，成为大模型应用落地需要解决的问题…",
+      "link": "https://www.leiphone.com/category/industrynews/pvwJSKM5MEEd1H5N.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-09-14T21:22:00+08:00",
+      "time": "21:22"
+    },
+    {
+      "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
+      "desc": "Microsoft is publishing a 37-page \" humanist AI code of conduct \" today, amid growing safety concerns over AI model progress…",
+      "link": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+      "source": "The Verge AI",
+      "category": "研究",
+      "published": "2026-09-14T21:00:00+08:00",
+      "time": "21:00"
+    },
+    {
+      "title": "首届蚂蚁灵波具身大模型挑战赛正式启动",
+      "desc": "通过这场大赛，蚂蚁灵波希望将 LingBot-VLA 进一步推向更广泛的开发者社区和高校科研社区",
+      "link": "https://www.qbitai.com/2026/09/489105.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-09-14T17:47:07+08:00",
+      "time": "17:47"
+    },
+    {
+      "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+      "desc": "探索RSI，生数新世界模型让机器人开始自我进化",
+      "link": "https://www.qbitai.com/2026/09/489037.html",
+      "source": "量子位",
+      "category": "机器人",
+      "published": "2026-09-14T17:36:28+08:00",
+      "time": "17:36"
+    },
+    {
+      "title": "Why Most Enterprise Agent Pilots Never Reach Deployment",
+      "desc": "Deloitte’s 2026 technology trends research puts the pilot-to-production failure rate for AI agents at 89%…",
+      "link": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/",
+      "source": "AI News",
+      "category": "融资",
+      "published": "2026-09-14T16:04:35+08:00",
+      "time": "16:04"
+    },
+    {
+      "title": "From Video to Data: How AI Is Transforming Multimedia Content Processing",
+      "desc": "A video looks simple when you press play. There is a picture, some dialogue, perhaps music in the background, and a few minutes later it is over…",
+      "link": "https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/",
+      "source": "AI News",
+      "category": "芯片",
+      "published": "2026-09-14T15:56:45+08:00",
+      "time": "15:56"
+    },
+    {
+      "title": "How Vox Group’s AI-Powered Technology Is Solving Real-Time Translation for Group Travel",
+      "desc": "Live translation has long been one of travel’s hardest unsolved problems: a single guide speaking to a mixed-language group, with no way to be understood by…",
+      "link": "https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/",
+      "source": "AI News",
+      "category": "资讯",
+      "published": "2026-09-14T15:39:28+08:00",
+      "time": "15:39"
+    },
+    {
+      "title": "蚂蚁百宝箱推出全新商圈智能体模版，万达率先发布逛街Agent",
+      "desc": "AI浪潮奔涌而至，线下商圈如何借势破局、实现效率跃升？ 作为企业级智能体开发平台，蚂蚁百宝箱近日正式推出全新的商圈智能体模板，一站式集成美食推荐、店铺导览、营销活动推送及客服咨询等多项智能服务能力…",
+      "link": "https://www.leiphone.com/category/industrynews/e3UI6bLfQecs1oFu.html",
+      "source": "雷峰网",
+      "category": "产品",
+      "published": "2026-09-14T15:27:00+08:00",
+      "time": "15:27"
+    },
     {
       "title": "AI开始改进“改进自己的方法”，RSI进入平方时代丨MetaRSI",
       "desc": "小模型突破瓶颈，旗舰模型打开新空间",
@@ -56,6 +155,15 @@
       "category": "研究",
       "published": "2026-09-14T08:30:56+08:00",
       "time": "08:30"
+    },
+    {
+      "title": "整玄学？太乙圣莲拟花30亿元复活哪吒汽车！网友：救哪吒还得靠太乙真人；某机器人老板轰行业虚假收入，银河通用回怼；OpenAI今年不会上市",
+      "desc": "要闻提示 1.整上玄学了？太乙圣莲拟出资30亿元复活哪吒汽车！网友“神评”：救哪吒还得靠太乙真人 2.机器人行业爆发口水战：梅卡曼德创始人炮轰行业虚假收入，银河通用回怼 3.三家具身智能头部企业被同行举报？涉及企业回应 4.曝苹果首款折叠屏iPhone Duo是跟着华为三星做的…",
+      "link": "https://www.leiphone.com/category/zaobao/bhtS7S4Yd8Bl51DX.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-09-14T08:28:00+08:00",
+      "time": "08:28"
     },
     {
       "title": "Trump and Mike Johnson think the AI industry is overreacting",
