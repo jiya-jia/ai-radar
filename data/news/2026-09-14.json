@@ -1,7 +1,7 @@
 {
   "date": "2026-09-14",
-  "generated_at": "2026-09-15T02:21:40+08:00",
-  "count": 21,
+  "generated_at": "2026-09-15T13:59:12+08:00",
+  "count": 22,
   "items": [
     {
       "title": "Microsoft AI opens review on Humanist AI Code of Conduct",
@@ -65,6 +65,15 @@
       "category": "机器人",
       "published": "2026-09-14T17:36:28+08:00",
       "time": "17:36"
+    },
+    {
+      "title": "分子之心QuantaMind登Science Advances，让AI给分子世界”拍电影”",
+      "desc": "AI 蛋白质设计迈入“动态时代”",
+      "link": "https://www.qbitai.com/2026/09/489023.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-09-14T16:17:22+08:00",
+      "time": "16:17"
     },
     {
       "title": "Why Most Enterprise Agent Pilots Never Reach Deployment",
