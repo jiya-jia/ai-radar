@@ -1,7 +1,7 @@
 {
   "date": "2026-09-14",
-  "generated_at": "2026-09-15T13:59:12+08:00",
-  "count": 22,
+  "generated_at": "2026-09-16T01:29:12+08:00",
+  "count": 25,
   "items": [
     {
       "title": "Microsoft AI opens review on Humanist AI Code of Conduct",
@@ -49,6 +49,24 @@
       "time": "21:00"
     },
     {
+      "title": "全球AI大厂集体呼吁“限速” 360：AI安全不能靠企业自审，需第三方攻防把关",
+      "desc": "近日，Anthropic、OpenAI、xAI、谷歌DeepMind等全球顶尖AI企业达成罕见行业共识，集体呼吁对前沿AI技术发展实施“全球限速”，通过放缓迭代节奏规避AI失控风险。针对这一趋势，360认为：AI限速仅能为安全治理争取缓冲时间，无法根治风险…",
+      "link": "https://www.leiphone.com/category/industrynews/gVsESfQelkqfh9wY.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-09-14T19:43:00+08:00",
+      "time": "19:43"
+    },
+    {
+      "title": "国产智驾芯片新纪录，被产业伙伴联合书写的里程碑",
+      "desc": "2025年，中国生产了3453.1万辆汽车，连续17年位居全球第一。即便规模巨大，中国汽车产量仍在快速增长，其中新能源汽车产量同比增长29%。 当中国车企在电动化赛道上已经跑赢全球，另一场更为隐秘的战争才刚刚分出胜负：装进汽车里的那颗“ 大脑”，正在从海外公司的手里，被一家中国公司夺回来…",
+      "link": "https://www.leiphone.com/category/transportation/DMdDed44liSYTSBx.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-09-14T18:00:00+08:00",
+      "time": "18:00"
+    },
+    {
       "title": "首届蚂蚁灵波具身大模型挑战赛正式启动",
       "desc": "通过这场大赛，蚂蚁灵波希望将 LingBot-VLA 进一步推向更广泛的开发者社区和高校科研社区",
       "link": "https://www.qbitai.com/2026/09/489105.html",
@@ -64,6 +82,15 @@
       "source": "量子位",
       "category": "机器人",
       "published": "2026-09-14T17:36:28+08:00",
+      "time": "17:36"
+    },
+    {
+      "title": "具脑磐石发布业界首个类脑认知世界模型 Cog-WM 1.0",
+      "desc": "9月14日，上海具脑磐石科技有限公司（以下简称\"具脑磐石\"）在其承办的 2026 浦江创新论坛·类脑具身智能分论坛——全球首个\"类脑具身智能\"专题论坛——正式发布全球首代类脑认知世界模型 Cog-WM 1.0…",
+      "link": "https://www.leiphone.com/category/robot/Dq92tSkeaGMAL0rP.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-09-14T17:36:00+08:00",
       "time": "17:36"
     },
     {

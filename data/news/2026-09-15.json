@@ -1,8 +1,98 @@
 {
   "date": "2026-09-15",
-  "generated_at": "2026-09-15T13:59:12+08:00",
-  "count": 16,
+  "generated_at": "2026-09-16T01:29:12+08:00",
+  "count": 26,
   "items": [
+    {
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "desc": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+      "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-09-15T23:47:03+08:00",
+      "time": "23:47"
+    },
+    {
+      "title": "梁文锋CFO到位！投过智谱MiniMax",
+      "desc": "严文韬，1991年生，高瓴创投合伙人",
+      "link": "https://www.qbitai.com/2026/09/489707.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-09-15T21:53:39+08:00",
+      "time": "21:53"
+    },
+    {
+      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+      "desc": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from…",
+      "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-09-15T21:00:00+08:00",
+      "time": "21:00"
+    },
+    {
+      "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
+      "desc": "The performance gap between frontier AI models from US tech companies and the best open-weights models from Chinese companies has closed to just 4.4 months…",
+      "link": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
+      "source": "Ars Technica",
+      "category": "政策",
+      "published": "2026-09-15T20:00:41+08:00",
+      "time": "20:00"
+    },
+    {
+      "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+      "desc": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
+      "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-09-15T20:00:00+08:00",
+      "time": "20:00"
+    },
+    {
+      "title": "Pony.ai unveils autonomous electric truck for logistics fleets",
+      "desc": "Pony.ai has unveiled an autonomous electric truck for logistics fleets, developed with GAC Commercial Vehicle for freight supply chains…",
+      "link": "https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/",
+      "source": "AI News",
+      "category": "机器人",
+      "published": "2026-09-15T19:15:57+08:00",
+      "time": "19:15"
+    },
+    {
+      "title": "What’s at stake in AI’s trillion-dollar gamble",
+      "desc": "A trillion-dollar bet with no guaranteed payoff: Hyperscalers will spend nearly $1.1 trillion on AI data centers by 2027, but total AI revenues are only…",
+      "link": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+      "source": "MIT Tech Review",
+      "category": "融资",
+      "published": "2026-09-15T18:00:00+08:00",
+      "time": "18:00"
+    },
+    {
+      "title": "英伟达开源 IMO 金牌配方：不仅是「人海战术」，1.5TB 显存做实 AI「 推恩令」？",
+      "desc": "用三套 checkpoint 完成多轮证明搜索，用过程透明平息学术怒火，用 1.5TB 显存门槛锁定算力霸权。名为代码平权，实则算力集权。 作者丨 郑佳美 编辑丨岑 峰 9 月 9 日，NVIDIA 公布了 Nemotron 3 Ultra 在 2026 年 IMO 上使用的整套数学推理系统…",
+      "link": "https://www.leiphone.com/category/ai/A3z1I1E1p15O83NO.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-09-15T17:38:00+08:00",
+      "time": "17:38"
+    },
+    {
+      "title": "The AI Talent Britain Fought to Hire May Be Recalculating Its Future",
+      "desc": "A proposed overhaul of UK settlement rules would double the wait for permanent residence, and it reaches back to sponsored engineers already here…",
+      "link": "https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/",
+      "source": "AI News",
+      "category": "政策",
+      "published": "2026-09-15T15:14:47+08:00",
+      "time": "15:14"
+    },
+    {
+      "title": "前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了",
+      "desc": "未来的AI不仅能解决问题，还能提出有价值的洞见、建立新的概念框架，让数学家在此基础上继续探索。",
+      "link": "https://www.qbitai.com/2026/09/489288.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-09-15T13:39:10+08:00",
+      "time": "13:39"
+    },
     {
       "title": "工作流可以自我进化了，英伟达开源 SoL-Pi，每小时省13.5刀！",
       "desc": "Token 砍半，活没少干，每小时还省13.5刀！ 作者丨 高允毅 编辑丨岑 峰 最适合鞭打AI干活，还得是 AI 啊。 英伟达今早开源了一套提高工作效率的 Harness —— SoL-Pi ，它让AI亲自当监工，去Agent工作流中吹毛求疵，把每一处可能“摸鱼、浪费Token”的环节进行修复，自我迭代优化…",
