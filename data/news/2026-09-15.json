@@ -1,7 +1,7 @@
 {
   "date": "2026-09-15",
-  "generated_at": "2026-09-16T01:29:12+08:00",
-  "count": 26,
+  "generated_at": "2026-09-16T13:49:49+08:00",
+  "count": 28,
   "items": [
     {
       "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
@@ -11,6 +11,15 @@
       "category": "资讯",
       "published": "2026-09-15T23:47:03+08:00",
       "time": "23:47"
+    },
+    {
+      "title": "Meta’s new One subscriptions put a price on social media and AI",
+      "desc": "Shortly after launching its new do-everything AI assistant Muse , Meta's launching subscription bundles that pair its standalone app subscriptions with extra…",
+      "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+      "source": "The Verge AI",
+      "category": "产品",
+      "published": "2026-09-15T23:00:00+08:00",
+      "time": "23:00"
     },
     {
       "title": "梁文锋CFO到位！投过智谱MiniMax",
@@ -56,6 +65,15 @@
       "category": "机器人",
       "published": "2026-09-15T19:15:57+08:00",
       "time": "19:15"
+    },
+    {
+      "title": "全球AI视频榜单第一梯队再添中国力量：智象发布首款物理规律导向视频模型",
+      "desc": "智象未来（HiDream.ai）正式发布首个原生全模态视频生成模型 HiDream-O1-Video-1.0",
+      "link": "https://www.qbitai.com/2026/09/489389.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-09-15T18:41:06+08:00",
+      "time": "18:41"
     },
     {
       "title": "What’s at stake in AI’s trillion-dollar gamble",
