@@ -1,8 +1,98 @@
 {
   "date": "2026-09-16",
-  "generated_at": "2026-09-16T13:49:49+08:00",
-  "count": 15,
+  "generated_at": "2026-09-17T01:28:58+08:00",
+  "count": 25,
   "items": [
+    {
+      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+      "desc": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026…",
+      "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-09-16T23:00:00+08:00",
+      "time": "23:00"
+    },
+    {
+      "title": "Microsoft AI CEO criticises Anthropic over model ‘rights’",
+      "desc": "Microsoft AI CEO Mustafa Suleyman warned that Anthropic risks AI alignment failures by training Claude to view itself as a conscious entity deserving of legal…",
+      "link": "https://www.artificialintelligence-news.com/news/microsoft-ai-ceo-criticises-anthropic-over-model-rights/",
+      "source": "AI News",
+      "category": "融资",
+      "published": "2026-09-16T22:47:32+08:00",
+      "time": "22:47"
+    },
+    {
+      "title": "The sexy AI-powered dating app scams are here",
+      "desc": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+      "source": "The Verge AI",
+      "category": "研究",
+      "published": "2026-09-16T22:45:00+08:00",
+      "time": "22:45"
+    },
+    {
+      "title": "Building the materials foundation for AI",
+      "desc": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial…",
+      "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+      "source": "MIT Tech Review",
+      "category": "芯片",
+      "published": "2026-09-16T20:47:34+08:00",
+      "time": "20:47"
+    },
+    {
+      "title": "A brief history of AI executives calling for regulation",
+      "desc": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose…",
+      "link": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+      "source": "The Verge AI",
+      "category": "政策",
+      "published": "2026-09-16T20:00:00+08:00",
+      "time": "20:00"
+    },
+    {
+      "title": "芯片从业者拆解OpenAI造芯，还能再快3个月？",
+      "desc": "量产一代、研发一代、预研一代，这一芯片公司习以为常的战略节奏，如今正被大模型公司压得更紧。 按照OpenAI今年8月公布的进展，尽管第一代自研芯片Jalapeño（下以“小辣椒”代称）计划于年底前开始部署，但第二代已进行深入开发，第三代也开始成形…",
+      "link": "https://www.leiphone.com/category/chips/FNvnd45qiCTsT6IR.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-09-16T18:38:00+08:00",
+      "time": "18:38"
+    },
+    {
+      "title": "ChatGPT pioneer launches Jev model for programmatic logic",
+      "desc": "TypeSafe , founded by a ChatGPT co-inventor, has left stealth and is launching its Jev model to automate programmatic decisions with parallel sampling…",
+      "link": "https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/",
+      "source": "AI News",
+      "category": "融资",
+      "published": "2026-09-16T18:31:09+08:00",
+      "time": "18:31"
+    },
+    {
+      "title": "AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生",
+      "desc": "9月15日，由AI大模型工场主办的“2026 AI产业生态大会”在北京举行。",
+      "link": "https://www.qbitai.com/2026/09/490760.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-09-16T16:51:02+08:00",
+      "time": "16:51"
+    },
+    {
+      "title": "协同办公进入Agent时代，飞书+豆包工作跑在了最前面",
+      "desc": "AI协同办公的新官配，我先磕了",
+      "link": "https://www.qbitai.com/2026/09/490686.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-09-16T15:46:38+08:00",
+      "time": "15:46"
+    },
+    {
+      "title": "B站AI无限竞技场今日上线！全球百大AI模型同场竞技，GPT-6高居榜首",
+      "desc": "9月16日，B站「AI无限竞技场」正式上线，首期大模型测评榜单同步公布。",
+      "link": "https://www.qbitai.com/2026/09/490396.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-09-16T14:23:05+08:00",
+      "time": "14:23"
+    },
     {
       "title": "量子位2026人工智能年度榜单，正式启动！",
       "desc": "报名通道已开启，欢迎参与！",

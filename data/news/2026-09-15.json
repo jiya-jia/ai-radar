@@ -1,7 +1,7 @@
 {
   "date": "2026-09-15",
-  "generated_at": "2026-09-16T13:49:49+08:00",
-  "count": 28,
+  "generated_at": "2026-09-17T01:28:58+08:00",
+  "count": 31,
   "items": [
     {
       "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
@@ -13,6 +13,15 @@
       "time": "23:47"
     },
     {
+      "title": "美团发布“手艺人Agent”，发型师可“吩咐”AI小帮手打理线上作品",
+      "desc": "9月15日，美团在2026百大发型师生态大会上正式发布首个“手艺人Agent”，基于平台AI技术和对行业真实经营经验的积累，为发型师等手艺人提供专属AI小帮手。 据了解，“手艺人Agent”可提供线上运营知识问答、经营数据分析、关键事项提醒、作品管理和发布等多项支持。",
+      "link": "https://www.leiphone.com/category/industrynews/Yuupw4bTHf0c0QsZ.html",
+      "source": "雷峰网",
+      "category": "产品",
+      "published": "2026-09-15T23:07:00+08:00",
+      "time": "23:07"
+    },
+    {
       "title": "Meta’s new One subscriptions put a price on social media and AI",
       "desc": "Shortly after launching its new do-everything AI assistant Muse , Meta's launching subscription bundles that pair its standalone app subscriptions with extra…",
       "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
@@ -22,6 +31,15 @@
       "time": "23:00"
     },
     {
+      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+      "desc": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
+      "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-09-15T22:42:37+08:00",
+      "time": "22:42"
+    },
+    {
       "title": "梁文锋CFO到位！投过智谱MiniMax",
       "desc": "严文韬，1991年生，高瓴创投合伙人",
       "link": "https://www.qbitai.com/2026/09/489707.html",
@@ -29,6 +47,15 @@
       "category": "资讯",
       "published": "2026-09-15T21:53:39+08:00",
       "time": "21:53"
+    },
+    {
+      "title": "旗舰SoC进入融合计算时代，天玑9600 Pro首创AI原生架构！",
+      "desc": "就在这两天，联发科正式发布新一代旗舰移动平台天玑9600 Pro。作为天玑首款Pro旗舰，它率先采用台积电2nm制程，并以全新AI原生架构重构移动计算，带来双超大核CPU、重构双NPU、神经网络渲染与智能影像等一系列架构级升级，推动性能、能效、AI、游戏、影像以及通信显示体验全面跃升…",
+      "link": "https://www.leiphone.com/category/industrynews/q1k5B0Zq8YMKM91n.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-09-15T21:01:00+08:00",
+      "time": "21:01"
     },
     {
       "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
