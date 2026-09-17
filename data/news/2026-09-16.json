@@ -1,7 +1,7 @@
 {
   "date": "2026-09-16",
-  "generated_at": "2026-09-17T13:57:03+08:00",
-  "count": 27,
+  "generated_at": "2026-09-17T14:17:51+08:00",
+  "count": 16,
   "items": [
     {
       "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
@@ -20,15 +20,6 @@
       "category": "融资",
       "published": "2026-09-16T22:47:32+08:00",
       "time": "22:47"
-    },
-    {
-      "title": "The sexy AI-powered dating app scams are here",
-      "desc": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
-      "source": "The Verge AI",
-      "category": "研究",
-      "published": "2026-09-16T22:45:00+08:00",
-      "time": "22:45"
     },
     {
       "title": "通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队",
@@ -94,67 +85,13 @@
       "time": "16:18"
     },
     {
-      "title": "协同办公进入Agent时代，飞书+豆包工作跑在了最前面",
-      "desc": "AI协同办公的新官配，我先磕了",
-      "link": "https://www.qbitai.com/2026/09/490686.html",
-      "source": "量子位",
-      "category": "资讯",
-      "published": "2026-09-16T15:46:38+08:00",
-      "time": "15:46"
-    },
-    {
-      "title": "B站AI无限竞技场今日上线！全球百大AI模型同场竞技，GPT-6高居榜首",
-      "desc": "9月16日，B站「AI无限竞技场」正式上线，首期大模型测评榜单同步公布。",
-      "link": "https://www.qbitai.com/2026/09/490396.html",
-      "source": "量子位",
-      "category": "模型",
-      "published": "2026-09-16T14:23:05+08:00",
-      "time": "14:23"
-    },
-    {
-      "title": "量子位2026人工智能年度榜单，正式启动！",
-      "desc": "报名通道已开启，欢迎参与！",
-      "link": "https://www.qbitai.com/2026/09/490329.html",
-      "source": "量子位",
-      "category": "资讯",
-      "published": "2026-09-16T12:16:10+08:00",
-      "time": "12:16"
-    },
-    {
-      "title": "被英伟达点名的杭州团队，补上了AI for Science的「最后一公里」",
-      "desc": "从想法到结果，一次对话实现",
-      "link": "https://www.qbitai.com/2026/09/490185.html",
-      "source": "量子位",
-      "category": "芯片",
-      "published": "2026-09-16T11:40:35+08:00",
-      "time": "11:40"
-    },
-    {
-      "title": "把记忆交给CPU，大模型会变快",
-      "desc": "让GPU去忙生成Token",
-      "link": "https://www.qbitai.com/2026/09/489724.html",
-      "source": "量子位",
-      "category": "芯片",
-      "published": "2026-09-16T11:07:18+08:00",
-      "time": "11:07"
-    },
-    {
-      "title": "奇安信斩获国家信息安全漏洞库CNNVD两项重磅荣誉",
-      "desc": "2026年9月15日，2026年国家网络安全宣传周成都系列活动的重要组成部分——第二届基础软硬件智能化漏洞治理生态创新技术交流活动在成都成功举办。奇安信凭借在漏洞协同管理与高质量漏洞报送方面的卓越表现，一举斩获“2026年度协同软硬件漏洞管理优秀企业”、“2026年度基础软硬件漏洞报送优秀企业”两项重磅荣誉…",
-      "link": "https://www.leiphone.com/category/industrynews/P4eihytTQZUWVoi1.html",
+      "title": "豆包 2.1 Pro模型更新，已接入豆包工作",
+      "desc": "9月16日，据火山引擎官方消息，豆包 2.1 Pro模型在近期更新至0915版本。新模型API已在火山方舟全量上线，并接入豆包工作。用户在豆包工作内选用“豆包 2.1 Pro（0915 新版）”，即可体验到全面升级的工作任务执行能力。 据悉，豆包新模型在视频推理、3D物体图像识别等多模态理解任务上均有增强…",
+      "link": "https://www.leiphone.com/category/industrynews/IMu1LaqEfGZXkptr.html",
       "source": "雷峰网",
       "category": "研究",
-      "published": "2026-09-16T10:36:00+08:00",
-      "time": "10:36"
-    },
-    {
-      "title": "华为GTS让Agent学会「看着网络排障」，双防火墙难题几乎全拿下",
-      "desc": "任务通过率提升24.2%，token成本最高下降45%",
-      "link": "https://www.qbitai.com/2026/09/490098.html",
-      "source": "量子位",
-      "category": "资讯",
-      "published": "2026-09-16T10:27:20+08:00",
-      "time": "10:27"
+      "published": "2026-09-16T14:01:00+08:00",
+      "time": "14:01"
     },
     {
       "title": "王强宇履新百望：从发票SaaS工具，到财税垂直大模型，再到企业的Palantir",
@@ -164,15 +101,6 @@
       "category": "芯片",
       "published": "2026-09-16T10:13:00+08:00",
       "time": "10:13"
-    },
-    {
-      "title": "510万一张！携程上架太空旅行船票：已有681人购买，还得自己买保险；娃哈哈因拖欠员工公积金被查封办公楼；华为放权！问界将由赛力斯主导",
-      "desc": "要闻提示 1.510万一张！携程上架太空旅行船票：已有681人购买，还得自己买保险 2.娃哈哈因拖欠员工公积金被查封办公楼 3.鸿蒙智行：问界将由赛力斯主导，华为终端参与赋能 4.特斯拉Model YL后轮塌陷后续：官方修改车主手册多项车辆参数，整体缩减3-4毫米 5.苹果新系统已更新调休闹钟 6.因加大AI投入…",
-      "link": "https://www.leiphone.com/category/zaobao/PDGNX4A6cRCzbe56.html",
-      "source": "雷峰网",
-      "category": "融资",
-      "published": "2026-09-16T08:31:00+08:00",
-      "time": "08:31"
     },
     {
       "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
@@ -185,7 +113,7 @@
     },
     {
       "title": "AI and data centers are incredibly unpopular in every poll",
-      "desc": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing , and what politicians are responding to - AI and…",
+      "desc": "Poll data released Tuesday by The New York Times and Siena University confirms what we've already been seeing , and what politicians are responding to - AI and…",
       "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
       "source": "The Verge AI",
       "category": "产品",
@@ -200,15 +128,6 @@
       "category": "模型",
       "published": "2026-09-16T04:12:53+08:00",
       "time": "04:12"
-    },
-    {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "desc": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "source": "TechCrunch AI",
-      "category": "产品",
-      "published": "2026-09-16T03:00:00+08:00",
-      "time": "03:00"
     },
     {
       "title": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
@@ -227,24 +146,6 @@
       "category": "资讯",
       "published": "2026-09-16T01:47:51+08:00",
       "time": "01:47"
-    },
-    {
-      "title": "AI agents now have a place to snitch",
-      "desc": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
-      "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
-      "source": "TechCrunch AI",
-      "category": "资讯",
-      "published": "2026-09-16T01:42:59+08:00",
-      "time": "01:42"
-    },
-    {
-      "title": "Meta expands subscription push with new AI-focused plans",
-      "desc": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
-      "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
-      "source": "TechCrunch AI",
-      "category": "资讯",
-      "published": "2026-09-16T01:05:24+08:00",
-      "time": "01:05"
     }
   ]
 }

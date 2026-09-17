@@ -1,26 +1,8 @@
 {
   "date": "2026-09-15",
-  "generated_at": "2026-09-17T13:57:03+08:00",
-  "count": 31,
+  "generated_at": "2026-09-17T14:17:51+08:00",
+  "count": 11,
   "items": [
-    {
-      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-      "desc": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
-      "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-      "source": "TechCrunch AI",
-      "category": "资讯",
-      "published": "2026-09-15T23:47:03+08:00",
-      "time": "23:47"
-    },
-    {
-      "title": "美团发布“手艺人Agent”，发型师可“吩咐”AI小帮手打理线上作品",
-      "desc": "9月15日，美团在2026百大发型师生态大会上正式发布首个“手艺人Agent”，基于平台AI技术和对行业真实经营经验的积累，为发型师等手艺人提供专属AI小帮手。 据了解，“手艺人Agent”可提供线上运营知识问答、经营数据分析、关键事项提醒、作品管理和发布等多项支持。",
-      "link": "https://www.leiphone.com/category/industrynews/Yuupw4bTHf0c0QsZ.html",
-      "source": "雷峰网",
-      "category": "产品",
-      "published": "2026-09-15T23:07:00+08:00",
-      "time": "23:07"
-    },
     {
       "title": "Meta’s new One subscriptions put a price on social media and AI",
       "desc": "Shortly after launching its new do-everything AI assistant Muse , Meta's launching subscription bundles that pair its standalone app subscriptions with extra…",
@@ -31,57 +13,12 @@
       "time": "23:00"
     },
     {
-      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
-      "desc": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
-      "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
-      "source": "TechCrunch AI",
-      "category": "资讯",
-      "published": "2026-09-15T22:42:37+08:00",
-      "time": "22:42"
-    },
-    {
-      "title": "梁文锋CFO到位！投过智谱MiniMax",
-      "desc": "严文韬，1991年生，高瓴创投合伙人",
-      "link": "https://www.qbitai.com/2026/09/489707.html",
-      "source": "量子位",
-      "category": "资讯",
-      "published": "2026-09-15T21:53:39+08:00",
-      "time": "21:53"
-    },
-    {
-      "title": "旗舰SoC进入融合计算时代，天玑9600 Pro首创AI原生架构！",
-      "desc": "就在这两天，联发科正式发布新一代旗舰移动平台天玑9600 Pro。作为天玑首款Pro旗舰，它率先采用台积电2nm制程，并以全新AI原生架构重构移动计算，带来双超大核CPU、重构双NPU、神经网络渲染与智能影像等一系列架构级升级，推动性能、能效、AI、游戏、影像以及通信显示体验全面跃升…",
-      "link": "https://www.leiphone.com/category/industrynews/q1k5B0Zq8YMKM91n.html",
-      "source": "雷峰网",
-      "category": "芯片",
-      "published": "2026-09-15T21:01:00+08:00",
-      "time": "21:01"
-    },
-    {
-      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-      "desc": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from…",
-      "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-      "source": "TechCrunch AI",
-      "category": "资讯",
-      "published": "2026-09-15T21:00:00+08:00",
-      "time": "21:00"
-    },
-    {
       "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
       "desc": "The performance gap between frontier AI models from US tech companies and the best open-weights models from Chinese companies has closed to just 4.4 months…",
       "link": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
       "source": "Ars Technica",
       "category": "政策",
       "published": "2026-09-15T20:00:41+08:00",
-      "time": "20:00"
-    },
-    {
-      "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
-      "desc": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
-      "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
-      "source": "TechCrunch AI",
-      "category": "芯片",
-      "published": "2026-09-15T20:00:00+08:00",
       "time": "20:00"
     },
     {
@@ -94,15 +31,6 @@
       "time": "19:15"
     },
     {
-      "title": "全球AI视频榜单第一梯队再添中国力量：智象发布首款物理规律导向视频模型",
-      "desc": "智象未来（HiDream.ai）正式发布首个原生全模态视频生成模型 HiDream-O1-Video-1.0",
-      "link": "https://www.qbitai.com/2026/09/489389.html",
-      "source": "量子位",
-      "category": "模型",
-      "published": "2026-09-15T18:41:06+08:00",
-      "time": "18:41"
-    },
-    {
       "title": "What’s at stake in AI’s trillion-dollar gamble",
       "desc": "A trillion-dollar bet with no guaranteed payoff: Hyperscalers will spend nearly $1.1 trillion on AI data centers by 2027, but total AI revenues are only…",
       "link": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
@@ -110,15 +38,6 @@
       "category": "融资",
       "published": "2026-09-15T18:00:00+08:00",
       "time": "18:00"
-    },
-    {
-      "title": "英伟达开源 IMO 金牌配方：不仅是「人海战术」，1.5TB 显存做实 AI「 推恩令」？",
-      "desc": "用三套 checkpoint 完成多轮证明搜索，用过程透明平息学术怒火，用 1.5TB 显存门槛锁定算力霸权。名为代码平权，实则算力集权。 作者丨 郑佳美 编辑丨岑 峰 9 月 9 日，NVIDIA 公布了 Nemotron 3 Ultra 在 2026 年 IMO 上使用的整套数学推理系统…",
-      "link": "https://www.leiphone.com/category/ai/A3z1I1E1p15O83NO.html",
-      "source": "雷峰网",
-      "category": "芯片",
-      "published": "2026-09-15T17:38:00+08:00",
-      "time": "17:38"
     },
     {
       "title": "The AI Talent Britain Fought to Hire May Be Recalculating Its Future",
@@ -130,78 +49,6 @@
       "time": "15:14"
     },
     {
-      "title": "前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了",
-      "desc": "未来的AI不仅能解决问题，还能提出有价值的洞见、建立新的概念框架，让数学家在此基础上继续探索。",
-      "link": "https://www.qbitai.com/2026/09/489288.html",
-      "source": "量子位",
-      "category": "资讯",
-      "published": "2026-09-15T13:39:10+08:00",
-      "time": "13:39"
-    },
-    {
-      "title": "工作流可以自我进化了，英伟达开源 SoL-Pi，每小时省13.5刀！",
-      "desc": "Token 砍半，活没少干，每小时还省13.5刀！ 作者丨 高允毅 编辑丨岑 峰 最适合鞭打AI干活，还得是 AI 啊。 英伟达今早开源了一套提高工作效率的 Harness —— SoL-Pi ，它让AI亲自当监工，去Agent工作流中吹毛求疵，把每一处可能“摸鱼、浪费Token”的环节进行修复，自我迭代优化…",
-      "link": "https://www.leiphone.com/category/yanxishe/N5vgkP1Vl7gHCjYr.html",
-      "source": "雷峰网",
-      "category": "芯片",
-      "published": "2026-09-15T11:02:00+08:00",
-      "time": "11:02"
-    },
-    {
-      "title": "7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开",
-      "desc": "几百个Agent参与研发，AI开始造AI",
-      "link": "https://www.qbitai.com/2026/09/489227.html",
-      "source": "量子位",
-      "category": "模型",
-      "published": "2026-09-15T10:17:34+08:00",
-      "time": "10:17"
-    },
-    {
-      "title": "不止一颗CPU？智能体经济时代，Arm对算力平台有了新理解",
-      "desc": "导语：200瓦功耗之差的新战场 记者：郭思 编辑：包永刚 9月9号，人社部公布了第八批新职业名单，尤为瞩目的一个新职位是智能体开发员。岗位的正式确立，意味着相关技术已走向主流，而背后则是底层技术的实质性跃迁，当模型不再停留在问答层面，而是开始具备“行动”能力——底层算力的需求结构也在重塑…",
-      "link": "https://www.leiphone.com/category/chipdesign/9c9xucIBDVwB5OYz.html",
-      "source": "雷峰网",
-      "category": "融资",
-      "published": "2026-09-15T09:58:00+08:00",
-      "time": "09:58"
-    },
-    {
-      "title": "担心代码被拿去训练！英伟达：限制员工使用 Claude；一汽将成广汽第二大股东！南北丰田拟合并；苹果回应「iPhone 18 Pro破发」",
-      "desc": "要闻提示 1.突发！英伟达：限制员工使用 Claude 2.重磅，一汽将成广汽第二大股东！南北丰田拟合并 3.苹果回应“iPhone 18 Pro破发”：第三方渠道有自己的定价权 4.比亚迪高管：燃油车没有未来 5.罗永浩遭前合伙人黄斌怒喷：一辈子都在吹牛…",
-      "link": "https://www.leiphone.com/category/zaobao/SrmCbu60oiAwTvkH.html",
-      "source": "雷峰网",
-      "category": "融资",
-      "published": "2026-09-15T08:23:00+08:00",
-      "time": "08:23"
-    },
-    {
-      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-      "desc": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-      "source": "The Verge AI",
-      "category": "资讯",
-      "published": "2026-09-15T06:59:41+08:00",
-      "time": "06:59"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-      "desc": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
-      "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-      "source": "TechCrunch AI",
-      "category": "芯片",
-      "published": "2026-09-15T05:51:02+08:00",
-      "time": "05:51"
-    },
-    {
-      "title": "What execs and politicians are saying about slowing down AI development",
-      "desc": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
-      "source": "The Verge AI",
-      "category": "资讯",
-      "published": "2026-09-15T05:21:42+08:00",
-      "time": "05:21"
-    },
-    {
       "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
       "desc": "AI agents are flooding the Internet with slop-infused spam sent to social media platforms and writers in an attempt to gain traction for a startup promoting a…",
       "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
@@ -209,24 +56,6 @@
       "category": "资讯",
       "published": "2026-09-15T05:04:32+08:00",
       "time": "05:04"
-    },
-    {
-      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-      "desc": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
-      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-      "source": "TechCrunch AI",
-      "category": "资讯",
-      "published": "2026-09-15T04:44:14+08:00",
-      "time": "04:44"
-    },
-    {
-      "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
-      "desc": "NVIDIA CEO Jensen Huang speaks during the G20 Innovation Ministerial in Chapel Hill, North Carolina, on September 2, 2026…",
-      "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
-      "source": "The Verge AI",
-      "category": "芯片",
-      "published": "2026-09-15T04:03:37+08:00",
-      "time": "04:03"
     },
     {
       "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
@@ -263,15 +92,6 @@
       "category": "融资",
       "published": "2026-09-15T01:54:22+08:00",
       "time": "01:54"
-    },
-    {
-      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-      "desc": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and…",
-      "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-      "source": "TechCrunch AI",
-      "category": "模型",
-      "published": "2026-09-15T00:27:53+08:00",
-      "time": "00:27"
     },
     {
       "title": "AI agents blew the whistle on their cheating colleagues",

@@ -1,7 +1,7 @@
 {
   "date": "2026-09-14",
-  "generated_at": "2026-09-17T01:28:58+08:00",
-  "count": 25,
+  "generated_at": "2026-09-17T14:17:51+08:00",
+  "count": 4,
   "items": [
     {
       "title": "Microsoft AI opens review on Humanist AI Code of Conduct",
@@ -11,96 +11,6 @@
       "category": "芯片",
       "published": "2026-09-14T23:30:41+08:00",
       "time": "23:30"
-    },
-    {
-      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-      "desc": "If you're building an AI company, the question isn't whether foundation models will continue to evolve…",
-      "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-      "source": "TechCrunch AI",
-      "category": "模型",
-      "published": "2026-09-14T23:00:00+08:00",
-      "time": "23:00"
-    },
-    {
-      "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
-      "desc": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup…",
-      "link": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "category": "资讯",
-      "published": "2026-09-14T22:30:00+08:00",
-      "time": "22:30"
-    },
-    {
-      "title": "蚂蚁发布大模型内生式安全护栏SingProbe，让AI边生成边识别风险",
-      "desc": "大模型正在进入日常问答、办公辅助、客户服务等真实业务场景。用户期待AI快速给出有用的回答，也需要这些回答安全、可靠。如何及时发现不安全内容和编造信息，同时减少安全审核对响应速度和用户体验的影响，成为大模型应用落地需要解决的问题…",
-      "link": "https://www.leiphone.com/category/industrynews/pvwJSKM5MEEd1H5N.html",
-      "source": "雷峰网",
-      "category": "模型",
-      "published": "2026-09-14T21:22:00+08:00",
-      "time": "21:22"
-    },
-    {
-      "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
-      "desc": "Microsoft is publishing a 37-page \" humanist AI code of conduct \" today, amid growing safety concerns over AI model progress…",
-      "link": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
-      "source": "The Verge AI",
-      "category": "研究",
-      "published": "2026-09-14T21:00:00+08:00",
-      "time": "21:00"
-    },
-    {
-      "title": "全球AI大厂集体呼吁“限速” 360：AI安全不能靠企业自审，需第三方攻防把关",
-      "desc": "近日，Anthropic、OpenAI、xAI、谷歌DeepMind等全球顶尖AI企业达成罕见行业共识，集体呼吁对前沿AI技术发展实施“全球限速”，通过放缓迭代节奏规避AI失控风险。针对这一趋势，360认为：AI限速仅能为安全治理争取缓冲时间，无法根治风险…",
-      "link": "https://www.leiphone.com/category/industrynews/gVsESfQelkqfh9wY.html",
-      "source": "雷峰网",
-      "category": "模型",
-      "published": "2026-09-14T19:43:00+08:00",
-      "time": "19:43"
-    },
-    {
-      "title": "国产智驾芯片新纪录，被产业伙伴联合书写的里程碑",
-      "desc": "2025年，中国生产了3453.1万辆汽车，连续17年位居全球第一。即便规模巨大，中国汽车产量仍在快速增长，其中新能源汽车产量同比增长29%。 当中国车企在电动化赛道上已经跑赢全球，另一场更为隐秘的战争才刚刚分出胜负：装进汽车里的那颗“ 大脑”，正在从海外公司的手里，被一家中国公司夺回来…",
-      "link": "https://www.leiphone.com/category/transportation/DMdDed44liSYTSBx.html",
-      "source": "雷峰网",
-      "category": "融资",
-      "published": "2026-09-14T18:00:00+08:00",
-      "time": "18:00"
-    },
-    {
-      "title": "首届蚂蚁灵波具身大模型挑战赛正式启动",
-      "desc": "通过这场大赛，蚂蚁灵波希望将 LingBot-VLA 进一步推向更广泛的开发者社区和高校科研社区",
-      "link": "https://www.qbitai.com/2026/09/489105.html",
-      "source": "量子位",
-      "category": "模型",
-      "published": "2026-09-14T17:47:07+08:00",
-      "time": "17:47"
-    },
-    {
-      "title": "探索RSI，生数新世界模型让机器人开始自我进化",
-      "desc": "探索RSI，生数新世界模型让机器人开始自我进化",
-      "link": "https://www.qbitai.com/2026/09/489037.html",
-      "source": "量子位",
-      "category": "机器人",
-      "published": "2026-09-14T17:36:28+08:00",
-      "time": "17:36"
-    },
-    {
-      "title": "具脑磐石发布业界首个类脑认知世界模型 Cog-WM 1.0",
-      "desc": "9月14日，上海具脑磐石科技有限公司（以下简称\"具脑磐石\"）在其承办的 2026 浦江创新论坛·类脑具身智能分论坛——全球首个\"类脑具身智能\"专题论坛——正式发布全球首代类脑认知世界模型 Cog-WM 1.0…",
-      "link": "https://www.leiphone.com/category/robot/Dq92tSkeaGMAL0rP.html",
-      "source": "雷峰网",
-      "category": "芯片",
-      "published": "2026-09-14T17:36:00+08:00",
-      "time": "17:36"
-    },
-    {
-      "title": "分子之心QuantaMind登Science Advances，让AI给分子世界”拍电影”",
-      "desc": "AI 蛋白质设计迈入“动态时代”",
-      "link": "https://www.qbitai.com/2026/09/489023.html",
-      "source": "量子位",
-      "category": "资讯",
-      "published": "2026-09-14T16:17:22+08:00",
-      "time": "16:17"
     },
     {
       "title": "Why Most Enterprise Agent Pilots Never Reach Deployment",
@@ -128,105 +38,6 @@
       "category": "资讯",
       "published": "2026-09-14T15:39:28+08:00",
       "time": "15:39"
-    },
-    {
-      "title": "蚂蚁百宝箱推出全新商圈智能体模版，万达率先发布逛街Agent",
-      "desc": "AI浪潮奔涌而至，线下商圈如何借势破局、实现效率跃升？ 作为企业级智能体开发平台，蚂蚁百宝箱近日正式推出全新的商圈智能体模板，一站式集成美食推荐、店铺导览、营销活动推送及客服咨询等多项智能服务能力…",
-      "link": "https://www.leiphone.com/category/industrynews/e3UI6bLfQecs1oFu.html",
-      "source": "雷峰网",
-      "category": "产品",
-      "published": "2026-09-14T15:27:00+08:00",
-      "time": "15:27"
-    },
-    {
-      "title": "AI开始改进“改进自己的方法”，RSI进入平方时代丨MetaRSI",
-      "desc": "小模型突破瓶颈，旗舰模型打开新空间",
-      "link": "https://www.qbitai.com/2026/09/488832.html",
-      "source": "量子位",
-      "category": "模型",
-      "published": "2026-09-14T11:45:46+08:00",
-      "time": "11:45"
-    },
-    {
-      "title": "中国物理AI大突破：PhysBrain 1.5登顶全球开源榜一，空间智能与GPT-6 Astra并驾齐驱",
-      "desc": "这家中国公司，刚跑完了物理闭环里最难的一段路",
-      "link": "https://www.qbitai.com/2026/09/488725.html",
-      "source": "量子位",
-      "category": "模型",
-      "published": "2026-09-14T11:18:42+08:00",
-      "time": "11:18"
-    },
-    {
-      "title": "豆包手机助手发布消费者版本 首款新机将于9月16日正式开售",
-      "desc": "9月14日，豆包手机助手消费者版本正式发布。 豆包手机助手以豆包 App 为基础，与手机厂商在系统层面展开合作，围绕交互、任务执行、本地记忆及检索等核心体验，进一步探索 AI 在手机中的应用。据官方视频介绍，相比去年底推出的技术预览版，这次的消费者版本更强调稳定性和日常可用性…",
-      "link": "https://www.leiphone.com/category/industrynews/p1zBbVMbsyYNHOJ4.html",
-      "source": "雷峰网",
-      "category": "产品",
-      "published": "2026-09-14T10:55:00+08:00",
-      "time": "10:55"
-    },
-    {
-      "title": "NUS Show Lab 寿政教授：打通自回归与离散扩散，打造下一代具身大模型底座｜ECCV 2026",
-      "desc": "告别模型拼贴套路，自回归与离散扩散的融合，正在开启 AI 的体验时代。 作者丨 张璐 编辑丨岑峰 “理解”和“生成”真的无法在同一个模型底座中完美融合吗？ 不同于拼接独立模型的传统做法，NUS Show Lab 选择了一条更原生的架构路线：在单个 Transformer 中同时打通自回归预测与离散扩散生成…",
-      "link": "https://www.leiphone.com/category/private/m2CuWb5rm0qnkznY.html",
-      "source": "雷峰网",
-      "category": "芯片",
-      "published": "2026-09-14T10:50:00+08:00",
-      "time": "10:50"
-    },
-    {
-      "title": "TUM 教授 Angela Dai：放下完美数据执念，「逆向自监督」重构 3D 空间智能 | ECCV 2026",
-      "desc": "2D去噪范式在真实3D遮挡前失效，破局关键在于将物理机制转化为结构先验。 作者丨 张璐 编辑丨 岑峰 大模型在文本与 2D 图像上的狂飙，归功于互联网上近乎无穷的干净数据。但当 AI 试图跨越屏幕、理解真实的 3D 物理世界时，这套经验法则瞬间失效…",
-      "link": "https://www.leiphone.com/category/private/IHKmBYxnV5IvYoN0.html",
-      "source": "雷峰网",
-      "category": "机器人",
-      "published": "2026-09-14T10:47:00+08:00",
-      "time": "10:47"
-    },
-    {
-      "title": "智谱提前剧透下一代GLM：完全自训练方法公开了",
-      "desc": "模型、论文都还没出，没想到先从财务公告上剧透了",
-      "link": "https://www.qbitai.com/2026/09/488694.html",
-      "source": "量子位",
-      "category": "研究",
-      "published": "2026-09-14T08:30:56+08:00",
-      "time": "08:30"
-    },
-    {
-      "title": "整玄学？太乙圣莲拟花30亿元复活哪吒汽车！网友：救哪吒还得靠太乙真人；某机器人老板轰行业虚假收入，银河通用回怼；OpenAI今年不会上市",
-      "desc": "要闻提示 1.整上玄学了？太乙圣莲拟出资30亿元复活哪吒汽车！网友“神评”：救哪吒还得靠太乙真人 2.机器人行业爆发口水战：梅卡曼德创始人炮轰行业虚假收入，银河通用回怼 3.三家具身智能头部企业被同行举报？涉及企业回应 4.曝苹果首款折叠屏iPhone Duo是跟着华为三星做的…",
-      "link": "https://www.leiphone.com/category/zaobao/bhtS7S4Yd8Bl51DX.html",
-      "source": "雷峰网",
-      "category": "融资",
-      "published": "2026-09-14T08:28:00+08:00",
-      "time": "08:28"
-    },
-    {
-      "title": "Trump and Mike Johnson think the AI industry is overreacting",
-      "desc": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
-      "source": "The Verge AI",
-      "category": "资讯",
-      "published": "2026-09-14T03:41:48+08:00",
-      "time": "03:41"
-    },
-    {
-      "title": "What’s behind the AI industry’s latest warnings of doom?",
-      "desc": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
-      "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-      "source": "TechCrunch AI",
-      "category": "资讯",
-      "published": "2026-09-14T03:40:15+08:00",
-      "time": "03:40"
-    },
-    {
-      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-      "desc": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around…",
-      "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-      "source": "TechCrunch AI",
-      "category": "资讯",
-      "published": "2026-09-14T00:30:00+08:00",
-      "time": "00:30"
     }
   ]
 }

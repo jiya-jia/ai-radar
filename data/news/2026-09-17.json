@@ -1,6 +1,6 @@
 {
   "date": "2026-09-17",
-  "generated_at": "2026-09-17T13:57:03+08:00",
+  "generated_at": "2026-09-17T14:17:51+08:00",
   "count": 16,
   "items": [
     {
@@ -47,6 +47,15 @@
       "category": "融资",
       "published": "2026-09-17T10:12:00+08:00",
       "time": "10:12"
+    },
+    {
+      "title": "从百美元到数千美元，AI互联为什么越卖越贵？",
+      "desc": "2026年的CIOE中国光博会，人潮如织。 社交媒体上甚至有人开出2500元一场的讲解费，希望找到业内人士陪同参观。走进场馆后更直观的感受是，今年光博会几乎所有与AI相关的环节都在升温：从光模块、光器件，到高速互联和数据中心基础设施，AI需求正在把原本相对垂直的光通信产业链整体推向更高热度…",
+      "link": "https://www.leiphone.com/category/chips/xAePCGn6qmz5BxmS.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-09-17T10:03:00+08:00",
+      "time": "10:03"
     },
     {
       "title": "网易有道周枫：AI能力竞争，正在进入「Model + Agent + Workflow」时代，网易有道AI Open Day展示AI时代“有道解法”",
@@ -101,15 +110,6 @@
       "category": "政策",
       "published": "2026-09-17T05:07:24+08:00",
       "time": "05:07"
-    },
-    {
-      "title": "Apple might make servers again to cash in on the AI rush",
-      "desc": "According to The Information , Apple is planning to get back into the server game and might just pair up with NVIDIA to make it happen…",
-      "link": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
-      "source": "The Verge AI",
-      "category": "芯片",
-      "published": "2026-09-17T01:20:29+08:00",
-      "time": "01:20"
     },
     {
       "title": "Google will now let any AI agent run your smart home",

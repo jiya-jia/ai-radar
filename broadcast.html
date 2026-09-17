@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI 雷达 · 口播稿精选 | 2026.09.17</title>
+<meta name="description" content="AI 雷达情报站 · 全网抓取内容改写口播稿 · 精选三条 AI 资讯 + 热度指标 + 筛选标准 + 600字口播稿">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='13' fill='none' stroke='%234C5A44' stroke-width='1.6' opacity='.45'/%3E%3Ccircle cx='16' cy='16' r='8' fill='none' stroke='%234C5A44' stroke-width='1.6' opacity='.7'/%3E%3Ccircle cx='16' cy='16' r='3.4' fill='%23B26E4B'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500;1,600&family=Noto+Sans+SC:wght@300;400;500;600&family=Noto+Serif+SC:wght@500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#F6F4EF; --ink:#1E221F; --ink-soft:rgba(30,34,31,.58);
+  --hair:rgba(30,34,31,.09); --moss:#4C5A44; --sage:#8DA082;
+  --sand:#E7DFCC; --clay:#B26E4B; --card:rgba(255,255,255,.58);
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{height:100%;overflow:hidden}
+body{
+  font-family:"Noto Sans SC",-apple-system,BlinkMacSystemFont,"PingFang SC",
+    "Hiragino Sans GB","Microsoft YaHei",sans-serif;
+  background:var(--paper); color:var(--ink); line-height:1.75;
+  -webkit-font-smoothing:antialiased; text-rendering:optimizeLegibility;
+}
+.serif{font-family:"Noto Serif SC","Songti SC","SimSun",serif}
+.cormorant{font-family:"Cormorant Garamond","Noto Serif SC",serif;font-style:italic}
+
+/* ---- 有机背景 ---- */
+.blob{position:fixed; z-index:0; filter:blur(72px); opacity:.55;
+  pointer-events:none; animation:drift 46s ease-in-out infinite alternate}
+.blob-1{width:560px;height:520px;top:-160px;right:-140px;
+  border-radius:62% 38% 46% 54%/38% 56% 44% 62%;
+  background:radial-gradient(circle at 32% 30%,#D7E2CD,transparent 68%)}
+.blob-2{width:500px;height:560px;bottom:-180px;left:-160px;
+  border-radius:44% 56% 58% 42%/52% 44% 56% 48%;
+  background:radial-gradient(circle at 60% 40%,#EDE3CB,transparent 70%);
+  animation-delay:-19s}
+.blob-3{width:420px;height:420px;top:38%;left:52%;
+  border-radius:56% 44% 38% 62%/46% 58% 42% 54%;
+  background:radial-gradient(circle at 50% 48%,#D4E3DB,transparent 70%);
+  animation-delay:-8s}
+@keyframes drift{
+  from{transform:translate(0,0) rotate(0deg) scale(1)}
+  to{transform:translate(-44px,34px) rotate(9deg) scale(1.09)}
+}
+.grain{position:fixed; inset:0; z-index:1; pointer-events:none;
+  opacity:.4; mix-blend-mode:multiply;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='240'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.05'/%3E%3C/svg%3E")}
+
+/* ---- 幻灯片容器 ---- */
+.deck{position:relative; z-index:2; width:100vw; height:100vh;
+  overflow:hidden}
+.slide{position:absolute; inset:0; display:flex; align-items:center;
+  justify-content:center; padding:40px clamp(20px,5vw,60px);
+  opacity:0; transform:translateX(60px); pointer-events:none;
+  transition:opacity .55s ease, transform .55s cubic-bezier(.22,.8,.32,1)}
+.slide.active{opacity:1; transform:translateX(0); pointer-events:auto}
+.slide.prev{opacity:0; transform:translateX(-60px)}
+
+/* ---- 通用元素 ---- */
+.eyebrow{display:flex;align-items:center;gap:18px;justify-content:center;
+  font-size:11px;letter-spacing:.46em;color:var(--moss);
+  text-transform:uppercase;font-weight:500;margin-bottom:18px}
+.eyebrow .rule{flex:0 0 46px;height:1px;background:linear-gradient(90deg,
+  transparent,var(--hair) 30%,rgba(76,90,68,.35));}
+.eyebrow .rule:last-child{transform:scaleX(-1)}
+.hero-title{text-align:center;font-size:clamp(36px,6vw,56px);font-weight:700;
+  letter-spacing:.06em;line-height:1.3}
+.hero-title .accent{font-family:"Cormorant Garamond",serif;font-style:italic;
+  font-weight:600;color:var(--clay);padding:0 .08em}
+.hero-sub{text-align:center;font-size:13px;color:var(--ink-soft);
+  letter-spacing:.3em;text-transform:uppercase;margin-top:10px}
+
+/* ---- 封面 ---- */
+.cover{text-align:center;max-width:700px}
+.cover .date-line{font-size:16px;color:var(--ink-soft);
+  letter-spacing:.22em;margin:24px 0 6px}
+.cover .stats{display:flex;justify-content:center;gap:36px;margin:38px 0}
+.cover .stats .cell{text-align:center}
+.cover .stats b{display:block;font-family:"Cormorant Garamond",serif;
+  font-size:32px;font-weight:600;font-style:italic;color:var(--ink)}
+.cover .stats span{font-size:12px;color:var(--ink-soft);letter-spacing:.12em}
+.cover .stats .v{width:1px;background:var(--hair);margin:6px 0}
+.cover .divider{display:block;width:min(400px,70%);margin:32px auto}
+.cover .pipeline-note{font-size:13px;color:var(--ink-soft);
+  letter-spacing:.06em;line-height:2.1;max-width:520px;margin:0 auto}
+.cover .pipeline-note b{color:var(--moss)}
+
+/* ---- 方法论页 ---- */
+.method{max-width:860px;width:100%}
+.method h2{text-align:center;font-family:"Noto Serif SC",serif;
+  font-size:26px;font-weight:700;letter-spacing:.1em;margin-bottom:30px}
+.method-grid{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-top:8px}
+.method-card{background:var(--card);backdrop-filter:blur(16px);
+  -webkit-backdrop-filter:blur(16px);border:1px solid var(--hair);
+  padding:24px 26px;border-radius:20px 26px 20px 26px}
+.method-card h3{font-family:"Noto Serif SC",serif;font-size:16px;
+  font-weight:600;color:var(--moss);margin-bottom:14px;letter-spacing:.06em}
+.method-card ul{list-style:none;font-size:13px;color:var(--ink-soft);line-height:2}
+.method-card ul li{padding-left:18px;position:relative}
+.method-card ul li::before{content:"";position:absolute;left:0;top:11px;
+  width:5px;height:5px;border-radius:50%;background:var(--clay)}
+.method-card ul li b{color:var(--ink)}
+.method-card .score{font-family:"Cormorant Garamond",serif;font-style:italic;
+  font-size:15px;color:var(--clay);margin-left:4px}
+
+/* ---- 资讯概览页 ---- */
+.overview{max-width:820px;width:100%;text-align:center}
+.overview .rank-badge{display:inline-block;font-family:"Cormorant Garamond",serif;
+  font-style:italic;font-size:22px;color:var(--clay);letter-spacing:.1em;
+  margin-bottom:12px}
+.overview .news-title{font-family:"Noto Serif SC",serif;
+  font-size:clamp(24px,4vw,34px);font-weight:700;line-height:1.5;
+  margin-bottom:18px}
+.overview .news-meta{display:flex;align-items:center;justify-content:center;
+  gap:12px;font-size:13px;color:var(--ink-soft);margin-bottom:28px;flex-wrap:wrap}
+.overview .news-meta .src{font-weight:600;color:var(--moss)}
+.overview .news-meta .chip{padding:2px 12px;border-radius:999px;font-size:11px;
+  border:1px solid rgba(141,160,130,.32);background:rgba(141,160,130,.15);
+  color:#51604A;letter-spacing:.05em}
+.overview .hotness-bar{display:flex;justify-content:center;gap:8px;
+  margin-bottom:24px;flex-wrap:wrap}
+.overview .hotness-bar .seg{display:flex;flex-direction:column;align-items:center;
+  min-width:80px;padding:10px 14px;border:1px solid var(--hair);
+  border-radius:14px;background:var(--card)}
+.overview .hotness-bar .seg b{font-family:"Cormorant Garamond",serif;
+  font-style:italic;font-size:24px;color:var(--ink)}
+.overview .hotness-bar .seg span{font-size:10.5px;color:var(--ink-soft);
+  letter-spacing:.08em;margin-top:2px}
+.overview .hotness-total{font-size:14px;color:var(--moss);
+  letter-spacing:.1em;margin-bottom:28px}
+.overview .hotness-total b{font-family:"Cormorant Garamond",serif;
+  font-style:italic;font-size:22px;color:var(--clay)}
+.overview .criteria-grid{display:grid;grid-template-columns:1fr 1fr;
+  gap:14px;margin-top:8px}
+.overview .criteria-grid .crit{text-align:left;
+  background:var(--card);border:1px solid var(--hair);
+  padding:16px 18px;border-radius:16px 20px 16px 20px}
+.overview .criteria-grid .crit h4{font-size:12px;color:var(--moss);
+  letter-spacing:.1em;margin-bottom:6px;font-weight:600}
+.overview .criteria-grid .crit p{font-size:12.5px;color:var(--ink-soft);
+  line-height:1.7}
+.overview .topic-hits{font-size:12px;color:var(--ink-soft);
+  margin-top:20px;letter-spacing:.04em}
+.overview .topic-hits b{color:var(--clay)}
+
+/* ---- 口播稿页 ---- */
+.script-slide{align-items:flex-start;padding-top:50px}
+.script-content{max-width:760px;width:100%;margin:0 auto}
+.script-content .slide-label{text-align:center;font-size:11px;
+  letter-spacing:.4em;color:var(--moss);text-transform:uppercase;margin-bottom:8px}
+.script-content .news-title-sm{font-family:"Noto Serif SC",serif;
+  font-size:17px;font-weight:600;text-align:center;color:var(--ink);
+  margin-bottom:20px;line-height:1.5}
+.script-content .script-body{font-size:clamp(15px,2.2vw,18px);
+  line-height:2.1;color:var(--ink);text-align:justify;
+  font-family:"Noto Serif SC","Songti SC",serif;
+  max-height:calc(100vh - 200px);overflow-y:auto;
+  padding:0 8px}
+.script-content .script-body p{text-indent:2em;margin-bottom:4px}
+.script-content .script-body p:first-child{text-indent:0}
+.script-content .word-count{text-align:center;margin-top:16px;
+  font-size:12px;color:var(--ink-soft);letter-spacing:.12em}
+.script-content .word-count b{font-family:"Cormorant Garamond",serif;
+  font-style:italic;font-size:16px;color:var(--clay)}
+
+/* ---- 结尾页 ---- */
+.ending{text-align:center;max-width:600px}
+.ending .glyph{font-family:"Cormorant Garamond",serif;font-style:italic;
+  font-size:60px;color:var(--clay);line-height:1;margin-bottom:20px}
+.ending h2{font-family:"Noto Serif SC",serif;font-size:28px;
+  font-weight:700;letter-spacing:.1em;margin-bottom:16px}
+.ending p{font-size:14px;color:var(--ink-soft);line-height:2.2;
+  letter-spacing:.06em}
+.ending .links{margin-top:28px;display:flex;justify-content:center;gap:20px}
+.ending .links a{font-size:13px;color:var(--moss);text-decoration:none;
+  padding:8px 22px;border:1px solid rgba(76,90,68,.35);border-radius:999px;
+  transition:all .3s ease}
+.ending .links a:hover{background:var(--moss);color:#F6F4EF}
+
+/* ---- 导航 ---- */
+.nav-bar{position:fixed;bottom:0;left:0;right:0;z-index:10;
+  display:flex;align-items:center;justify-content:space-between;
+  padding:14px clamp(20px,5vw,40px);
+  background:rgba(246,244,239,.72);backdrop-filter:blur(14px);
+  -webkit-backdrop-filter:blur(14px);border-top:1px solid var(--hair)}
+.nav-bar .nav-info{font-size:12px;color:var(--ink-soft);
+  letter-spacing:.12em}
+.nav-bar .nav-info b{font-family:"Cormorant Garamond",serif;
+  font-style:italic;font-size:16px;color:var(--ink)}
+.nav-bar .nav-btns{display:flex;gap:10px}
+.nav-bar .nav-btns button{font-family:inherit;font-size:13px;
+  padding:7px 20px;border-radius:999px;border:1px solid var(--hair);
+  background:transparent;color:var(--ink-soft);cursor:pointer;
+  transition:all .3s ease;letter-spacing:.08em}
+.nav-bar .nav-btns button:hover{border-color:rgba(76,90,68,.4);
+  color:var(--moss)}
+.nav-bar .nav-btns button:disabled{opacity:.3;cursor:default}
+
+/* ---- 滚动条 ---- */
+.script-body::-webkit-scrollbar{width:4px}
+.script-body::-webkit-scrollbar-track{background:transparent}
+.script-body::-webkit-scrollbar-thumb{background:var(--hair);border-radius:2px}
+
+@media (max-width:680px){
+  .method-grid{grid-template-columns:1fr}
+  .overview .criteria-grid{grid-template-columns:1fr}
+  .overview .hotness-bar .seg{min-width:60px;padding:8px 10px}
+  .cover .stats{gap:20px}
+  .nav-bar .nav-info{font-size:11px}
+}
+</style>
+</head>
+<body>
+<div class="blob blob-1"></div>
+<div class="blob blob-2"></div>
+<div class="blob blob-3"></div>
+<div class="grain"></div>
+
+<div class="deck" id="deck">
+
+<!-- Slide 0: 封面 -->
+<div class="slide active" data-slide="0">
+  <div class="cover">
+    <div class="eyebrow"><span class="rule"></span>AI Radar Broadcast<span class="rule"></span></div>
+    <p class="date-line serif">2026 年 9 月 17 日 · 星期三</p>
+    <h1 class="hero-title serif">AI<span class="accent">Radar</span><br>口播稿精选</h1>
+    <p class="hero-sub">全网抓取 · 评分筛选 · 改写口播</p>
+    <div class="stats">
+      <div class="cell"><b>03</b><span>精选资讯</span></div>
+      <div class="v"></div>
+      <div class="cell"><b>16</b><span>当日抓取</span></div>
+      <div class="v"></div>
+      <div class="cell"><b>08</b><span>数据来源</span></div>
+    </div>
+    <svg class="divider" viewBox="0 0 800 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+      <path d="M0 12 C 100 2, 180 22, 280 12 S 460 2, 560 12 S 740 22, 800 12" stroke="rgba(30,34,31,.20)" stroke-width="1.1"/>
+    </svg>
+    <p class="pipeline-note">
+      由 <b>AI 雷达情报站</b> 自动抓取全网 8 个 AI 媒体 RSS 源<br>
+      经 <b>news-to-broadcast skill</b> 四维热度评分 + 四条筛选标准精选<br>
+      逐条改写为 600 字以内短视频口播稿
+    </p>
+  </div>
+</div>
+
+<!-- Slide 1: 方法论 -->
+<div class="slide" data-slide="1">
+  <div class="method">
+    <div class="eyebrow"><span class="rule"></span>Methodology<span class="rule"></span></div>
+    <h2 class="serif">热度指标 与 筛选标准</h2>
+    <div class="method-grid">
+      <div class="method-card">
+        <h3>四维热度指标</h3>
+        <ul>
+          <li><b>关键词权重分</b><span class="score">1-10</span><br>模型名/厂商名/融资等关键词匹配</li>
+          <li><b>来源权重分</b><span class="score">1-5</span><br>AI 垂直媒体 > 通用科技 > 聚合</li>
+          <li><b>时效分</b><span class="score">+10/+5/+2</span><br>当日 > 昨日 > 前日</li>
+          <li><b>话题热度分</b><span class="score">1-8</span><br>名人/大厂/金额/直播/反转</li>
+        </ul>
+      </div>
+      <div class="method-card" style="border-radius:26px 20px 26px 20px">
+        <h3>四条筛选标准</h3>
+        <ul>
+          <li><b>强 AI 相关</b><br>必须涉及 AI 技术/产品/公司/政策</li>
+          <li><b>有故事性</b><br>能提炼出冲突、反转、悬念或具体数字</li>
+          <li><b>可拍性</b><br>画面感强，易于用 PPT + 口播呈现</li>
+          <li><b>信息密度</b><br>单条信息量足够支撑 600 字口播</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Slide 2: 资讯 1 概览 -->
+<div class="slide" data-slide="2">
+  <div class="overview">
+    <div class="rank-badge">No. 01 · 热度分 29</div>
+    <h2 class="news-title">罗福莉沉寂半年官宣小米强化学习！<br>直播新模型训练过程，一小时烧3万美元</h2>
+    <div class="news-meta">
+      <span class="src">量子位</span>
+      <span class="chip">模型</span>
+      <span>2026-09-17 09:09</span>
+    </div>
+    <div class="hotness-bar">
+      <div class="seg"><b>6</b><span>关键词</span></div>
+      <div class="seg"><b>5</b><span>来源</span></div>
+      <div class="seg"><b>10</b><span>时效</span></div>
+      <div class="seg"><b>8</b><span>话题</span></div>
+    </div>
+    <p class="hotness-total">综合热度分 <b>29</b> / 33</p>
+    <div class="criteria-grid">
+      <div class="crit"><h4>强 AI 相关</h4><p>核心是小米强化学习训练大模型</p></div>
+      <div class="crit"><h4>有故事性</h4><p>沉寂半年后突然官宣，反差强烈；3万美元/小时有冲击力</p></div>
+      <div class="crit"><h4>可拍性</h4><p>直播画面、奖励曲线跳动、显卡故障掉线，视觉丰富</p></div>
+      <div class="crit"><h4>信息密度</h4><p>人物+事件+数字+对比，四维俱全</p></div>
+    </div>
+    <p class="topic-hits">话题命中: <b>名人:罗福莉</b> · <b>大厂:小米</b> · <b>金额:3万美元</b> · <b>事件:直播</b> · <b>反转:沉寂→官宣</b></p>
+  </div>
+</div>
+
+<!-- Slide 3: 资讯 1 口播稿 -->
+<div class="slide script-slide" data-slide="3">
+  <div class="script-content">
+    <p class="slide-label">口播稿 · No.01</p>
+    <p class="news-title-sm">罗福莉沉寂半年官宣小米强化学习！直播新模型训练过程，一小时烧3万美元</p>
+    <div class="script-body">
+      <p>小米的AI，终于亮牌了。</p>
+      <p>沉寂半年之后，罗福莉带着小米强化学习团队，做了一件整个行业都没人干过的事——直播训练大模型。不是直播发布会，是直播训练过程。你能看到奖励曲线在屏幕上一帧一帧跳动，能看到哪张显卡突然故障掉线，甚至能看到每小时烧掉3万美元的算力账单。</p>
+      <p>这相当于什么？一家餐厅把后厨监控直接接到大堂屏幕上，让每个顾客都能看到厨师怎么炒菜。</p>
+      <p>过去大厂训练模型都是黑箱操作，出了bug就默默重启，对外只发一个公告说模型又进步了。小米这一波，等于把整个过程扒开给你看。要么是极致的自信，要么是极致的赌徒心态。</p>
+      <p>但不管怎样，AI行业最不缺的是神秘感，最缺的是我敢让你看的透明。罗福莉之前被雷军挖到小米，已经让整个圈子震动了一次。这次直播训练，是第二次亮牌。小米在AI上的态度很明确：不藏着。</p>
+      <p>记住，AI时代最稀缺的不是算力，是信任。谁敢把过程晒出来，谁就先拿到了下一轮的入场券。</p>
+    </div>
+    <p class="word-count">全文 <b>382</b> 字 · 预计口播约 1 分 30 秒</p>
+  </div>
+</div>
+
+<!-- Slide 4: 资讯 2 概览 -->
+<div class="slide" data-slide="4">
+  <div class="overview">
+    <div class="rank-badge">No. 02 · 热度分 27</div>
+    <h2 class="news-title">Claude 正式上线 Docs 和 Slides<br>正面叫板 Gemini</h2>
+    <div class="news-meta">
+      <span class="src">The Verge AI</span>
+      <span class="chip">模型</span>
+      <span>2026-09-17 00:30</span>
+    </div>
+    <div class="hotness-bar">
+      <div class="seg"><b>8</b><span>关键词</span></div>
+      <div class="seg"><b>3</b><span>来源</span></div>
+      <div class="seg"><b>10</b><span>时效</span></div>
+      <div class="seg"><b>6</b><span>话题</span></div>
+    </div>
+    <p class="hotness-total">综合热度分 <b>27</b> / 33</p>
+    <div class="criteria-grid">
+      <div class="crit"><h4>强 AI 相关</h4><p>Anthropic 核心 AI 产品 Claude 新增功能</p></div>
+      <div class="crit"><h4>有故事性</h4><p>Claude 正面叫板谷歌 Docs/Slides，竞争叙事清晰</p></div>
+      <div class="crit"><h4>可拍性</h4><p>产品截图对比、四家 logo 同框、功能演示</p></div>
+      <div class="crit"><h4>信息密度</h4><p>公司+竞品+功能+格局，完整竞争图谱</p></div>
+    </div>
+    <p class="topic-hits">话题命中: <b>大厂:Anthropic</b> · <b>竞品:Gemini/谷歌</b> · <b>产品:Docs+Slides发布</b> · <b>格局:四国大战</b></p>
+  </div>
+</div>
+
+<!-- Slide 5: 资讯 2 口播稿 -->
+<div class="slide script-slide" data-slide="5">
+  <div class="script-content">
+    <p class="slide-label">口播稿 · No.02</p>
+    <p class="news-title-sm">Claude 正式上线 Docs 和 Slides，正面叫板 Gemini</p>
+    <div class="script-body">
+      <p>今天AI圈出了一个新闻，可能很多人还没反应过来。</p>
+      <p>做Claude的那家公司Anthropic，正式上线了Docs和Slides两个新工具。什么意思？Claude现在不光能跟你聊天，还能直接帮你写文档、做幻灯片了。</p>
+      <p>如果你觉得这没什么，那我换个说法：这件事最紧张的是谷歌。因为Docs和Slides这两个名字，恰好就是谷歌办公套件里最核心的两个产品。Claude这波操作，等于直接杀到谷歌家里抢饭碗了。</p>
+      <p>过去一年，AI产品的竞争已经从谁的模型更强，变成了谁的生态更全。OpenAI有全家桶，谷歌有Workspace加Gemini，微软有Copilot加Office。Anthropic之前只有Claude一个聊天窗口，眼看着对手一个个把办公场景占满了。</p>
+      <p>现在终于补上了这一块。你在聊天里说帮我做个PPT，它直接生成幻灯片；说写个报告，它直接排版好文档。还能导出来用。</p>
+      <p>这意味着什么？AI办公的竞争正式进入四国大战阶段。四家全有了文档加幻灯片的能力。对我们来说这是好消息，竞争越激烈，产品越便宜越好用。赶紧去试试，看谁的AI办公更适合你。</p>
+    </div>
+    <p class="word-count">全文 <b>462</b> 字 · 预计口播约 1 分 50 秒</p>
+  </div>
+</div>
+
+<!-- Slide 6: 资讯 3 概览 -->
+<div class="slide" data-slide="6">
+  <div class="overview">
+    <div class="rank-badge">No. 03 · 热度分 25</div>
+    <h2 class="news-title">马斯克睡进工地！为 AI 基建拼了</h2>
+    <div class="news-meta">
+      <span class="src">量子位</span>
+      <span class="chip">资讯</span>
+      <span>2026-09-17 12:37</span>
+    </div>
+    <div class="hotness-bar">
+      <div class="seg"><b>3</b><span>关键词</span></div>
+      <div class="seg"><b>5</b><span>来源</span></div>
+      <div class="seg"><b>10</b><span>时效</span></div>
+      <div class="seg"><b>7</b><span>话题</span></div>
+    </div>
+    <p class="hotness-total">综合热度分 <b>25</b> / 33</p>
+    <div class="criteria-grid">
+      <div class="crit"><h4>强 AI 相关</h4><p>xAI 超级计算中心基建</p></div>
+      <div class="crit"><h4>有故事性</h4><p>亿万富翁睡工地，反差极强；有历史对比</p></div>
+      <div class="crit"><h4>可拍性</h4><p>工地画面、马斯克人物、数据中心建设场景</p></div>
+      <div class="crit"><h4>信息密度</h4><p>人物+事件+历史背景+趋势判断</p></div>
+    </div>
+    <p class="topic-hits">话题命中: <b>名人:马斯克</b> · <b>事件:睡工地</b> · <b>大厂:xAI</b> · <b>反差:亿万富翁睡工地</b></p>
+  </div>
+</div>
+
+<!-- Slide 7: 资讯 3 口播稿 -->
+<div class="slide script-slide" data-slide="7">
+  <div class="script-content">
+    <p class="slide-label">口播稿 · No.03</p>
+    <p class="news-title-sm">马斯克睡进工地！为 AI 基建拼了</p>
+    <div class="script-body">
+      <p>马斯克又干了一件正常人干不出来的事。</p>
+      <p>为了AI基建，他直接睡进了工地。不是开玩笑，是真睡在施工现场。</p>
+      <p>如果你了解马斯克，这其实是他的一贯风格。当年造特斯拉Model 3的时候，他睡在工厂地板上；造火箭的时候，他睡在发射台旁边的办公室里。现在轮到AI了，他又把铺盖卷到了数据中心工地。</p>
+      <p>这说明什么？说明他旗下的xAI超级计算中心建设已经到了火烧眉毛的阶段。今年马斯克在AI上的投入是惊人的，他要建的超级计算中心计划装下十万张显卡，专门用来训练Grok大模型。这个量级的算力，需要的电力、散热、网络基础设施全是巨量工程。</p>
+      <p>马斯克亲自睡在工地，不是因为他缺一个工位，而是他在用最极端的方式告诉市场一件事：AI算力的竞争已经到了拼体力的阶段了。不是拼谁PPT做得好看，是拼谁能在最短时间内把十万张显卡通电跑起来。</p>
+      <p>从OpenAI到谷歌到xAI，所有大厂都在抢时间建数据中心。谁先建成，谁就先拿到下一轮AI竞争的入场券。马斯克用行动投了一票：AI的未来，是用钢筋和电缆堆出来的。</p>
+    </div>
+    <p class="word-count">全文 <b>429</b> 字 · 预计口播约 1 分 40 秒</p>
+  </div>
+</div>
+
+<!-- Slide 8: 结尾 -->
+<div class="slide" data-slide="8">
+  <div class="ending">
+    <div class="glyph">∞</div>
+    <div class="eyebrow"><span class="rule"></span>End of Broadcast<span class="rule"></span></div>
+    <h2 class="serif">全网抓取 · 改写口播<br>全流程闭环</h2>
+    <p>
+      订阅 RSS 源 → GitHub Actions 定时抓取 → 评分分类入库<br>
+      news-to-broadcast skill 精选 → AI 改写口播稿 → PPT + 提示器拍摄<br>
+      全程无需人工干预，每日自动更新
+    </p>
+    <div class="links">
+      <a href="index.html" target="_blank">AI 雷达情报站</a>
+      <a href="data/broadcast/2026-09-17.json" target="_blank">口播稿数据</a>
+    </div>
+  </div>
+</div>
+
+</div>
+
+<!-- 导航栏 -->
+<div class="nav-bar">
+  <div class="nav-info">第 <b id="cur-slide">1</b> / <b id="total-slides">9</b> 页</div>
+  <div class="nav-btns">
+    <button id="btn-prev" disabled>← 上一页</button>
+    <button id="btn-next">下一页 →</button>
+  </div>
+</div>
+
+<script>
+(function(){
+"use strict";
+var slides = document.querySelectorAll(".slide");
+var total = slides.length;
+var current = 0;
+document.getElementById("total-slides").textContent = total;
+
+function show(n){
+  if (n < 0 || n >= total) return;
+  slides[current].classList.remove("active");
+  slides[current].classList.add(n > current ? "prev" : "");
+  if (n < current) slides[current].classList.remove("prev");
+  current = n;
+  slides[current].classList.remove("prev");
+  slides[current].classList.add("active");
+  document.getElementById("cur-slide").textContent = current + 1;
+  document.getElementById("btn-prev").disabled = (current === 0);
+  document.getElementById("btn-next").disabled = (current === total - 1);
+}
+
+document.getElementById("btn-prev").addEventListener("click", function(){ show(current - 1); });
+document.getElementById("btn-next").addEventListener("click", function(){ show(current + 1); });
+
+document.addEventListener("keydown", function(e){
+  if (e.key === "ArrowRight" || e.key === " " || e.key === "PageDown") {
+    e.preventDefault(); show(current + 1);
+  } else if (e.key === "ArrowLeft" || e.key === "PageUp") {
+    e.preventDefault(); show(current - 1);
+  } else if (e.key === "Home") {
+    show(0);
+  } else if (e.key === "End") {
+    show(total - 1);
+  }
+});
+
+// 触摸滑动
+var touchStartX = 0;
+document.addEventListener("touchstart", function(e){
+  touchStartX = e.touches[0].clientX;
+});
+document.addEventListener("touchend", function(e){
+  var dx = e.changedTouches[0].clientX - touchStartX;
+  if (Math.abs(dx) > 50) show(dx < 0 ? current + 1 : current - 1);
+});
+})();
+</script>
+</body>
+</html>
