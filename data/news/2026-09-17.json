@@ -1,8 +1,89 @@
 {
   "date": "2026-09-17",
-  "generated_at": "2026-09-17T14:17:51+08:00",
-  "count": 16,
+  "generated_at": "2026-09-18T01:29:02+08:00",
+  "count": 25,
   "items": [
+    {
+      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+      "desc": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the…",
+      "link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-09-17T22:06:14+08:00",
+      "time": "22:06"
+    },
+    {
+      "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
+      "desc": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about…",
+      "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
+      "source": "The Verge AI",
+      "category": "融资",
+      "published": "2026-09-17T22:00:00+08:00",
+      "time": "22:00"
+    },
+    {
+      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+      "desc": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
+      "link": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-09-17T21:38:33+08:00",
+      "time": "21:38"
+    },
+    {
+      "title": "Claude Code团队讲究啊，这都往外说",
+      "desc": "工程师的核心永远是Problem Solving。",
+      "link": "https://www.qbitai.com/2026/09/491596.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-09-17T19:56:13+08:00",
+      "time": "19:56"
+    },
+    {
+      "title": "九识建成首个L4万卡集群，无人驾驶进入多模态大模型新范式",
+      "desc": "一家做无人车的公司，为什么需要一万多张GPU？ 9月10日，九识CEO孔旗在广州宣布战略升级为“城市级物理AI”。一周后的9月17日，CTO庄立首次披露支撑这次升级的底层能力：九识已建成业内首个L4级万卡集群，算力集群总规模近1.5万卡。九识也成为首个建成万卡集群的L4团队…",
+      "link": "https://www.leiphone.com/category/industrynews/sOtgTcXitH6C7vAT.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-09-17T18:14:00+08:00",
+      "time": "18:14"
+    },
+    {
+      "title": "央企做了个通用Agent，直接杀进IDC实测前三！",
+      "desc": "中国电信，TeleAgent",
+      "link": "https://www.qbitai.com/2026/09/491454.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-09-17T17:39:19+08:00",
+      "time": "17:39"
+    },
+    {
+      "title": "Claude双入口合并，原生Office上线！硅谷AI办公大战也开始了",
+      "desc": "文档和PPT都能做了",
+      "link": "https://www.qbitai.com/2026/09/491391.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-09-17T17:07:25+08:00",
+      "time": "17:07"
+    },
+    {
+      "title": "刚刚，唐杰发布智谱RSI首个成果",
+      "desc": "GLM已经开始参与构建GLM了",
+      "link": "https://www.qbitai.com/2026/09/491357.html",
+      "source": "量子位",
+      "category": "产品",
+      "published": "2026-09-17T16:28:23+08:00",
+      "time": "16:28"
+    },
+    {
+      "title": "AI办公之外，百度智能云为何盯上「产业智能体操作系统」？",
+      "desc": "“整个下半年，就看AI办公圈谁能杀出重围了”。一位大模型从业者对雷峰网表示。 从五月开始，各个互联网大厂争相出场，写字楼电梯间、机场候机室，到处都是Workbuddy、千问办公、豆包工作、百度搭子的内容。 但办公大战打得再热闹，顶多算是一道前菜…",
+      "link": "https://www.leiphone.com/category/industrynews/oZjAyDmVEtf8iH76.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-09-17T16:15:00+08:00",
+      "time": "16:15"
+    },
     {
       "title": "马斯克睡进工地！为AI基建拼了",
       "desc": "AI正火嘛，老马的待遇也算提升了一点：这回至少有房车了（doge）",

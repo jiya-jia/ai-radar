@@ -1,7 +1,7 @@
 {
   "date": "2026-09-16",
-  "generated_at": "2026-09-17T14:17:51+08:00",
-  "count": 16,
+  "generated_at": "2026-09-18T01:29:02+08:00",
+  "count": 21,
   "items": [
     {
       "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
@@ -20,6 +20,24 @@
       "category": "融资",
       "published": "2026-09-16T22:47:32+08:00",
       "time": "22:47"
+    },
+    {
+      "title": "The sexy AI-powered dating app scams are here",
+      "desc": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+      "source": "The Verge AI",
+      "category": "研究",
+      "published": "2026-09-16T22:45:00+08:00",
+      "time": "22:45"
+    },
+    {
+      "title": "Threads’ new features let podcasters promote shows and reach listeners",
+      "desc": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as…",
+      "link": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-09-16T22:24:58+08:00",
+      "time": "22:24"
     },
     {
       "title": "通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队",
@@ -58,6 +76,15 @@
       "time": "18:38"
     },
     {
+      "title": "被AI放大的光学「戏份」，让「配角」舜宇的生意越做越大",
+      "desc": "作者 | 陈悦琳 编辑 | 郭思 几乎同时迎来“量产元年”的人形机器人和智能眼镜，正在放大光学的“戏份”。 据Counterpoint统计，今年上半年全球人形机器人出货量突破2.2万台，同比激增近300%…",
+      "link": "https://www.leiphone.com/category/iot/n1PzfiDNtDc0NYgy.html",
+      "source": "雷峰网",
+      "category": "机器人",
+      "published": "2026-09-16T18:33:00+08:00",
+      "time": "18:33"
+    },
+    {
       "title": "ChatGPT pioneer launches Jev model for programmatic logic",
       "desc": "TypeSafe , founded by a ChatGPT co-inventor, has left stealth and is launching its Jev model to automate programmatic decisions with parallel sampling…",
       "link": "https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/",
@@ -65,6 +92,24 @@
       "category": "融资",
       "published": "2026-09-16T18:31:09+08:00",
       "time": "18:31"
+    },
+    {
+      "title": "2nm天玑9600 Pro，把旗舰SoC竞争推向「融合计算」",
+      "desc": "智能体让旗舰SoC从拼核心，转向拼系统。 过去数年，旗舰手机芯片的升级路径非常清晰，制程更先进、CPU主频更高、GPU、ISP更强，再加上算力不断增长的NPU。 这套方法在生成式AI进入手机后依旧奏效，却很难完整回答智能体带来的新问题…",
+      "link": "https://www.leiphone.com/category/chips/pE0IvGEQtRiAdZcO.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-09-16T18:02:00+08:00",
+      "time": "18:02"
+    },
+    {
+      "title": "华为坤灵升级“4+10+N”场景化方案，发布“经纬计划”和50个样板点",
+      "desc": "[中国，上海，2026年9月16日] 今日，华为坤灵新品发布会2026在上海举行。华为常务董事、ICT BG CEO杨超 斌宣布，华为坤灵全面升级 “4+10+N” 一站式场景化方案，发布20款新品，并面向中国分销伙伴发布“经纬计划”和50个样板点，让智能世界触手可及…",
+      "link": "https://www.leiphone.com/category/industrynews/3eVYZT04EAfdhQZ3.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-09-16T17:27:00+08:00",
+      "time": "17:27"
     },
     {
       "title": "AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生",
