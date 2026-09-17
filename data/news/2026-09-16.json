@@ -1,7 +1,7 @@
 {
   "date": "2026-09-16",
-  "generated_at": "2026-09-17T01:28:58+08:00",
-  "count": 25,
+  "generated_at": "2026-09-17T13:57:03+08:00",
+  "count": 27,
   "items": [
     {
       "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
@@ -29,6 +29,15 @@
       "category": "研究",
       "published": "2026-09-16T22:45:00+08:00",
       "time": "22:45"
+    },
+    {
+      "title": "通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队",
+      "desc": "九大空间测试10B规模通用模型中8项第一",
+      "link": "https://www.qbitai.com/2026/09/490839.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-09-16T21:08:20+08:00",
+      "time": "21:08"
     },
     {
       "title": "Building the materials foundation for AI",
@@ -74,6 +83,15 @@
       "category": "模型",
       "published": "2026-09-16T16:51:02+08:00",
       "time": "16:51"
+    },
+    {
+      "title": "高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代",
+      "desc": "第五代骁龙8至尊版赋能全新AI智能体手机努比亚NaviX Ultra，加速智能体体验规模化落地",
+      "link": "https://www.qbitai.com/2026/09/490756.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-09-16T16:18:44+08:00",
+      "time": "16:18"
     },
     {
       "title": "协同办公进入Agent时代，飞书+豆包工作跑在了最前面",

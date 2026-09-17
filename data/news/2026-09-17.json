@@ -1,8 +1,107 @@
 {
   "date": "2026-09-17",
-  "generated_at": "2026-09-17T01:28:58+08:00",
-  "count": 5,
+  "generated_at": "2026-09-17T13:57:03+08:00",
+  "count": 16,
   "items": [
+    {
+      "title": "马斯克睡进工地！为AI基建拼了",
+      "desc": "AI正火嘛，老马的待遇也算提升了一点：这回至少有房车了（doge）",
+      "link": "https://www.qbitai.com/2026/09/491280.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-09-17T12:37:26+08:00",
+      "time": "12:37"
+    },
+    {
+      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "desc": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that…",
+      "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-09-17T11:30:00+08:00",
+      "time": "11:30"
+    },
+    {
+      "title": "国产RSI模型交卷！Flash模型靠它反打旗舰",
+      "desc": "1亿Tokens人人免费领",
+      "link": "https://www.qbitai.com/2026/09/491091.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-09-17T11:26:21+08:00",
+      "time": "11:26"
+    },
+    {
+      "title": "几何的「反攻」！港科大谭平：从局部先验到全局一致，3D 几何如何增强视觉大模型 | ECCV 2026",
+      "desc": "学习模型已经具备很强的局部视觉先验，而 3D 几何可以帮助建立跨视角、长距离的全局一致性。二者如何结合，是 3D 视觉与空间智能中的重要问题。 编辑丨岑峰 在生成式 AI 的快速发展中，Sora 等视频和图像扩散模型（Diffusion Models）展示了很强的视觉生成能力…",
+      "link": "https://www.leiphone.com/category/private/tHpZwtHv9PrtUrXu.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-09-17T11:20:00+08:00",
+      "time": "11:20"
+    },
+    {
+      "title": "独家解读丨国产GPU四份半年报出炉，赚钱后才发现二级市场「难哄」",
+      "desc": "早前，壁仞科技、天数智芯、沐曦股份和摩尔线程陆续交出上市后的首份或最新半年报。9月，燧原科技也正式启动申购，国产GPU正在以前所未有的密度进入资本市场。 但当越来越多国产GPU公司开始接受公开市场检验，一个最直观的问题“谁先赚钱”，反而正在失去解释力…",
+      "link": "https://www.leiphone.com/category/chips/71GoaJ1VfyRyIh90.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-09-17T10:12:00+08:00",
+      "time": "10:12"
+    },
+    {
+      "title": "网易有道周枫：AI能力竞争，正在进入「Model + Agent + Workflow」时代，网易有道AI Open Day展示AI时代“有道解法”",
+      "desc": "9月16日，网易有道「NEXT，AGENT｜有道AI Open Day」在北京举办。",
+      "link": "https://www.qbitai.com/2026/09/490974.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-09-17T09:55:14+08:00",
+      "time": "09:55"
+    },
+    {
+      "title": "罗福莉沉寂半年官宣小米强化学习！直播新模型训练过程，一小时烧3万美元",
+      "desc": "奖励曲线、显卡故障全公开",
+      "link": "https://www.qbitai.com/2026/09/490950.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-09-17T09:09:25+08:00",
+      "time": "09:09"
+    },
+    {
+      "title": "周鸿祎：不会再投资新能源汽车，已经吃过一次亏；OpenAI洽谈新融资，估值或超1.2万亿美元；花呗、抖音月付等将退出支付选项？多平台回应",
+      "desc": "要闻提示 1.周鸿祎：不会再投资新能源汽车，已经吃过一次亏 2.曝字节跳动完成 2.9 亿美元融资，用于拆分 AI 制药业务 Anew Labs 3.iPhone Duo可靠性翻车：影视飓风Tim在苹果总部掰一下就闪屏了 4.花呗、抖音月付等将退出支付选项？多平台回应 5.奥迪惨遭高空坠落餐刀刺穿车顶…",
+      "link": "https://www.leiphone.com/category/zaobao/adwK3kvuEMxa03Tj.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-09-17T08:23:00+08:00",
+      "time": "08:23"
+    },
+    {
+      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+      "desc": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track…",
+      "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-09-17T07:40:00+08:00",
+      "time": "07:40"
+    },
+    {
+      "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+      "desc": "Apple is working on an AI server that would use Apple’s high-performance M-series Ultra chips found in Mac desktops…",
+      "link": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+      "source": "Ars Technica",
+      "category": "芯片",
+      "published": "2026-09-17T06:02:46+08:00",
+      "time": "06:02"
+    },
+    {
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "desc": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful…",
+      "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "source": "TechCrunch AI",
+      "category": "政策",
+      "published": "2026-09-17T05:07:24+08:00",
+      "time": "05:07"
+    },
     {
       "title": "Apple might make servers again to cash in on the AI rush",
       "desc": "According to The Information , Apple is planning to get back into the server game and might just pair up with NVIDIA to make it happen…",
