@@ -1,7 +1,7 @@
 {
   "date": "2026-09-17",
-  "generated_at": "2026-09-18T13:43:17+08:00",
-  "count": 28,
+  "generated_at": "2026-09-19T00:57:47+08:00",
+  "count": 33,
   "items": [
     {
       "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
@@ -22,6 +22,15 @@
       "time": "22:00"
     },
     {
+      "title": "AI is feared globally as the destroyer of jobs",
+      "desc": "In 34 of the 37 surveyed countries, people are more likely to believe AI will lead to job losses over the next 20 years…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
+      "source": "The Verge AI",
+      "category": "研究",
+      "published": "2026-09-17T22:00:00+08:00",
+      "time": "22:00"
+    },
+    {
       "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
       "desc": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
       "link": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
@@ -29,6 +38,24 @@
       "category": "芯片",
       "published": "2026-09-17T21:38:33+08:00",
       "time": "21:38"
+    },
+    {
+      "title": "360纳米Work启动“双城千店上岗计划” 探索实体商业AI落地新路径",
+      "desc": "9月17日，2026北京艺术与科技周在北京798艺术区开幕。360集团创始人周鸿祎参加开幕式，并宣布360旗下AI办公平台纳米Work正式启动“双城千店上岗计划”。作为本届活动独家AI合作伙伴与官方办公支持平台，纳米Work将以798为首站推进场景合作；10月也将以同一身份参与第11届陆家嘴国际咖啡文化节…",
+      "link": "https://www.leiphone.com/category/industrynews/IX9DPt2tjo0E0gDh.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-09-17T20:31:00+08:00",
+      "time": "20:31"
+    },
+    {
+      "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
+      "desc": "构建个体专属AI助理",
+      "link": "https://www.qbitai.com/2026/09/491649.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-09-17T20:03:24+08:00",
+      "time": "20:03"
     },
     {
       "title": "Claude Code团队讲究啊，这都往外说",
@@ -74,6 +101,15 @@
       "category": "机器人",
       "published": "2026-09-17T18:00:00+08:00",
       "time": "18:00"
+    },
+    {
+      "title": "安芯启程｜安芯724北京基地正式投产",
+      "desc": "2026年9月16日，柒贰肆安芯技术服务有限公司（简称“安芯724”）北京基地投产活动暨品牌发布会在北京市昌平区未来星科能源谷智造产业园举行。安芯724北京基地正式投产，此举标志着安芯724在GPU及AI算力设备全生命周期服务领域进入体系化运营新阶段…",
+      "link": "https://www.leiphone.com/category/industrynews/KOCAotOwioun3Los.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-09-17T17:44:00+08:00",
+      "time": "17:44"
     },
     {
       "title": "央企做了个通用Agent，直接杀进IDC实测前三！",
@@ -218,6 +254,15 @@
       "category": "政策",
       "published": "2026-09-17T05:07:24+08:00",
       "time": "05:07"
+    },
+    {
+      "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+      "desc": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers…",
+      "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-09-17T04:59:13+08:00",
+      "time": "04:59"
     },
     {
       "title": "Google will now let any AI agent run your smart home",

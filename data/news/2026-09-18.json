@@ -1,8 +1,89 @@
 {
   "date": "2026-09-18",
-  "generated_at": "2026-09-18T13:43:17+08:00",
-  "count": 16,
+  "generated_at": "2026-09-19T00:57:47+08:00",
+  "count": 25,
   "items": [
+    {
+      "title": "Security researchers used Claude to help them hack into OpenAI",
+      "desc": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+      "source": "The Verge AI",
+      "category": "研究",
+      "published": "2026-09-18T23:30:16+08:00",
+      "time": "23:30"
+    },
+    {
+      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+      "desc": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal…",
+      "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "source": "TechCrunch AI",
+      "category": "研究",
+      "published": "2026-09-18T22:00:14+08:00",
+      "time": "22:00"
+    },
+    {
+      "title": "Researchers used Claude to hack OpenAI",
+      "desc": "Cyber researchers broke into OpenAI using its key rival Anthropic’s software, highlighting vulnerabilities in the ChatGPT maker’s security as leading AI…",
+      "link": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+      "source": "Ars Technica",
+      "category": "研究",
+      "published": "2026-09-18T21:30:12+08:00",
+      "time": "21:30"
+    },
+    {
+      "title": "Gartner outlines four AI tiers in warehouse automation",
+      "desc": "Gartner reports that warehouse automation now spans four operational AI tiers as logistics operators transition from software trials to live facility…",
+      "link": "https://www.artificialintelligence-news.com/news/gartner-outlines-four-ai-tiers-in-warehouse-automation/",
+      "source": "AI News",
+      "category": "融资",
+      "published": "2026-09-18T20:49:34+08:00",
+      "time": "20:49"
+    },
+    {
+      "title": "AGI新战场谷歌亚马逊巨头激战，杀出个中国LimiX-2赢了又赢",
+      "desc": "LimiX让模型理解数据背后的因果机制",
+      "link": "https://www.qbitai.com/2026/09/492175.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-09-18T20:22:47+08:00",
+      "time": "20:22"
+    },
+    {
+      "title": "Could AI really kill us all? Your questions, answered.",
+      "desc": "The jury is out on the most apocalyptic scenarios. AI-powered drones and cyberattacks on hospitals are dangerous, and bioweapons designed with AI assistance…",
+      "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "source": "MIT Tech Review",
+      "category": "融资",
+      "published": "2026-09-18T19:29:22+08:00",
+      "time": "19:29"
+    },
+    {
+      "title": "Fulcra Brings Universal Multiplayer to Any Agents You Choose",
+      "desc": "The Instinct-to-Instinct model that is the talk of Silicon Valley presents too small a future for personal AI…",
+      "link": "https://www.artificialintelligence-news.com/news/fulcra-brings-universal-multiplayer-to-any-agents-you-choose/",
+      "source": "AI News",
+      "category": "模型",
+      "published": "2026-09-18T17:15:15+08:00",
+      "time": "17:15"
+    },
+    {
+      "title": "OpenAI：为了不被杀死，Agent 竟学会了靠上下文「转世重生」",
+      "desc": "从 Compaction 到 Artifactory，再到公网文件服务，6 起异常暴露 Agent 状态跨实例传播的新风险。 作者丨 郑佳美 编辑丨岑 峰 过去，大模型任务一旦结束，上下文清空，临时状态随之消失，这一轮 AI 的生命周期基本也就结束了…",
+      "link": "https://www.leiphone.com/category/ai/pcucC7ezQ6TRruRM.html",
+      "source": "雷峰网",
+      "category": "研究",
+      "published": "2026-09-18T14:06:00+08:00",
+      "time": "14:06"
+    },
+    {
+      "title": "英伟达开源 IMO 金牌配方：不仅是「人海战术」，1.5TB 显存做实 AI「 推恩令」？",
+      "desc": "用三套 checkpoint 完成多轮证明搜索，用过程透明平息学术怒火，用 1.5TB 显存门槛锁定算力霸权。名为代码平权，实则算力集权。 作者丨 郑佳美 编辑丨岑 峰 9 月 9 日，NVIDIA 公布了 Nemotron 3 Ultra 在 2026 年 IMO 上使用的整套数学推理系统…",
+      "link": "https://www.leiphone.com/category/ai/XpCc8XUGypadWNGt.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-09-18T14:02:00+08:00",
+      "time": "14:02"
+    },
     {
       "title": "Manus重生第17天，估值居然就翻倍了",
       "desc": "作价40亿美元推进新融资",
