@@ -1,8 +1,125 @@
 {
   "date": "2026-09-18",
-  "generated_at": "2026-09-18T01:29:02+08:00",
-  "count": 3,
+  "generated_at": "2026-09-18T13:43:17+08:00",
+  "count": 16,
   "items": [
+    {
+      "title": "Manus重生第17天，估值居然就翻倍了",
+      "desc": "作价40亿美元推进新融资",
+      "link": "https://www.qbitai.com/2026/09/491764.html",
+      "source": "量子位",
+      "category": "融资",
+      "published": "2026-09-18T08:37:13+08:00",
+      "time": "08:37"
+    },
+    {
+      "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+      "desc": "Git白学了？？？",
+      "link": "https://www.qbitai.com/2026/09/491711.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-09-18T08:34:34+08:00",
+      "time": "08:34"
+    },
+    {
+      "title": "影视飓风Tim称「iPhoneDuo烫到握不住，可以煎鸡蛋」；罗福莉直播小米大模型训练，每小时烧掉超20万元；曝玛莎拉蒂与华为合作两款新车",
+      "desc": "要闻提示 1.影视飓风Tim称“iPhoneDuo烫到握不住，可以煎鸡蛋”，苹果客服回应 2.你会买吗？曝玛莎拉蒂已与华为敲定合作两款新车：尊界工厂负责制造 3.每小时“烧掉”超20万元！“AI才女”罗福莉直播小米大模型训练 4.华为汪涛：昇腾960芯片将提前至2027年Q1发布 5.知情人士否认“2027…",
+      "link": "https://www.leiphone.com/category/zaobao/MJprK3aEw1xPngou.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-09-18T08:19:00+08:00",
+      "time": "08:19"
+    },
+    {
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "desc": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI…",
+      "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "source": "TechCrunch AI",
+      "category": "研究",
+      "published": "2026-09-18T07:21:17+08:00",
+      "time": "07:21"
+    },
+    {
+      "title": "PrismML hopes its tiny LLM will change how we all use AI",
+      "desc": "If AI lab PrismML isn't on your radar yet, it should be.",
+      "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-09-18T06:34:09+08:00",
+      "time": "06:34"
+    },
+    {
+      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+      "desc": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
+      "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+      "source": "TechCrunch AI",
+      "category": "产品",
+      "published": "2026-09-18T06:14:59+08:00",
+      "time": "06:14"
+    },
+    {
+      "title": "Small AI models let drones autonomously identify and attack battlefield targets",
+      "desc": "As European militaries adapt to the use of AI and drones in modern warfare, a NATO-backed startup is helping to deploy AI-driven target detection and selection…",
+      "link": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
+      "source": "Ars Technica",
+      "category": "研究",
+      "published": "2026-09-18T06:12:58+08:00",
+      "time": "06:12"
+    },
+    {
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "desc": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of…",
+      "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-09-18T04:34:24+08:00",
+      "time": "04:34"
+    },
+    {
+      "title": "Google announces new experimental \"CC\" AI agent for families",
+      "desc": "Google's AI models may not be in the lead by most measures right now, but the company does have one key advantage: your data…",
+      "link": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+      "source": "Ars Technica",
+      "category": "模型",
+      "published": "2026-09-18T04:24:34+08:00",
+      "time": "04:24"
+    },
+    {
+      "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
+      "desc": "For years, Microsoft and OpenAI have fought to keep certain information out of the public eye in their fight with news organizations that have accused the AI…",
+      "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
+      "source": "Ars Technica",
+      "category": "模型",
+      "published": "2026-09-18T04:10:41+08:00",
+      "time": "04:10"
+    },
+    {
+      "title": "The AI Superintelligence Slowdown",
+      "desc": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+      "source": "The Verge AI",
+      "category": "政策",
+      "published": "2026-09-18T03:28:24+08:00",
+      "time": "03:28"
+    },
+    {
+      "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+      "desc": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-09-18T02:58:05+08:00",
+      "time": "02:58"
+    },
+    {
+      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+      "desc": "In response to a new European Union law, AI platforms are implementing new schemes for watermarking the content they generate…",
+      "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+      "source": "Ars Technica",
+      "category": "融资",
+      "published": "2026-09-18T02:33:13+08:00",
+      "time": "02:33"
+    },
     {
       "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
       "desc": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",

@@ -1,7 +1,7 @@
 {
   "date": "2026-09-17",
-  "generated_at": "2026-09-18T01:29:02+08:00",
-  "count": 25,
+  "generated_at": "2026-09-18T13:43:17+08:00",
+  "count": 28,
   "items": [
     {
       "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
@@ -40,6 +40,24 @@
       "time": "19:56"
     },
     {
+      "title": "Inside the suddenly explosive world of AI safety",
+      "desc": "On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
+      "source": "The Verge AI",
+      "category": "研究",
+      "published": "2026-09-17T19:30:00+08:00",
+      "time": "19:30"
+    },
+    {
+      "title": "Adecco Group rolls out Agentforce Coworker to 27,000 staff in 40-plus countries",
+      "desc": "The Adecco Group is rolling out Salesforce’s Agentforce Coworker across more than 40 countries following a pilot in the UK and France, the staffing group…",
+      "link": "https://www.artificialintelligence-news.com/news/agentforce-coworker-adecco-group-rollout/",
+      "source": "AI News",
+      "category": "模型",
+      "published": "2026-09-17T19:00:00+08:00",
+      "time": "19:00"
+    },
+    {
       "title": "九识建成首个L4万卡集群，无人驾驶进入多模态大模型新范式",
       "desc": "一家做无人车的公司，为什么需要一万多张GPU？ 9月10日，九识CEO孔旗在广州宣布战略升级为“城市级物理AI”。一周后的9月17日，CTO庄立首次披露支撑这次升级的底层能力：九识已建成业内首个L4级万卡集群，算力集群总规模近1.5万卡。九识也成为首个建成万卡集群的L4团队…",
       "link": "https://www.leiphone.com/category/industrynews/sOtgTcXitH6C7vAT.html",
@@ -47,6 +65,15 @@
       "category": "芯片",
       "published": "2026-09-17T18:14:00+08:00",
       "time": "18:14"
+    },
+    {
+      "title": "Lidl deploys driverless truck for store deliveries in Germany",
+      "desc": "Lidl has started using a cab-less autonomous electric truck for regular store deliveries in Germany, assigning it a daily replenishment route between its…",
+      "link": "https://www.artificialintelligence-news.com/news/lidl-autonomous-truck-germany/",
+      "source": "AI News",
+      "category": "机器人",
+      "published": "2026-09-17T18:00:00+08:00",
+      "time": "18:00"
     },
     {
       "title": "央企做了个通用Agent，直接杀进IDC实测前三！",
