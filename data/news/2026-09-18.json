@@ -1,7 +1,7 @@
 {
   "date": "2026-09-18",
-  "generated_at": "2026-09-19T00:57:47+08:00",
-  "count": 25,
+  "generated_at": "2026-09-19T13:37:58+08:00",
+  "count": 26,
   "items": [
     {
       "title": "Security researchers used Claude to help them hack into OpenAI",
@@ -10,6 +10,15 @@
       "source": "The Verge AI",
       "category": "研究",
       "published": "2026-09-18T23:30:16+08:00",
+      "time": "23:30"
+    },
+    {
+      "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+      "desc": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
+      "link": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-09-18T23:30:00+08:00",
       "time": "23:30"
     },
     {

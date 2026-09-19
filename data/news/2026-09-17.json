@@ -1,8 +1,17 @@
 {
   "date": "2026-09-17",
-  "generated_at": "2026-09-19T00:57:47+08:00",
-  "count": 33,
+  "generated_at": "2026-09-19T13:37:58+08:00",
+  "count": 35,
   "items": [
+    {
+      "title": "华为开创AI时代计算架构：让百万处理器成为一台计算机",
+      "desc": "关键信息： • Peerium计算架构突破了图灵范式，提出了Nested BSP，突破了冯·诺依曼单机架构，颠覆了长久以来的主从架构，实现了百万级处理器真正成为一台更大的计算机。 • 灵衢是实现Peerium计算架构的关键互联技术…",
+      "link": "https://www.leiphone.com/category/industrynews/ZAv4gLB8zM5B5PBX.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-09-17T22:25:00+08:00",
+      "time": "22:25"
+    },
     {
       "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
       "desc": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the…",
@@ -137,6 +146,15 @@
       "category": "产品",
       "published": "2026-09-17T16:28:23+08:00",
       "time": "16:28"
+    },
+    {
+      "title": "蚂蚁集团全员接入千问办公，打造大型企业办公标杆",
+      "desc": "9月17日，记者获悉，蚂蚁集团正式接入千问办公，作为全公司的智能办公Agent底座，供全员使用，打造大型企业办公的标杆。 图示 蚂蚁集团和千问办公达成合作 蚂蚁集团是全球领先的数字支付与科技服务平台，业务涵盖数字支付、数字金融科技、医疗健康及数字科技等多个领域，员工规模达数万人…",
+      "link": "https://www.leiphone.com/category/industrynews/U3X9WHILcYX0kh4l.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-09-17T16:25:00+08:00",
+      "time": "16:25"
     },
     {
       "title": "AI办公之外，百度智能云为何盯上「产业智能体操作系统」？",
