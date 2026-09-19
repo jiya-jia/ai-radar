@@ -1,8 +1,71 @@
 {
   "date": "2026-09-19",
-  "generated_at": "2026-09-19T13:37:58+08:00",
-  "count": 13,
+  "generated_at": "2026-09-20T00:14:27+08:00",
+  "count": 20,
   "items": [
+    {
+      "title": "Gemini went rogue, hacked three companies, and Google hid it",
+      "desc": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-09-19T23:25:03+08:00",
+      "time": "23:25"
+    },
+    {
+      "title": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
+      "desc": "Today on Decoder , we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the…",
+      "link": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+      "source": "The Verge AI",
+      "category": "融资",
+      "published": "2026-09-19T22:00:00+08:00",
+      "time": "22:00"
+    },
+    {
+      "title": "The AI regulation smackdown isn’t over",
+      "desc": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+      "source": "The Verge AI",
+      "category": "政策",
+      "published": "2026-09-19T21:00:00+08:00",
+      "time": "21:00"
+    },
+    {
+      "title": "“留给人类阻止AI的时间不多了”",
+      "desc": "AI有可能终结我们所有人",
+      "link": "https://www.qbitai.com/2026/09/492755.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-09-19T19:53:12+08:00",
+      "time": "19:53"
+    },
+    {
+      "title": "Nature：AI重生到1900，这一世抢先爱因斯坦提出光量子",
+      "desc": "AI能否提出相对论？",
+      "link": "https://www.qbitai.com/2026/09/492550.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-09-19T19:36:11+08:00",
+      "time": "19:36"
+    },
+    {
+      "title": "华为汪涛：华为要打造AI算力底座，只做好一颗芯片远远不够",
+      "desc": "CANN跨过拐点，华为补上软件生态",
+      "link": "https://www.qbitai.com/2026/09/492476.html",
+      "source": "量子位",
+      "category": "芯片",
+      "published": "2026-09-19T16:28:51+08:00",
+      "time": "16:28"
+    },
+    {
+      "title": "陶哲轩代表SAIR Foundation宣布正式启动“开放数学模型计划”",
+      "desc": "让开放模型与可负担的算力成为数学研究的共享基石",
+      "link": "https://www.qbitai.com/2026/09/492467.html",
+      "source": "量子位",
+      "category": "芯片",
+      "published": "2026-09-19T14:44:02+08:00",
+      "time": "14:44"
+    },
     {
       "title": "华为全联接大会2026：360与昇腾AI联合打造解决方案，为AI Agent全面提速",
       "desc": "2026年9月17日，第十一届华为全联接大会在上海开幕。大会期间，360集团与昇腾AI联合打造解决方案。以360智能体工厂为核心的智能体基础设施与昇腾AI深度协同，面向AI Agent场景实现全面提速，为复杂任务执行、多智能体协作和长链路推理提供更高效、更稳定的底层支撑…",

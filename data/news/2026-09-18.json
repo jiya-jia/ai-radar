@@ -1,8 +1,26 @@
 {
   "date": "2026-09-18",
-  "generated_at": "2026-09-19T13:37:58+08:00",
-  "count": 26,
+  "generated_at": "2026-09-20T00:14:27+08:00",
+  "count": 29,
   "items": [
+    {
+      "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
+      "desc": "协同布局AI基础设施",
+      "link": "https://www.qbitai.com/2026/09/492426.html",
+      "source": "量子位",
+      "category": "芯片",
+      "published": "2026-09-18T23:58:21+08:00",
+      "time": "23:58"
+    },
+    {
+      "title": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布",
+      "desc": "成果中唯一聚焦算电协同全链路运营的AI技术产品",
+      "link": "https://www.qbitai.com/2026/09/492421.html",
+      "source": "量子位",
+      "category": "产品",
+      "published": "2026-09-18T23:50:20+08:00",
+      "time": "23:50"
+    },
     {
       "title": "Security researchers used Claude to help them hack into OpenAI",
       "desc": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's…",
@@ -20,6 +38,15 @@
       "category": "芯片",
       "published": "2026-09-18T23:30:00+08:00",
       "time": "23:30"
+    },
+    {
+      "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
+      "desc": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
+      "link": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-09-18T23:22:48+08:00",
+      "time": "23:22"
     },
     {
       "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
