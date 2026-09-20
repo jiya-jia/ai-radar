@@ -1,8 +1,80 @@
 {
   "date": "2026-09-20",
-  "generated_at": "2026-09-20T13:56:31+08:00",
-  "count": 8,
+  "generated_at": "2026-09-21T00:41:17+08:00",
+  "count": 16,
   "items": [
+    {
+      "title": "Trump now says he wants to form an ‘AI Force’",
+      "desc": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-09-20T23:39:22+08:00",
+      "time": "23:39"
+    },
+    {
+      "title": "华为首发企业AI白皮书：AI让员工更快了，怎样让整个企业受益？",
+      "desc": "AI越来越能干，企业该怎么用",
+      "link": "https://www.qbitai.com/2026/09/493068.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-09-20T22:23:52+08:00",
+      "time": "22:23"
+    },
+    {
+      "title": "一张3090就能跑！全栈国产模型，把AI办公搬到企业本地",
+      "desc": "AI办公这块蛋糕，中国电信可能要先切走一块了。",
+      "link": "https://www.qbitai.com/2026/09/492946.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-09-20T20:22:41+08:00",
+      "time": "20:22"
+    },
+    {
+      "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+      "desc": "Before recent high-profile hacks raised the specter of AI possibly \" killing all humans ,\" our energy systems were already disturbingly vulnerable to…",
+      "link": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-09-20T20:00:00+08:00",
+      "time": "20:00"
+    },
+    {
+      "title": "APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策",
+      "desc": "9月19日，中国人工智能企业APUS旗下 AI 实验室公布了全球最早一批针对Jev的独立开源复现成果",
+      "link": "https://www.qbitai.com/2026/09/492939.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-09-20T16:30:32+08:00",
+      "time": "16:30"
+    },
+    {
+      "title": "谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！",
+      "desc": "亚马逊云科技给企业安全用Agent打了个样",
+      "link": "https://www.qbitai.com/2026/09/492912.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-09-20T16:01:13+08:00",
+      "time": "16:01"
+    },
+    {
+      "title": "沙利文发布2026年智能体市场研究报告：WorkBuddy稳居企业级、个人应用双榜第一",
+      "desc": "9月20日，全球权威机构沙利文发布《2026年全球桌面AI智能体市场研究报告》，腾讯WorkBuddy同时位列中国个人端桌面智能体榜单与企业级桌面智能体榜单第一，继续保持双端领先地位。 报告以“产品技术领先”和“用户落地实效”两项综合指标衡量桌面AI智能体竞争力…",
+      "link": "https://www.leiphone.com/category/industrynews/U0o8Z4sG9l26lvTQ.html",
+      "source": "雷峰网",
+      "category": "研究",
+      "published": "2026-09-20T12:14:00+08:00",
+      "time": "12:14"
+    },
+    {
+      "title": "智用开物管震：工业互联网被误读十年后，Agent才让它开始干活",
+      "desc": "今年3月，智用开物完成近亿元天使+轮融资，除了老股东瑞枫资本，创享投资以及战略级客户立讯集团家族办公室及高管团队也出现在了股东名单里。这是智用开物过去一年里的第三笔融资，而创始人管震告诉雷峰网，很快会完成新一轮融资。 这些资金流向的，究竟是怎样的一个稀缺方向？是工厂里那些“不上产线”的环节…",
+      "link": "https://www.leiphone.com/category/IndustrialInternet/og8hnQkB5Ur9a0BF.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-09-20T11:57:00+08:00",
+      "time": "11:57"
+    },
     {
       "title": "在南方医院，临床医生开始「造」AI工具",
       "desc": "南方医院肾内科的谢迪医生，还记得前几年遇到的一位女孩，24岁，系统性红斑狼疮，因为呼吸困难住院。她的血检指标，却指向一种进展凶险的罕见病——aHUS（非典型溶血性尿毒症综合征）。发病时，微血栓会堵塞全身小血管，肾脏首当其冲；其急性期死亡率达25%…",
