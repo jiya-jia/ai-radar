@@ -1,0 +1,79 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T13:56:31+08:00",
+  "count": 8,
+  "items": [
+    {
+      "title": "在南方医院，临床医生开始「造」AI工具",
+      "desc": "南方医院肾内科的谢迪医生，还记得前几年遇到的一位女孩，24岁，系统性红斑狼疮，因为呼吸困难住院。她的血检指标，却指向一种进展凶险的罕见病——aHUS（非典型溶血性尿毒症综合征）。发病时，微血栓会堵塞全身小血管，肾脏首当其冲；其急性期死亡率达25%…",
+      "link": "https://www.leiphone.com/category/aihealth/G2sfB8fGnc0AwfEw.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-09-20T11:54:00+08:00",
+      "time": "11:54"
+    },
+    {
+      "title": "齐向东：智能体重构软件，安全是必答题",
+      "desc": "9月20日，第28届中国国际软件博览会暨智能体创新应用大会在郑州国际会展中心开幕。全国政协委员、全国工商联副主席、奇安信集团董事长齐向东出席开幕式暨主题峰会，并作《智能体重构软件：效率要提上来，风险要管得住》主旨演讲…",
+      "link": "https://www.leiphone.com/category/industrynews/7Upw9N5muJIAalUC.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-09-20T11:46:00+08:00",
+      "time": "11:46"
+    },
+    {
+      "title": "考拉悠然无界再登WorldArena 2.0全球前列，两项核心指标全球第一",
+      "desc": "9月16日， WorldArena 2.0 全球终榜揭晓 ，考拉悠然旗下悠然无界世界模型在Track 1视频质量赛道获得全球第二，并在Background Consistency与JEPA Similarity两项核心指标中位列第一。 在雷峰网看来，这 进一步验证了其在长时场景一致性、状态演化与物理规律建模方面的能力…",
+      "link": "https://www.leiphone.com/category/robot/Byhr8nY5EMvruVC5.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-09-20T11:05:00+08:00",
+      "time": "11:05"
+    },
+    {
+      "title": "《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上",
+      "desc": "9月18日，在第一届中国网络空间安全大会上，《网络安全人才实战能力报告—AI赋能篇》正式发布",
+      "link": "https://www.qbitai.com/2026/09/492849.html",
+      "source": "量子位",
+      "category": "产品",
+      "published": "2026-09-20T10:48:18+08:00",
+      "time": "10:48"
+    },
+    {
+      "title": "阶跃新旗舰 Step 5 Preview 发布，跻身 AA 榜单全球开源前三",
+      "desc": "9 月 20 日，阶跃星辰发布新一代旗舰基座模型 Step 5 Preview ，重点面向 AI 编程、软件工程、专业知识工作、金融等场景，提升模型在真实世界 Agentic 任务中的综合表现，并进一步拓展智能与成本之间的最优边界…",
+      "link": "https://www.leiphone.com/category/industrynews/yU1FPmKgLcs3SWmO.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-09-20T10:20:00+08:00",
+      "time": "10:20"
+    },
+    {
+      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+      "desc": "Meta's Muse is apparently an effective AI assistant , but one that's a little creepy. Part of that is because of its new Mac app , which can access Messages…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-09-20T04:44:40+08:00",
+      "time": "04:44"
+    },
+    {
+      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+      "desc": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+      "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-09-20T03:57:47+08:00",
+      "time": "03:57"
+    },
+    {
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "desc": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+      "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-09-20T01:30:00+08:00",
+      "time": "01:30"
+    }
+  ]
+}
