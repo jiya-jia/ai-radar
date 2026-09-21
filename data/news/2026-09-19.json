@@ -1,7 +1,7 @@
 {
   "date": "2026-09-19",
-  "generated_at": "2026-09-21T00:41:17+08:00",
-  "count": 22,
+  "generated_at": "2026-09-21T14:02:35+08:00",
+  "count": 26,
   "items": [
     {
       "title": "Gemini went rogue, hacked three companies, and Google hid it",
@@ -22,6 +22,24 @@
       "time": "23:05"
     },
     {
+      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+      "desc": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though…",
+      "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-09-19T23:00:00+08:00",
+      "time": "23:00"
+    },
+    {
+      "title": "AI safety conversations have gotten unbelievable",
+      "desc": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+      "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-09-19T23:00:00+08:00",
+      "time": "23:00"
+    },
+    {
       "title": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
       "desc": "Today on Decoder , we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the…",
       "link": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
@@ -36,6 +54,15 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
       "source": "The Verge AI",
       "category": "政策",
+      "published": "2026-09-19T21:00:00+08:00",
+      "time": "21:00"
+    },
+    {
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "desc": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+      "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "source": "TechCrunch AI",
+      "category": "研究",
       "published": "2026-09-19T21:00:00+08:00",
       "time": "21:00"
     },
@@ -92,6 +119,15 @@
       "category": "芯片",
       "published": "2026-09-19T09:58:00+08:00",
       "time": "09:58"
+    },
+    {
+      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+      "desc": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+      "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-09-19T08:12:07+08:00",
+      "time": "08:12"
     },
     {
       "title": "Anthropic is operating a lab that conducts biology experiments",

@@ -1,7 +1,7 @@
 {
   "date": "2026-09-20",
-  "generated_at": "2026-09-21T00:41:17+08:00",
-  "count": 16,
+  "generated_at": "2026-09-21T14:02:35+08:00",
+  "count": 18,
   "items": [
     {
       "title": "Trump now says he wants to form an ‘AI Force’",
@@ -11,6 +11,15 @@
       "category": "资讯",
       "published": "2026-09-20T23:39:22+08:00",
       "time": "23:39"
+    },
+    {
+      "title": "刚刚，剪映发了个大的：AI生视频和AI剪辑的壁，被打破了！",
+      "desc": "剪映Hub+剪映助手，好用",
+      "link": "https://www.qbitai.com/2026/09/492973.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-09-20T22:30:26+08:00",
+      "time": "22:30"
     },
     {
       "title": "华为首发企业AI白皮书：AI让员工更快了，怎样让整个企业受益？",
@@ -119,6 +128,15 @@
       "category": "模型",
       "published": "2026-09-20T10:20:00+08:00",
       "time": "10:20"
+    },
+    {
+      "title": "曝长鑫准备进入闪存市场，将与三星海力士美光正面竞争；曝京东北京园区行政岗被要求佩戴采集器记录动作数据；传Kimi或入局具身智能领域",
+      "desc": "要闻提示 1.消息人士：长鑫准备进入闪存市场，将与三星海力士美光正面竞争 2.曝京东北京园区行政岗被要求佩戴采集器，用于记录动作数据 3.赛力斯科技总裁刘宗成：汽车产业最大的风险不是慢，而是“速成” 4.传Kimi或入局具身智能领域 5.钉钉创始人陈航担任百望股份非执行董事…",
+      "link": "https://www.leiphone.com/category/zaobao/VgsycjqvNfz75zmN.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-09-20T09:10:00+08:00",
+      "time": "09:10"
     },
     {
       "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
