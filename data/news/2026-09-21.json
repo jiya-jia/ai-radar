@@ -1,8 +1,125 @@
 {
   "date": "2026-09-21",
-  "generated_at": "2026-09-21T14:02:35+08:00",
-  "count": 10,
+  "generated_at": "2026-09-22T02:29:17+08:00",
+  "count": 23,
   "items": [
+    {
+      "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
+      "desc": "Donald Trump has said that the US would appoint a new AI tsar and create an “AI Force” while offering a full-throated defense of the emerging industry in the…",
+      "link": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/",
+      "source": "Ars Technica",
+      "category": "政策",
+      "published": "2026-09-21T23:37:56+08:00",
+      "time": "23:37"
+    },
+    {
+      "title": "Multi-agent AI systems are taking over supply chain execution",
+      "desc": "Multi-agent AI systems are taking over supply chain execution as enterprise networks face diminishing returns from static dashboards, pushing logistics…",
+      "link": "https://www.artificialintelligence-news.com/news/multi-agent-ai-systems-supply-chain-execution/",
+      "source": "AI News",
+      "category": "芯片",
+      "published": "2026-09-21T23:32:54+08:00",
+      "time": "23:32"
+    },
+    {
+      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+      "desc": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience.",
+      "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-09-21T22:39:22+08:00",
+      "time": "22:39"
+    },
+    {
+      "title": "Can John Ternus find Apple’s next big thing?",
+      "desc": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg ’s chief Apple correspondent and the host of the…",
+      "link": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
+      "source": "The Verge AI",
+      "category": "融资",
+      "published": "2026-09-21T22:00:00+08:00",
+      "time": "22:00"
+    },
+    {
+      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+      "desc": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government…",
+      "link": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+      "source": "MIT Tech Review",
+      "category": "融资",
+      "published": "2026-09-21T20:00:00+08:00",
+      "time": "20:00"
+    },
+    {
+      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+      "desc": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of…",
+      "link": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+      "source": "MIT Tech Review",
+      "category": "融资",
+      "published": "2026-09-21T20:00:00+08:00",
+      "time": "20:00"
+    },
+    {
+      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+      "desc": "She had only walked for a couple of hours, and already she was lost. It was early afternoon on Sept…",
+      "link": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+      "source": "MIT Tech Review",
+      "category": "融资",
+      "published": "2026-09-21T20:00:00+08:00",
+      "time": "20:00"
+    },
+    {
+      "title": "Amazon blocks Meta’s Muse AI agent",
+      "desc": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports…",
+      "link": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-09-21T17:21:47+08:00",
+      "time": "17:21"
+    },
+    {
+      "title": "华为云码道上线鸿蒙编码大模型 面向鸿蒙开发者全面升级",
+      "desc": "2026年9月21日，华为云码道CodeArts代码智能体面向鸿蒙开发者进行全面升级，上线“鸿蒙编码大模型+码道鸿蒙智能体+鸿蒙开发者实践中心”三大核心能力，打造全球首个且唯一专为鸿蒙生态打造的AI编码智能体…",
+      "link": "https://www.leiphone.com/category/industrynews/B5ahgA6nibk33DRO.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-09-21T17:03:00+08:00",
+      "time": "17:03"
+    },
+    {
+      "title": "How to Improve Visibility Across Your Enterprise AI Ecosystem",
+      "desc": "AI adoption has outpaced AI governance across enterprise environments, creating a fundamental security problem…",
+      "link": "https://www.artificialintelligence-news.com/news/how-to-improve-visibility-across-your-enterprise-ai-ecosystem/",
+      "source": "AI News",
+      "category": "资讯",
+      "published": "2026-09-21T15:50:48+08:00",
+      "time": "15:50"
+    },
+    {
+      "title": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
+      "desc": "OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark",
+      "link": "https://www.qbitai.com/2026/09/493231.html",
+      "source": "量子位",
+      "category": "研究",
+      "published": "2026-09-21T15:31:26+08:00",
+      "time": "15:31"
+    },
+    {
+      "title": "登顶国际Data Agent榜单登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案",
+      "desc": "近日， OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark（简称DAB），以90.62%的准确率位列第一，成为该榜单首个准确率突破90%的参评方案…",
+      "link": "https://www.leiphone.com/category/industrynews/ug9HpmoWVwNMZZTH.html",
+      "source": "雷峰网",
+      "category": "研究",
+      "published": "2026-09-21T15:20:00+08:00",
+      "time": "15:20"
+    },
+    {
+      "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
+      "desc": "在物理世界真正干活的具身智能体",
+      "link": "https://www.qbitai.com/2026/09/493218.html",
+      "source": "量子位",
+      "category": "机器人",
+      "published": "2026-09-21T14:22:37+08:00",
+      "time": "14:22"
+    },
     {
       "title": "开源Top2！实测阶跃Step 5 Preview，真有点猛啊…",
       "desc": "激活参数仅27B",

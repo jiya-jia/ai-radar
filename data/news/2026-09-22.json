@@ -1,0 +1,34 @@
+{
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T02:29:17+08:00",
+  "count": 3,
+  "items": [
+    {
+      "title": "Meta’s AI agent has been blocked from using Amazon.com",
+      "desc": "Muse isn't welcome as a shopper anymore.",
+      "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-09-22T01:55:18+08:00",
+      "time": "01:55"
+    },
+    {
+      "title": "Google confirms Gemini models hacked three companies in May 2026",
+      "desc": "It has become increasingly common for AI firms to announce that their latest and most capable models engaged in unauthorized real-world hacking…",
+      "link": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+      "source": "Ars Technica",
+      "category": "模型",
+      "published": "2026-09-22T00:57:26+08:00",
+      "time": "00:57"
+    },
+    {
+      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+      "desc": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and…",
+      "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-09-22T00:38:51+08:00",
+      "time": "00:38"
+    }
+  ]
+}
