@@ -1,7 +1,7 @@
 {
   "date": "2026-09-21",
-  "generated_at": "2026-09-22T13:58:34+08:00",
-  "count": 27,
+  "generated_at": "2026-09-23T01:31:43+08:00",
+  "count": 28,
   "items": [
     {
       "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
@@ -38,6 +38,15 @@
       "category": "融资",
       "published": "2026-09-21T22:00:00+08:00",
       "time": "22:00"
+    },
+    {
+      "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
+      "desc": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout…",
+      "link": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-09-21T21:36:52+08:00",
+      "time": "21:36"
     },
     {
       "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",

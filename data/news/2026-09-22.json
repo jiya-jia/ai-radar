@@ -1,8 +1,98 @@
 {
   "date": "2026-09-22",
-  "generated_at": "2026-09-22T13:58:34+08:00",
-  "count": 12,
+  "generated_at": "2026-09-23T01:31:43+08:00",
+  "count": 22,
   "items": [
+    {
+      "title": "Agent时代，CPU的价值该重估了",
+      "desc": "CPU与GPU趋近1∶1",
+      "link": "https://www.qbitai.com/2026/09/494430.html",
+      "source": "量子位",
+      "category": "芯片",
+      "published": "2026-09-22T23:46:54+08:00",
+      "time": "23:46"
+    },
+    {
+      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "desc": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi…",
+      "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-09-22T23:00:00+08:00",
+      "time": "23:00"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+      "desc": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026…",
+      "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
+      "source": "TechCrunch AI",
+      "category": "机器人",
+      "published": "2026-09-22T22:30:00+08:00",
+      "time": "22:30"
+    },
+    {
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "desc": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect…",
+      "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "source": "MIT Tech Review",
+      "category": "资讯",
+      "published": "2026-09-22T21:42:05+08:00",
+      "time": "21:42"
+    },
+    {
+      "title": "WebArena作者Shuyan Zhou入职Meta超级智能实验室",
+      "desc": "梦想是做能帮妈妈订机票的AI浏览器。",
+      "link": "https://www.qbitai.com/2026/09/493653.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-09-22T19:58:53+08:00",
+      "time": "19:58"
+    },
+    {
+      "title": "6天烧光2000多万，拿下开源第一！小米史无前例「炼丹直播」收官",
+      "desc": "Hugging Face CEO：「太棒了」",
+      "link": "https://www.qbitai.com/2026/09/494179.html",
+      "source": "量子位",
+      "category": "产品",
+      "published": "2026-09-22T19:50:28+08:00",
+      "time": "19:50"
+    },
+    {
+      "title": "AutoScheduler launches warehouse app builder for logistics teams",
+      "desc": "AutoScheduler has launched its warehouse app builder to let logistics teams build custom tools directly from live facility data…",
+      "link": "https://www.artificialintelligence-news.com/news/autoscheduler-warehouse-app-builder-for-logistics-teams/",
+      "source": "AI News",
+      "category": "模型",
+      "published": "2026-09-22T19:34:39+08:00",
+      "time": "19:34"
+    },
+    {
+      "title": "Don’t be fooled by this summer of AI hype",
+      "desc": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than…",
+      "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "source": "MIT Tech Review",
+      "category": "芯片",
+      "published": "2026-09-22T19:04:51+08:00",
+      "time": "19:04"
+    },
+    {
+      "title": "基元律动韩凯：从多模型调度到反馈闭环，探索Agent持续进化",
+      "desc": "9月22日，在2026杭州云栖大会企业级Agent实践峰会上，基元律动联合创始人兼CTO韩凯发表演讲《从Harness到RSI飞轮》。",
+      "link": "https://www.qbitai.com/2026/09/494120.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-09-22T18:06:34+08:00",
+      "time": "18:06"
+    },
+    {
+      "title": "Toyota’s $6.4bn robotics estimate puts physical AI in focus",
+      "desc": "Toyota Motor estimates that expanding automation across its factories, group companies, and major suppliers could require around 400,000 robots and annual…",
+      "link": "https://www.artificialintelligence-news.com/news/toyota-physical-ai-factory-robotics/",
+      "source": "AI News",
+      "category": "机器人",
+      "published": "2026-09-22T18:00:00+08:00",
+      "time": "18:00"
+    },
     {
       "title": "阿里研究员透露Qwen4.5后模型将扩展至5-10T参数",
       "desc": "未来Qwen4.5、Qwen5等版本将扩展至5-10T参数。",
