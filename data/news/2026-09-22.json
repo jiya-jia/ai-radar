@@ -1,8 +1,89 @@
 {
   "date": "2026-09-22",
-  "generated_at": "2026-09-22T02:29:17+08:00",
-  "count": 3,
+  "generated_at": "2026-09-22T13:58:34+08:00",
+  "count": 12,
   "items": [
+    {
+      "title": "阿里研究员透露Qwen4.5后模型将扩展至5-10T参数",
+      "desc": "未来Qwen4.5、Qwen5等版本将扩展至5-10T参数。",
+      "link": "https://www.qbitai.com/2026/09/493629.html",
+      "source": "量子位",
+      "category": "研究",
+      "published": "2026-09-22T11:48:05+08:00",
+      "time": "11:48"
+    },
+    {
+      "title": "阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中",
+      "desc": "9月22日， 2026云栖大会开幕，阿里巴巴公布大模型最新进展。",
+      "link": "https://www.qbitai.com/2026/09/493625.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-09-22T11:42:43+08:00",
+      "time": "11:42"
+    },
+    {
+      "title": "阿里巴巴：机器智能时代，坚定投入AI模型 AI芯片 AI云三大基石",
+      "desc": "吴泳铭表示，阿里巴巴将坚定投入AI模型、AI芯片和AI云这三项基础设施建设，这是阿里的长期战略选择。",
+      "link": "https://www.qbitai.com/2026/09/493502.html",
+      "source": "量子位",
+      "category": "芯片",
+      "published": "2026-09-22T10:59:29+08:00",
+      "time": "10:59"
+    },
+    {
+      "title": "AI算力之争不靠堆卡！浪潮信息捅破智算「能力天花板」，还瓦解了「产能焦虑」",
+      "desc": "弥补算力缺口，不能只靠堆料",
+      "link": "https://www.qbitai.com/2026/09/493363.html",
+      "source": "量子位",
+      "category": "芯片",
+      "published": "2026-09-22T10:22:06+08:00",
+      "time": "10:22"
+    },
+    {
+      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+      "desc": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+      "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-09-22T07:44:28+08:00",
+      "time": "07:44"
+    },
+    {
+      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "desc": "Meta founder and CEO Mark Zuckerberg has gone to great lengths to hype the security of its new AI assistant Muse, claiming it is “built from the ground up for…",
+      "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+      "source": "Ars Technica",
+      "category": "融资",
+      "published": "2026-09-22T06:24:38+08:00",
+      "time": "06:24"
+    },
+    {
+      "title": "California tightens rules on AI data center energy and water use",
+      "desc": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-09-22T04:29:45+08:00",
+      "time": "04:29"
+    },
+    {
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "desc": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+      "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "source": "TechCrunch AI",
+      "category": "研究",
+      "published": "2026-09-22T04:15:58+08:00",
+      "time": "04:15"
+    },
+    {
+      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "desc": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile…",
+      "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-09-22T03:19:21+08:00",
+      "time": "03:19"
+    },
     {
       "title": "Meta’s AI agent has been blocked from using Amazon.com",
       "desc": "Muse isn't welcome as a shopper anymore.",
