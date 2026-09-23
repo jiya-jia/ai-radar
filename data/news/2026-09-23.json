@@ -1,8 +1,53 @@
 {
   "date": "2026-09-23",
-  "generated_at": "2026-09-23T13:44:01+08:00",
-  "count": 16,
+  "generated_at": "2026-09-24T01:43:15+08:00",
+  "count": 21,
   "items": [
+    {
+      "title": "YouTube will let you build your own algorithm with AI",
+      "desc": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
+      "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-09-23T22:30:00+08:00",
+      "time": "22:30"
+    },
+    {
+      "title": "GPT-6 Sol 降价 50% 的秘密：消失的 Terra，一场模型梯队平移",
+      "desc": "奥圣上台，梁圣危机了么？ 作者丨 高允毅 编辑丨岑 峰 OpenAI 也走性价比路线了？别被它的“偷梁换柱”给骗了。 今早，硅谷又热闹了，迎来双雄对决。Anthropic 推出 Claude Opus 5.5，OpenAI 紧接着推出 GPT-6 Sol 与 Luna…",
+      "link": "https://www.leiphone.com/category/yanxishe/gnzWAPK52Igo0DSk.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-09-23T20:47:00+08:00",
+      "time": "20:47"
+    },
+    {
+      "title": "汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”",
+      "desc": "企业AI服务迎来平台化交付时代",
+      "link": "https://www.qbitai.com/2026/09/496493.html",
+      "source": "量子位",
+      "category": "产品",
+      "published": "2026-09-23T17:50:26+08:00",
+      "time": "17:50"
+    },
+    {
+      "title": "斑马智能发布端模型AutoOmni2.0，让元神AI更懂“我的世界”",
+      "desc": "9月23日云栖大会期间，斑马智能发布新一代全模态端侧大模型AutoOmni 2.0-23B-A3B",
+      "link": "https://www.qbitai.com/2026/09/496471.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-09-23T16:45:22+08:00",
+      "time": "16:45"
+    },
+    {
+      "title": "DeepSeek新论文公开Agent训练！梁文锋署名",
+      "desc": "每秒能产生5000+个沙盒",
+      "link": "https://www.qbitai.com/2026/09/496393.html",
+      "source": "量子位",
+      "category": "研究",
+      "published": "2026-09-23T15:29:50+08:00",
+      "time": "15:29"
+    },
     {
       "title": "GPT-6 Astra搓3D刷屏后，3D生成的竞争规则变了",
       "desc": "下半场开始了",
