@@ -1,7 +1,7 @@
 {
   "date": "2026-09-22",
-  "generated_at": "2026-09-23T01:31:43+08:00",
-  "count": 22,
+  "generated_at": "2026-09-23T13:44:01+08:00",
+  "count": 26,
   "items": [
     {
       "title": "Agent时代，CPU的价值该重估了",
@@ -31,6 +31,15 @@
       "time": "22:30"
     },
     {
+      "title": "讲真，我没看出这图是AI做的，更没想到是国产AI做的",
+      "desc": "商汤U1 Pro，正式发布",
+      "link": "https://www.qbitai.com/2026/09/494263.html",
+      "source": "量子位",
+      "category": "产品",
+      "published": "2026-09-22T21:57:10+08:00",
+      "time": "21:57"
+    },
+    {
       "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
       "desc": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect…",
       "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
@@ -49,6 +58,15 @@
       "time": "19:58"
     },
     {
+      "title": "Meta patches Muse exploit that let attackers control the AI agent",
+      "desc": "The zero-day exploit required local access to the user’s device, but gave potential attackers access to Muse accounts…",
+      "link": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+      "source": "The Verge AI",
+      "category": "研究",
+      "published": "2026-09-22T19:53:58+08:00",
+      "time": "19:53"
+    },
+    {
       "title": "6天烧光2000多万，拿下开源第一！小米史无前例「炼丹直播」收官",
       "desc": "Hugging Face CEO：「太棒了」",
       "link": "https://www.qbitai.com/2026/09/494179.html",
@@ -65,6 +83,15 @@
       "category": "模型",
       "published": "2026-09-22T19:34:39+08:00",
       "time": "19:34"
+    },
+    {
+      "title": "《AGI市场观察》发布：四款国产模型周用量破10万亿tokens，DeepSeek与混元占比近半",
+      "desc": "日前，智能经济30人论坛AGI测评中心发布最新一期《AGI市场观察》（2026年9月12日-18日）。报告以OpenRouter词元消耗数据、各厂商官方披露价格及Arena基准测评为基础，对国产大语言模型做周度量化追踪，本期围绕用量、份额、集中度、价格与性价比等方面给出观察…",
+      "link": "https://www.leiphone.com/category/industrynews/IRBkL55eFXZRCHiy.html",
+      "source": "雷峰网",
+      "category": "研究",
+      "published": "2026-09-22T19:25:00+08:00",
+      "time": "19:25"
     },
     {
       "title": "Don’t be fooled by this summer of AI hype",
@@ -92,6 +119,15 @@
       "category": "机器人",
       "published": "2026-09-22T18:00:00+08:00",
       "time": "18:00"
+    },
+    {
+      "title": "做每个人的专属AI助理，千问加速打造Personal Agent",
+      "desc": "9月22日，在2026年云栖大会上，千问宣布将加速打造 Personal Agent。千问产品负责人郑嗣寿表示，自去年上线以来，让每个人拥有自己的 AI 助理，始终是千问不变的目标…",
+      "link": "https://www.leiphone.com/category/industrynews/4V3AYUarwL4RCE5O.html",
+      "source": "雷峰网",
+      "category": "研究",
+      "published": "2026-09-22T16:40:00+08:00",
+      "time": "16:40"
     },
     {
       "title": "阿里研究员透露Qwen4.5后模型将扩展至5-10T参数",
