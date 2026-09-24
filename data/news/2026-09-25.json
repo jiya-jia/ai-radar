@@ -1,0 +1,97 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T01:44:57+08:00",
+  "count": 10,
+  "items": [
+    {
+      "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+      "desc": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning…",
+      "link": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-09-25T01:39:24+08:00",
+      "time": "01:39"
+    },
+    {
+      "title": "Muse will apparently let you download its entire filesystem",
+      "desc": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-09-25T01:14:12+08:00",
+      "time": "01:14"
+    },
+    {
+      "title": "Muse sure looks a lot like OpenClaw",
+      "desc": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has…",
+      "link": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
+      "source": "The Verge AI",
+      "category": "融资",
+      "published": "2026-09-25T01:10:38+08:00",
+      "time": "01:10"
+    },
+    {
+      "title": "It’s sinister that Meta’s Muse AI mascot is so cute",
+      "desc": "The fireman outfit. Dead. | Photo by Sean Hollister / The Verge This is Optimizer , a weekly newsletter sent from Verge senior reviewer Victoria Song that…",
+      "link": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-09-25T01:00:00+08:00",
+      "time": "01:00"
+    },
+    {
+      "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
+      "desc": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
+      "link": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-09-25T01:00:00+08:00",
+      "time": "01:00"
+    },
+    {
+      "title": "20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
+      "desc": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that…",
+      "link": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-09-25T00:35:13+08:00",
+      "time": "00:35"
+    },
+    {
+      "title": "Google's first Suncatcher orbital data center test launches October 1",
+      "desc": "Google is taking its first step toward making Project Suncatcher a reality. Announced last year, Suncatcher is Google's \"moonshot\" effort to design orbital AI…",
+      "link": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
+      "source": "Ars Technica",
+      "category": "芯片",
+      "published": "2026-09-25T00:16:34+08:00",
+      "time": "00:16"
+    },
+    {
+      "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
+      "desc": "Google's launching an \"early experiment\" feature on Pixel 11 that lets users delegate local business calls to Gemini, like making a reservation, checking if a…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-09-25T00:04:31+08:00",
+      "time": "00:04"
+    },
+    {
+      "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
+      "desc": "Australian Prime Minister Anthony Albanese said his government is investigating a June incident in which an OpenAI agent accessed \"non-public files\" from the…",
+      "link": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
+      "source": "Ars Technica",
+      "category": "政策",
+      "published": "2026-09-25T00:01:16+08:00",
+      "time": "00:01"
+    },
+    {
+      "title": "Google tests letting Gemini call businesses for you",
+      "desc": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
+      "link": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-09-25T00:00:00+08:00",
+      "time": "00:00"
+    }
+  ]
+}

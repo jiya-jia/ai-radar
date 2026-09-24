@@ -1,8 +1,17 @@
 {
   "date": "2026-09-23",
-  "generated_at": "2026-09-24T13:58:42+08:00",
-  "count": 26,
+  "generated_at": "2026-09-25T01:44:57+08:00",
+  "count": 31,
   "items": [
+    {
+      "title": "YouTube Music gets more conversational with new AI features",
+      "desc": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs…",
+      "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-09-23T23:19:30+08:00",
+      "time": "23:19"
+    },
     {
       "title": "YouTube will let you build your own algorithm with AI",
       "desc": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
@@ -20,6 +29,15 @@
       "category": "模型",
       "published": "2026-09-23T21:13:15+08:00",
       "time": "21:13"
+    },
+    {
+      "title": "影像场景行业正在换赛道：定义影像设备的权利，正在交给千行百业的真实场景",
+      "desc": "过去一年，影像行业最值得琢磨的变化，是越来越多厂商开始用“场景”重新定义自己。 9月22日，深圳。乐其创新SmallRig联合36氪主办的第三届全球影像场景产业大会（2026）在深铁铂尔曼酒店举行，索尼、尼康、影石、荣耀、vivo、适马、蓝箭航天、极壳、朗翰科技等众多产业链上的品牌到场，主题是“连接·共生·新边界”…",
+      "link": "https://www.leiphone.com/category/weiwu/9E7usYwuoOSNziXL.html",
+      "source": "雷峰网",
+      "category": "研究",
+      "published": "2026-09-23T20:57:00+08:00",
+      "time": "20:57"
     },
     {
       "title": "GPT-6 Sol 降价 50% 的秘密：消失的 Terra，一场模型梯队平移",
@@ -58,6 +76,15 @@
       "time": "17:46"
     },
     {
+      "title": "蚂蚁密算发布企业级可信智能云服务平台“密算一号”，启动首批定向邀测",
+      "desc": "2026云栖大会在杭州召开，在蚂蚁密算与阿里云共同承办的“密算织域 融数成智”专题论坛上，蚂蚁密算发布企业级可信智能云服务平台“密算一号”，并启动首批定向邀测。 平台以密态计算为基础，同时连接云上大模型、智能体与算力，核心能力是让企业数据在“可用不可见、可控可计量”的前提下，安全地参与跨机构合作和云上AI应用…",
+      "link": "https://www.leiphone.com/category/industrynews/vcFXR69YQUTL9k43.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-09-23T17:23:00+08:00",
+      "time": "17:23"
+    },
+    {
       "title": "The AI Hype Index: AI loves cheating",
       "desc": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test…",
       "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
@@ -92,6 +119,15 @@
       "category": "研究",
       "published": "2026-09-23T15:29:50+08:00",
       "time": "15:29"
+    },
+    {
+      "title": "从设备到场景，影像产业正在打开怎样的新边界？",
+      "desc": "SmallRig斯莫格第三届全球影像场景产业大会（2026） 9月22日，由乐其创新SmallRig联合36氪主办的第三届全球影像场景产业大会（2026，下称大会）在深圳举行。本届大会以“连接·共生·新边界”为主题，分为主旨会场和影像场景人才·未来场、影像场景产品·文创场、影像场景技术·新边界三大平行分会场…",
+      "link": "https://www.leiphone.com/category/industrynews/K21m19f4RE96h2ex.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-09-23T14:05:00+08:00",
+      "time": "14:05"
     },
     {
       "title": "GPT-6 Astra搓3D刷屏后，3D生成的竞争规则变了",
@@ -182,6 +218,15 @@
       "category": "模型",
       "published": "2026-09-23T04:52:40+08:00",
       "time": "04:52"
+    },
+    {
+      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+      "desc": "Microsoft said Tuesday that it led an industry-wide disruption of a subscription-based scam platform that used an AI chatbot to compromise 12,000 Microsoft…",
+      "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+      "source": "Ars Technica",
+      "category": "资讯",
+      "published": "2026-09-23T03:45:47+08:00",
+      "time": "03:45"
     },
     {
       "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",

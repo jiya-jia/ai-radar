@@ -1,8 +1,89 @@
 {
   "date": "2026-09-24",
-  "generated_at": "2026-09-24T13:58:42+08:00",
-  "count": 16,
+  "generated_at": "2026-09-25T01:44:57+08:00",
+  "count": 25,
   "items": [
+    {
+      "title": "Google is sending an AI satellite into space next week",
+      "desc": "Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New York Times…",
+      "link": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-09-24T22:15:17+08:00",
+      "time": "22:15"
+    },
+    {
+      "title": "I have some questions for Mark Zuckerberg",
+      "desc": "It’s a big week for Meta. The company just kicked off its big Connect conference on Wednesday, and the new Muse AI agent appears to be an early hit…",
+      "link": "https://www.theverge.com/podcast/999383/mark-zuckerberg-meta-glasses-ai-teen-safety-surveillance-data-centers",
+      "source": "The Verge AI",
+      "category": "政策",
+      "published": "2026-09-24T22:15:00+08:00",
+      "time": "22:15"
+    },
+    {
+      "title": "Meta puts its AI assistant on a keychain",
+      "desc": "Mark Zuckerberg said Meta’s new personal AI agent Muse has become the “centerpiece” of his AI vision, as he unveiled a new handheld AI “charm” device that will…",
+      "link": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
+      "source": "Ars Technica",
+      "category": "产品",
+      "published": "2026-09-24T22:03:38+08:00",
+      "time": "22:03"
+    },
+    {
+      "title": "Meta’s Muse AI Charms can interact with each other",
+      "desc": "Meta's handheld AI gadget, called the Muse Charm, will be able to recognize and interact with other nearby Charms when it launches later this year…",
+      "link": "https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem",
+      "source": "The Verge AI",
+      "category": "产品",
+      "published": "2026-09-24T21:31:43+08:00",
+      "time": "21:31"
+    },
+    {
+      "title": "Australia to investigate if OpenAI hack of government health website broke the law",
+      "desc": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable.",
+      "link": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-09-24T20:54:19+08:00",
+      "time": "20:54"
+    },
+    {
+      "title": "独家丨AWS、微软中国迎来「Claude封号潮」",
+      "desc": "雷峰网获悉，上周，Anthropic启动新一轮合规清查，导致大批AWS和微软大中华区客户的Claude账号被封停。 多名知情人士称，这一轮的封号范围比此前更广。此前外资云中国销售曾找非洲、美洲等区域的人帮忙开设海外账户，以绕开地域限制…",
+      "link": "https://www.leiphone.com/category/industrynews/YiaSUnx4DXphNl93.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-09-24T16:52:00+08:00",
+      "time": "16:52"
+    },
+    {
+      "title": "GPT-6之后，具身智能走向何方？诺因发布GLOW技术报告，给出机器人“一教就会”的答案",
+      "desc": "人类演示一次，机器人即可实现跨场景任务复用",
+      "link": "https://www.qbitai.com/2026/09/496816.html",
+      "source": "量子位",
+      "category": "机器人",
+      "published": "2026-09-24T16:20:12+08:00",
+      "time": "16:20"
+    },
+    {
+      "title": "Accio与数贸会联合上线“数贸会agent”：超2000家展商轻松逛",
+      "desc": "9月24日，Accio与数贸会联合推出的专属智能体“数贸会agent”上线，直接开启Agent智能逛展。 本届数贸会参展企业超2000家，光靠腿很难深度逛透。现在只需下载Accio APP，登录后切换到“数贸会agent”，和它对话就可以轻松解锁路线规划、展商匹配、拍照找厂、日程一览等多项功能…",
+      "link": "https://www.leiphone.com/category/industrynews/VPJv7JgYFoAP8NJ3.html",
+      "source": "雷峰网",
+      "category": "政策",
+      "published": "2026-09-24T15:00:00+08:00",
+      "time": "15:00"
+    },
+    {
+      "title": "5分钟完成机器人纳管、10秒启动跨集群任务，清华大学联合无问芯穹开源具身智能云原生平台RLark",
+      "desc": "开源一座具身智能的新“塔台”",
+      "link": "https://www.qbitai.com/2026/09/496767.html",
+      "source": "量子位",
+      "category": "机器人",
+      "published": "2026-09-24T13:19:55+08:00",
+      "time": "13:19"
+    },
     {
       "title": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意",
       "desc": "懂出海，能记忆，自进化",
