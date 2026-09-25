@@ -1,8 +1,89 @@
 {
   "date": "2026-09-25",
-  "generated_at": "2026-09-25T14:00:13+08:00",
-  "count": 16,
+  "generated_at": "2026-09-26T01:46:37+08:00",
+  "count": 25,
   "items": [
+    {
+      "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+      "desc": "The latest unauthorized agent swarms were discovered by researchers.",
+      "link": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+      "source": "TechCrunch AI",
+      "category": "研究",
+      "published": "2026-09-25T23:48:14+08:00",
+      "time": "23:48"
+    },
+    {
+      "title": "Anthropic’s founders seek voting control ahead of IPO",
+      "desc": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
+      "link": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-09-25T23:40:03+08:00",
+      "time": "23:40"
+    },
+    {
+      "title": "One company is at the center of a wave of rogue AI attacks",
+      "desc": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission , sparking widespread concerns about AI safety…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+      "source": "The Verge AI",
+      "category": "研究",
+      "published": "2026-09-25T23:39:48+08:00",
+      "time": "23:39"
+    },
+    {
+      "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
+      "desc": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
+      "link": "https://www.qbitai.com/2026/09/497177.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-09-25T21:15:45+08:00",
+      "time": "21:15"
+    },
+    {
+      "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+      "desc": "In January, the Trump administration rolled out a pilot program that uses artificial intelligence to authorize or deny certain types of care for patients with…",
+      "link": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
+      "source": "Ars Technica",
+      "category": "产品",
+      "published": "2026-09-25T19:00:28+08:00",
+      "time": "19:00"
+    },
+    {
+      "title": "梁文锋狙击战：深扒那些梁文锋署名的论文有多牛",
+      "desc": "过去三年，梁圣署名了11篇论文，每篇都几乎震动世界。 作者丨高允毅 编辑丨岑 峰 当 RSI 的风吹到了 DeepSeek，这次讨论的是一个新话题“自动化沙箱”。 9 月 19 日，arXiv 更新了一篇 DeepSeek 新论文 《DSec：面向大规模智能体训练的高效沙箱基础设施》 ，论文长达 31 页…",
+      "link": "https://www.leiphone.com/category/yanxishe/8IlKEXMO2Pxju8ke.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-09-25T18:48:00+08:00",
+      "time": "18:48"
+    },
+    {
+      "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
+      "desc": "大厂造芯，正在从交付芯片，走向更广泛的开放共建阶段。",
+      "link": "https://www.qbitai.com/2026/09/497108.html",
+      "source": "量子位",
+      "category": "芯片",
+      "published": "2026-09-25T18:00:14+08:00",
+      "time": "18:00"
+    },
+    {
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "desc": "The Pentagon wants a smarter lie detector: The Department of Defense is requesting $30.3 million over five years for \"Polygraph+\"—an AI-powered upgrade to…",
+      "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "source": "MIT Tech Review",
+      "category": "研究",
+      "published": "2026-09-25T17:16:25+08:00",
+      "time": "17:16"
+    },
+    {
+      "title": "华为大模型双子星联手创业，要找物理世界的Scaling Law",
+      "desc": "一场物理世界的基模实验",
+      "link": "https://www.qbitai.com/2026/09/497070.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-09-25T14:14:07+08:00",
+      "time": "14:14"
+    },
     {
       "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
       "desc": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
