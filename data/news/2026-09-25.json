@@ -1,8 +1,53 @@
 {
   "date": "2026-09-25",
-  "generated_at": "2026-09-25T01:44:57+08:00",
-  "count": 10,
+  "generated_at": "2026-09-25T14:00:13+08:00",
+  "count": 16,
   "items": [
+    {
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "desc": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+      "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-09-25T13:00:00+08:00",
+      "time": "13:00"
+    },
+    {
+      "title": "抽“锦鲤”享美食！“点亮杭州 碰见好运”服务消费季活动启动",
+      "desc": "9月24日，“点亮杭州 碰见好运”服务消费季活动在西湖区天目里国际街区正式启动。活动依托支付宝”碰一下”数字支付技术，结合政府消费券发放、平台文旅权益赠送及AI互动装置抽奖等方式，为杭州市民和来杭游客打造具有本地特色的假日消费体验。 “点亮杭州 碰见好运”互动装置通过智能互动抽奖发券的新模式带动城市消费氛围…",
+      "link": "https://www.leiphone.com/category/industrynews/0imdK8Mce43TQgK9.html",
+      "source": "雷峰网",
+      "category": "资讯",
+      "published": "2026-09-25T10:17:00+08:00",
+      "time": "10:17"
+    },
+    {
+      "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
+      "desc": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time…",
+      "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-09-25T03:59:26+08:00",
+      "time": "03:59"
+    },
+    {
+      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+      "desc": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+      "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-09-25T03:00:42+08:00",
+      "time": "03:00"
+    },
+    {
+      "title": "Meta is going to let you build games with AI right on your phone",
+      "desc": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create…",
+      "link": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-09-25T01:52:29+08:00",
+      "time": "01:52"
+    },
     {
       "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
       "desc": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning…",
@@ -65,6 +110,15 @@
       "category": "芯片",
       "published": "2026-09-25T00:16:34+08:00",
       "time": "00:16"
+    },
+    {
+      "title": "Google launches Gemini 3.8 Flash TTS voice models",
+      "desc": "Google has launched two Gemini 3.8 Flash TTS voice models, introducing dedicated speech generation systems engineered for direct performance scripting and…",
+      "link": "https://www.artificialintelligence-news.com/news/google-gemini-3-8-flash-tts-voice-models/",
+      "source": "AI News",
+      "category": "融资",
+      "published": "2026-09-25T00:09:02+08:00",
+      "time": "00:09"
     },
     {
       "title": "Gemini can now call businesses for you so you don’t have to wait on hold",

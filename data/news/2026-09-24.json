@@ -1,8 +1,17 @@
 {
   "date": "2026-09-24",
-  "generated_at": "2026-09-25T01:44:57+08:00",
-  "count": 25,
+  "generated_at": "2026-09-25T14:00:13+08:00",
+  "count": 27,
   "items": [
+    {
+      "title": "Why can’t we just keep rogue AIs off the internet?",
+      "desc": "AI agents keep getting loose , escaping supposedly secure tests to attack real-world targets , commandeer obscure wikis , and leave instructions for other…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
+      "source": "The Verge AI",
+      "category": "研究",
+      "published": "2026-09-24T22:30:00+08:00",
+      "time": "22:30"
+    },
     {
       "title": "Google is sending an AI satellite into space next week",
       "desc": "Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New York Times…",
@@ -10,6 +19,15 @@
       "source": "The Verge AI",
       "category": "芯片",
       "published": "2026-09-24T22:15:17+08:00",
+      "time": "22:15"
+    },
+    {
+      "title": "The vibes are bad for Flock in Washington",
+      "desc": "Flock is in the hot seat in Washington, even if its CEO declined to actually face senators at a hearing about its \"AI Surveillance Network\" on Wednesday…",
+      "link": "https://www.theverge.com/policy/1000005/flock-senate-hearing",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-09-24T22:15:05+08:00",
       "time": "22:15"
     },
     {
