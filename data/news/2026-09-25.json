@@ -1,7 +1,7 @@
 {
   "date": "2026-09-25",
-  "generated_at": "2026-09-26T13:59:32+08:00",
-  "count": 27,
+  "generated_at": "2026-09-27T00:52:53+08:00",
+  "count": 28,
   "items": [
     {
       "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
@@ -92,6 +92,15 @@
       "category": "研究",
       "published": "2026-09-25T17:16:25+08:00",
       "time": "17:16"
+    },
+    {
+      "title": "别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill",
+      "desc": "Agent的手越伸越长",
+      "link": "https://www.qbitai.com/2026/09/497075.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-09-25T14:20:56+08:00",
+      "time": "14:20"
     },
     {
       "title": "华为大模型双子星联手创业，要找物理世界的Scaling Law",

@@ -1,8 +1,53 @@
 {
   "date": "2026-09-26",
-  "generated_at": "2026-09-26T13:59:32+08:00",
-  "count": 13,
+  "generated_at": "2026-09-27T00:52:53+08:00",
+  "count": 18,
   "items": [
+    {
+      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+      "desc": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business…",
+      "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-09-26T22:00:00+08:00",
+      "time": "22:00"
+    },
+    {
+      "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
+      "desc": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。",
+      "link": "https://www.qbitai.com/2026/09/498271.html",
+      "source": "量子位",
+      "category": "研究",
+      "published": "2026-09-26T17:07:41+08:00",
+      "time": "17:07"
+    },
+    {
+      "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
+      "desc": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
+      "link": "https://www.qbitai.com/2026/09/497624.html",
+      "source": "量子位",
+      "category": "芯片",
+      "published": "2026-09-26T17:01:00+08:00",
+      "time": "17:01"
+    },
+    {
+      "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
+      "desc": "vLLM人马创业公司团队出品",
+      "link": "https://www.qbitai.com/2026/09/497425.html",
+      "source": "量子位",
+      "category": "芯片",
+      "published": "2026-09-26T15:12:05+08:00",
+      "time": "15:12"
+    },
+    {
+      "title": "OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光",
+      "desc": "还把「密钥」叫战利品",
+      "link": "https://www.qbitai.com/2026/09/497382.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-09-26T15:04:15+08:00",
+      "time": "15:04"
+    },
     {
       "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
       "desc": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
