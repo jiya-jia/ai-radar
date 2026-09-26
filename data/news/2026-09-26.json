@@ -1,8 +1,71 @@
 {
   "date": "2026-09-26",
-  "generated_at": "2026-09-26T01:46:37+08:00",
-  "count": 4,
+  "generated_at": "2026-09-26T13:59:32+08:00",
+  "count": 13,
   "items": [
+    {
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+      "desc": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+      "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "source": "TechCrunch AI",
+      "category": "研究",
+      "published": "2026-09-26T06:20:47+08:00",
+      "time": "06:20"
+    },
+    {
+      "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
+      "desc": "A US appeals court today approved the Department of Defense's blacklisting of Anthropic technology…",
+      "link": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+      "source": "Ars Technica",
+      "category": "融资",
+      "published": "2026-09-26T05:36:20+08:00",
+      "time": "05:36"
+    },
+    {
+      "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
+      "desc": "Tesla’s pivot from making electric cars to humanoid robots is facing challenges because of complex robot hands and disgruntled employees pushing back against…",
+      "link": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
+      "source": "Ars Technica",
+      "category": "机器人",
+      "published": "2026-09-26T05:10:51+08:00",
+      "time": "05:10"
+    },
+    {
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "desc": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual…",
+      "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-09-26T03:13:38+08:00",
+      "time": "03:13"
+    },
+    {
+      "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
+      "desc": "Last month, we shared word of a Stanford University study that found entry-level employment in so-called \"AI-impacted\" occupations lagging well behind that in…",
+      "link": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+      "source": "Ars Technica",
+      "category": "研究",
+      "published": "2026-09-26T03:11:05+08:00",
+      "time": "03:11"
+    },
+    {
+      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+      "desc": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model…",
+      "link": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-09-26T02:22:47+08:00",
+      "time": "02:22"
+    },
+    {
+      "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
+      "desc": "Since 2024 , Microsoft has tried to sell “Copilot+ PC.” The marketing initiative was aimed at making it easy for people to know which Windows systems were…",
+      "link": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+      "source": "Ars Technica",
+      "category": "资讯",
+      "published": "2026-09-26T01:57:37+08:00",
+      "time": "01:57"
+    },
     {
       "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
       "desc": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
@@ -31,6 +94,15 @@
       "time": "00:49"
     },
     {
+      "title": "智元第20000台具身机器人交付长隆，首期超300台机器人常驻乐园。",
+      "desc": "雷峰网报道： 2026 年，具身智能行业最难回答的问题之一，是怎么落地。 这里的「落地」有两层含义：一方面，机器人得有足够稳定的量产能力，能够真的交付出去；另一方面，交付之后还得适应具体场景，在真实环境里持续工作。智元称之为「部署态」，机器人开始离开发布会和展会，进入真实的生产与服务环境…",
+      "link": "https://www.leiphone.com/category/robot/23F3DiDtv7Puosqy.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-09-26T00:33:00+08:00",
+      "time": "00:33"
+    },
+    {
       "title": "Meta is putting its muscle behind Muse as the AI app takes off",
       "desc": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agents's promotion across its own apps and beyond.",
       "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
@@ -38,6 +110,15 @@
       "category": "资讯",
       "published": "2026-09-26T00:16:52+08:00",
       "time": "00:16"
+    },
+    {
+      "title": "Meta’s AI Tamagotchi bet is…working?",
+      "desc": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model…",
+      "link": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-09-26T00:00:00+08:00",
+      "time": "00:00"
     }
   ]
 }
