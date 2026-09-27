@@ -1,8 +1,17 @@
 {
   "date": "2026-09-25",
-  "generated_at": "2026-09-27T00:52:53+08:00",
-  "count": 28,
+  "generated_at": "2026-09-27T14:26:52+08:00",
+  "count": 31,
   "items": [
+    {
+      "title": "Sony and UMG are suing Suno again",
+      "desc": "Suno’s AI vocalists could learn a thing or two from this glitchy image. | Image: Cath Virginia / The Verge, Getty Images Sony and Universal Music Group filed…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-09-25T23:51:56+08:00",
+      "time": "23:51"
+    },
     {
       "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
       "desc": "The latest unauthorized agent swarms were discovered by researchers.",
@@ -40,6 +49,15 @@
       "time": "23:00"
     },
     {
+      "title": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
+      "desc": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
+      "link": "https://www.qbitai.com/2026/09/497278.html",
+      "source": "量子位",
+      "category": "机器人",
+      "published": "2026-09-25T21:24:20+08:00",
+      "time": "21:24"
+    },
+    {
       "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
       "desc": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
       "link": "https://www.qbitai.com/2026/09/497177.html",
@@ -56,6 +74,15 @@
       "category": "模型",
       "published": "2026-09-25T21:00:00+08:00",
       "time": "21:00"
+    },
+    {
+      "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+      "desc": "After teasing its new Copilot \"super app\" last month , Microsoft is officially unveiling it today…",
+      "link": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+      "source": "The Verge AI",
+      "category": "产品",
+      "published": "2026-09-25T20:00:00+08:00",
+      "time": "20:00"
     },
     {
       "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
