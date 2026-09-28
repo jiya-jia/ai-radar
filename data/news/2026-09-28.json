@@ -1,0 +1,97 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T14:34:06+08:00",
+  "count": 10,
+  "items": [
+    {
+      "title": "海光1000系列发布，端侧市场为何需要另一颗CPU？",
+      "desc": "近日，海光信息发布了1000系列CPU，首次推出专门面向工业控制等端侧场景设计的处理器。 这颗芯片是海光迄今封装尺寸最小的一颗CPU，海光信息总裁助理、创新产品部 副总经理李成 在发布会上表示，这可能也是公司做过的最复杂的单SoC芯片。 从服务器、工作站走向更广泛的工业设备，海光需要为新的使用场景重新定义产品…",
+      "link": "https://www.leiphone.com/category/chips/Vg21PfMOVphziqqK.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-09-28T12:20:00+08:00",
+      "time": "12:20"
+    },
+    {
+      "title": "智己汽车CTO项娇：智己LS6的线控底盘历时8年研发",
+      "desc": "一款车经过三年时间、四个版本迭代，终于迎来自己的高光时刻。 9月23日，全新一代智己LS6（下称“智己LS6”）上市，搭载76kwh、93kwh、103kwh三种规格大电池，全系标配线控转向、全域800V高压纯电平台、 ‌ B&O音响、4D机械按摩座椅，限时起售价为19.79万元、21.79万元、25.99万元…",
+      "link": "https://www.leiphone.com/category/transportation/3USAaLZCbr8AyvEz.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-09-28T12:18:00+08:00",
+      "time": "12:18"
+    },
+    {
+      "title": "7天两场演讲，中国两大AI云撞了同一个爱迪生",
+      "desc": "一周之内，爱迪生成了 AI 圈的团宠。 9 月 16 日，在人民日报社举行的智能经济论坛上，百度沈抖用电力时代的类比，来定位 AI 产业当前所处的阶段。 六天后的阿里云栖大会，吴泳铭讲的同样是电， Token 是新电，云是电网。中国 AI 云两场最重要的年度演讲，像是商量好了似的，隔空讲起了同一个故事…",
+      "link": "https://www.leiphone.com/category/industrynews/YfX6iaJilpBgdPcu.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-09-28T11:30:00+08:00",
+      "time": "11:30"
+    },
+    {
+      "title": "碳硅道统050.5公理母本定稿 构建人机碳硅共生可溯源研究基线",
+      "desc": "近日，碳硅道统研究体系完成重要迭代工作，050.5公理母本正式冻结定稿并完成归档留存。 作为001-050卷宗序列的顶层基准文档，050.5不再新增现象类思辨观点，旨在为人机碳硅共生方向搭建一套可溯源、可引用、可审计、可复现的底层公理体系，补齐现阶段人工智能领域“观点丰富、公理框架稀缺，论述较多、统一基线不足”的现状…",
+      "link": "https://www.leiphone.com/category/industrynews/q5L3rs7dyTggYhLB.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-09-28T10:25:00+08:00",
+      "time": "10:25"
+    },
+    {
+      "title": "Imagination E系列性能首秀：用AI把分辨率翻倍仅需2.3毫秒，Prefill性能提升4.7倍",
+      "desc": "作者 | 陈悦琳 编辑 | 包永刚 越来越繁重的AI计算正被引入终端。 运行本地大模型和Agent、同时处理视觉、语音和多种传感器数据……这些开始由消费电子、汽车、机器人等智能终端承担的新负载，最终都要交付给底层的SoC来执行…",
+      "link": "https://www.leiphone.com/category/chips/GZHLOpS28auhtU2f.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-09-28T09:21:00+08:00",
+      "time": "09:21"
+    },
+    {
+      "title": "Engram is a sampler that turns broken AI hallucinations into music",
+      "desc": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-09-28T04:46:36+08:00",
+      "time": "04:46"
+    },
+    {
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "desc": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-09-28T04:34:28+08:00",
+      "time": "04:34"
+    },
+    {
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "desc": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+      "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-09-28T03:57:30+08:00",
+      "time": "03:57"
+    },
+    {
+      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "desc": "The United Nations logo on a gate outside the UN headquarters in New York. | AFP via Getty Images Security researcher Rowan Howard-Jones says that OpenAI…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "source": "The Verge AI",
+      "category": "研究",
+      "published": "2026-09-28T01:21:07+08:00",
+      "time": "01:21"
+    },
+    {
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "desc": "\"AI is the devil and I its maker.\"",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-09-28T00:30:00+08:00",
+      "time": "00:30"
+    }
+  ]
+}
