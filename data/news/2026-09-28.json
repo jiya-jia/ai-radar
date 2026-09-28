@@ -1,8 +1,98 @@
 {
   "date": "2026-09-28",
-  "generated_at": "2026-09-28T14:34:06+08:00",
-  "count": 10,
+  "generated_at": "2026-09-29T03:59:57+08:00",
+  "count": 21,
   "items": [
+    {
+      "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+      "desc": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026…",
+      "link": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-09-28T23:30:00+08:00",
+      "time": "23:30"
+    },
+    {
+      "title": "The SaaSpocalypse that wasn’t, with Atlassian CEO Mike Cannon-Brookes",
+      "desc": "Today, I’m talking with Mike Cannon-Brookes, who is cofounder and CEO of Atlassian. Atlassian is one of those companies that every other company runs on — it…",
+      "link": "https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira",
+      "source": "The Verge AI",
+      "category": "融资",
+      "published": "2026-09-28T22:00:00+08:00",
+      "time": "22:00"
+    },
+    {
+      "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+      "desc": "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion.",
+      "link": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-09-28T21:38:48+08:00",
+      "time": "21:38"
+    },
+    {
+      "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
+      "desc": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents , as…",
+      "link": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-09-28T21:36:06+08:00",
+      "time": "21:36"
+    },
+    {
+      "title": "中训练、后训练持续升温，模型快速迭代，成为 AI for AI 最佳试炼场",
+      "desc": "当模型开始参与研发下一代模型，大模型的研发方式正在发生什么样的变化？ 作者丨 高允毅 编辑丨 岑 峰 大多数科研构想，从未被充分验证。 这并不是研究者缺少灵感。恰恰相反，新的架构猜想、训练策略无时无刻不在涌现。但大多数想法，却在写不完的训练脚本、调不完的参数、排队等调度的 GPU 集群中，被无声消磨…",
+      "link": "https://www.leiphone.com/category/yanxishe/WXSemXnlvGNRbiPR.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-09-28T20:54:00+08:00",
+      "time": "20:54"
+    },
+    {
+      "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
+      "desc": "工业平台已经卷到帮伙伴拿线索、做Agent、出海了",
+      "link": "https://www.qbitai.com/2026/09/498877.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-09-28T20:43:53+08:00",
+      "time": "20:43"
+    },
+    {
+      "title": "HC归来，华为正重新定义AIDC基础设施",
+      "desc": "AI基础设施下一站：算电协同",
+      "link": "https://www.qbitai.com/2026/09/498787.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-09-28T19:18:27+08:00",
+      "time": "19:18"
+    },
+    {
+      "title": "枢途科技完成近亿元 Pre-A 轮融资，一个月内连获三轮头部机构投资，加速建设具身落地新基建",
+      "desc": "近日，枢途科技完成近亿元人民币Pre-A轮融资，本轮由鼎晖百孚、鲲鹏基金（大数据方向国家级基金）联合领投，广州产投、亿合资本联合投资，老股东趋势投资超额追投。这是公司一个月内完成的第三轮融资…",
+      "link": "https://www.leiphone.com/category/robot/zVCVfjhnzD1S34Pm.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-09-28T18:36:00+08:00",
+      "time": "18:36"
+    },
+    {
+      "title": "Who’s liable when AI agents go rogue?",
+      "desc": "MIT Technology Review Explains : Let our writers untangle the complex, messy world of technology to help you understand what’s coming next…",
+      "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+      "source": "MIT Tech Review",
+      "category": "融资",
+      "published": "2026-09-28T16:06:22+08:00",
+      "time": "16:06"
+    },
+    {
+      "title": "从「算得快」到「干得了活」：AI推理时代，CPU如何重塑算力版图",
+      "desc": "记者：郭思 编辑：包永刚 “善弈者谋势，不善弈者谋子。”这句古老的智慧，正精准地映射出当下AI产业的演进轨迹。 当行业狂热于大模型训练阶段的算力军备竞赛时，一场更为深刻的重心迁移正在悄然发生，AI已经从回答问题走向解决问题，从单纯的模型训练走向复杂的智能体推理。这种转变对底层算力架构的冲击，远比表面看起来要深远得多…",
+      "link": "https://www.leiphone.com/category/chipdesign/v7Oa5s4M9TfJpegJ.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-09-28T13:51:00+08:00",
+      "time": "13:51"
+    },
     {
       "title": "海光1000系列发布，端侧市场为何需要另一颗CPU？",
       "desc": "近日，海光信息发布了1000系列CPU，首次推出专门面向工业控制等端侧场景设计的处理器。 这颗芯片是海光迄今封装尺寸最小的一颗CPU，海光信息总裁助理、创新产品部 副总经理李成 在发布会上表示，这可能也是公司做过的最复杂的单SoC芯片。 从服务器、工作站走向更广泛的工业设备，海光需要为新的使用场景重新定义产品…",
@@ -47,6 +137,15 @@
       "category": "芯片",
       "published": "2026-09-28T09:21:00+08:00",
       "time": "09:21"
+    },
+    {
+      "title": "「我们不是冤种！」特斯拉一个月降价两次惹怒新车主：集体讨要补偿；OpenAI暂停最新一代模型训练；传华为或于今年11月推出星耀子品牌",
+      "desc": "要闻提示 1.“我们不是冤种！”特斯拉一个月降价两次惹怒新车主：集体讨要补偿 2.深蓝汽车邓承浩：有数据显示车上冰箱实际使用率仅 5%，后排娱乐屏、车载 KTV 用户全年使用不超过十次 3.传华为或于今年11月推出星耀子品牌，客服回应 4.中国移动、中国电信、中国联通…",
+      "link": "https://www.leiphone.com/category/zaobao/ImrWTOq9a6UDaEXr.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-09-28T08:26:00+08:00",
+      "time": "08:26"
     },
     {
       "title": "Engram is a sampler that turns broken AI hallucinations into music",
