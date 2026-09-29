@@ -1,7 +1,7 @@
 {
   "date": "2026-09-28",
-  "generated_at": "2026-09-29T14:43:08+08:00",
-  "count": 23,
+  "generated_at": "2026-09-30T02:28:01+08:00",
+  "count": 26,
   "items": [
     {
       "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
@@ -76,6 +76,15 @@
       "time": "20:43"
     },
     {
+      "title": "“中国具身大脑”获国际认可！蚂蚁灵波与阿拉伯数字经济联盟签署备忘录",
+      "desc": "近日，第五届全球数字贸易博览会的重要配套活动之一“中阿数字经济产业对接会”上，阿拉伯数字经济联盟（AFDE）与蚂蚁集团旗下具身智能公司蚂蚁灵波科技正式签署框架合作备忘录。 阿拉伯数字经济联盟助理秘书长艾曼·郭内姆（Dr. Ayman Ghoneim）博士与蚂蚁灵波科技商业化负责人俞靓代表双方签约…",
+      "link": "https://www.leiphone.com/category/industrynews/ieKrThrdXB840uPe.html",
+      "source": "雷峰网",
+      "category": "机器人",
+      "published": "2026-09-28T19:46:00+08:00",
+      "time": "19:46"
+    },
+    {
       "title": "HC归来，华为正重新定义AIDC基础设施",
       "desc": "AI基础设施下一站：算电协同",
       "link": "https://www.qbitai.com/2026/09/498787.html",
@@ -85,6 +94,15 @@
       "time": "19:18"
     },
     {
+      "title": "阿里Qwen-Audio-3.1-TTS拿下权威语音榜全球冠军",
+      "desc": "9 月 28 日，在全球权威 AI 评测平台 Artificial Analysis 的语音排行榜（Controlled Voice Arena）上，阿里巴巴最近发布的语音大模型 Qwen-Audio-3.1-TTS 以 1177 的 Elo 评分位列全球第一…",
+      "link": "https://www.leiphone.com/category/industrynews/PeujvZKDt4TjyaPK.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-09-28T18:38:00+08:00",
+      "time": "18:38"
+    },
+    {
       "title": "枢途科技完成近亿元 Pre-A 轮融资，一个月内连获三轮头部机构投资，加速建设具身落地新基建",
       "desc": "近日，枢途科技完成近亿元人民币Pre-A轮融资，本轮由鼎晖百孚、鲲鹏基金（大数据方向国家级基金）联合领投，广州产投、亿合资本联合投资，老股东趋势投资超额追投。这是公司一个月内完成的第三轮融资…",
       "link": "https://www.leiphone.com/category/robot/zVCVfjhnzD1S34Pm.html",
@@ -92,6 +110,15 @@
       "category": "融资",
       "published": "2026-09-28T18:36:00+08:00",
       "time": "18:36"
+    },
+    {
+      "title": "全新一代智己LS6上市，起售价19.79万元",
+      "desc": "9月23日，全线控大五座家庭SUV全新一代智己LS6震撼上市， 以19.79万元起几近“掀桌”的上市定价，一举奠定20万级家庭纯电SUV天花板。 作为 智己汽车“NEXT·2028”战略首款家庭SUV ，全新一代智己LS6凝聚上汽集团70年造车积淀…",
+      "link": "https://www.leiphone.com/category/transportation/ZnEoArCRJDVa3yzO.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-09-28T18:12:00+08:00",
+      "time": "18:12"
     },
     {
       "title": "Who’s liable when AI agents go rogue?",

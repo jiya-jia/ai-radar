@@ -1,8 +1,89 @@
 {
   "date": "2026-09-29",
-  "generated_at": "2026-09-29T14:43:08+08:00",
-  "count": 20,
+  "generated_at": "2026-09-30T02:28:01+08:00",
+  "count": 29,
   "items": [
+    {
+      "title": "OpenAI says planned GPT-6.1 is too insecure to release",
+      "desc": "OpenAI says it has canceled plans to release its updated GPT-6.1 model next month as it continues to investigate what testing shows is a safety regression…",
+      "link": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
+      "source": "Ars Technica",
+      "category": "模型",
+      "published": "2026-09-29T22:22:31+08:00",
+      "time": "22:22"
+    },
+    {
+      "title": "Meta’s Muse AI sent a YouTuber’s address to a stranger",
+      "desc": "Tech YouTuber Matt Robb says that Muse gave out his home address to a total stranger this weekend, after authorizing the bot to handle his Facebook Marketplace…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
+      "source": "The Verge AI",
+      "category": "产品",
+      "published": "2026-09-29T22:08:21+08:00",
+      "time": "22:08"
+    },
+    {
+      "title": "Meta is expanding its AI agent Muse to small businesses",
+      "desc": "The tech giant says the agent can help owners run their business and find new customers.",
+      "link": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-09-29T21:47:30+08:00",
+      "time": "21:47"
+    },
+    {
+      "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
+      "desc": "As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses, leadership…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
+      "source": "The Verge AI",
+      "category": "融资",
+      "published": "2026-09-29T19:48:27+08:00",
+      "time": "19:48"
+    },
+    {
+      "title": "1000台售罄后又被做成\"韩立同款\"，元点机器人如何把具身智能做进家庭？",
+      "desc": "一台人形机器人卖出去之后，用户会拿它干什么？ 最近，元点小桥机器人真机已陆续交到部分媒体、达人手中，接受真实上手和实际使用场景的检验。B站百大UP主\"图灵的猫\"就给出了一个有点出人意料的答案：他用元点小桥机器人复刻出了《凡人修仙传》里的\"韩立同款傀儡\"…",
+      "link": "https://www.leiphone.com/category/industrynews/yR9rN5kyqx3kypzz.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-09-29T19:22:00+08:00",
+      "time": "19:22"
+    },
+    {
+      "title": "Making AI an asset, not an expense",
+      "desc": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud…",
+      "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+      "source": "MIT Tech Review",
+      "category": "芯片",
+      "published": "2026-09-29T18:43:45+08:00",
+      "time": "18:43"
+    },
+    {
+      "title": "OpenAI因新模型太强叫停发布",
+      "desc": "AGI计划暂停。",
+      "link": "https://www.qbitai.com/2026/09/499140.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-09-29T15:49:20+08:00",
+      "time": "15:49"
+    },
+    {
+      "title": "动易科技刘晨澔：人形机器人羽毛球对拉 40 拍背后的分层革命 | IROS 2026",
+      "desc": "顶会上的人形机器人高动态运动场景的最新工业级进展。 作者丨 邓哲敏 编辑丨 齐铖湧 羽毛球大概是所有球类里最“不讲道理”的项目。 一颗球被重杀出去时，初速能飙到两三百公里每小时，却因为十六片羽毛带来的巨大空气阻力，速度在飞行中急剧衰减。轨迹也不再是抛物线，变为前段平直、后段陡降的不对称弧线…",
+      "link": "https://www.leiphone.com/category/private/zoJ7chGiDi7IPHvN.html",
+      "source": "雷峰网",
+      "category": "机器人",
+      "published": "2026-09-29T15:49:00+08:00",
+      "time": "15:49"
+    },
+    {
+      "title": "成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元",
+      "desc": "诺因从Demo走向家庭",
+      "link": "https://www.qbitai.com/2026/09/499135.html",
+      "source": "量子位",
+      "category": "融资",
+      "published": "2026-09-29T15:10:59+08:00",
+      "time": "15:10"
+    },
     {
       "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
       "desc": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might…",

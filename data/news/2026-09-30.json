@@ -1,0 +1,97 @@
+{
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T02:28:01+08:00",
+  "count": 10,
+  "items": [
+    {
+      "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
+      "desc": "Last week, when Australian Prime Minister Anthony Albanese told the world that an OpenAI agent had accessed \"non-public files\" from his country's Medicare…",
+      "link": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
+      "source": "Ars Technica",
+      "category": "政策",
+      "published": "2026-09-30T02:11:09+08:00",
+      "time": "02:11"
+    },
+    {
+      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+      "desc": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies.",
+      "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-09-30T01:45:51+08:00",
+      "time": "01:45"
+    },
+    {
+      "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+      "desc": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+      "source": "The Verge AI",
+      "category": "研究",
+      "published": "2026-09-30T01:35:03+08:00",
+      "time": "01:35"
+    },
+    {
+      "title": "AI-powered app maker Wabi pivots to a messaging experience",
+      "desc": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
+      "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-09-30T01:20:00+08:00",
+      "time": "01:20"
+    },
+    {
+      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+      "desc": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document…",
+      "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-09-30T01:15:00+08:00",
+      "time": "01:15"
+    },
+    {
+      "title": "OpenAI launches Dots, its Muse competitor",
+      "desc": "Like Muse, OpenAI’s Dots are represented by cute, customizable avatars. | Image: OpenAI OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-09-30T01:15:00+08:00",
+      "time": "01:15"
+    },
+    {
+      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+      "desc": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+      "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-09-30T01:15:00+08:00",
+      "time": "01:15"
+    },
+    {
+      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+      "desc": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused…",
+      "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-09-30T01:15:00+08:00",
+      "time": "01:15"
+    },
+    {
+      "title": "Protesters gather at OpenAI’s DevDay",
+      "desc": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants. \"Sam Altman, get off it, put people over profit,\" said a group of protesters…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
+      "source": "The Verge AI",
+      "category": "机器人",
+      "published": "2026-09-30T01:12:27+08:00",
+      "time": "01:12"
+    },
+    {
+      "title": "OpenAI DevDay 2026: The biggest news and announcements",
+      "desc": "It’s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, and during a live keynote…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-09-30T00:00:00+08:00",
+      "time": "00:00"
+    }
+  ]
+}
