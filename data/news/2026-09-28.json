@@ -1,7 +1,7 @@
 {
   "date": "2026-09-28",
-  "generated_at": "2026-09-29T03:59:57+08:00",
-  "count": 21,
+  "generated_at": "2026-09-29T14:43:08+08:00",
+  "count": 23,
   "items": [
     {
       "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
@@ -13,10 +13,28 @@
       "time": "23:30"
     },
     {
+      "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+      "desc": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models…",
+      "link": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-09-28T23:00:00+08:00",
+      "time": "23:00"
+    },
+    {
       "title": "The SaaSpocalypse that wasn’t, with Atlassian CEO Mike Cannon-Brookes",
       "desc": "Today, I’m talking with Mike Cannon-Brookes, who is cofounder and CEO of Atlassian. Atlassian is one of those companies that every other company runs on — it…",
       "link": "https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira",
       "source": "The Verge AI",
+      "category": "融资",
+      "published": "2026-09-28T22:00:00+08:00",
+      "time": "22:00"
+    },
+    {
+      "title": "Insurtech Outmarket raises $34.5M just months after prior round",
+      "desc": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
+      "link": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
+      "source": "TechCrunch AI",
       "category": "融资",
       "published": "2026-09-28T22:00:00+08:00",
       "time": "22:00"

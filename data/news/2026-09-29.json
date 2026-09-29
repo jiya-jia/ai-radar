@@ -1,8 +1,89 @@
 {
   "date": "2026-09-29",
-  "generated_at": "2026-09-29T03:59:57+08:00",
-  "count": 11,
+  "generated_at": "2026-09-29T14:43:08+08:00",
+  "count": 20,
   "items": [
+    {
+      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "desc": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might…",
+      "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-09-29T13:13:43+08:00",
+      "time": "13:13"
+    },
+    {
+      "title": "希音上市后的第一份财报，回答了两个关键问题",
+      "desc": "9月28日，希音发布上市后的首份中期业绩。比起上市时的资本市场热度，这份财报把两项最能说明业务基本盘的指标摆到了台前：活跃客户数与总订单量。 财报显示，2026年上半年，希音总订单量同比增长6.4%至5.49亿单，其中，第二季度的总订单量同比增长7.6%至2.98亿单…",
+      "link": "https://www.leiphone.com/category/industrynews/gZRE0woO1m8hX4RF.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-09-29T11:45:00+08:00",
+      "time": "11:45"
+    },
+    {
+      "title": "华为WATCH D3开售：首创轻扰动态血压研究，打造“腕上智能血压专家”",
+      "desc": "9月29日，华为WATCH D3正式开启首销，标志着华为第三代腕部动态血压记录仪全面推向市场。 根据IDC发布的最新数据，2026年第二季度全球腕戴设备出货量为4,801万台，同比下滑4.3%，智能手表与手环均承受着一定的市场压力。行业正沿两大方向探索增量：端侧AI算力下沉与无屏手环形态创新…",
+      "link": "https://www.leiphone.com/category/industrynews/ToizySV6K6ALZWLQ.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-09-29T11:16:00+08:00",
+      "time": "11:16"
+    },
+    {
+      "title": "从创意落地到创业起步，嘉立创延长AI硬件创新支持链条",
+      "desc": "9月19日，由福田区科技和工业信息化局指导、嘉立创集团主办的第四届开源硬件星火会暨全球AI硬件创新生态大会在深圳会展中心（福田）举行。本届大会开源、闭源两大赛道累计征集超过400个项目作品，覆盖具身智能、机器人关键硬件、AI边缘计算、智能终端等方向，来自多个国家和地区的2200余名创新者到场参与…",
+      "link": "https://www.leiphone.com/category/industrynews/eDhvnoxGSSJk1eQo.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-09-29T10:19:00+08:00",
+      "time": "10:19"
+    },
+    {
+      "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
+      "desc": "李飞飞将入职AMD首席科学家",
+      "link": "https://www.qbitai.com/2026/09/499098.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-09-29T08:49:30+08:00",
+      "time": "08:49"
+    },
+    {
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "desc": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25…",
+      "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "source": "MIT Tech Review",
+      "category": "资讯",
+      "published": "2026-09-29T06:17:07+08:00",
+      "time": "06:17"
+    },
+    {
+      "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
+      "desc": "On its face, the recent summit between Donald Trump and China’s president Xi Jinping didn’t change much in the world of AI regulation…",
+      "link": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
+      "source": "Ars Technica",
+      "category": "芯片",
+      "published": "2026-09-29T05:49:10+08:00",
+      "time": "05:49"
+    },
+    {
+      "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+      "desc": "World Labs co-founder and CEO Fei-Fei Li. | Bloomberg via Getty Images AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the…",
+      "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+      "source": "The Verge AI",
+      "category": "研究",
+      "published": "2026-09-29T05:31:35+08:00",
+      "time": "05:31"
+    },
+    {
+      "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
+      "desc": "The state of Florida is seeking a temporary injunction to stop OpenAI from continuing to develop what it calls a \"reckless, unacceptably risky product\" without…",
+      "link": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
+      "source": "Ars Technica",
+      "category": "政策",
+      "published": "2026-09-29T04:49:39+08:00",
+      "time": "04:49"
+    },
     {
       "title": "OpenAI’s AI agents need to catch up",
       "desc": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories:…",
