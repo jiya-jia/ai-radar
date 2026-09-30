@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T02:16:45+08:00",
+  "count": 7,
+  "items": [
+    {
+      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+      "desc": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
+      "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-01T01:45:00+08:00",
+      "time": "01:45"
+    },
+    {
+      "title": "The ugly economics of consumer AI",
+      "desc": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
+      "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-01T01:24:45+08:00",
+      "time": "01:24"
+    },
+    {
+      "title": "Here’s what AI leaders are saying about Trump’s new safety plan",
+      "desc": "If you think this shot is amusing, check out the panicked look on Zuckerberg’s face when Trump calls on him to speak…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+      "source": "The Verge AI",
+      "category": "政策",
+      "published": "2026-10-01T01:15:49+08:00",
+      "time": "01:15"
+    },
+    {
+      "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+      "desc": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private…",
+      "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-01T00:24:23+08:00",
+      "time": "00:24"
+    },
+    {
+      "title": "Google's early attempt to pay websites for AI answers is struggling",
+      "desc": "Google's shift to AI-powered search has upended the way the world's largest search engine generates web traffic, rankling large and small publishers alike…",
+      "link": "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/",
+      "source": "Ars Technica",
+      "category": "模型",
+      "published": "2026-10-01T00:03:48+08:00",
+      "time": "00:03"
+    },
+    {
+      "title": "DoorDash launches an AI agent you can text to order food",
+      "desc": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+      "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+      "source": "TechCrunch AI",
+      "category": "产品",
+      "published": "2026-10-01T00:00:24+08:00",
+      "time": "00:00"
+    },
+    {
+      "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+      "desc": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
+      "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+      "source": "TechCrunch AI",
+      "category": "机器人",
+      "published": "2026-10-01T00:00:00+08:00",
+      "time": "00:00"
+    }
+  ]
+}

@@ -1,8 +1,80 @@
 {
   "date": "2026-09-30",
-  "generated_at": "2026-09-30T14:30:44+08:00",
-  "count": 20,
+  "generated_at": "2026-10-01T02:16:45+08:00",
+  "count": 29,
   "items": [
+    {
+      "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
+      "desc": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
+      "source": "The Verge AI",
+      "category": "产品",
+      "published": "2026-09-30T23:18:49+08:00",
+      "time": "23:18"
+    },
+    {
+      "title": "OpenAI delays IPO over AI safety concerns",
+      "desc": "OpenAI will not go public until it can “make confident safety decisions,” according to chief executive Sam Altman, as the company faces a new lawsuit over its…",
+      "link": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/",
+      "source": "Ars Technica",
+      "category": "融资",
+      "published": "2026-09-30T22:06:15+08:00",
+      "time": "22:06"
+    },
+    {
+      "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+      "desc": "千禧年难题的突破，10000个Agent最多占了10%的功劳。",
+      "link": "https://www.qbitai.com/2026/09/499654.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-09-30T22:03:43+08:00",
+      "time": "22:03"
+    },
+    {
+      "title": "DeepSeek 开源算子工具大礼包，联手华为昇腾，手撕 CUDA 绑定！",
+      "desc": "一套代码能跑遍所有芯片。 作者丨 高允毅 编辑丨岑 峰 刚刚，DeepSeek做了一个开源壮举： 把给英伟达 GPU 写代码的全套工具链，原样铺到了华为昇腾 950 NPU 上。 最核心的算子开发产品 TileLang 官宣原生支持昇腾…",
+      "link": "https://www.leiphone.com/category/yanxishe/UUIfK7eeFE9Ws1JI.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-09-30T18:58:00+08:00",
+      "time": "18:58"
+    },
+    {
+      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+      "desc": "Still putting out fires: Two months after OpenAI's agents hacked Hugging Face, new incidents keep surfacing—including a breach of Australia's national health…",
+      "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+      "source": "MIT Tech Review",
+      "category": "融资",
+      "published": "2026-09-30T18:40:30+08:00",
+      "time": "18:40"
+    },
+    {
+      "title": "Kimi 和 DeepSeek，为什么出现在同一张模型架构图里？",
+      "desc": "大模型 Attention 路线变迁：从分流到重组。 作者丨李娜 编辑丨岑峰 一张大模型架构图里，同时出现了 Kimi 和 DeepSeek 的影子。 GLM-5.3-Flash项目配置文件：45层架构中，34层采用Kimi路线的KDA线性注意力…",
+      "link": "https://www.leiphone.com/category/yanxishe/S39sSkqntdgkDuJu.html",
+      "source": "雷峰网",
+      "category": "研究",
+      "published": "2026-09-30T15:45:00+08:00",
+      "time": "15:45"
+    },
+    {
+      "title": "我们让 GPT‑6 Astra、Fable 5.1 和 Sol 控制同一台机器人：谁真的把活干完了？",
+      "desc": "真实云台实测：三个模型都让机器转起来，但“完成”的标准天差地别。 作者丨 Rhea 编辑丨李娜 岑峰 云台机械臂是一个能上下左右转动的摄像头底座/支架，我用GPT‑6 Astra、Claude Fable 5.1 和 GPT‑5.6 Sol这三个顶级模型都让机器人转了起来，三个模型均完成了任务…",
+      "link": "https://www.leiphone.com/category/yanxishe/hfRMbwkVyjskWX3a.html",
+      "source": "雷峰网",
+      "category": "机器人",
+      "published": "2026-09-30T15:38:00+08:00",
+      "time": "15:38"
+    },
+    {
+      "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
+      "desc": "DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）",
+      "link": "https://www.qbitai.com/2026/09/499308.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-09-30T13:18:05+08:00",
+      "time": "13:18"
+    },
     {
       "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
       "desc": "机器人上市，风向有变",
@@ -47,6 +119,15 @@
       "category": "研究",
       "published": "2026-09-30T09:44:00+08:00",
       "time": "09:44"
+    },
+    {
+      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+      "desc": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+      "source": "The Verge AI",
+      "category": "融资",
+      "published": "2026-09-30T08:19:13+08:00",
+      "time": "08:19"
     },
     {
       "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
