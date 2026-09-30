@@ -1,8 +1,98 @@
 {
   "date": "2026-09-30",
-  "generated_at": "2026-09-30T02:28:01+08:00",
-  "count": 10,
+  "generated_at": "2026-09-30T14:30:44+08:00",
+  "count": 20,
   "items": [
+    {
+      "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
+      "desc": "机器人上市，风向有变",
+      "link": "https://www.qbitai.com/2026/09/499280.html",
+      "source": "量子位",
+      "category": "融资",
+      "published": "2026-09-30T12:42:22+08:00",
+      "time": "12:42"
+    },
+    {
+      "title": "源升智能杨思成：具身模型能力突破之前，灵巧手要先卷性能｜物理AI 50人",
+      "desc": "灵巧操作的最高境界，是「无剑胜有剑」。 作者：向欣 高景辉 编辑：高景辉 雷峰网：金庸笔下的独孤求败，对剑术的理解有几重境界：二十岁前看重利剑凌厉刚猛，四十岁前领悟重剑「大巧不工」；四十岁后渐渐达到「不滞于物，草木竹石皆可为剑」的境界，内功强到极致，兵刃都是身外之物…",
+      "link": "https://www.leiphone.com/category/robot/rhJu6CEW1OjHWAHH.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-09-30T11:55:00+08:00",
+      "time": "11:55"
+    },
+    {
+      "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
+      "desc": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
+      "link": "https://www.qbitai.com/2026/09/499263.html",
+      "source": "量子位",
+      "category": "芯片",
+      "published": "2026-09-30T10:53:17+08:00",
+      "time": "10:53"
+    },
+    {
+      "title": "GPT-6 丝滑「上身」宇树 G1，斯坦福把机器人控制链封装成了一套「专属 API」",
+      "desc": "空间记忆接导航，视觉伺服接抓取，全身运动负责落地。 作者丨 郑佳美 编辑丨岑 峰 这两天，斯坦福大学 The Movement Lab 和加州理工学院公开了一个有趣的研究项目 HomeBody…",
+      "link": "https://www.leiphone.com/category/ai/AVV9SvszqpZ3u8vU.html",
+      "source": "雷峰网",
+      "category": "机器人",
+      "published": "2026-09-30T09:45:00+08:00",
+      "time": "09:45"
+    },
+    {
+      "title": "深度拆解 Sonnet 5.5 ：半价 Opus 只是表象，Agent Runtime 才是变化核心",
+      "desc": "Tool Call 少三成，Shell Run 近减半，迭代降至 3.6 次。 作者丨 郑佳美 编辑丨岑 峰 刚刚，Anthropic 发布了 Claude Sonnet 5.5…",
+      "link": "https://www.leiphone.com/category/ai/eFLQ0PfFrKc5kRSs.html",
+      "source": "雷峰网",
+      "category": "研究",
+      "published": "2026-09-30T09:44:00+08:00",
+      "time": "09:44"
+    },
+    {
+      "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
+      "desc": "今年devday牙膏挤爆",
+      "link": "https://www.qbitai.com/2026/09/499246.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-09-30T07:01:05+08:00",
+      "time": "07:01"
+    },
+    {
+      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "desc": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok…",
+      "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "source": "TechCrunch AI",
+      "category": "产品",
+      "published": "2026-09-30T06:20:59+08:00",
+      "time": "06:20"
+    },
+    {
+      "title": "Protests against OpenAI get increasingly creative",
+      "desc": "Two artists from a Bay Area studio unveiled What Iceberg? , a table-sized installation placed at the public entrance to an OpenAI developer event in San…",
+      "link": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+      "source": "Ars Technica",
+      "category": "资讯",
+      "published": "2026-09-30T05:52:58+08:00",
+      "time": "05:52"
+    },
+    {
+      "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+      "desc": "Chipmaker AMD and world models company World Labs announced that AMD will acquire the AI company by the end of the year, pending regulatory approval…",
+      "link": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
+      "source": "Ars Technica",
+      "category": "融资",
+      "published": "2026-09-30T05:14:49+08:00",
+      "time": "05:14"
+    },
+    {
+      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+      "desc": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+      "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-09-30T02:35:00+08:00",
+      "time": "02:35"
+    },
     {
       "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
       "desc": "Last week, when Australian Prime Minister Anthony Albanese told the world that an OpenAI agent had accessed \"non-public files\" from his country's Medicare…",

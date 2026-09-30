@@ -1,7 +1,7 @@
 {
   "date": "2026-09-28",
-  "generated_at": "2026-09-30T02:28:01+08:00",
-  "count": 26,
+  "generated_at": "2026-09-30T14:30:44+08:00",
+  "count": 28,
   "items": [
     {
       "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
@@ -56,6 +56,24 @@
       "category": "芯片",
       "published": "2026-09-28T21:36:06+08:00",
       "time": "21:36"
+    },
+    {
+      "title": "独家丨上汽集团高层换防：俞经民升职，尚界一把手换人",
+      "desc": "雷峰网独家获悉，上汽集团近期启动新一轮人事调整，涉及上汽乘用车、尚界等板块。上汽乘用车常务副总经理俞经民将接替徐文晖，出任上汽乘用车党委副书记，而徐文晖预计到龄退休。 另一项调整发生在尚界。现任尚界汽车总经理祝勇将离开这一岗位，赴上汽齿轮担任副总经理。接替他的顾晔斌来自上汽通用物流…",
+      "link": "https://www.leiphone.com/category/transportation/bWrgjxkra1ZlhtEB.html",
+      "source": "雷峰网",
+      "category": "资讯",
+      "published": "2026-09-28T21:12:00+08:00",
+      "time": "21:12"
+    },
+    {
+      "title": "解读丨吉利入股蔚来能源，李斌的换电生意有了新算法",
+      "desc": "交易完成后，蔚来能源投后估值将达160亿元。 作者 | 王瑞昊 编辑 | 李雨晨 5天前，吉利刚发布新一代超快充技术，把部分车型从10%充至70%的时间压缩到4分30秒。5天后，它宣布入股蔚来能源。 外界还在讨论快充与换电谁会取代谁，两家公司已经开始计算，怎样把这两门生意放在一起做…",
+      "link": "https://www.leiphone.com/category/transportation/bjRWJENf14uelTTS.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-09-28T21:08:00+08:00",
+      "time": "21:08"
     },
     {
       "title": "中训练、后训练持续升温，模型快速迭代，成为 AI for AI 最佳试炼场",
