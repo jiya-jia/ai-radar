@@ -1,8 +1,89 @@
 {
   "date": "2026-10-01",
-  "generated_at": "2026-10-01T02:16:45+08:00",
-  "count": 7,
+  "generated_at": "2026-10-01T15:03:58+08:00",
+  "count": 16,
   "items": [
+    {
+      "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+      "desc": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again , and today, it got some design tweaks as part of a v0.3…",
+      "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-10-01T08:23:45+08:00",
+      "time": "08:23"
+    },
+    {
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "desc": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+      "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-10-01T07:43:07+08:00",
+      "time": "07:43"
+    },
+    {
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "desc": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+      "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-10-01T05:07:40+08:00",
+      "time": "05:07"
+    },
+    {
+      "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+      "desc": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across…",
+      "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-10-01T04:41:41+08:00",
+      "time": "04:41"
+    },
+    {
+      "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
+      "desc": "At a Make America Healthy Again event Tuesday, anti-vaccine Health Secretary Robert F. Kennedy opened a \"fireside chat\" with Vice President JD Vance on the…",
+      "link": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
+      "source": "Ars Technica",
+      "category": "资讯",
+      "published": "2026-10-01T03:31:25+08:00",
+      "time": "03:31"
+    },
+    {
+      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+      "desc": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+      "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-01T03:00:57+08:00",
+      "time": "03:00"
+    },
+    {
+      "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+      "desc": "Amid escalating AI security incidents causing OpenAI to halt training and pause releases , Donald Trump continues to advocate for the AI industry to regulate…",
+      "link": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
+      "source": "Ars Technica",
+      "category": "芯片",
+      "published": "2026-10-01T02:47:01+08:00",
+      "time": "02:47"
+    },
+    {
+      "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
+      "desc": "OpenAI's hack of Hugging Face in July 2026 has spurred a lawsuit demanding that the company stop accessing third-party computer systems and halt AI development…",
+      "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
+      "source": "Ars Technica",
+      "category": "政策",
+      "published": "2026-10-01T02:25:04+08:00",
+      "time": "02:25"
+    },
+    {
+      "title": "The AI Tamagotchis are coming",
+      "desc": "Sam Altman onstage at OpenAI’s DevDay 2026. | Photo: Hayden Field / The Verge While AI has made plenty of inroads on people's phones and computers, it's…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-10-01T02:07:38+08:00",
+      "time": "02:07"
+    },
     {
       "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
       "desc": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",

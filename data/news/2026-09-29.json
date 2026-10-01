@@ -1,7 +1,7 @@
 {
   "date": "2026-09-29",
-  "generated_at": "2026-10-01T02:16:45+08:00",
-  "count": 33,
+  "generated_at": "2026-10-01T15:03:58+08:00",
+  "count": 34,
   "items": [
     {
       "title": "OpenAI says planned GPT-6.1 is too insecure to release",
@@ -38,6 +38,15 @@
       "category": "资讯",
       "published": "2026-09-29T21:47:30+08:00",
       "time": "21:47"
+    },
+    {
+      "title": "Interview: Firefox's chief on why he hopes a redesign will help win users from Chrome",
+      "desc": "Today, the Firefox 157 update will roll out a redesign of the web browser across desktop and mobile platforms…",
+      "link": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/",
+      "source": "Ars Technica",
+      "category": "产品",
+      "published": "2026-09-29T21:00:19+08:00",
+      "time": "21:00"
     },
     {
       "title": "OpenAI apologizes to Australia after its AI agents breached government sites",

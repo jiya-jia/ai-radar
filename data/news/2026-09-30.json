@@ -1,7 +1,7 @@
 {
   "date": "2026-09-30",
-  "generated_at": "2026-10-01T02:16:45+08:00",
-  "count": 29,
+  "generated_at": "2026-10-01T15:03:58+08:00",
+  "count": 31,
   "items": [
     {
       "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
@@ -29,6 +29,15 @@
       "category": "资讯",
       "published": "2026-09-30T22:03:43+08:00",
       "time": "22:03"
+    },
+    {
+      "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+      "desc": "Anyone else getting “The Last Supper” vibes from this photo taken at the White House tech gathering? | Photographer: Tierney L…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-09-30T20:24:32+08:00",
+      "time": "20:24"
     },
     {
       "title": "DeepSeek 开源算子工具大礼包，联手华为昇腾，手撕 CUDA 绑定！",
@@ -164,6 +173,15 @@
       "category": "融资",
       "published": "2026-09-30T05:14:49+08:00",
       "time": "05:14"
+    },
+    {
+      "title": "OpenAI’s latest features take direct aim at the app store model",
+      "desc": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used…",
+      "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-09-30T04:15:47+08:00",
+      "time": "04:15"
     },
     {
       "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
