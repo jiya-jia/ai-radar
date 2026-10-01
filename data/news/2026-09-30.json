@@ -1,7 +1,7 @@
 {
   "date": "2026-09-30",
-  "generated_at": "2026-10-01T15:03:58+08:00",
-  "count": 31,
+  "generated_at": "2026-10-02T02:42:08+08:00",
+  "count": 35,
   "items": [
     {
       "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
@@ -11,6 +11,33 @@
       "category": "产品",
       "published": "2026-09-30T23:18:49+08:00",
       "time": "23:18"
+    },
+    {
+      "title": "Google reportedly tests paying publishers for AI search results",
+      "desc": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information…",
+      "link": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-09-30T22:51:49+08:00",
+      "time": "22:51"
+    },
+    {
+      "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+      "desc": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how…",
+      "link": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-09-30T22:30:00+08:00",
+      "time": "22:30"
+    },
+    {
+      "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
+      "desc": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts…",
+      "link": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-09-30T22:30:00+08:00",
+      "time": "22:30"
     },
     {
       "title": "OpenAI delays IPO over AI safety concerns",
@@ -56,6 +83,15 @@
       "category": "融资",
       "published": "2026-09-30T18:40:30+08:00",
       "time": "18:40"
+    },
+    {
+      "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
+      "desc": "让GPT把机器人技能当工具调用",
+      "link": "https://www.qbitai.com/2026/09/499493.html",
+      "source": "量子位",
+      "category": "机器人",
+      "published": "2026-09-30T15:54:54+08:00",
+      "time": "15:54"
     },
     {
       "title": "Kimi 和 DeepSeek，为什么出现在同一张模型架构图里？",

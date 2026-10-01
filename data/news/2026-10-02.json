@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T02:42:08+08:00",
+  "count": 5,
+  "items": [
+    {
+      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "desc": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+      "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "source": "TechCrunch AI",
+      "category": "研究",
+      "published": "2026-10-02T02:14:42+08:00",
+      "time": "02:14"
+    },
+    {
+      "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+      "desc": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
+      "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-02T01:50:19+08:00",
+      "time": "01:50"
+    },
+    {
+      "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+      "desc": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of…",
+      "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+      "source": "The Verge AI",
+      "category": "政策",
+      "published": "2026-10-02T01:12:21+08:00",
+      "time": "01:12"
+    },
+    {
+      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+      "desc": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes…",
+      "link": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-02T00:44:35+08:00",
+      "time": "00:44"
+    },
+    {
+      "title": "With most information hidden, the game Stratego had stumped AI—until now",
+      "desc": "Deep Blue took down Garry Kasparov at chess in 1997, AlphaGo beat Lee Sedol at Go in 2016, and poker bots have been beating professionals for years…",
+      "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "source": "Ars Technica",
+      "category": "芯片",
+      "published": "2026-10-02T00:28:04+08:00",
+      "time": "00:28"
+    }
+  ]
+}

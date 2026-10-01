@@ -1,8 +1,44 @@
 {
   "date": "2026-10-01",
-  "generated_at": "2026-10-01T15:03:58+08:00",
-  "count": 16,
+  "generated_at": "2026-10-02T02:42:08+08:00",
+  "count": 21,
   "items": [
+    {
+      "title": "Brian Chesky interview: AI agents need their own operating system",
+      "desc": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
+      "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-01T23:12:00+08:00",
+      "time": "23:12"
+    },
+    {
+      "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
+      "desc": "价格只有Astra一半",
+      "link": "https://www.qbitai.com/2026/10/499663.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-01T23:02:14+08:00",
+      "time": "23:02"
+    },
+    {
+      "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+      "desc": "A pop-up shop for \"dots,\" a personal assistant agent at OpenAI DevDay 2026. (Photo by Heather Diehl/Getty Images) | Getty Images At OpenAI's annual DevDay…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-10-01T22:36:50+08:00",
+      "time": "22:36"
+    },
+    {
+      "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
+      "desc": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge , about Kevin O’Leary’s plans to build a massive data center in Utah…",
+      "link": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
+      "source": "The Verge AI",
+      "category": "融资",
+      "published": "2026-10-01T22:00:00+08:00",
+      "time": "22:00"
+    },
     {
       "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
       "desc": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again , and today, it got some design tweaks as part of a v0.3…",
@@ -38,6 +74,15 @@
       "category": "模型",
       "published": "2026-10-01T04:41:41+08:00",
       "time": "04:41"
+    },
+    {
+      "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+      "desc": "Google promised Gemini 3.5 Pro in June, but it spent the summer trotting out smaller Flash models…",
+      "link": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
+      "source": "Ars Technica",
+      "category": "研究",
+      "published": "2026-10-01T04:11:08+08:00",
+      "time": "04:11"
     },
     {
       "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
