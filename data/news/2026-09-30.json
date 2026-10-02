@@ -1,8 +1,17 @@
 {
   "date": "2026-09-30",
-  "generated_at": "2026-10-02T02:42:08+08:00",
-  "count": 35,
+  "generated_at": "2026-10-02T14:51:47+08:00",
+  "count": 39,
   "items": [
+    {
+      "title": "Google figures out how to watermark AI-designed proteins",
+      "desc": "AI-based tools seem to be causing security threats on a nearly daily basis, in part because we've been slow to recognize potential threats…",
+      "link": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/",
+      "source": "Ars Technica",
+      "category": "资讯",
+      "published": "2026-09-30T23:54:52+08:00",
+      "time": "23:54"
+    },
     {
       "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
       "desc": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online…",
@@ -85,6 +94,24 @@
       "time": "18:40"
     },
     {
+      "title": "Anthropic，你是来给智谱打广告的吧！",
+      "desc": "实测说GLM-5.3很强",
+      "link": "https://www.qbitai.com/2026/09/499597.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-09-30T18:04:12+08:00",
+      "time": "18:04"
+    },
+    {
+      "title": "Muse爆火，dots入场：Personal Agent开始和互联网平台抢入口",
+      "desc": "Personal Agent，正在成为这一轮 AI 产品竞争里最热的新概念之一。 9 月 29 日，OpenAI 发布了可以长期在线的个人 Agent 产品 dots，提出“always-on agents”…",
+      "link": "https://www.leiphone.com/category/yanxishe/Zqcw9XvSO2Ht6FIQ.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-09-30T16:35:00+08:00",
+      "time": "16:35"
+    },
+    {
       "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
       "desc": "让GPT把机器人技能当工具调用",
       "link": "https://www.qbitai.com/2026/09/499493.html",
@@ -92,6 +119,15 @@
       "category": "机器人",
       "published": "2026-09-30T15:54:54+08:00",
       "time": "15:54"
+    },
+    {
+      "title": "越大越强，不再是 LLM 的专利：PixVerse R2 攻克实时世界模型 Scaling 难题",
+      "desc": "AI 视频的下一战：谁能让世界保持运行 作者丨Reah 编辑丨李娜 岑峰 大语言模型已经用 Scaling 证明模型、数据和算力可以持续换来更强能力，必须一边生成、一边回应用户的实时世界模型，能不能也走上这样一条路？ 2026 年 1 月，爱诗科技提出“通用实时世界模型”这 一产品方向，并推出 R1…",
+      "link": "https://www.leiphone.com/category/yanxishe/qrkgXZRZeLOX4viW.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-09-30T15:53:00+08:00",
+      "time": "15:53"
     },
     {
       "title": "Kimi 和 DeepSeek，为什么出现在同一张模型架构图里？",
