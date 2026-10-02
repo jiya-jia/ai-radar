@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T02:13:37+08:00",
+  "count": 6,
+  "items": [
+    {
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "desc": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files…",
+      "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-03T02:11:27+08:00",
+      "time": "02:11"
+    },
+    {
+      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+      "desc": "New helpful little guy just dropped. | Photo: Allison Johnson / The Verge It's a tale as old as last week: OpenAI's new agent platform , called Dots, is full…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-10-03T02:00:00+08:00",
+      "time": "02:00"
+    },
+    {
+      "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+      "desc": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI…",
+      "link": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-03T01:56:00+08:00",
+      "time": "01:56"
+    },
+    {
+      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+      "desc": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI…",
+      "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-03T01:48:16+08:00",
+      "time": "01:48"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+      "desc": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+      "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-03T01:32:05+08:00",
+      "time": "01:32"
+    },
+    {
+      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+      "desc": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically…",
+      "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-03T01:00:00+08:00",
+      "time": "01:00"
+    }
+  ]
+}

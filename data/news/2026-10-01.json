@@ -1,7 +1,7 @@
 {
   "date": "2026-10-01",
-  "generated_at": "2026-10-02T14:51:47+08:00",
-  "count": 21,
+  "generated_at": "2026-10-03T02:13:37+08:00",
+  "count": 24,
   "items": [
     {
       "title": "Brian Chesky interview: AI agents need their own operating system",
@@ -38,6 +38,33 @@
       "category": "融资",
       "published": "2026-10-01T22:00:00+08:00",
       "time": "22:00"
+    },
+    {
+      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+      "desc": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms…",
+      "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-01T22:00:00+08:00",
+      "time": "22:00"
+    },
+    {
+      "title": "Hearing tech startup Legato launches its AI hearing glasses",
+      "desc": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing…",
+      "link": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+      "source": "TechCrunch AI",
+      "category": "产品",
+      "published": "2026-10-01T21:00:00+08:00",
+      "time": "21:00"
+    },
+    {
+      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "desc": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one…",
+      "link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-10-01T20:00:00+08:00",
+      "time": "20:00"
     },
     {
       "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",

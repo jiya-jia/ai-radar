@@ -1,8 +1,71 @@
 {
   "date": "2026-10-02",
-  "generated_at": "2026-10-02T14:51:47+08:00",
-  "count": 10,
+  "generated_at": "2026-10-03T02:13:37+08:00",
+  "count": 17,
   "items": [
+    {
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "desc": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb…",
+      "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "source": "MIT Tech Review",
+      "category": "研究",
+      "published": "2026-10-02T23:49:04+08:00",
+      "time": "23:49"
+    },
+    {
+      "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
+      "desc": "The era of generative AI has upended technology supply chains, and there is one ironclad rule in 2026: If it has memory or storage, it's getting more…",
+      "link": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
+      "source": "Ars Technica",
+      "category": "芯片",
+      "published": "2026-10-02T22:52:16+08:00",
+      "time": "22:52"
+    },
+    {
+      "title": "AI hallucinations are making entitled customers even worse",
+      "desc": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls…",
+      "link": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-10-02T20:00:00+08:00",
+      "time": "20:00"
+    },
+    {
+      "title": "AI music maker Suno now generates spoken words",
+      "desc": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-10-02T17:42:19+08:00",
+      "time": "17:42"
+    },
+    {
+      "title": "Don’t be fooled—LLMs don’t reason",
+      "desc": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human…",
+      "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "source": "MIT Tech Review",
+      "category": "研究",
+      "published": "2026-10-02T16:00:00+08:00",
+      "time": "16:00"
+    },
+    {
+      "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
+      "desc": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择",
+      "link": "https://www.qbitai.com/2026/10/500098.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-02T15:34:15+08:00",
+      "time": "15:34"
+    },
+    {
+      "title": "丘成桐新论文致谢了GPT和Claude",
+      "desc": "44年前被亲自列入问题清单",
+      "link": "https://www.qbitai.com/2026/10/499991.html",
+      "source": "量子位",
+      "category": "研究",
+      "published": "2026-10-02T15:27:03+08:00",
+      "time": "15:27"
+    },
     {
       "title": "连败6场遭强制执行 寒武纪前高管无端再提天价索赔 谁最受伤？",
       "desc": "寒武纪9月30日晚间发布公告称，在2025年11月、2026年8月，北京市海淀区人民法院、北京市第一中级人民法院分别做出一审、二审（终审）判决，梁军均败诉。案件走向也进入司法强制执行阶段。 不止如此，在双方的股权诉讼纠纷中，梁军已经接连输掉6起诉讼…",
