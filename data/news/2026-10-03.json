@@ -1,8 +1,62 @@
 {
   "date": "2026-10-03",
-  "generated_at": "2026-10-03T02:13:37+08:00",
-  "count": 6,
+  "generated_at": "2026-10-03T14:16:38+08:00",
+  "count": 12,
   "items": [
+    {
+      "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+      "desc": "又咋啦。。。",
+      "link": "https://www.qbitai.com/2026/10/501368.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-10-03T12:41:24+08:00",
+      "time": "12:41"
+    },
+    {
+      "title": "Meta wants your next gadget to be Muse-infused",
+      "desc": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+      "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-03T08:45:39+08:00",
+      "time": "08:45"
+    },
+    {
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "desc": "Apple says it is changing its macOS privacy settings to stop third-party app developers from misusing them to access message histories…",
+      "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "source": "Ars Technica",
+      "category": "资讯",
+      "published": "2026-10-03T07:03:16+08:00",
+      "time": "07:03"
+    },
+    {
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "desc": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced…",
+      "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "source": "The Verge AI",
+      "category": "产品",
+      "published": "2026-10-03T05:08:37+08:00",
+      "time": "05:08"
+    },
+    {
+      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+      "desc": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch…",
+      "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-10-03T04:08:40+08:00",
+      "time": "04:08"
+    },
+    {
+      "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+      "desc": "The US has arrested another suspect accused of smuggling high-end computer servers containing export-controlled Nvidia chips into China…",
+      "link": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+      "source": "Ars Technica",
+      "category": "芯片",
+      "published": "2026-10-03T02:39:36+08:00",
+      "time": "02:39"
+    },
     {
       "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
       "desc": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files…",
