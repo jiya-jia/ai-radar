@@ -1,8 +1,62 @@
 {
   "date": "2026-10-03",
-  "generated_at": "2026-10-03T14:16:38+08:00",
-  "count": 12,
+  "generated_at": "2026-10-04T00:59:45+08:00",
+  "count": 18,
   "items": [
+    {
+      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+      "desc": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops…",
+      "link": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-10-03T23:00:00+08:00",
+      "time": "23:00"
+    },
+    {
+      "title": "An OpenAI safety employee has quit and is sounding the alarm",
+      "desc": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "source": "The Verge AI",
+      "category": "政策",
+      "published": "2026-10-03T22:31:56+08:00",
+      "time": "22:31"
+    },
+    {
+      "title": "All the AI agents that can live in your text messages",
+      "desc": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-03T22:00:00+08:00",
+      "time": "22:00"
+    },
+    {
+      "title": "《Gran Turismo 7》迎来首台中国VGT 同时GT史上30年首次新增电车驾驶教学",
+      "desc": "新加坡，2026 年 10 月 3 日 —— 今日，在新加坡 Gran Turismo World Series（GT World Series）赛事现场，Gran Turismo系列游戏制作人山内一典与小米汽车欧洲研发中心设计负责人Jean-Arthur Madelaine现场联合宣布：Xiaomi Vision…",
+      "link": "https://www.leiphone.com/category/industrynews/YE7qzr0QKUUwu5eL.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-10-03T19:39:00+08:00",
+      "time": "19:39"
+    },
+    {
+      "title": "再创佳绩！爱奇艺《灵魂摆渡》“浮生梦”系列AIGC网络故事片分账票房破千万",
+      "desc": "10月3日，爱奇艺、长信传媒出品《灵魂摆渡》“浮生梦”系列AIGC网络故事片累计分账票房正式突破1000万元！ 该系列前两部《灵魂摆渡·蝴蝶梦》《灵魂摆渡·天女之梦》于8月22日独家上线爱奇艺，备受观众喜爱，上线首周即收回两部影片制作成本，首月累计分账票房突破800万元…",
+      "link": "https://www.leiphone.com/category/industrynews/yHRIGngfk28TJvIw.html",
+      "source": "雷峰网",
+      "category": "产品",
+      "published": "2026-10-03T18:12:00+08:00",
+      "time": "18:12"
+    },
+    {
+      "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
+      "desc": "岗位JD甩了篇技术报告",
+      "link": "https://www.qbitai.com/2026/10/501381.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-03T15:54:43+08:00",
+      "time": "15:54"
+    },
     {
       "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
       "desc": "又咋啦。。。",

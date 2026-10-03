@@ -1,7 +1,7 @@
 {
   "date": "2026-10-02",
-  "generated_at": "2026-10-03T14:16:38+08:00",
-  "count": 17,
+  "generated_at": "2026-10-04T00:59:45+08:00",
+  "count": 20,
   "items": [
     {
       "title": "Redefining enterprise intelligence with autonomous AI",
@@ -11,6 +11,15 @@
       "category": "研究",
       "published": "2026-10-02T23:49:04+08:00",
       "time": "23:49"
+    },
+    {
+      "title": "Pope Leo XIV is not a fan of AI-generated art",
+      "desc": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on…",
+      "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-02T23:39:41+08:00",
+      "time": "23:39"
     },
     {
       "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
@@ -29,6 +38,24 @@
       "category": "模型",
       "published": "2026-10-02T20:00:00+08:00",
       "time": "20:00"
+    },
+    {
+      "title": "If a data center is camouflaged in the woods, will anyone hate it?",
+      "desc": "San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming office…",
+      "link": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-10-02T20:00:00+08:00",
+      "time": "20:00"
+    },
+    {
+      "title": "Amazon writes scary blog warning communities not to block data centers",
+      "desc": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security…",
+      "link": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-10-02T19:52:20+08:00",
+      "time": "19:52"
     },
     {
       "title": "AI music maker Suno now generates spoken words",
