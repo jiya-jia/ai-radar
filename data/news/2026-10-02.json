@@ -1,7 +1,7 @@
 {
   "date": "2026-10-02",
-  "generated_at": "2026-10-04T00:59:45+08:00",
-  "count": 20,
+  "generated_at": "2026-10-04T14:42:09+08:00",
+  "count": 21,
   "items": [
     {
       "title": "Redefining enterprise intelligence with autonomous AI",
@@ -29,6 +29,15 @@
       "category": "芯片",
       "published": "2026-10-02T22:52:16+08:00",
       "time": "22:52"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
+      "desc": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026…",
+      "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-02T22:30:00+08:00",
+      "time": "22:30"
     },
     {
       "title": "AI hallucinations are making entitled customers even worse",

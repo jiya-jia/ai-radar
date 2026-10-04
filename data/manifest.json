@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-10-04T00:59:45+08:00",
-  "total_dates": 26,
-  "total_items": 619,
+  "generated_at": "2026-10-04T14:42:09+08:00",
+  "total_dates": 27,
+  "total_items": 624,
   "dates": [
+    {
+      "date": "2026-10-04",
+      "count": 4,
+      "sources": 3,
+      "categories": {
+        "资讯": 3,
+        "融资": 1
+      }
+    },
     {
       "date": "2026-10-03",
       "count": 18,
@@ -17,11 +26,11 @@
     },
     {
       "date": "2026-10-02",
-      "count": 20,
+      "count": 21,
       "sources": 6,
       "categories": {
         "研究": 4,
-        "资讯": 6,
+        "资讯": 7,
         "芯片": 2,
         "模型": 5,
         "融资": 1,
