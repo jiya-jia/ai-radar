@@ -1,8 +1,35 @@
 {
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T14:42:09+08:00",
-  "count": 4,
+  "generated_at": "2026-10-05T01:18:29+08:00",
+  "count": 8,
   "items": [
+    {
+      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+      "desc": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-10-04T23:21:59+08:00",
+      "time": "23:21"
+    },
+    {
+      "title": "Trump unveils his new Super Intelligence Force",
+      "desc": "This new task force is Trump's latest response to the debate over AI safety.",
+      "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-04T23:15:10+08:00",
+      "time": "23:15"
+    },
+    {
+      "title": "AI算力硬合作，马斯克还是更相信中国制造",
+      "desc": "一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。",
+      "link": "https://www.qbitai.com/2026/10/501605.html",
+      "source": "量子位",
+      "category": "芯片",
+      "published": "2026-10-04T14:12:22+08:00",
+      "time": "14:12"
+    },
     {
       "title": "最火AI岗位FDE：月薪5万，都干这些…",
       "desc": "什么是FDE？它会一直存在吗？",
@@ -11,6 +38,15 @@
       "category": "资讯",
       "published": "2026-10-04T14:05:35+08:00",
       "time": "14:05"
+    },
+    {
+      "title": "《Dream it Possible》旋律再起，全新华为Mate 90系列踏光而来！",
+      "desc": "在10月1日的华为Mate 90系列及全场景新品发布会上，开场曲《Dream it Possible》全新版本旋律响起，瞬间把全场的记忆拉回那些与历代Mate同行的岁月。而华为Mate 90系列核心精神内核“踏光向前”，就藏在这首歌与Mate共同写下的故事里…",
+      "link": "https://www.leiphone.com/category/industrynews/eqLySNuJ8LMHKrTe.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-10-04T13:48:00+08:00",
+      "time": "13:48"
     },
     {
       "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
