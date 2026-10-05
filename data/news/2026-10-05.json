@@ -1,8 +1,80 @@
 {
   "date": "2026-10-05",
-  "generated_at": "2026-10-05T14:44:53+08:00",
-  "count": 5,
+  "generated_at": "2026-10-06T04:58:30+08:00",
+  "count": 14,
   "items": [
+    {
+      "title": "Connecting AI agents to enterprise knowledge",
+      "desc": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge…",
+      "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "source": "MIT Tech Review",
+      "category": "融资",
+      "published": "2026-10-05T23:47:52+08:00",
+      "time": "23:47"
+    },
+    {
+      "title": "OpenAI launches visual ads that appear alongside image generation results",
+      "desc": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now.",
+      "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+      "source": "TechCrunch AI",
+      "category": "产品",
+      "published": "2026-10-05T23:14:24+08:00",
+      "time": "23:14"
+    },
+    {
+      "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+      "desc": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026…",
+      "link": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-05T23:00:00+08:00",
+      "time": "23:00"
+    },
+    {
+      "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
+      "desc": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
+      "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+      "source": "TechCrunch AI",
+      "category": "研究",
+      "published": "2026-10-05T22:35:09+08:00",
+      "time": "22:35"
+    },
+    {
+      "title": "AI glasses face their first major government crackdown",
+      "desc": "Norway has become the first major country to propose a temporary ban on the use of AI glasses in selected public places amid growing privacy concerns over…",
+      "link": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
+      "source": "Ars Technica",
+      "category": "政策",
+      "published": "2026-10-05T21:39:30+08:00",
+      "time": "21:39"
+    },
+    {
+      "title": "Bringing predictive analytics to the agentic AI era",
+      "desc": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled…",
+      "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "source": "MIT Tech Review",
+      "category": "研究",
+      "published": "2026-10-05T21:29:32+08:00",
+      "time": "21:29"
+    },
+    {
+      "title": "Our minds aren’t equipped to handle AI",
+      "desc": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-10-05T18:00:00+08:00",
+      "time": "18:00"
+    },
+    {
+      "title": "People really hate AI, so why can’t they get enough?",
+      "desc": "People hate AI and can't stop using it: More US adults expect AI to hurt them than help them—yet ChatGPT just hit a billion monthly users…",
+      "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "source": "MIT Tech Review",
+      "category": "政策",
+      "published": "2026-10-05T16:00:00+08:00",
+      "time": "16:00"
+    },
     {
       "title": "刚刚，Hinton发了首篇RSI论文",
       "desc": "AI已经开始真正进入「造下一代AI」的流水线",
@@ -11,6 +83,15 @@
       "category": "研究",
       "published": "2026-10-05T12:42:52+08:00",
       "time": "12:42"
+    },
+    {
+      "title": "EmTech Future 2026: When AI Meets Everything",
+      "desc": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why…",
+      "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+      "source": "MIT Tech Review",
+      "category": "机器人",
+      "published": "2026-10-05T12:00:00+08:00",
+      "time": "12:00"
     },
     {
       "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",

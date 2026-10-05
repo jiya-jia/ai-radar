@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T04:58:30+08:00",
+  "count": 6,
+  "items": [
+    {
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "desc": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-10-06T04:36:48+08:00",
+      "time": "04:36"
+    },
+    {
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "desc": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions…",
+      "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-10-06T03:33:53+08:00",
+      "time": "03:33"
+    },
+    {
+      "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
+      "desc": "A new tool is allowing Mac users the ability again to easily turn off Apple Intelligence with one click and free up to 12GB of storage…",
+      "link": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+      "source": "Ars Technica",
+      "category": "模型",
+      "published": "2026-10-06T03:14:44+08:00",
+      "time": "03:14"
+    },
+    {
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "desc": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events…",
+      "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+      "source": "TechCrunch AI",
+      "category": "产品",
+      "published": "2026-10-06T02:54:30+08:00",
+      "time": "02:54"
+    },
+    {
+      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "desc": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+      "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-06T02:29:00+08:00",
+      "time": "02:29"
+    },
+    {
+      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+      "desc": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding…",
+      "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-06T01:29:22+08:00",
+      "time": "01:29"
+    }
+  ]
+}
