@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-10-05T01:18:29+08:00",
-  "total_dates": 27,
-  "total_items": 628,
+  "generated_at": "2026-10-05T14:44:53+08:00",
+  "total_dates": 28,
+  "total_items": 633,
   "dates": [
+    {
+      "date": "2026-10-05",
+      "count": 5,
+      "sources": 3,
+      "categories": {
+        "研究": 1,
+        "资讯": 3,
+        "产品": 1
+      }
+    },
     {
       "date": "2026-10-04",
       "count": 8,

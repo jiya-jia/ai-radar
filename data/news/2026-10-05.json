@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T14:44:53+08:00",
+  "count": 5,
+  "items": [
+    {
+      "title": "刚刚，Hinton发了首篇RSI论文",
+      "desc": "AI已经开始真正进入「造下一代AI」的流水线",
+      "link": "https://www.qbitai.com/2026/10/501705.html",
+      "source": "量子位",
+      "category": "研究",
+      "published": "2026-10-05T12:42:52+08:00",
+      "time": "12:42"
+    },
+    {
+      "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+      "desc": "有改进就体验，没改进就重置，横竖不亏。",
+      "link": "https://www.qbitai.com/2026/10/501700.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-10-05T10:50:46+08:00",
+      "time": "10:50"
+    },
+    {
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "desc": "AI slop seems to be overwhelming bug bounty programs.",
+      "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "source": "TechCrunch AI",
+      "category": "产品",
+      "published": "2026-10-05T04:31:07+08:00",
+      "time": "04:31"
+    },
+    {
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "desc": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+      "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-05T04:08:34+08:00",
+      "time": "04:08"
+    },
+    {
+      "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+      "desc": "Well, if AI said it, it must be true. | Bloomberg via Getty Images New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-10-05T00:16:04+08:00",
+      "time": "00:16"
+    }
+  ]
+}
