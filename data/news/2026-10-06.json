@@ -1,8 +1,62 @@
 {
   "date": "2026-10-06",
-  "generated_at": "2026-10-06T15:23:55+08:00",
-  "count": 12,
+  "generated_at": "2026-10-07T02:47:15+08:00",
+  "count": 18,
   "items": [
+    {
+      "title": "LibreOffice says ‘no AI’ is now a software feature",
+      "desc": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
+      "link": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+      "source": "TechCrunch AI",
+      "category": "产品",
+      "published": "2026-10-06T23:25:00+08:00",
+      "time": "23:25"
+    },
+    {
+      "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+      "desc": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
+      "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-10-06T22:33:16+08:00",
+      "time": "22:33"
+    },
+    {
+      "title": "Google is about to remove free access to Gemini Flash and Pro",
+      "desc": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-10-06T21:19:01+08:00",
+      "time": "21:19"
+    },
+    {
+      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+      "desc": "The publisher of Wikipedia said Monday that OpenAI agents attempted to hack a note-taking tool it hosts, made unauthorized edits, and sent millions of…",
+      "link": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+      "source": "Ars Technica",
+      "category": "资讯",
+      "published": "2026-10-06T20:21:53+08:00",
+      "time": "20:21"
+    },
+    {
+      "title": "不er，咋陶哲轩也成AI减速派了？？",
+      "desc": "不er，咋陶哲轩也成AI减速派了？？",
+      "link": "https://www.qbitai.com/2026/10/501736.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-10-06T15:59:17+08:00",
+      "time": "15:59"
+    },
+    {
+      "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
+      "desc": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
+      "link": "https://www.qbitai.com/2026/10/501726.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-10-06T14:45:40+08:00",
+      "time": "14:45"
+    },
     {
       "title": "Gemini Call for Me might tell your mom you’re running late",
       "desc": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family…",

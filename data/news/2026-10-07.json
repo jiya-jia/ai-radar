@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T02:47:15+08:00",
+  "count": 4,
+  "items": [
+    {
+      "title": "Hark releases an AI personal assistant with a focus on privacy",
+      "desc": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+      "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+      "source": "TechCrunch AI",
+      "category": "产品",
+      "published": "2026-10-07T02:22:45+08:00",
+      "time": "02:22"
+    },
+    {
+      "title": "Mirror Particle is building a ‘world model’ of human behavior",
+      "desc": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM…",
+      "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+      "source": "TechCrunch AI",
+      "category": "研究",
+      "published": "2026-10-07T00:35:00+08:00",
+      "time": "00:35"
+    },
+    {
+      "title": "We can’t just change the definition of ‘recording’",
+      "desc": "With AI hardware, tech companies are pushing the definition of what does and doesn't constitute a recording…",
+      "link": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-10-07T00:29:44+08:00",
+      "time": "00:29"
+    },
+    {
+      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+      "desc": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through…",
+      "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-10-07T00:00:00+08:00",
+      "time": "00:00"
+    }
+  ]
+}

@@ -1,17 +1,28 @@
 {
-  "generated_at": "2026-10-06T15:23:55+08:00",
-  "total_dates": 29,
-  "total_items": 657,
+  "generated_at": "2026-10-07T02:47:15+08:00",
+  "total_dates": 30,
+  "total_items": 667,
   "dates": [
     {
-      "date": "2026-10-06",
-      "count": 12,
-      "sources": 3,
+      "date": "2026-10-07",
+      "count": 4,
+      "sources": 2,
       "categories": {
-        "模型": 5,
-        "研究": 2,
-        "资讯": 3,
         "产品": 1,
+        "研究": 1,
+        "资讯": 1,
+        "模型": 1
+      }
+    },
+    {
+      "date": "2026-10-06",
+      "count": 18,
+      "sources": 4,
+      "categories": {
+        "产品": 2,
+        "模型": 7,
+        "资讯": 6,
+        "研究": 2,
         "芯片": 1
       }
     },
