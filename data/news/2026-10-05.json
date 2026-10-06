@@ -1,7 +1,7 @@
 {
   "date": "2026-10-05",
-  "generated_at": "2026-10-06T04:58:30+08:00",
-  "count": 14,
+  "generated_at": "2026-10-06T15:23:55+08:00",
+  "count": 17,
   "items": [
     {
       "title": "Connecting AI agents to enterprise knowledge",
@@ -40,6 +40,24 @@
       "time": "22:35"
     },
     {
+      "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+      "desc": "Today, I’m talking with Sen. Adam Schiff, a Democrat from California. Schiff sits on a number of committees with oversight into tech and AI: intellectual…",
+      "link": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-10-05T22:30:00+08:00",
+      "time": "22:30"
+    },
+    {
+      "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
+      "desc": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-10-05T21:47:14+08:00",
+      "time": "21:47"
+    },
+    {
       "title": "AI glasses face their first major government crackdown",
       "desc": "Norway has become the first major country to propose a temporary ban on the use of AI glasses in selected public places amid growing privacy concerns over…",
       "link": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
@@ -56,6 +74,15 @@
       "category": "研究",
       "published": "2026-10-05T21:29:32+08:00",
       "time": "21:29"
+    },
+    {
+      "title": "OpenAI is sticking more ads in ChatGPT",
+      "desc": "OpenAI's latest ad format will put images of sponsored products and services on your screen…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-10-05T21:09:48+08:00",
+      "time": "21:09"
     },
     {
       "title": "Our minds aren’t equipped to handle AI",

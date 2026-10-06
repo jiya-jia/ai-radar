@@ -1,8 +1,26 @@
 {
   "date": "2026-10-06",
-  "generated_at": "2026-10-06T04:58:30+08:00",
-  "count": 6,
+  "generated_at": "2026-10-06T15:23:55+08:00",
+  "count": 12,
   "items": [
+    {
+      "title": "Gemini Call for Me might tell your mom you’re running late",
+      "desc": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-10-06T07:09:55+08:00",
+      "time": "07:09"
+    },
+    {
+      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+      "desc": "The adoption of AI agents in millions of organizations is creating new opportunities for attackers to make them take malicious actions, such as exfiltrating…",
+      "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+      "source": "Ars Technica",
+      "category": "研究",
+      "published": "2026-10-06T06:26:35+08:00",
+      "time": "06:26"
+    },
     {
       "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
       "desc": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
@@ -22,6 +40,15 @@
       "time": "03:33"
     },
     {
+      "title": "All the drama around AI’s takeover of mathematics",
+      "desc": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+      "source": "The Verge AI",
+      "category": "研究",
+      "published": "2026-10-06T03:28:59+08:00",
+      "time": "03:28"
+    },
+    {
       "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
       "desc": "A new tool is allowing Mac users the ability again to easily turn off Apple Intelligence with one click and free up to 12GB of storage…",
       "link": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
@@ -29,6 +56,15 @@
       "category": "模型",
       "published": "2026-10-06T03:14:44+08:00",
       "time": "03:14"
+    },
+    {
+      "title": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
+      "desc": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it…",
+      "link": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-10-06T03:05:19+08:00",
+      "time": "03:05"
     },
     {
       "title": "Instinct brings its AI agent to group chats, even for friends without an account",
@@ -49,6 +85,15 @@
       "time": "02:29"
     },
     {
+      "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+      "desc": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-10-06T02:08:39+08:00",
+      "time": "02:08"
+    },
+    {
       "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
       "desc": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding…",
       "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
@@ -56,6 +101,15 @@
       "category": "资讯",
       "published": "2026-10-06T01:29:22+08:00",
       "time": "01:29"
+    },
+    {
+      "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide",
+      "desc": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair 's Mark Guiducci after the editor brought up a ChatGPT user's…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-10-06T00:55:42+08:00",
+      "time": "00:55"
     }
   ]
 }
