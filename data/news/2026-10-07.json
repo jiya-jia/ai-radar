@@ -1,8 +1,107 @@
 {
   "date": "2026-10-07",
-  "generated_at": "2026-10-07T15:02:41+08:00",
-  "count": 11,
+  "generated_at": "2026-10-08T03:12:53+08:00",
+  "count": 22,
   "items": [
+    {
+      "title": "Muse launches on the iPad",
+      "desc": "After launching nearly a month ago and spending several weeks as the top free app in Apple's App Store, the latest update to Meta's Muse iOS app introduces…",
+      "link": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-10-07T23:37:23+08:00",
+      "time": "23:37"
+    },
+    {
+      "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
+      "desc": "Google DeepMind, Meta, and AI drug discovery startup Isomorphic Labs are jointly investing $300 million into an initiative to create a \"virtual cell\" that…",
+      "link": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+      "source": "The Verge AI",
+      "category": "研究",
+      "published": "2026-10-07T22:40:52+08:00",
+      "time": "22:40"
+    },
+    {
+      "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+      "desc": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots…",
+      "link": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+      "source": "TechCrunch AI",
+      "category": "产品",
+      "published": "2026-10-07T22:30:00+08:00",
+      "time": "22:30"
+    },
+    {
+      "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
+      "desc": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026…",
+      "link": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-10-07T22:15:00+08:00",
+      "time": "22:15"
+    },
+    {
+      "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
+      "desc": "As tensions mount over who gets access to top-end artificial intelligence , French company Mistral has released a new freely available model that it claims can…",
+      "link": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
+      "source": "Ars Technica",
+      "category": "模型",
+      "published": "2026-10-07T22:12:37+08:00",
+      "time": "22:12"
+    },
+    {
+      "title": "Google rolls out improved SynthID AI content detector, now available globally",
+      "desc": "Every piece of AI content from Google's Gemini models has a hidden SynthID label, which makes it very difficult to pass the content off as authentic…",
+      "link": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
+      "source": "Ars Technica",
+      "category": "芯片",
+      "published": "2026-10-07T22:00:08+08:00",
+      "time": "22:00"
+    },
+    {
+      "title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
+      "desc": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
+      "link": "https://www.qbitai.com/2026/10/501803.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-07T19:34:47+08:00",
+      "time": "19:34"
+    },
+    {
+      "title": "碳硅道统《AI安全与文明治理法典》第189集｜全法典总目录索引终卷",
+      "desc": "适用：法典运维中心、跨文明联合审计委员会、全体系卷宗归档、官方检索核验、所有引用与落地主体。 核心定位：本卷为碳硅道统1–188集完整体系唯一官方总索引。汇总全法典谱系层级、卷目定位、体系归属、归档哈希索引、卷宗检索规则，实现整套道统法典一键溯源、层级可查、边界可分、正本可验…",
+      "link": "https://www.leiphone.com/category/industrynews/SCYRWOQSLbEpAnGs.html",
+      "source": "雷峰网",
+      "category": "政策",
+      "published": "2026-10-07T19:26:00+08:00",
+      "time": "19:26"
+    },
+    {
+      "title": "碳硅道统《AI安全与文明治理法典》188集 · 七层体系目录",
+      "desc": "当前全球AI治理讨论多聚焦法规与产业监管，往往忽略底层认知安全与模型原生技术风险。碳硅道统发布《AI安全与文明治理法典》，全套共188集，搭建七层递进式研究框架。从普通人的AI认知风险，到大模型底层安全机理，再到行业权责、国家算力监管，最终延伸至跨代际文明尺度的长期风控…",
+      "link": "https://www.leiphone.com/category/industrynews/zjq0L18W5NV7Y49M.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-10-07T19:19:00+08:00",
+      "time": "19:19"
+    },
+    {
+      "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+      "desc": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-10-07T17:00:00+08:00",
+      "time": "17:00"
+    },
+    {
+      "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
+      "desc": "在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜",
+      "link": "https://www.qbitai.com/2026/10/501791.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-10-07T14:39:36+08:00",
+      "time": "14:39"
+    },
     {
       "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
       "desc": "在 a16z 首份消费级 AI 应用月收入榜单中， Meshy 位列第 31 名，与 OpenAI 、 Anthropic 、 Canva 、 Superhuman 、 Higgsfield 等共同上榜 加州硅谷， 2026 年 10 月 5 日 —— 全球领先的 AI 3D 多模态模型公司 Meshy 今日宣布…",
