@@ -1,8 +1,71 @@
 {
   "date": "2026-10-07",
-  "generated_at": "2026-10-07T02:47:15+08:00",
-  "count": 4,
+  "generated_at": "2026-10-07T15:02:41+08:00",
+  "count": 11,
   "items": [
+    {
+      "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
+      "desc": "在 a16z 首份消费级 AI 应用月收入榜单中， Meshy 位列第 31 名，与 OpenAI 、 Anthropic 、 Canva 、 Superhuman 、 Higgsfield 等共同上榜 加州硅谷， 2026 年 10 月 5 日 —— 全球领先的 AI 3D 多模态模型公司 Meshy 今日宣布…",
+      "link": "https://www.leiphone.com/category/industrynews/ZKXlV8iIwXaBOpzO.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-10-07T12:19:00+08:00",
+      "time": "12:19"
+    },
+    {
+      "title": "蚂蚁阿福“科学减重1亿斤”迎来“退展”：中秋国庆假期全国60万网友胖了100万斤",
+      "desc": "中秋国庆超长假期即将结束，更“扎心”的灵魂拷问来了：你胖了吗？ 健康AI蚂蚁阿福数据显示，9月25日-10月6日假期期间，全国参与阿福“科学减重1亿斤”的网友中，60万人累计长胖超100万斤。其中，超10万人长胖了3斤以上…",
+      "link": "https://www.leiphone.com/category/industrynews/7kLgFJjmaGU8YuBW.html",
+      "source": "雷峰网",
+      "category": "研究",
+      "published": "2026-10-07T12:17:00+08:00",
+      "time": "12:17"
+    },
+    {
+      "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+      "desc": "三位菲尔兹奖得主：不代表认可",
+      "link": "https://www.qbitai.com/2026/10/501749.html",
+      "source": "量子位",
+      "category": "研究",
+      "published": "2026-10-07T09:05:13+08:00",
+      "time": "09:05"
+    },
+    {
+      "title": "OpenAI drops another batch of mathematical breakthroughs",
+      "desc": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+      "source": "The Verge AI",
+      "category": "研究",
+      "published": "2026-10-07T07:26:38+08:00",
+      "time": "07:26"
+    },
+    {
+      "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
+      "desc": "OpenAI will begin automatically watermarking text generated with ChatGPT in the European Union, the company has announced…",
+      "link": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+      "source": "Ars Technica",
+      "category": "芯片",
+      "published": "2026-10-07T04:50:32+08:00",
+      "time": "04:50"
+    },
+    {
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "desc": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+      "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-10-07T04:00:30+08:00",
+      "time": "04:00"
+    },
+    {
+      "title": "The next hurdle for AI agents: getting websites to let them in",
+      "desc": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving…",
+      "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-07T03:56:50+08:00",
+      "time": "03:56"
+    },
     {
       "title": "Hark releases an AI personal assistant with a focus on privacy",
       "desc": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
