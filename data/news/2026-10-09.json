@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T03:09:14+08:00",
+  "count": 8,
+  "items": [
+    {
+      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+      "desc": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+      "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-09T02:19:42+08:00",
+      "time": "02:19"
+    },
+    {
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "desc": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems…",
+      "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-10-09T02:18:00+08:00",
+      "time": "02:18"
+    },
+    {
+      "title": "Anthropic changes usage policy to ban model abuse and election interference",
+      "desc": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are…",
+      "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+      "source": "TechCrunch AI",
+      "category": "政策",
+      "published": "2026-10-09T02:16:24+08:00",
+      "time": "02:16"
+    },
+    {
+      "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+      "desc": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
+      "link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+      "source": "TechCrunch AI",
+      "category": "研究",
+      "published": "2026-10-09T02:10:55+08:00",
+      "time": "02:10"
+    },
+    {
+      "title": "USA Today becomes the latest publisher to sue OpenAI",
+      "desc": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+      "source": "The Verge AI",
+      "category": "政策",
+      "published": "2026-10-09T01:58:33+08:00",
+      "time": "01:58"
+    },
+    {
+      "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
+      "desc": "If Elon Musk and SpaceXAI were going to back any Linux distro, it seems obvious they'd back Omarchy…",
+      "link": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-10-09T01:57:01+08:00",
+      "time": "01:57"
+    },
+    {
+      "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+      "desc": "Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including election…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+      "source": "The Verge AI",
+      "category": "政策",
+      "published": "2026-10-09T01:00:00+08:00",
+      "time": "01:00"
+    },
+    {
+      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+      "desc": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors…",
+      "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-10-09T00:00:00+08:00",
+      "time": "00:00"
+    }
+  ]
+}

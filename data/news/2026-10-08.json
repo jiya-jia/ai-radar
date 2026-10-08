@@ -1,8 +1,71 @@
 {
   "date": "2026-10-08",
-  "generated_at": "2026-10-08T15:11:30+08:00",
-  "count": 19,
+  "generated_at": "2026-10-09T03:09:14+08:00",
+  "count": 27,
   "items": [
+    {
+      "title": "Claude Haiku 5.5 降本背后：操作能力暴涨，复杂编程为何仍差一截？",
+      "desc": "模型开始按任务动态分配推理，超 10 万 Token 后，输入输出单价均涨 5 倍。 作者丨 郑佳美 编辑丨岑 峰 刚刚，Anthropic 发布了 Claude Haiku 5.5。 这次升级的幅度不小，尤其是在计算机操作方面，OSWorld 2.1 评测成绩从上一代的 15.7% 提升到了 72.4%…",
+      "link": "https://www.leiphone.com/category/ai/n2GjuJRnM4utgaun.html",
+      "source": "雷峰网",
+      "category": "研究",
+      "published": "2026-10-08T23:37:00+08:00",
+      "time": "23:37"
+    },
+    {
+      "title": "Google is launching a one-stop Gemini agent for your work tasks",
+      "desc": "Google is launching a \"universal\" Gemini AI agent that can work across apps and devices in the background…",
+      "link": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-10-08T22:28:03+08:00",
+      "time": "22:28"
+    },
+    {
+      "title": "Can you trust Meta’s Muse or OpenAI’s Dots to run your life?",
+      "desc": "My Decoder guest today is Hayden Field, The Verge ’s senior AI reporter, and we’re discussing the new wave of consumer-friendly AI agents…",
+      "link": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
+      "source": "The Verge AI",
+      "category": "融资",
+      "published": "2026-10-08T22:00:00+08:00",
+      "time": "22:00"
+    },
+    {
+      "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+      "desc": "Investors bullish on AI data centers may be fueling Nvidia’s multitrillion-dollar market capitalization, but the AI chipmaker has also bet billions of dollars…",
+      "link": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+      "source": "Ars Technica",
+      "category": "芯片",
+      "published": "2026-10-08T19:15:33+08:00",
+      "time": "19:15"
+    },
+    {
+      "title": "搭载NVIDIA RTX Spark™ N1X超级芯片：联想YOGA Pro 15开启盲约，重塑个人生产力边界",
+      "desc": "联想YOGA Pro 15 RTX Spark笔记本电脑，于10月8日9:00正式开启全网盲约。",
+      "link": "https://www.qbitai.com/2026/10/502020.html",
+      "source": "量子位",
+      "category": "芯片",
+      "published": "2026-10-08T18:23:53+08:00",
+      "time": "18:23"
+    },
+    {
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "desc": "The story is a collaboration between MIT Technology Review and Aventine , a non-profit research foundation that creates and supports content about how…",
+      "link": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "source": "MIT Tech Review",
+      "category": "融资",
+      "published": "2026-10-08T17:00:00+08:00",
+      "time": "17:00"
+    },
+    {
+      "title": "Building a safer path to autonomous industrial AI",
+      "desc": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI…",
+      "link": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+      "source": "MIT Tech Review",
+      "category": "机器人",
+      "published": "2026-10-08T16:17:32+08:00",
+      "time": "16:17"
+    },
     {
       "title": "从「工具」到「智能体」：CARES 4.0在港发布，刘宏斌谈医疗AI如何走进临床",
       "desc": "近日，由中国科学院香港创新研究院人工智能与机器人创新中心（CAIR）主办、香港科技园公司协办的第四届香港具身智能医疗科技论坛（The 4th Hong Kong Clinical-driven Robotics and Embodied AI TEchnology Symposium…",
@@ -92,6 +155,15 @@
       "category": "模型",
       "published": "2026-10-08T03:10:42+08:00",
       "time": "03:10"
+    },
+    {
+      "title": "It appears .agent and .agi are about to be the hot new domains",
+      "desc": "What’s in a URL anymore, really. For the first time in years, the Internet Corporation for Assigned Names and Numbers - better known as ICANN - is accepting…",
+      "link": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-10-08T02:46:16+08:00",
+      "time": "02:46"
     },
     {
       "title": "Everything announced at Microsoft’s Surface Laptop Ultra event",

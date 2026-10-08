@@ -1,7 +1,7 @@
 {
   "date": "2026-10-07",
-  "generated_at": "2026-10-08T15:11:30+08:00",
-  "count": 22,
+  "generated_at": "2026-10-09T03:09:14+08:00",
+  "count": 23,
   "items": [
     {
       "title": "Muse launches on the iPad",
@@ -11,6 +11,15 @@
       "category": "模型",
       "published": "2026-10-07T23:37:23+08:00",
       "time": "23:37"
+    },
+    {
+      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+      "desc": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
+      "link": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-10-07T23:07:08+08:00",
+      "time": "23:07"
     },
     {
       "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
