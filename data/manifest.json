@@ -1,15 +1,17 @@
 {
-  "generated_at": "2026-10-08T03:12:53+08:00",
+  "generated_at": "2026-10-08T15:11:30+08:00",
   "total_dates": 31,
-  "total_items": 695,
+  "total_items": 704,
   "dates": [
     {
       "date": "2026-10-08",
-      "count": 10,
-      "sources": 3,
+      "count": 19,
+      "sources": 5,
       "categories": {
-        "模型": 5,
-        "芯片": 2,
+        "融资": 1,
+        "机器人": 1,
+        "芯片": 5,
+        "模型": 9,
         "产品": 3
       }
     },

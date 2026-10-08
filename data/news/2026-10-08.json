@@ -1,8 +1,89 @@
 {
   "date": "2026-10-08",
-  "generated_at": "2026-10-08T03:12:53+08:00",
-  "count": 10,
+  "generated_at": "2026-10-08T15:11:30+08:00",
+  "count": 19,
   "items": [
+    {
+      "title": "从「工具」到「智能体」：CARES 4.0在港发布，刘宏斌谈医疗AI如何走进临床",
+      "desc": "近日，由中国科学院香港创新研究院人工智能与机器人创新中心（CAIR）主办、香港科技园公司协办的第四届香港具身智能医疗科技论坛（The 4th Hong Kong Clinical-driven Robotics and Embodied AI TEchnology Symposium…",
+      "link": "https://www.leiphone.com/category/aihealth/93E68V91AW9aHtDb.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-10-08T11:18:00+08:00",
+      "time": "11:18"
+    },
+    {
+      "title": "IROS 2026大奖揭晓：长期记忆拿下最佳论文，人形机器人打网球、端托盘双双获奖",
+      "desc": "在机器人领域，一个更大的模型并不能自动解决所有问题。 作者丨马晓宁 编辑丨岑 峰 当地时间 9 月 30 日，IROS 2026 主会在美国匹兹堡落下帷幕，本届大会的主要奖项也在最后一天正式揭晓。 AI科技评论在现场获悉，今年的 Best Paper Award 最终颁给了一项关于机器人“长期记忆”的研究…",
+      "link": "https://www.leiphone.com/category/private/VYRZFCnadDOcPDeX.html",
+      "source": "雷峰网",
+      "category": "机器人",
+      "published": "2026-10-08T10:57:00+08:00",
+      "time": "10:57"
+    },
+    {
+      "title": "研究了1933篇 IROS 论文，我们看到了机器人学的六项新变化",
+      "desc": "大模型并没有“吃掉”机器人学。 作者丨 马晓宁 编辑丨岑 峰 9月27日，IROS 2026 将在匹兹堡开幕。重隔31年后，IROS 重回这座钢铁之城。 作为全球规模最大的机器人学术会议之一，今年进入正式议程的论文达到 1933 篇…",
+      "link": "https://www.leiphone.com/category/private/wEpCJ4T8v9cJFgCn.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-10-08T10:46:00+08:00",
+      "time": "10:46"
+    },
+    {
+      "title": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
+      "desc": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
+      "link": "https://www.qbitai.com/2026/10/501915.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-08T10:15:37+08:00",
+      "time": "10:15"
+    },
+    {
+      "title": "GPT-6今起免费用！拒答变少，话变多了",
+      "desc": "ChatGPT聊天框长出界面",
+      "link": "https://www.qbitai.com/2026/10/501834.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-08T09:07:19+08:00",
+      "time": "09:07"
+    },
+    {
+      "title": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
+      "desc": "小模型新守门员",
+      "link": "https://www.qbitai.com/2026/10/501832.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-08T09:04:00+08:00",
+      "time": "09:04"
+    },
+    {
+      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+      "desc": "In its first live event in two years, Microsoft today announced its newest Surface laptop, outlined a host of changes coming to Windows 11, and shared a vision…",
+      "link": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+      "source": "Ars Technica",
+      "category": "芯片",
+      "published": "2026-10-08T08:00:24+08:00",
+      "time": "08:00"
+    },
+    {
+      "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
+      "desc": "For a while, those hoping to avoid the difficulty and expense of dealing with Adobe's Creative Suite have been able to use several free and/or open-source…",
+      "link": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+      "source": "Ars Technica",
+      "category": "模型",
+      "published": "2026-10-08T05:56:42+08:00",
+      "time": "05:56"
+    },
+    {
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "desc": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+      "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-10-08T04:22:37+08:00",
+      "time": "04:22"
+    },
     {
       "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
       "desc": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals…",
