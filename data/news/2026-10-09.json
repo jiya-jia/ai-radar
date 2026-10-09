@@ -1,8 +1,107 @@
 {
   "date": "2026-10-09",
-  "generated_at": "2026-10-09T03:09:14+08:00",
-  "count": 8,
+  "generated_at": "2026-10-09T15:15:44+08:00",
+  "count": 19,
   "items": [
+    {
+      "title": "跨域顶层监管层｜监管者自身的跨域审计规则",
+      "desc": "本文为《碳硅道统·跨域迁移治理法典》七层体系官方连载第五篇，是整套理论从企业合规升维到公共治理、从行业自律升维到国家制度、从被动治理升维到元监管的顶层范式层。 解决全球AI治理终极制度盲区：监管不自审、规则不自勘。 体系固定基准：跨域迁移零号基准NT1-NT4四类负迁移定义、188集工业理论总纲、七层全域目录谱系…",
+      "link": "https://www.leiphone.com/category/industrynews/aemAabCklwZCGjIm.html",
+      "source": "雷峰网",
+      "category": "政策",
+      "published": "2026-10-09T12:27:00+08:00",
+      "time": "12:27"
+    },
+    {
+      "title": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
+      "desc": "星动纪元选择将视频预测与动作学习分阶段训练，重点不是「视频、动作一锅炖」，而是把两者「解耦」，重新「排序」。",
+      "link": "https://www.qbitai.com/2026/10/502125.html",
+      "source": "量子位",
+      "category": "芯片",
+      "published": "2026-10-09T11:52:21+08:00",
+      "time": "11:52"
+    },
+    {
+      "title": "TRAE全面升级：双端融合，打造全链路开发平台",
+      "desc": "10 月 9 日，TRAE宣布全面升级：TraeWork与TraeCode双端融合，统一连接Agent与IDE两种模式，覆盖从任务推进到深度编码的开发流程。 过去，TraeWork更偏向办公、任务和内容生成，TraeCode更专注专业开发者的编码需求…",
+      "link": "https://www.leiphone.com/category/industrynews/wmndjzo2jLJzOY0Z.html",
+      "source": "雷峰网",
+      "category": "资讯",
+      "published": "2026-10-09T11:40:00+08:00",
+      "time": "11:40"
+    },
+    {
+      "title": "豆包工作新增画布功能，并接入豆包2.1 Lite模型",
+      "desc": "近期，豆包工作持续更新，推出创作画布功能，并在模型上新增了轻量级的豆包2.1 Lite模型。 据介绍，画布功能主要针对复杂创作任务，速度更快，交互体验更好。该功能将素材、设计方案与创作成果集中到同一页面，用户可在一张无限画布上快速实现各个步骤，随时查看、对比和整理…",
+      "link": "https://www.leiphone.com/category/industrynews/J8Nj09CidhwiTl90.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-10-09T11:20:00+08:00",
+      "time": "11:20"
+    },
+    {
+      "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+      "desc": "多Agent协同还能自我进化",
+      "link": "https://www.qbitai.com/2026/10/502106.html",
+      "source": "量子位",
+      "category": "产品",
+      "published": "2026-10-09T10:37:22+08:00",
+      "time": "10:37"
+    },
+    {
+      "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
+      "desc": "让AI反复试错的“练兵场”来了",
+      "link": "https://www.qbitai.com/2026/10/502096.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-10-09T10:03:48+08:00",
+      "time": "10:03"
+    },
+    {
+      "title": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude",
+      "desc": "新的“缝合怪”已经出现，怎么能够停滞不前",
+      "link": "https://www.qbitai.com/2026/10/502083.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-09T08:16:56+08:00",
+      "time": "08:16"
+    },
+    {
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "desc": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a…",
+      "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source": "MIT Tech Review",
+      "category": "模型",
+      "published": "2026-10-09T08:08:24+08:00",
+      "time": "08:08"
+    },
+    {
+      "title": "Anthropic launches free AI security scans for open-source projects",
+      "desc": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-10-09T05:53:51+08:00",
+      "time": "05:53"
+    },
+    {
+      "title": "California is trying to shut down robot vs. human cage matches",
+      "desc": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by…",
+      "link": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+      "source": "The Verge AI",
+      "category": "机器人",
+      "published": "2026-10-09T04:06:56+08:00",
+      "time": "04:06"
+    },
+    {
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "desc": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a…",
+      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "source": "TechCrunch AI",
+      "category": "研究",
+      "published": "2026-10-09T04:04:26+08:00",
+      "time": "04:04"
+    },
     {
       "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
       "desc": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
