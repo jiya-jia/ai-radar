@@ -1,7 +1,7 @@
 {
   "date": "2026-10-08",
-  "generated_at": "2026-10-09T15:15:44+08:00",
-  "count": 31,
+  "generated_at": "2026-10-10T02:39:40+08:00",
+  "count": 37,
   "items": [
     {
       "title": "Claude Haiku 5.5 降本背后：操作能力暴涨，复杂编程为何仍差一截？",
@@ -11,6 +11,24 @@
       "category": "研究",
       "published": "2026-10-08T23:37:00+08:00",
       "time": "23:37"
+    },
+    {
+      "title": "Google’s AI note-taking app transcribes your meetings completely offline",
+      "desc": "Google has released an experimental note-taking app that can transcribe meetings and audio files entirely offline, as reported earlier by TechCrunch…",
+      "link": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-10-08T23:27:30+08:00",
+      "time": "23:27"
+    },
+    {
+      "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+      "desc": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100…",
+      "link": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-08T23:00:00+08:00",
+      "time": "23:00"
     },
     {
       "title": "Google is launching a one-stop Gemini agent for your work tasks",
@@ -49,6 +67,15 @@
       "time": "22:00"
     },
     {
+      "title": "Google releases a new local-first Granola competitor",
+      "desc": "Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions…",
+      "link": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+      "source": "TechCrunch AI",
+      "category": "产品",
+      "published": "2026-10-08T21:28:39+08:00",
+      "time": "21:28"
+    },
+    {
       "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
       "desc": "Investors bullish on AI data centers may be fueling Nvidia’s multitrillion-dollar market capitalization, but the AI chipmaker has also bet billions of dollars…",
       "link": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
@@ -85,6 +112,24 @@
       "time": "16:17"
     },
     {
+      "title": "迁移技术机理层｜负迁移发生的底层诱因",
+      "desc": "本文为《碳硅道统·跨域迁移治理法典》七层体系官方连载第二篇，为整套理论机理内核、归因底层、风险生成原点。 承接第一篇现象事实，开启从“看见风险”到“读懂风险、预判风险、溯源风险”的认知升维。 体系固定基准：跨域迁移零号基准NT1-NT4四类负迁移定义、188集工业理论总纲、七层全域目录谱系…",
+      "link": "https://www.leiphone.com/category/industrynews/ZiR18N0bk5jxaFJO.html",
+      "source": "雷峰网",
+      "category": "政策",
+      "published": "2026-10-08T15:58:00+08:00",
+      "time": "15:58"
+    },
+    {
+      "title": "《碳硅道统·跨域迁移治理法典》七层体系目录",
+      "desc": "000|【全局唯一前置定标】负迁移NT1–NT4四类原型·官方终审定义（基准集，不计入188正集） 定稿标注：零号基准，独立于七层主体序列，不作为正集计数；NT四类原型为本法典全部引用唯一法定口径，永久锁死，不可迭代改写…",
+      "link": "https://www.leiphone.com/category/industrynews/qCQ6peI7fBvGB3bC.html",
+      "source": "雷峰网",
+      "category": "机器人",
+      "published": "2026-10-08T15:54:00+08:00",
+      "time": "15:54"
+    },
+    {
       "title": "云栖大会观察：阿里怎么打下一阶段模型战?",
       "desc": "云栖大会，解开市场对阿里大模型的三个疑惑。 作者丨胡敏 编辑丨刘伟 今年云栖大会，变化格外明显。参加过多年的人，打开主论坛议程就能感受到，和往年很不一样。 在吴泳铭发言之后，第一个登台分享的是千问大语言模型负责人刘大一恒；紧随其后的是 ATH 技术副总裁郑波，他负责视听等多模态模型…",
       "link": "https://www.leiphone.com/category/industrynews/SqijXlMpyTf0xSst.html",
@@ -92,6 +137,15 @@
       "category": "芯片",
       "published": "2026-10-08T15:20:00+08:00",
       "time": "15:20"
+    },
+    {
+      "title": "北醒李远：给机器造眼睛，与「自讨苦吃」的十一年|物理 AI 50人",
+      "desc": "作为中国发光学奠基人徐叙瑢院士的学生，十一年里，李远一直在做一件事：给机器造一双“眼睛”。 这些“眼睛”上天、下水、上路，装进了无人机、列车、汽车和各类机器人。 今天，当所有人开始讨论物理 AI，他也在重新思考：这双眼睛除了帮助机器看见，还能不能帮助机器理解世界。 从本科一路读到博士后，李远本想成为一名学者…",
+      "link": "https://www.leiphone.com/category/robot/xhfZWtXZLLsnbNKt.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-10-08T15:16:00+08:00",
+      "time": "15:16"
     },
     {
       "title": "至简动力冯宗宝：在间隙仅 0.5 毫米的真实场景下，实现机器人造机器人 | IROS 2026",

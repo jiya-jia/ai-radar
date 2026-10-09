@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T02:39:40+08:00",
+  "count": 5,
+  "items": [
+    {
+      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+      "desc": "The original first place video used AI in post-processing. | Image: Dr. Ning Xu Nikon says the video that originally won first place in its Small World in…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-10-10T02:06:57+08:00",
+      "time": "02:06"
+    },
+    {
+      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      "desc": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year…",
+      "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-10T00:56:42+08:00",
+      "time": "00:56"
+    },
+    {
+      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+      "desc": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year…",
+      "link": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-10T00:53:02+08:00",
+      "time": "00:53"
+    },
+    {
+      "title": "Danu Robotics’ fight to build a better recycling robot",
+      "desc": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
+      "link": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+      "source": "TechCrunch AI",
+      "category": "机器人",
+      "published": "2026-10-10T00:45:00+08:00",
+      "time": "00:45"
+    },
+    {
+      "title": "We can’t help treating AI like it’s human. But should we?",
+      "desc": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes…",
+      "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-10T00:40:14+08:00",
+      "time": "00:40"
+    }
+  ]
+}

@@ -1,8 +1,62 @@
 {
   "date": "2026-10-09",
-  "generated_at": "2026-10-09T15:15:44+08:00",
-  "count": 19,
+  "generated_at": "2026-10-10T02:39:40+08:00",
+  "count": 25,
   "items": [
+    {
+      "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
+      "desc": "Instinct’s agent is always just a text away. Before there were cute little guys , there was Instinct…",
+      "link": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+      "source": "The Verge AI",
+      "category": "产品",
+      "published": "2026-10-09T22:00:00+08:00",
+      "time": "22:00"
+    },
+    {
+      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+      "desc": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+      "source": "The Verge AI",
+      "category": "研究",
+      "published": "2026-10-09T17:48:26+08:00",
+      "time": "17:48"
+    },
+    {
+      "title": "做了八年DSP，Credo怎么突然开始做光芯片了？",
+      "desc": "做了八年DSP（Digital Signal Processor，数字信号处理器）后，Credo Technology Group Holding Ltd（以下简称“Credo”）开始真正走进“光”里。 自去年10月首次推出ZeroFlap光模块产品线以来，Credo用一年时间把产品带宽从800G推向1.6T…",
+      "link": "https://www.leiphone.com/category/chips/iJYPlZXgggbJ74ZB.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-10-09T17:14:00+08:00",
+      "time": "17:14"
+    },
+    {
+      "title": "We’re putting too much faith in AI’s ability to say no",
+      "desc": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us…",
+      "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+      "source": "MIT Tech Review",
+      "category": "融资",
+      "published": "2026-10-09T17:00:00+08:00",
+      "time": "17:00"
+    },
+    {
+      "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
+      "desc": "联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名",
+      "link": "https://www.qbitai.com/2026/10/502422.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-10-09T16:53:08+08:00",
+      "time": "16:53"
+    },
+    {
+      "title": "再裁员5000人！保时捷明确回归燃油车，高端车型计划涨价20%；腾讯拟发行50亿美元离岸债券，或筹钱加码AI；OpenAI全面上线GPT-6",
+      "desc": "要闻提示 再裁员5000人！保时捷明确回归燃油车，高端车型计划涨价20% 阿里巴巴蔡崇信：开源是欧洲发展 AI 的最佳选择 腾讯拟发行50亿美元离岸债券，或筹钱加码AI 超33亿元！Manus拿下国内Agent创企最大单笔融资…",
+      "link": "https://www.leiphone.com/category/zaobao/GGmq1RiBgXY2GSVL.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-10-09T13:45:00+08:00",
+      "time": "13:45"
+    },
     {
       "title": "跨域顶层监管层｜监管者自身的跨域审计规则",
       "desc": "本文为《碳硅道统·跨域迁移治理法典》七层体系官方连载第五篇，是整套理论从企业合规升维到公共治理、从行业自律升维到国家制度、从被动治理升维到元监管的顶层范式层。 解决全球AI治理终极制度盲区：监管不自审、规则不自勘。 体系固定基准：跨域迁移零号基准NT1-NT4四类负迁移定义、188集工业理论总纲、七层全域目录谱系…",
