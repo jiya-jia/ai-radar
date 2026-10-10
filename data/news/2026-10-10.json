@@ -1,8 +1,125 @@
 {
   "date": "2026-10-10",
-  "generated_at": "2026-10-10T02:39:40+08:00",
-  "count": 5,
+  "generated_at": "2026-10-10T14:52:48+08:00",
+  "count": 18,
   "items": [
+    {
+      "title": "这届 IROS 2026 上，具身学术与产业边界正在消融",
+      "desc": "模型、数据、灵巧操作都在工程化，顶会上具身传递出的信号变了 作者丨 齐铖湧 编辑丨岑 峰 9 月 27 日到 10 月 1 日，全球机器人领域最顶级的国际会议之一 IROS 2026 将在美国匹兹堡开幕。 如果你前两年也在关注这个会，你会发现那时候大家都在 “卷概念”…",
+      "link": "https://www.leiphone.com/category/ai/4I8YKksz9V10Ih1R.html",
+      "source": "雷峰网",
+      "category": "机器人",
+      "published": "2026-10-10T11:40:00+08:00",
+      "time": "11:40"
+    },
+    {
+      "title": "阶跃 Step 5 Preview 登上 OpenRouter 全球第一，10月15日开源！",
+      "desc": "10 月 10 日消息，阶跃星辰最新旗舰基座模型 Step 5 Preview 登顶 OpenRouter Trending 榜，并位列日榜全球第二，成为近期全球开发者社区最受关注的旗舰模型之一。据官方消息，这款模型即将于 10 月 15 日正式开源…",
+      "link": "https://www.leiphone.com/category/industrynews/7iRgmb0q4JgVbmU8.html",
+      "source": "雷峰网",
+      "category": "研究",
+      "published": "2026-10-10T11:37:00+08:00",
+      "time": "11:37"
+    },
+    {
+      "title": "数据越多≠决策越好：从无人机滑翔到多机器人通信，重新审视数据与信息的关系 | IROS 2026",
+      "desc": "决定智能上限的从来不是数据的绝对规模，而是数据的质量与信息密度。 作者丨岑峰 在生成式 AI 浪潮下，机器人社区正经历从传统控制向端到端学习的范式大迁徙。如同许多领域一样，这里也弥漫着一股对数据规模的迷信，深信“数据越多越智能”是通往通用具身智能的唯一坦途…",
+      "link": "https://www.leiphone.com/category/private/1evshSdPUrUacuRC.html",
+      "source": "雷峰网",
+      "category": "机器人",
+      "published": "2026-10-10T11:28:00+08:00",
+      "time": "11:28"
+    },
+    {
+      "title": "让触觉像视觉一样可规模化，哥大李昀烛团队 FlexiTac 的开源实践 | IROS 2026",
+      "desc": "FlexiTac压阻式传感器可兼顾柔性、低成本与一致性。 作者丨 向欣 编辑丨岑峰 机器人的视觉能力正快速增强，但 触觉仍然是具身智能系统中的薄弱环节 。尤其是在精细操作场景中，当 物体被遮挡、透明、易碎，或需要精确判断接触力与手内姿态 时，仅靠视觉往往难以确认机器人是否真正抓稳了物体、是否发生了滑移…",
+      "link": "https://www.leiphone.com/category/robot/Pz34omTBnW9Y0LhO.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-10-10T11:25:00+08:00",
+      "time": "11:25"
+    },
+    {
+      "title": "2026中国国际社会公共安全产品博览会暨第三届智能与安全产业发展大会将于11月3日在北京开幕",
+      "desc": "中国国际社会公共安全产品博览会（以下简称“安博会”）是经中华人民共和国商务部批准，由中国安全防范产品行业协会主办的专业性展会。1994 年创办至今，依托行业主管部门、各地相关单位、行业协会、技术服务机构及国内外安防企业的大力支持，安博会历经 32 年发展，已成功举办十七届…",
+      "link": "https://www.leiphone.com/category/industrynews/aRKXkAwc34s4SwGT.html",
+      "source": "雷峰网",
+      "category": "机器人",
+      "published": "2026-10-10T11:08:00+08:00",
+      "time": "11:08"
+    },
+    {
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "desc": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-10-10T08:18:32+08:00",
+      "time": "08:18"
+    },
+    {
+      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+      "desc": "Ukrainian drone strikes have knocked out two of five data centers belonging to the Russian tech giant Yandex…",
+      "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+      "source": "Ars Technica",
+      "category": "资讯",
+      "published": "2026-10-10T06:04:07+08:00",
+      "time": "06:04"
+    },
+    {
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "desc": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+      "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-10-10T05:41:29+08:00",
+      "time": "05:41"
+    },
+    {
+      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "desc": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-10-10T05:15:38+08:00",
+      "time": "05:15"
+    },
+    {
+      "title": "AI coding agents generate more code, but not more software",
+      "desc": "Anyone who has even tangentially associated with computer programming knows that modern AI coding assistants and agents can be incredibly efficient at…",
+      "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "source": "Ars Technica",
+      "category": "芯片",
+      "published": "2026-10-10T03:43:50+08:00",
+      "time": "03:43"
+    },
+    {
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "desc": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+      "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-10-10T03:36:56+08:00",
+      "time": "03:36"
+    },
+    {
+      "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+      "desc": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+      "source": "The Verge AI",
+      "category": "研究",
+      "published": "2026-10-10T03:09:44+08:00",
+      "time": "03:09"
+    },
+    {
+      "title": "AI disqualification yields new Nikon Small World in Motion winner",
+      "desc": "Credit: Nguyen Nam Nhat. Last month we covered the winner of Nikon's Small World in Motion video: Ning Xu of Tsinghua University in China, whose video captured…",
+      "link": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+      "source": "Ars Technica",
+      "category": "研究",
+      "published": "2026-10-10T02:44:06+08:00",
+      "time": "02:44"
+    },
     {
       "title": "Nikon microscopic video competition winner disqualified for using generative AI",
       "desc": "The original first place video used AI in post-processing. | Image: Dr. Ning Xu Nikon says the video that originally won first place in its Small World in…",
