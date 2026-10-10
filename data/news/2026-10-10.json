@@ -1,8 +1,62 @@
 {
   "date": "2026-10-10",
-  "generated_at": "2026-10-10T14:52:48+08:00",
-  "count": 18,
+  "generated_at": "2026-10-11T01:39:27+08:00",
+  "count": 24,
   "items": [
+    {
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "desc": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "source": "The Verge AI",
+      "category": "融资",
+      "published": "2026-10-10T22:41:16+08:00",
+      "time": "22:41"
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "desc": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-10T22:00:00+08:00",
+      "time": "22:00"
+    },
+    {
+      "title": "AI agent makers are promising privacy — will they deliver?",
+      "desc": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "source": "The Verge AI",
+      "category": "产品",
+      "published": "2026-10-10T21:00:00+08:00",
+      "time": "21:00"
+    },
+    {
+      "title": "字节发现 DeepSeek 隐藏 Bug，加点空格，模型翻车",
+      "desc": "DeepSeek 的省钱杀手锏，为何成了致命盲区？ 作者丨 高允毅 编辑丨岑 峰 同一个问题问 DeepSeek 两次，只是多敲了几个空格，给出的答案居然一个像“天才”，一个像“智障”…",
+      "link": "https://www.leiphone.com/category/yanxishe/zm33Zeu88CNbEPMx.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-10-10T19:40:00+08:00",
+      "time": "19:40"
+    },
+    {
+      "title": "特斯拉FSD，在欧洲被打回原形",
+      "desc": "马斯克反而发文道谢？",
+      "link": "https://www.qbitai.com/2026/10/502467.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-10-10T14:59:02+08:00",
+      "time": "14:59"
+    },
+    {
+      "title": "JEPA、空间智能路线正面交锋：WorldArena 2.0 挑战赛开考「能不能被机器人真正用起来」| IROS 2026",
+      "desc": "JEPA 路线先下一城：视启未来 Track 1 第一，晨昏线 Track 2 第二。 作者丨 张岂萍 幸丽娟 编辑丨 幸丽娟 世界模型的竞争，正在从“生成未来”，走向“能不能被机器人真正用起来”…",
+      "link": "https://www.leiphone.com/category/private/A0uKolgD2esWoUfT.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-10-10T13:30:00+08:00",
+      "time": "13:30"
+    },
     {
       "title": "这届 IROS 2026 上，具身学术与产业边界正在消融",
       "desc": "模型、数据、灵巧操作都在工程化，顶会上具身传递出的信号变了 作者丨 齐铖湧 编辑丨岑 峰 9 月 27 日到 10 月 1 日，全球机器人领域最顶级的国际会议之一 IROS 2026 将在美国匹兹堡开幕。 如果你前两年也在关注这个会，你会发现那时候大家都在 “卷概念”…",

@@ -1,8 +1,17 @@
 {
   "date": "2026-10-09",
-  "generated_at": "2026-10-10T14:52:48+08:00",
-  "count": 25,
+  "generated_at": "2026-10-11T01:39:27+08:00",
+  "count": 27,
   "items": [
+    {
+      "title": "Trump’s attempt to rename AI is looking awfully artificial",
+      "desc": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and…",
+      "link": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-10-09T22:25:43+08:00",
+      "time": "22:25"
+    },
     {
       "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
       "desc": "Instinct’s agent is always just a text away. Before there were cute little guys , there was Instinct…",
@@ -47,6 +56,15 @@
       "category": "资讯",
       "published": "2026-10-09T16:53:08+08:00",
       "time": "16:53"
+    },
+    {
+      "title": "字节找到了DeepSeek时强时弱的原因",
+      "desc": "答不答得对，得看Token站位",
+      "link": "https://www.qbitai.com/2026/10/502364.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-09T15:11:55+08:00",
+      "time": "15:11"
     },
     {
       "title": "再裁员5000人！保时捷明确回归燃油车，高端车型计划涨价20%；腾讯拟发行50亿美元离岸债券，或筹钱加码AI；OpenAI全面上线GPT-6",
