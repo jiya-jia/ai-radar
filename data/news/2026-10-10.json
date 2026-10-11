@@ -1,7 +1,7 @@
 {
   "date": "2026-10-10",
-  "generated_at": "2026-10-11T14:57:22+08:00",
-  "count": 24,
+  "generated_at": "2026-10-12T01:54:26+08:00",
+  "count": 25,
   "items": [
     {
       "title": "Anthropic is cutting off its internal evaluations from the internet",
@@ -38,6 +38,15 @@
       "category": "芯片",
       "published": "2026-10-10T19:40:00+08:00",
       "time": "19:40"
+    },
+    {
+      "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
+      "desc": "西门子将以更集中、更场景化的方式，展示其工业全栈能力",
+      "link": "https://www.qbitai.com/2026/10/502541.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-10-10T18:30:36+08:00",
+      "time": "18:30"
     },
     {
       "title": "特斯拉FSD，在欧洲被打回原形",

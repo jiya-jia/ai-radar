@@ -1,8 +1,53 @@
 {
   "date": "2026-10-11",
-  "generated_at": "2026-10-11T14:57:22+08:00",
-  "count": 4,
+  "generated_at": "2026-10-12T01:54:26+08:00",
+  "count": 9,
   "items": [
+    {
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "desc": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+      "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-10-11T22:00:00+08:00",
+      "time": "22:00"
+    },
+    {
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "desc": "Baby’s first local AI agent. | Photo: Antonio G. Di Benedetto / The Verge I'm embarking on a journey I've so far been hesitant to go on: actually using AI on…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-10-11T19:00:00+08:00",
+      "time": "19:00"
+    },
+    {
+      "title": "硅谷AI现状：谁有算力谁是爹",
+      "desc": "马斯克连横A社，硅谷VC开始囤GPU",
+      "link": "https://www.qbitai.com/2026/10/502585.html",
+      "source": "量子位",
+      "category": "芯片",
+      "published": "2026-10-11T13:22:38+08:00",
+      "time": "13:22"
+    },
+    {
+      "title": "下架8个月，GPT-4o的拯救行动居然还在继续",
+      "desc": "初代4o的API快照进入停用倒计时",
+      "link": "https://www.qbitai.com/2026/10/502550.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-11T13:18:04+08:00",
+      "time": "13:18"
+    },
+    {
+      "title": "DeepSeek Bot来了！民间版，DSH装个插件就能用",
+      "desc": "Grok Bot我养不起，ds bot不得高低尝尝咸淡？",
+      "link": "https://www.qbitai.com/2026/10/502544.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-11T11:27:08+08:00",
+      "time": "11:27"
+    },
     {
       "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
       "desc": "In a lengthy post on X , Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks…",

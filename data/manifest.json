@@ -1,25 +1,26 @@
 {
-  "generated_at": "2026-10-11T14:57:22+08:00",
+  "generated_at": "2026-10-12T01:54:26+08:00",
   "total_dates": 34,
-  "total_items": 780,
+  "total_items": 786,
   "dates": [
     {
       "date": "2026-10-11",
-      "count": 4,
-      "sources": 2,
+      "count": 9,
+      "sources": 3,
       "categories": {
-        "模型": 2,
+        "模型": 6,
+        "芯片": 1,
         "资讯": 1,
         "政策": 1
       }
     },
     {
       "date": "2026-10-10",
-      "count": 24,
+      "count": 25,
       "sources": 5,
       "categories": {
         "融资": 2,
-        "资讯": 7,
+        "资讯": 8,
         "产品": 1,
         "芯片": 4,
         "机器人": 4,
