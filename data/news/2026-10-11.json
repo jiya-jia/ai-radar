@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T14:57:22+08:00",
+  "count": 4,
+  "items": [
+    {
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "desc": "In a lengthy post on X , Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-10-11T06:10:17+08:00",
+      "time": "06:10"
+    },
+    {
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "desc": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-10-11T05:47:51+08:00",
+      "time": "05:47"
+    },
+    {
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "desc": "Is Apple hoping to get into the AI-generated podcast business?",
+      "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-11T03:50:00+08:00",
+      "time": "03:50"
+    },
+    {
+      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "desc": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice…",
+      "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+      "source": "The Verge AI",
+      "category": "政策",
+      "published": "2026-10-11T02:52:07+08:00",
+      "time": "02:52"
+    }
+  ]
+}

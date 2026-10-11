@@ -1,8 +1,17 @@
 {
   "date": "2026-10-09",
-  "generated_at": "2026-10-11T01:39:27+08:00",
-  "count": 27,
+  "generated_at": "2026-10-11T14:57:22+08:00",
+  "count": 29,
   "items": [
+    {
+      "title": "a16z’s Olivia Moore on the state of consumer AI",
+      "desc": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
+      "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-09T23:43:33+08:00",
+      "time": "23:43"
+    },
     {
       "title": "Trump’s attempt to rename AI is looking awfully artificial",
       "desc": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and…",
@@ -56,6 +65,15 @@
       "category": "资讯",
       "published": "2026-10-09T16:53:08+08:00",
       "time": "16:53"
+    },
+    {
+      "title": "0.2秒急停、秒级重规划！因果智能走进真实世界",
+      "desc": "这是一台机器人正在关闭微波炉门时，因人手突然插进来而紧急悬停的时间",
+      "link": "https://www.qbitai.com/2026/10/502411.html",
+      "source": "量子位",
+      "category": "机器人",
+      "published": "2026-10-09T16:47:34+08:00",
+      "time": "16:47"
     },
     {
       "title": "字节找到了DeepSeek时强时弱的原因",
