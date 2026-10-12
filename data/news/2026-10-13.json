@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T05:34:02+08:00",
+  "count": 5,
+  "items": [
+    {
+      "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+      "desc": "Epic Games is shifting to an \"AI first\" development strategy for its collaboration with the Walt Disney Company, letting AI models write all the code and guide…",
+      "link": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+      "source": "Ars Technica",
+      "category": "模型",
+      "published": "2026-10-13T04:59:50+08:00",
+      "time": "04:59"
+    },
+    {
+      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+      "desc": "An Anthropic AI model submitted a false tip about an unsolved murder to Philadelphia police, the company and police department confirmed on Friday…",
+      "link": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+      "source": "Ars Technica",
+      "category": "融资",
+      "published": "2026-10-13T02:21:36+08:00",
+      "time": "02:21"
+    },
+    {
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "desc": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher…",
+      "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "source": "TechCrunch AI",
+      "category": "研究",
+      "published": "2026-10-13T01:56:56+08:00",
+      "time": "01:56"
+    },
+    {
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "desc": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+      "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-13T01:19:14+08:00",
+      "time": "01:19"
+    },
+    {
+      "title": "Meta has some Wonder Full new AI models",
+      "desc": "Meta is making up for lost time in the AI race. After launching Muse Spark , the first model from its revamped Superintelligence Labs division, and buzzy AI…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-10-13T01:00:00+08:00",
+      "time": "01:00"
+    }
+  ]
+}

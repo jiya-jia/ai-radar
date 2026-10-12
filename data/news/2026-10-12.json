@@ -1,8 +1,107 @@
 {
   "date": "2026-10-12",
-  "generated_at": "2026-10-12T15:09:49+08:00",
-  "count": 4,
+  "generated_at": "2026-10-13T05:34:02+08:00",
+  "count": 16,
   "items": [
+    {
+      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "desc": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+      "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-12T23:45:00+08:00",
+      "time": "23:45"
+    },
+    {
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "desc": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+      "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "source": "TechCrunch AI",
+      "category": "政策",
+      "published": "2026-10-12T23:31:19+08:00",
+      "time": "23:31"
+    },
+    {
+      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+      "desc": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or…",
+      "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-12T23:27:59+08:00",
+      "time": "23:27"
+    },
+    {
+      "title": "产业出题，科技答题：2026 IEIC国际具身智能技能大赛，用真实岗位任务考核机器人落地能力",
+      "desc": "实景比拼赋能科创，助力人形机器人技术规模化落地！ 编辑丨李希 为深入贯彻落实工业和信息化部、国务院国资委《 2026年度人形机器人与具身智能实景实训专项行动》部署，加快推动我国机器人与具身智能技术创新突破与规模化落地，国际具身智能技能大赛检阅赛将于2026年10月23日至25日在上海举行…",
+      "link": "https://www.leiphone.com/category/industrynews/ZFAMCctM7KUw5gr3.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-10-12T22:13:00+08:00",
+      "time": "22:13"
+    },
+    {
+      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+      "desc": "Microsoft’s Maia 300 chip. | Image: Microsoft Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI…",
+      "link": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-10-12T21:00:00+08:00",
+      "time": "21:00"
+    },
+    {
+      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+      "desc": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions…",
+      "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-10-12T20:47:59+08:00",
+      "time": "20:47"
+    },
+    {
+      "title": "Amazon has over 1 million robot workers. What’s next for human employees?",
+      "desc": "No organization in the world operates more robots than Amazon. The company already has more than 1 million robots working in warehouses around the clock to…",
+      "link": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+      "source": "Ars Technica",
+      "category": "机器人",
+      "published": "2026-10-12T20:43:10+08:00",
+      "time": "20:43"
+    },
+    {
+      "title": "安踏×火山引擎：下单缩至10分钟、月均建单1000+，Agent跑进全球电商业务",
+      "desc": "Agent，正在成为安踏全球化业务中的“数字同事”。 作为全球前三的体育用品集团，安踏集团多品牌、跨市场经营的背后，是大量商品、内容、订单和售后流程。如今，Agent 正在进入内容生产、海外订货和跨境退货等具体业务环节，并把跑通的能力复制到更多品牌和市场。 这些 Agent 来自一线业务的真实需求…",
+      "link": "https://www.leiphone.com/category/industrynews/LYPLgiUOHfVfcFBv.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-10-12T17:48:00+08:00",
+      "time": "17:48"
+    },
+    {
+      "title": "长城汽车魏牌CEO赵永坡：最大的豪华不是沙发，是刹车；华为被曝将推出子品牌「星芒」；Claude半年封杀1140万个账号，申诉后仅4.2万翻案",
+      "desc": "要闻提示 1.马斯克向印度超级富豪“道歉”：我太眼拙了，没认出您的真实身份 2.长城汽车魏牌CEO赵永坡：最大的豪华不是沙发，是刹车 3.华为被曝将推出子品牌「星芒」 4.字节、腾讯急推个人智能体产品，紧跟Meta Muse 5.iPhone Duo加单30%！还未开售…",
+      "link": "https://www.leiphone.com/category/zaobao/xstKMq1hNFUDGs69.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-10-12T14:20:00+08:00",
+      "time": "14:20"
+    },
+    {
+      "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
+      "desc": "游戏打到21:0，AI甚至不用再调用大模型了",
+      "link": "https://www.qbitai.com/2026/10/502654.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-12T13:48:36+08:00",
+      "time": "13:48"
+    },
+    {
+      "title": "微软用阿里Qwen打造决策模型，或将推广至所有领域",
+      "desc": "10月12日，微软基于阿里Qwen，推出全新决策模型Microsoft-Decision-1。微软官方透露称，该模型基于Qwen3.5-9B后训练而成，在结构化决策任务中，该模型在时延和准确性等方面均超过了LLM及Jev 1.13.0等热门决策模型…",
+      "link": "https://www.leiphone.com/category/industrynews/LApMolUCs9YwwXHn.html",
+      "source": "雷峰网",
+      "category": "研究",
+      "published": "2026-10-12T13:36:00+08:00",
+      "time": "13:36"
+    },
     {
       "title": "一套内容能力撬动多元增长，东南亚内容电商卖家加速布局Shopee",
       "desc": "过去几年，东南亚电商持续增长，消费者的购物路径也越来越多元：一边是短视频、直播和达人带货不断成熟，另一边，货架电商依然承接着稳定且广泛的主动消费需求。 对已经在内容电商取得一定成绩的卖家来说，如何把现有商品、素材和运营积累带到更多流量场景，正在成为拓展生意边界的新思路…",
@@ -20,6 +119,15 @@
       "category": "融资",
       "published": "2026-10-12T10:51:00+08:00",
       "time": "10:51"
+    },
+    {
+      "title": "智谱新模型，490 tokens/s！",
+      "desc": "GLM「速度仙人」来了？",
+      "link": "https://www.qbitai.com/2026/10/502649.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-12T10:37:04+08:00",
+      "time": "10:37"
     },
     {
       "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",

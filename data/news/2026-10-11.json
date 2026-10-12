@@ -1,7 +1,7 @@
 {
   "date": "2026-10-11",
-  "generated_at": "2026-10-12T15:09:49+08:00",
-  "count": 9,
+  "generated_at": "2026-10-13T05:34:02+08:00",
+  "count": 11,
   "items": [
     {
       "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
@@ -20,6 +20,24 @@
       "category": "模型",
       "published": "2026-10-11T19:00:00+08:00",
       "time": "19:00"
+    },
+    {
+      "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
+      "desc": "一套生成论文初稿的多智能体工作流",
+      "link": "https://www.qbitai.com/2026/10/502644.html",
+      "source": "量子位",
+      "category": "研究",
+      "published": "2026-10-11T17:04:31+08:00",
+      "time": "17:04"
+    },
+    {
+      "title": "何恺明团队发布多模态Harness框架",
+      "desc": "多模态模型的视觉原生Harness，来了！",
+      "link": "https://www.qbitai.com/2026/10/502628.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-11T16:59:06+08:00",
+      "time": "16:59"
     },
     {
       "title": "硅谷AI现状：谁有算力谁是爹",
