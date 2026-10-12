@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-10-12T01:54:26+08:00",
-  "total_dates": 34,
-  "total_items": 786,
+  "generated_at": "2026-10-12T15:09:49+08:00",
+  "total_dates": 35,
+  "total_items": 790,
   "dates": [
+    {
+      "date": "2026-10-12",
+      "count": 4,
+      "sources": 3,
+      "categories": {
+        "机器人": 1,
+        "融资": 1,
+        "资讯": 2
+      }
+    },
     {
       "date": "2026-10-11",
       "count": 9,
