@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T03:45:15+08:00",
+  "count": 9,
+  "items": [
+    {
+      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+      "desc": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
+      "link": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-14T02:30:00+08:00",
+      "time": "02:30"
+    },
+    {
+      "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
+      "desc": "In a bankruptcy proceeding that kicked off yesterday, Disney has offered to buy some of the technology that powers the controversy-plagued chatbot…",
+      "link": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
+      "source": "Ars Technica",
+      "category": "政策",
+      "published": "2026-10-14T02:23:33+08:00",
+      "time": "02:23"
+    },
+    {
+      "title": "Facebook is giving users more control over their algorithm",
+      "desc": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
+      "link": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+      "source": "TechCrunch AI",
+      "category": "产品",
+      "published": "2026-10-14T02:05:24+08:00",
+      "time": "02:05"
+    },
+    {
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "desc": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before…",
+      "link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "source": "TechCrunch AI",
+      "category": "机器人",
+      "published": "2026-10-14T01:30:00+08:00",
+      "time": "01:30"
+    },
+    {
+      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+      "desc": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways…",
+      "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-10-14T01:18:25+08:00",
+      "time": "01:18"
+    },
+    {
+      "title": "Google wants to host your personal vibe-coded apps in the Play Store",
+      "desc": "Google has already added a few AI features to the Play Store, but a lot more are coming . The previously released Ask Play feature is expanding to offer more…",
+      "link": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/",
+      "source": "Ars Technica",
+      "category": "机器人",
+      "published": "2026-10-14T01:00:39+08:00",
+      "time": "01:00"
+    },
+    {
+      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+      "desc": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+      "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-14T01:00:00+08:00",
+      "time": "01:00"
+    },
+    {
+      "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
+      "desc": "Google revealed Gemini 4 Argon a few weeks ago, saying that it needed to move cautiously toward a full release because of the potential for nefarious use…",
+      "link": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
+      "source": "Ars Technica",
+      "category": "机器人",
+      "published": "2026-10-14T00:00:02+08:00",
+      "time": "00:00"
+    },
+    {
+      "title": "Google finally releases Gemini 4 Argon",
+      "desc": "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+      "source": "The Verge AI",
+      "category": "研究",
+      "published": "2026-10-14T00:00:00+08:00",
+      "time": "00:00"
+    }
+  ]
+}

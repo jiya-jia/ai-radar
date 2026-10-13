@@ -1,8 +1,107 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-13T15:33:55+08:00",
-  "count": 8,
+  "generated_at": "2026-10-14T03:45:15+08:00",
+  "count": 20,
   "items": [
+    {
+      "title": "Epic shifts to ‘AI-accelerated development’ for upcoming Disney game",
+      "desc": "Epic Games plans to use AI to generate code and art for an unannounced Disney game, which is now delayed from its original March release window, according to a…",
+      "link": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-10-13T23:12:59+08:00",
+      "time": "23:12"
+    },
+    {
+      "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
+      "desc": "When Nvidia originally showed off DLSS 5 earlier this year, the technology immediately got branded as gen AI for video games…",
+      "link": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-10-13T21:55:45+08:00",
+      "time": "21:55"
+    },
+    {
+      "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+      "desc": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
+      "link": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-13T21:50:19+08:00",
+      "time": "21:50"
+    },
+    {
+      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+      "desc": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly…",
+      "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-13T21:00:00+08:00",
+      "time": "21:00"
+    },
+    {
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "desc": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next…",
+      "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "source": "MIT Tech Review",
+      "category": "芯片",
+      "published": "2026-10-13T18:00:00+08:00",
+      "time": "18:00"
+    },
+    {
+      "title": "独家丨字节最早天使投资人，投了一家 AI 音乐硬件公司",
+      "desc": "SUAVE 目前已有 demo，产品计划 2027 年初上市。 作者丨 黄艳冰 编辑丨董子博 雷峰网·鲸犀独家获悉， AI 音乐生成创作硬件公司 SUAVE 已完成千万级种子轮融资，投资方为海纳无限（HINA），资金将主要用于量产机型的软硬件研发…",
+      "link": "https://www.leiphone.com/category/weiwu/i0pZU5QKhkvoVvig.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-10-13T17:20:00+08:00",
+      "time": "17:20"
+    },
+    {
+      "title": "AI labs are buying data from dead startups to train their models",
+      "desc": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few…",
+      "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+      "source": "MIT Tech Review",
+      "category": "融资",
+      "published": "2026-10-13T17:00:00+08:00",
+      "time": "17:00"
+    },
+    {
+      "title": "Claude团队又搞事：实测AI全自主复制进智能家电",
+      "desc": "拉马克进化的幽灵",
+      "link": "https://www.qbitai.com/2026/10/502920.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-13T14:19:10+08:00",
+      "time": "14:19"
+    },
+    {
+      "title": "“模态进化”：第八届亿邦产业互联网年会暨首届产业智能体大会双会合体定档",
+      "desc": "由亿邦动力主办的“2026第八届亿邦产业互联网年会暨首届产业智能体大会”正式定档",
+      "link": "https://www.qbitai.com/2026/10/502907.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-10-13T14:00:20+08:00",
+      "time": "14:00"
+    },
+    {
+      "title": "其域创新以 62 亿个高斯、150 亿个点云，建成全球最大的空地一体 3D 高斯模型“闽宁镇”",
+      "desc": "它覆盖 23.5 平方公里，相当于 3291 个标准足球场，由 18.6 万张航拍与地面影像、150 亿个雷达点云训练而成，规模达 62 亿个高斯椭球。镇口的牌坊、红顶白墙的街区、通向远方的道路与山前转动的风机，都被收进了同一个连续的模型里。 这个模型，出现在中央广播电视总台重点纪录片《闽宁大道》中…",
+      "link": "https://www.leiphone.com/category/industrynews/TvlYXDgobdGHyARw.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-10-13T13:50:00+08:00",
+      "time": "13:50"
+    },
+    {
+      "title": "字节跳动 Seed 单独设立大模型安全与对齐部门",
+      "desc": "字节跳动 Seed 近日发出内部邮件，宣布将成立“Seed Model-Alignment&Preparedness”部门，由严林负责，汇报给 Seed 负责人吴永辉。原 Responsible AI 团队及部分 Chat 团队成员将转入新部门…",
+      "link": "https://www.leiphone.com/category/industrynews/jX1ndNxDJ94n6bUu.html",
+      "source": "雷峰网",
+      "category": "研究",
+      "published": "2026-10-13T13:43:00+08:00",
+      "time": "13:43"
+    },
     {
       "title": "千问确认将推出「千问Go!」，已开放体验申请",
       "desc": "10月13日，千问官方公众号发布消息，Personal Agent「千问Go!」的体验申请页面已在千问APP上线。用户可通过APP内指定入口提交申请，千问将逐步为更多用户开放体验资格…",
@@ -11,6 +110,15 @@
       "category": "产品",
       "published": "2026-10-13T12:11:00+08:00",
       "time": "12:11"
+    },
+    {
+      "title": "单轮23亿，累计43亿，无问芯穹刷新国产AI Infra赛道融资双重纪录",
+      "desc": "算力、模型、行业，三层生意一起做",
+      "link": "https://www.qbitai.com/2026/10/502767.html",
+      "source": "量子位",
+      "category": "融资",
+      "published": "2026-10-13T12:01:15+08:00",
+      "time": "12:01"
     },
     {
       "title": "1688全面接入AI电商工作台Accio",
