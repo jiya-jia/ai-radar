@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-10-13T05:34:02+08:00",
+  "generated_at": "2026-10-13T15:33:55+08:00",
   "total_dates": 36,
-  "total_items": 809,
+  "total_items": 812,
   "dates": [
     {
       "date": "2026-10-13",
-      "count": 5,
-      "sources": 3,
+      "count": 8,
+      "sources": 4,
       "categories": {
+        "产品": 3,
         "模型": 2,
         "融资": 1,
         "研究": 1,
