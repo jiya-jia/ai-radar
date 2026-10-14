@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T01:47:24+08:00",
+  "count": 7,
+  "items": [
+    {
+      "title": "Researchers use AI to design proteins that cut up other proteins",
+      "desc": "A protein is a chain of amino acids held together by what are called peptide bonds. On their own, those bonds are extremely stable; they're estimated to have a…",
+      "link": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+      "source": "Ars Technica",
+      "category": "研究",
+      "published": "2026-10-15T01:10:15+08:00",
+      "time": "01:10"
+    },
+    {
+      "title": "My AI doppelganger tells me what to eat",
+      "desc": "This is Optimizer , a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear…",
+      "link": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-10-15T01:00:00+08:00",
+      "time": "01:00"
+    },
+    {
+      "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
+      "desc": "OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
+      "source": "The Verge AI",
+      "category": "产品",
+      "published": "2026-10-15T00:43:24+08:00",
+      "time": "00:43"
+    },
+    {
+      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+      "desc": "It took OpenAI two days to notice that a recording device was hidden in a restricted executive conference room where leadership met to discuss highly…",
+      "link": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
+      "source": "Ars Technica",
+      "category": "产品",
+      "published": "2026-10-15T00:41:49+08:00",
+      "time": "00:41"
+    },
+    {
+      "title": "Microsoft has a new machine learning tool to improve weather forecasts",
+      "desc": "Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved…",
+      "link": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-10-15T00:05:21+08:00",
+      "time": "00:05"
+    },
+    {
+      "title": "Square’s new kiosk lets you talk to AI for help with your order",
+      "desc": "Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI. It's called the Square Kiosk…",
+      "link": "https://www.theverge.com/tech/1009086/square-kiosk",
+      "source": "The Verge AI",
+      "category": "产品",
+      "published": "2026-10-15T00:00:00+08:00",
+      "time": "00:00"
+    },
+    {
+      "title": "Android is using AI to suss out scammers in Google Messages",
+      "desc": "Begone, Bot. | Image: Google / Android Android is introducing new scam defense features that aim to make it easier for users to evade mobile fraud, including…",
+      "link": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-10-15T00:00:00+08:00",
+      "time": "00:00"
+    }
+  ]
+}
