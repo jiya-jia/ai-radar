@@ -1,7 +1,7 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-14T03:45:15+08:00",
-  "count": 20,
+  "generated_at": "2026-10-14T13:58:02+08:00",
+  "count": 23,
   "items": [
     {
       "title": "Epic shifts to ‘AI-accelerated development’ for upcoming Disney game",
@@ -40,6 +40,24 @@
       "time": "21:00"
     },
     {
+      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+      "desc": "The startup will sell some of its assets to Disney for $20 million.",
+      "link": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+      "source": "TechCrunch AI",
+      "category": "政策",
+      "published": "2026-10-13T20:23:42+08:00",
+      "time": "20:23"
+    },
+    {
+      "title": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
+      "desc": "让VLA从“演示可用”逼近“产线可用”",
+      "link": "https://www.qbitai.com/2026/10/503107.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-10-13T19:05:39+08:00",
+      "time": "19:05"
+    },
+    {
       "title": "Open models have real benefits. Do they outweigh the risks?",
       "desc": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next…",
       "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
@@ -47,6 +65,15 @@
       "category": "芯片",
       "published": "2026-10-13T18:00:00+08:00",
       "time": "18:00"
+    },
+    {
+      "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
+      "desc": "Winverse AI",
+      "link": "https://www.qbitai.com/2026/10/503093.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-13T17:33:37+08:00",
+      "time": "17:33"
     },
     {
       "title": "独家丨字节最早天使投资人，投了一家 AI 音乐硬件公司",

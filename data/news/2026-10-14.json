@@ -1,8 +1,98 @@
 {
   "date": "2026-10-14",
-  "generated_at": "2026-10-14T03:45:15+08:00",
-  "count": 9,
+  "generated_at": "2026-10-14T13:58:02+08:00",
+  "count": 20,
   "items": [
+    {
+      "title": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地",
+      "desc": "从“懂空间”到“能干活”",
+      "link": "https://www.qbitai.com/2026/10/503173.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-10-14T12:09:29+08:00",
+      "time": "12:09"
+    },
+    {
+      "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
+      "desc": "10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent",
+      "link": "https://www.qbitai.com/2026/10/503165.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-14T11:32:48+08:00",
+      "time": "11:32"
+    },
+    {
+      "title": "宾大茅佳源：从单次演示到 83% 真机泛化，破解具身智能数据困局｜IROS 2026",
+      "desc": "剖析视觉与动作脱节，引入 TR 指标与自适应引导，重构具身泛化机制。 作者丨张璐 编辑丨岑峰 在机械臂的实机测试中，不少团队都遇到过类似的困扰：为了让机器人学会抓取某个马克杯，往往需要人类抓着机械臂录入上百条示范轨迹。然而只要把杯子换成未见过的款式，或者稍微改变物体的摆放位置，策略的成功率就会急剧下降…",
+      "link": "https://www.leiphone.com/category/private/x6DMLw9up0rlycKH.html",
+      "source": "雷峰网",
+      "category": "机器人",
+      "published": "2026-10-14T10:35:00+08:00",
+      "time": "10:35"
+    },
+    {
+      "title": "腾讯WorkBuddy企业版上线「可观测中心」破解规模化用Agent四大痛点",
+      "desc": "打通企业上下文或只是Agent智能体走进企业办公场景的开始，“成本效率是否可管控、安全合规是否可追溯，应用效果是否可优化”企业经营管理最关心的核心问题。 10月13日，腾讯 WorkBuddy 企业版管理后台上线“可观测中心”，作为企业级 Agent 智能体运行管理的「仪表盘」——从统计观测到轨迹分析…",
+      "link": "https://www.leiphone.com/category/industrynews/f1Qk7Zv1CTpAQhYX.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-10-14T09:36:00+08:00",
+      "time": "09:36"
+    },
+    {
+      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+      "desc": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and…",
+      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-14T07:05:34+08:00",
+      "time": "07:05"
+    },
+    {
+      "title": "Cerebras CEO pushes back on AI doomsday warnings",
+      "desc": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's…",
+      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-14T06:36:59+08:00",
+      "time": "06:36"
+    },
+    {
+      "title": "iPhone断网跑35B多模态！国产开源新模型，只占3G内存",
+      "desc": "面壁开源MiniCPM-V 4.7",
+      "link": "https://www.qbitai.com/2026/10/503109.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-14T04:55:15+08:00",
+      "time": "04:55"
+    },
+    {
+      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+      "desc": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-10-14T04:45:25+08:00",
+      "time": "04:45"
+    },
+    {
+      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "desc": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key…",
+      "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-14T04:36:44+08:00",
+      "time": "04:36"
+    },
+    {
+      "title": "Shopify opens its catalog up to more AI agents",
+      "desc": "CANADA - 2025/07/20: In this photo illustration, the Shopify logo is seen displayed on a smartphone screen…",
+      "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-10-14T03:42:42+08:00",
+      "time": "03:42"
+    },
     {
       "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
       "desc": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
@@ -29,6 +119,15 @@
       "category": "产品",
       "published": "2026-10-14T02:05:24+08:00",
       "time": "02:05"
+    },
+    {
+      "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
+      "desc": "The other day I whizzed past several people while running in the park, my playlist blasting at full volume…",
+      "link": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-10-14T02:00:00+08:00",
+      "time": "02:00"
     },
     {
       "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
