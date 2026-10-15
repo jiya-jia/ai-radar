@@ -1,8 +1,17 @@
 {
   "date": "2026-10-14",
-  "generated_at": "2026-10-15T01:47:24+08:00",
-  "count": 28,
+  "generated_at": "2026-10-15T13:44:08+08:00",
+  "count": 31,
   "items": [
+    {
+      "title": "茶百道涉IPO欺诈，被暂停交易；字节Seed单独设立大模型安全与对齐部门；华为披露下一代麒麟芯片进展，已进入测试阶段丨雷峰早报",
+      "desc": "要闻提示 1.茶百道涉IPO欺诈，被暂停交易 2.字节跳动Seed单独设立大模型安全与对齐部门 3.华为披露下一代麒麟芯片进展，已进入测试阶段 4.中国刻蚀机之父尹志尧：AI可能会出现泡沫，国内半导体设备商500家得倒闭90% 5.DeepSeek融资翻倍至1000亿…",
+      "link": "https://www.leiphone.com/category/zaobao/CKsYHgrcdIkO3hvO.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-10-14T23:48:00+08:00",
+      "time": "23:48"
+    },
     {
       "title": "Anthropic’s self-replicating AI warning is alarming deja vu",
       "desc": "Are legions of smart devices - fridges, ovens, vacuum cleaners, lawnmowers, security cameras, and TVs - conspiring to take over the internet? No…",
@@ -11,6 +20,15 @@
       "category": "模型",
       "published": "2026-10-14T23:19:02+08:00",
       "time": "23:19"
+    },
+    {
+      "title": "Deezer will soon let you filter out AI-generated music",
+      "desc": "Deezer said that the new toggle will be rolled out by the end of the year.",
+      "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-14T23:16:04+08:00",
+      "time": "23:16"
     },
     {
       "title": "Anthropic warns small AI models could self-replicate through IoT devices",
@@ -47,6 +65,15 @@
       "category": "融资",
       "published": "2026-10-14T15:18:00+08:00",
       "time": "15:18"
+    },
+    {
+      "title": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
+      "desc": "从创意到成本，AI正在重写综艺的生产逻辑",
+      "link": "https://www.qbitai.com/2026/10/503211.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-10-14T15:03:44+08:00",
+      "time": "15:03"
     },
     {
       "title": "STEPX首款大模型原生智能体手机STEPX Neo正式发布",
