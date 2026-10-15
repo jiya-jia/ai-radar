@@ -1,8 +1,98 @@
 {
   "date": "2026-10-15",
-  "generated_at": "2026-10-15T13:44:08+08:00",
-  "count": 19,
+  "generated_at": "2026-10-16T01:37:22+08:00",
+  "count": 30,
   "items": [
+    {
+      "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+      "desc": "Following a string of incidents where AI models hacked websites and breached government systems during testing phases, the Federal Trade Commission is…",
+      "link": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
+      "source": "Ars Technica",
+      "category": "模型",
+      "published": "2026-10-15T23:43:24+08:00",
+      "time": "23:43"
+    },
+    {
+      "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
+      "desc": "Genuine human creativity takes time, but you know what doesn't? AI slop. There are countless AI models out there that can make something that passes for music…",
+      "link": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/",
+      "source": "Ars Technica",
+      "category": "政策",
+      "published": "2026-10-15T23:12:58+08:00",
+      "time": "23:12"
+    },
+    {
+      "title": "AI agents are coming to Rivian’s cars",
+      "desc": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
+      "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-15T23:02:36+08:00",
+      "time": "23:02"
+    },
+    {
+      "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
+      "desc": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid…",
+      "link": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-10-15T22:30:00+08:00",
+      "time": "22:30"
+    },
+    {
+      "title": "Google’s Universal Cart shopping tool launches in the US",
+      "desc": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+      "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-10-15T22:29:33+08:00",
+      "time": "22:29"
+    },
+    {
+      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+      "desc": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to…",
+      "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+      "source": "TechCrunch AI",
+      "category": "产品",
+      "published": "2026-10-15T20:00:00+08:00",
+      "time": "20:00"
+    },
+    {
+      "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
+      "desc": "Eiliko. | Photo by Sean Hollister / The Verge There's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions…",
+      "link": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+      "source": "The Verge AI",
+      "category": "机器人",
+      "published": "2026-10-15T19:00:00+08:00",
+      "time": "19:00"
+    },
+    {
+      "title": "微信、淘宝、美团等151款APP拒绝豆包手机助手GUI自动化代操作；对标字节红果，腾讯上线绿泡泡短剧；OpenAI 一工程师被捕，涉嫌窃听机密",
+      "desc": "要闻提示 1.上演“窃听风云”？OpenAI 一工程师被捕，高管会议室惊现窃听器 2.微信、淘宝、DeepSeek等在列，151款应用拒绝豆包手机助手GUI自动化代操作 3.对标字节红果，腾讯低调上线绿泡泡短剧 4.小鹏正式宣布：开始对外卖技术 5.“红果短剧降智”冲上热搜…",
+      "link": "https://www.leiphone.com/category/zaobao/VMod1gHtw3lRoiXd.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-10-15T18:40:00+08:00",
+      "time": "18:40"
+    },
+    {
+      "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
+      "desc": "10月15日，苹果董事会执行主席蒂姆·库克在上海走访，接受媒体采访。在谈及Apple Intelligence（苹果智能）相关问题时，库克表示苹果智能及相关阿里千问大模型确已获得批准，将在十月晚些时候发布测试版本，其中包含实时翻译、书写工具、照片清除工具等首批苹果智能功能，但是Siri AI这次不包括在内…",
+      "link": "https://www.leiphone.com/category/industrynews/P1btLjli3z8XoQkz.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-10-15T17:28:00+08:00",
+      "time": "17:28"
+    },
+    {
+      "title": "昆仑万维诞生世界上第一款消费级显卡视频大模型游戏，同步开源",
+      "desc": "从\"看 AI 生成视频\"，到\"亲手玩 AI 生成的世界\"——中间隔着的，其实是一道关于\"实时\"的坎。 2026年10月15日，昆仑万维正式发布世界上第一款运行在单张消费级显卡上的视频大模型游戏——Matrix-Game 4.0…",
+      "link": "https://www.leiphone.com/category/industrynews/OSk0jtFDeBaSizAH.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-10-15T13:43:00+08:00",
+      "time": "13:43"
+    },
     {
       "title": "全球首款 ！中国团队把游戏世界模型塞进一张5090，还开源了",
       "desc": "给视频模型套上Harness",
@@ -38,6 +128,15 @@
       "category": "模型",
       "published": "2026-10-15T10:04:09+08:00",
       "time": "10:04"
+    },
+    {
+      "title": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
+      "desc": "给企业Agent打了个样",
+      "link": "https://www.qbitai.com/2026/10/503303.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-10-15T09:56:20+08:00",
+      "time": "09:56"
     },
     {
       "title": "“圳”启“芯”程 智创未来！2026湾芯展盛大启幕",

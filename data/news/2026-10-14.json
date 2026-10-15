@@ -1,7 +1,7 @@
 {
   "date": "2026-10-14",
-  "generated_at": "2026-10-15T13:44:08+08:00",
-  "count": 31,
+  "generated_at": "2026-10-16T01:37:22+08:00",
+  "count": 35,
   "items": [
     {
       "title": "茶百道涉IPO欺诈，被暂停交易；字节Seed单独设立大模型安全与对齐部门；华为披露下一代麒麟芯片进展，已进入测试阶段丨雷峰早报",
@@ -31,6 +31,24 @@
       "time": "23:16"
     },
     {
+      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+      "desc": "Zenzap is used by organizations including Starbucks and Taco Bell.",
+      "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-10-14T23:08:00+08:00",
+      "time": "23:08"
+    },
+    {
+      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
+      "desc": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
+      "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+      "source": "TechCrunch AI",
+      "category": "研究",
+      "published": "2026-10-14T23:00:00+08:00",
+      "time": "23:00"
+    },
+    {
       "title": "Anthropic warns small AI models could self-replicate through IoT devices",
       "desc": "AI company Anthropic is warning that advances in small AI models could soon usher in a new era of self-replicating malware that’s capable of infecting smart…",
       "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
@@ -49,6 +67,15 @@
       "time": "19:00"
     },
     {
+      "title": "蚂蚁灵波连续签约隆盛唯睿、德马科技等企业，具身大脑加速进产线",
+      "desc": "蚂蚁集团旗下具身智能公司蚂蚁灵波，正在加速其“通用大脑”的产业落地与价值兑现。 近日，蚂蚁灵波接连与隆盛科技（300680.SZ）控股子公司隆盛唯睿、物流装备与解决方案提供商德马科技（688360.SH）、德尔股份（300473.SZ）旗下机器人公司德迩象网等多家知名智能制造及现代物流企业达成深度战略合作…",
+      "link": "https://www.leiphone.com/category/industrynews/sDAmOLZ58Kpz8ZlD.html",
+      "source": "雷峰网",
+      "category": "机器人",
+      "published": "2026-10-14T17:15:00+08:00",
+      "time": "17:15"
+    },
+    {
       "title": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
       "desc": "这妥妥是个物理版Agent啊！",
       "link": "https://www.qbitai.com/2026/10/503244.html",
@@ -56,6 +83,15 @@
       "category": "产品",
       "published": "2026-10-14T16:01:18+08:00",
       "time": "16:01"
+    },
+    {
+      "title": "AI 短剧日产 1500 部：一场全员狂飙下的 「无人生还」",
+      "desc": "“现在整个短剧行业就是一片混乱，每个人都很焦虑、很迷茫。” 这是过去一个月里，雷峰网与多位 AI 短剧从业者交流时，听到最多的一句话。 上个月刚跑通的流程，这个月平台改了分账规则又得重新算账。好不容易摸清了提示词的写法，AI 视频生成工具一更新经验立马作废。甲方的尾款还没到账，下一部剧的制作成本已经垫出去了…",
+      "link": "https://www.leiphone.com/category/ai/M7t0xBzr6K3vaFwi.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-10-14T15:42:00+08:00",
+      "time": "15:42"
     },
     {
       "title": "爱诗科技香港办公室正式开幕，落地数码港共建香港AI枢纽",
