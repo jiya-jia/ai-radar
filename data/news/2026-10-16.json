@@ -1,8 +1,80 @@
 {
   "date": "2026-10-16",
-  "generated_at": "2026-10-16T13:40:45+08:00",
-  "count": 15,
+  "generated_at": "2026-10-17T01:10:29+08:00",
+  "count": 23,
   "items": [
+    {
+      "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+      "desc": "Legal experts are sounding alarms that Meta will soon update its commercial terms to require business accounts to allow Meta to train AI on their linked…",
+      "link": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+      "source": "Ars Technica",
+      "category": "资讯",
+      "published": "2026-10-16T23:41:00+08:00",
+      "time": "23:41"
+    },
+    {
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "desc": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+      "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-10-16T23:33:49+08:00",
+      "time": "23:33"
+    },
+    {
+      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "desc": "Nvidia’s new SoC is available in Windows laptops from six different manufacturers. We’ve collectively tested four of them so far. | Photo: Antonio G…",
+      "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-10-16T23:00:00+08:00",
+      "time": "23:00"
+    },
+    {
+      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "desc": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+      "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-16T22:26:51+08:00",
+      "time": "22:26"
+    },
+    {
+      "title": "Meta’s new terms may allow it to train AI on news sites for free",
+      "desc": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online…",
+      "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+      "source": "The Verge AI",
+      "category": "机器人",
+      "published": "2026-10-16T22:02:40+08:00",
+      "time": "22:02"
+    },
+    {
+      "title": "推翻一切！Nick Cammarata 万字长文宣告，AI 不是黑箱，99% 神经元清晰可见",
+      "desc": "亲手推翻自己十年前的结论，可解释性大佬 Nick Cammarata 这次读懂 AI 脑回路。 作者丨高允毅 编辑丨岑 峰 “大模型把猫和汽车分为一类，不是弱智。” 在 AI 可解释性领域，有一个十年的经典案例，是 InceptionV1 模型里编号 4e:55 的神经元…",
+      "link": "https://www.leiphone.com/category/yanxishe/Vr0JmbkUeZV5D9Qz.html",
+      "source": "雷峰网",
+      "category": "研究",
+      "published": "2026-10-16T19:33:00+08:00",
+      "time": "19:33"
+    },
+    {
+      "title": "长鑫科技市值两月内跌去1万亿；阿里加码AI硬件品牌，天猫、速卖通联动；国行版苹果AI有望12月上线，百度、阿里参与合作丨雷峰早报",
+      "desc": "要闻提示 1.长鑫科技市值两月内跌去1万亿 2.年内已至少18次故障！DeepSeek发放宕机补偿，有人拿到3000元 3.阿里加码AI硬件品牌，天猫、速卖通联动 4.国行版苹果AI有望12月上线，百度、阿里参与合作 5.可灵AI新一代模型Kling 4.0正式上线…",
+      "link": "https://www.leiphone.com/category/zaobao/EReMkZNn9w5H85Tf.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-10-16T18:39:00+08:00",
+      "time": "18:39"
+    },
+    {
+      "title": "中控技术接入千问办公，打造流程工业领域AI Native标杆企业",
+      "desc": "10月16日，中控技术股份有限公司（以下简称“中控技术”）正式接入千问办公，将Agent落地营销全链路。后续，千问办公还将优化中控技术的采购、供应链、财务、人力、研发等场景工作流，共建流程工业领域AI Native标杆企业…",
+      "link": "https://www.leiphone.com/category/industrynews/8IM46Vzpf7IFumo7.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-10-16T15:51:00+08:00",
+      "time": "15:51"
+    },
     {
       "title": "Kling 4.0正式上线：10-bit HDR、30秒原生直出 刷新视频模型新基准",
       "desc": "10月15日，可灵AI新一代视频生成模型 Kling 4.0 正式上线。 真实、可控、专业，是这一代模型升级的核心方向。Kling 4.0 聚焦高动态、强运镜的视频创作场景，在三个方向实现集中突破：大幅度动态表现更稳定，提升高速运动与复杂运镜的连贯性；单次原生生成最长可达30秒，支持长镜头与连续叙事，导演思维全程在线…",
