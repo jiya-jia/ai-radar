@@ -1,7 +1,7 @@
 {
   "date": "2026-10-15",
-  "generated_at": "2026-10-16T01:37:22+08:00",
-  "count": 30,
+  "generated_at": "2026-10-16T13:40:45+08:00",
+  "count": 35,
   "items": [
     {
       "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
@@ -49,6 +49,24 @@
       "time": "22:29"
     },
     {
+      "title": "Nobody is safe from celebrity AI deepfakes",
+      "desc": "In hindsight, the post on Instagram should have raised more red flags. The image purported to show actress Mia Goth , just days after filing for divorce from…",
+      "link": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-10-15T22:03:42+08:00",
+      "time": "22:03"
+    },
+    {
+      "title": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
+      "desc": "Today, I’m talking with Benn Jordan, musician, YouTuber, researcher, and investigative journalist…",
+      "link": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-10-15T22:00:00+08:00",
+      "time": "22:00"
+    },
+    {
       "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
       "desc": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to…",
       "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
@@ -77,12 +95,39 @@
     },
     {
       "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
+      "desc": "Siri AI这次不包括在内",
+      "link": "https://www.qbitai.com/2026/10/503640.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-15T17:43:29+08:00",
+      "time": "17:43"
+    },
+    {
+      "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
       "desc": "10月15日，苹果董事会执行主席蒂姆·库克在上海走访，接受媒体采访。在谈及Apple Intelligence（苹果智能）相关问题时，库克表示苹果智能及相关阿里千问大模型确已获得批准，将在十月晚些时候发布测试版本，其中包含实时翻译、书写工具、照片清除工具等首批苹果智能功能，但是Siri AI这次不包括在内…",
       "link": "https://www.leiphone.com/category/industrynews/P1btLjli3z8XoQkz.html",
       "source": "雷峰网",
       "category": "模型",
       "published": "2026-10-15T17:28:00+08:00",
       "time": "17:28"
+    },
+    {
+      "title": "量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架",
+      "desc": "Agent究竟该如何深入业务毛细血管？",
+      "link": "https://www.qbitai.com/2026/10/503614.html",
+      "source": "量子位",
+      "category": "产品",
+      "published": "2026-10-15T16:48:31+08:00",
+      "time": "16:48"
+    },
+    {
+      "title": "前华为小艺大模型负责人创业，押注“主动式物理AI”",
+      "desc": "前华为小艺大模型负责人创业，押注“主动式物理AI”",
+      "link": "https://www.qbitai.com/2026/10/503446.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-15T14:35:46+08:00",
+      "time": "14:35"
     },
     {
       "title": "昆仑万维诞生世界上第一款消费级显卡视频大模型游戏，同步开源",
