@@ -1,7 +1,7 @@
 {
   "date": "2026-10-16",
-  "generated_at": "2026-10-17T01:10:29+08:00",
-  "count": 23,
+  "generated_at": "2026-10-17T13:26:17+08:00",
+  "count": 27,
   "items": [
     {
       "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
@@ -67,6 +67,24 @@
       "time": "18:39"
     },
     {
+      "title": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？",
+      "desc": "VLA解决“能干”，世界模型解决“想清楚再干”",
+      "link": "https://www.qbitai.com/2026/10/503865.html",
+      "source": "量子位",
+      "category": "机器人",
+      "published": "2026-10-16T16:12:01+08:00",
+      "time": "16:12"
+    },
+    {
+      "title": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",
+      "desc": "优必选 Thinker-WM在三大公认具身世界模型基准评测中全部拿下第一名",
+      "link": "https://www.qbitai.com/2026/10/503843.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-16T16:00:31+08:00",
+      "time": "16:00"
+    },
+    {
       "title": "中控技术接入千问办公，打造流程工业领域AI Native标杆企业",
       "desc": "10月16日，中控技术股份有限公司（以下简称“中控技术”）正式接入千问办公，将Agent落地营销全链路。后续，千问办公还将优化中控技术的采购、供应链、财务、人力、研发等场景工作流，共建流程工业领域AI Native标杆企业…",
       "link": "https://www.leiphone.com/category/industrynews/8IM46Vzpf7IFumo7.html",
@@ -74,6 +92,24 @@
       "category": "模型",
       "published": "2026-10-16T15:51:00+08:00",
       "time": "15:51"
+    },
+    {
+      "title": "范式智能联合睿思智联推出开源一站式 生产级 AI 部署平台 “模域ModelSphere”",
+      "desc": "范式智能技术集团有限公司联合北京睿思智联科技有限公司宣布，一站式生产级 AI 部署平台“模域”正式上线。",
+      "link": "https://www.qbitai.com/2026/10/503829.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-16T15:16:11+08:00",
+      "time": "15:16"
+    },
+    {
+      "title": "刚刚，Gemini 4终于来了：谷歌重回御三家，API限时半价",
+      "desc": "谷歌就是季节性气候模型公司",
+      "link": "https://www.qbitai.com/2026/10/503701.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-16T13:04:59+08:00",
+      "time": "13:04"
     },
     {
       "title": "Kling 4.0正式上线：10-bit HDR、30秒原生直出 刷新视频模型新基准",

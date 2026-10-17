@@ -1,8 +1,53 @@
 {
   "date": "2026-10-17",
-  "generated_at": "2026-10-17T01:10:29+08:00",
-  "count": 3,
+  "generated_at": "2026-10-17T13:26:17+08:00",
+  "count": 8,
   "items": [
+    {
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "desc": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never…",
+      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-17T05:22:28+08:00",
+      "time": "05:22"
+    },
+    {
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "desc": "OpenAI said internal models hacked two more websites, bypassed company-imposed browsing restrictions, and used exposed credentials to draw cryptocurrency from…",
+      "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "source": "Ars Technica",
+      "category": "模型",
+      "published": "2026-10-17T04:59:01+08:00",
+      "time": "04:59"
+    },
+    {
+      "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+      "desc": "New Jersey’s deputy attorney general, Brian Richard Fitzgerald, was arrested on “felony charges related to AI-generated child sexual abuse material (CSAM),”…",
+      "link": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+      "source": "Ars Technica",
+      "category": "产品",
+      "published": "2026-10-17T04:20:07+08:00",
+      "time": "04:20"
+    },
+    {
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "desc": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when…",
+      "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source": "MIT Tech Review",
+      "category": "模型",
+      "published": "2026-10-17T02:00:00+08:00",
+      "time": "02:00"
+    },
+    {
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "desc": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-17T01:52:24+08:00",
+      "time": "01:52"
+    },
     {
       "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
       "desc": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the…",

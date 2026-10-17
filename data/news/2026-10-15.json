@@ -1,7 +1,7 @@
 {
   "date": "2026-10-15",
-  "generated_at": "2026-10-17T01:10:29+08:00",
-  "count": 38,
+  "generated_at": "2026-10-17T13:26:17+08:00",
+  "count": 39,
   "items": [
     {
       "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
@@ -101,6 +101,15 @@
       "category": "模型",
       "published": "2026-10-15T18:32:00+08:00",
       "time": "18:32"
+    },
+    {
+      "title": "全球首发：万拿NOVA21灵巧手，拓展灵巧操作研究边界",
+      "desc": "10月15日，在2026香港秋季电子产品展上，万拿机器人全球首发NOVA21灵巧手。面向机器人科研与开发团队，万拿NOVA21采用21自由度全主动旋转直驱设计，集灵巧、力量、精准与触觉感知于一体，为多指协同、物品姿态调整与复杂操作策略研究提供执行与感知能力…",
+      "link": "https://www.leiphone.com/category/industrynews/ep1fzlxxZTkWwo67.html",
+      "source": "雷峰网",
+      "category": "机器人",
+      "published": "2026-10-15T18:26:00+08:00",
+      "time": "18:26"
     },
     {
       "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
