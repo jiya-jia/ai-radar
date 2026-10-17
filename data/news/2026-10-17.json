@@ -1,8 +1,44 @@
 {
   "date": "2026-10-17",
-  "generated_at": "2026-10-17T13:26:17+08:00",
-  "count": 8,
+  "generated_at": "2026-10-18T00:08:50+08:00",
+  "count": 12,
   "items": [
+    {
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "desc": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI…",
+      "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "source": "The Verge AI",
+      "category": "研究",
+      "published": "2026-10-17T23:04:36+08:00",
+      "time": "23:04"
+    },
+    {
+      "title": "Websites are closing their doors to AI agents",
+      "desc": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-10-17T21:00:00+08:00",
+      "time": "21:00"
+    },
+    {
+      "title": "双11 iPhone Duo平台大战，比的就是货源，记者实测：只有苹果官网、天猫可下单",
+      "desc": "双11 iPhone duo 平台大战，比的就是货源。10 月 16 日消息，苹果首款折叠屏手机 iPhone Duo 今日 20:00 正式开售，首批货源迅速售罄，多家电商平台的官方旗舰店入口一度出现卡顿…",
+      "link": "https://www.leiphone.com/category/industrynews/LMBQVV27PkpS0P58.html",
+      "source": "雷峰网",
+      "category": "资讯",
+      "published": "2026-10-17T12:29:00+08:00",
+      "time": "12:29"
+    },
+    {
+      "title": "抖音商城双11首日数据：消费券带动破千万商家数同比增长74%",
+      "desc": "10月15日，2026抖音商城双11好物节正式开启。今年双11覆盖服饰、美妆个护、快消耐消等重点类目，横跨秋冬换季、囤货等消费节点，通过多场景、多节点助力商家把握年末增长机遇，实现销量与生意规模的持续提升…",
+      "link": "https://www.leiphone.com/category/industrynews/JjzV775vQhP9EgGN.html",
+      "source": "雷峰网",
+      "category": "政策",
+      "published": "2026-10-17T12:16:00+08:00",
+      "time": "12:16"
+    },
     {
       "title": "Replit is no longer working with Anthropic, CEO says",
       "desc": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never…",
