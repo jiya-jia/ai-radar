@@ -1,7 +1,7 @@
 {
   "date": "2026-10-16",
-  "generated_at": "2026-10-18T00:08:50+08:00",
-  "count": 27,
+  "generated_at": "2026-10-18T13:37:40+08:00",
+  "count": 30,
   "items": [
     {
       "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
@@ -49,6 +49,24 @@
       "time": "22:02"
     },
     {
+      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+      "desc": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+      "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-16T20:55:09+08:00",
+      "time": "20:55"
+    },
+    {
+      "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
+      "desc": "从搭载物理建模能力的世界模型切入",
+      "link": "https://www.qbitai.com/2026/10/503880.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-16T20:54:54+08:00",
+      "time": "20:54"
+    },
+    {
       "title": "推翻一切！Nick Cammarata 万字长文宣告，AI 不是黑箱，99% 神经元清晰可见",
       "desc": "亲手推翻自己十年前的结论，可解释性大佬 Nick Cammarata 这次读懂 AI 脑回路。 作者丨高允毅 编辑丨岑 峰 “大模型把猫和汽车分为一类，不是弱智。” 在 AI 可解释性领域，有一个十年的经典案例，是 InceptionV1 模型里编号 4e:55 的神经元…",
       "link": "https://www.leiphone.com/category/yanxishe/Vr0JmbkUeZV5D9Qz.html",
@@ -74,6 +92,15 @@
       "category": "机器人",
       "published": "2026-10-16T16:12:01+08:00",
       "time": "16:12"
+    },
+    {
+      "title": "说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历",
+      "desc": "网易首个AI原生语音Agent「网易叭哥说」上线 “用户荣誉联创计划”，投入 10 万元征集产品建议",
+      "link": "https://www.qbitai.com/2026/10/503861.html",
+      "source": "量子位",
+      "category": "产品",
+      "published": "2026-10-16T16:07:33+08:00",
+      "time": "16:07"
     },
     {
       "title": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",

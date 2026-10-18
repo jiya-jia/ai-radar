@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T13:37:40+08:00",
+  "count": 3,
+  "items": [
+    {
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "desc": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-18T05:31:32+08:00",
+      "time": "05:31"
+    },
+    {
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "desc": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-18T04:21:19+08:00",
+      "time": "04:21"
+    },
+    {
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "desc": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider…",
+      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-10-18T02:48:08+08:00",
+      "time": "02:48"
+    }
+  ]
+}
