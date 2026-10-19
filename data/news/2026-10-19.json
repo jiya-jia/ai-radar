@@ -1,8 +1,98 @@
 {
   "date": "2026-10-19",
-  "generated_at": "2026-10-19T13:55:19+08:00",
-  "count": 6,
+  "generated_at": "2026-10-20T03:02:02+08:00",
+  "count": 16,
   "items": [
+    {
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "desc": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device…",
+      "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-10-19T23:37:09+08:00",
+      "time": "23:37"
+    },
+    {
+      "title": "射频计算：探索智能边界｜CNCC 2026",
+      "desc": "来源：物联网研究与创新 文章链接：https://mp.weixin.qq.com/s/JVhpxoANJIjLvIfi8YiUqQ 从信号感知到空间认知，从可 编程电磁环境到无源智能系统， 射频计算正从对物理信号的处理走向对智能形态的重塑…",
+      "link": "https://www.leiphone.com/category/private/7vTJq8gu376Dldil.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-10-19T23:36:00+08:00",
+      "time": "23:36"
+    },
+    {
+      "title": "Disney found a way to buy Character.AI without buying its lawsuits",
+      "desc": "This week, Character.AI declared bankruptcy. While some saw the fall of a chatbot platform as a harbinger for the industry , court filings indicate that the…",
+      "link": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+      "source": "Ars Technica",
+      "category": "政策",
+      "published": "2026-10-19T22:45:43+08:00",
+      "time": "22:45"
+    },
+    {
+      "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+      "desc": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy…",
+      "link": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-10-19T22:30:00+08:00",
+      "time": "22:30"
+    },
+    {
+      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "desc": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "source": "The Verge AI",
+      "category": "研究",
+      "published": "2026-10-19T21:58:41+08:00",
+      "time": "21:58"
+    },
+    {
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "desc": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before…",
+      "link": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "source": "TechCrunch AI",
+      "category": "机器人",
+      "published": "2026-10-19T20:30:00+08:00",
+      "time": "20:30"
+    },
+    {
+      "title": "Democrats think cracking down on AI could give them an edge",
+      "desc": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest…",
+      "link": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-10-19T20:00:00+08:00",
+      "time": "20:00"
+    },
+    {
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "desc": "Left to its own devices: Researchers stranded AI agents—copies of Claude Opus 4.7—alone on a virtual island for 30 hours with no instructions…",
+      "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "source": "MIT Tech Review",
+      "category": "机器人",
+      "published": "2026-10-19T17:08:05+08:00",
+      "time": "17:08"
+    },
+    {
+      "title": "AI 引爆 BAT「薪酬倒挂」潮，老员工：人麻了",
+      "desc": "大厂正在收紧招聘，但对 AI 人才的争夺并没有停止。 “所有大厂目前都处于 HC（招聘名额）收缩状态，人才招聘是优中选优”。 猎头 Mia 对雷峰网表示，另一个现实局面是：各家依然缺人、抢人，遇到真正想要的人，通常不会卡预算。 “有牛的竞品（比如 OpenAI）的人来，立马腾坑…",
+      "link": "https://www.leiphone.com/category/industrynews/uCsyLxONvXeV9qXc.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-10-19T16:51:00+08:00",
+      "time": "16:51"
+    },
+    {
+      "title": "Git 被换掉，LLM 被替代：AI 编码开始反噬传统工具链？",
+      "desc": "Anthropic 代码量暴涨，GitHub 密钥扫描又慢又贵，两家被迫改造系统。 作者丨 郑佳美 编辑丨岑 峰 Git 已经支撑软件开发二十多年，Anthropic 却决定把它换掉…",
+      "link": "https://www.leiphone.com/category/ai/wHcf2tZUiQkXGM0i.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-10-19T12:27:00+08:00",
+      "time": "12:27"
+    },
     {
       "title": "复旦贾萧松：VLA、WAM新架构层出不穷，但真正的瓶颈不在模型架构 | 世界模型50人",
       "desc": "严骏驰一通电话，贾萧松五年几次转向。 作者：李秋悦 编辑：吴彤 2021年年底，贾萧松直博上海交通大学没多久，在宿舍里接到一个电话。 电话是贾萧松的博导严骏驰打来的，问他接下来读博想研究什么？ 贾萧松的回答是继续做自动驾驶轨迹预测…",
