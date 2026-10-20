@@ -1,8 +1,80 @@
 {
   "date": "2026-10-20",
-  "generated_at": "2026-10-20T13:47:51+08:00",
-  "count": 16,
+  "generated_at": "2026-10-21T01:47:12+08:00",
+  "count": 24,
   "items": [
+    {
+      "title": "The new economics of enterprise AI",
+      "desc": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the…",
+      "link": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+      "source": "MIT Tech Review",
+      "category": "芯片",
+      "published": "2026-10-20T23:20:25+08:00",
+      "time": "23:20"
+    },
+    {
+      "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+      "desc": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year…",
+      "link": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+      "source": "The Verge AI",
+      "category": "产品",
+      "published": "2026-10-20T22:18:37+08:00",
+      "time": "22:18"
+    },
+    {
+      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+      "desc": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+      "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-10-20T21:07:24+08:00",
+      "time": "21:07"
+    },
+    {
+      "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+      "desc": "Adobe announced yesterday that the mobile version of Lightroom , available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI…",
+      "link": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-10-20T21:06:44+08:00",
+      "time": "21:06"
+    },
+    {
+      "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+      "desc": "Muse, the new general-purpose AI agent from Meta, can expose sensitive information when users share conversations through web links, researchers reported…",
+      "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "source": "Ars Technica",
+      "category": "研究",
+      "published": "2026-10-20T20:33:13+08:00",
+      "time": "20:33"
+    },
+    {
+      "title": "停止加薪！大众计划冻结全球大量员工薪酬至2030年；突发！美国发布DeepSeek禁令；马斯克：明年向全美儿童赠送SpaceX股票",
+      "desc": "要闻提示 1.停止加薪！大众计划冻结员工薪酬至2030年，涉及全球大量员工 2.突发！美国发布DeepSeek禁令 3.花钱之前先问网友意见！「钱包请等等」突然爆火：主打「劝你别买」 4.豆包辟谣超一半算力在造爽剧：不靠谱，只有10% 5.特斯拉喊话：没有「速成车」 6.“山姆品质暴跌你还敢去吗”热搜第一…",
+      "link": "https://www.leiphone.com/category/zaobao/Y7039p8HsmmeQClm.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-10-20T18:39:00+08:00",
+      "time": "18:39"
+    },
+    {
+      "title": "喊出300万张订单，英伟达RTX PRO 5500为何遭到提前疯抢？",
+      "desc": "在AI算力市场，等风声传开再下注，往往已经慢了半拍。 早在8月份，服务器产品经理夏寅卿已经开始向客户推介还未面世的RTX PRO 5500。一个月后，这张最新PRO系列专业工作站显卡才默默出现在英伟达官网…",
+      "link": "https://www.leiphone.com/category/chips/STx9ZzfDNh5W80Bm.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-10-20T18:27:00+08:00",
+      "time": "18:27"
+    },
+    {
+      "title": "双11 iPhone Duo货源大战：苹果为什么把更多货交给天猫？",
+      "desc": "10月20日晚8点，天猫双11将正式开卖。iPhone Duo首发的货源之战，也成了今年双11各大电商平台实力较量的一个缩影。 10月16日晚8点，苹果首款折叠屏手机iPhone Duo正式开启预售。毫无悬念，首批货源短时间内迅速售罄，苹果官网发货周期甚至已排至2027年，二手平台上更出现了加价近万元的盛况…",
+      "link": "https://www.leiphone.com/category/industrynews/1kN394wi9h0iFG43.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-10-20T18:04:00+08:00",
+      "time": "18:04"
+    },
     {
       "title": "全年最优惠！真正的双11今晚8点天猫开卖",
       "desc": "全年最优惠时刻开启！真正的双11今晚8点天猫开卖。 到手价就是划算的，店铺立减叠加平台消费券，低至7.2折。如果再加上行业加补券、国家补贴、淘金币这些权益，到手价还能更低，甚至到5折！ 这样买省更多 已经加好购物车的消费者，今晚记得做两件事。 第一，领齐券…",
