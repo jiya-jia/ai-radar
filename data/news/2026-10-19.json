@@ -1,7 +1,7 @@
 {
   "date": "2026-10-19",
-  "generated_at": "2026-10-20T03:02:02+08:00",
-  "count": 16,
+  "generated_at": "2026-10-20T13:47:51+08:00",
+  "count": 19,
   "items": [
     {
       "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
@@ -29,6 +29,15 @@
       "category": "政策",
       "published": "2026-10-19T22:45:43+08:00",
       "time": "22:45"
+    },
+    {
+      "title": "从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务",
+      "desc": "同步搭建千比特规模量子算力云平台",
+      "link": "https://www.qbitai.com/2026/10/504277.html",
+      "source": "量子位",
+      "category": "芯片",
+      "published": "2026-10-19T22:33:26+08:00",
+      "time": "22:33"
     },
     {
       "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
@@ -85,6 +94,15 @@
       "time": "16:51"
     },
     {
+      "title": "赛场交卷 未来已来——首届全球具身智能应用创新挑战赛暨2026中国机器人大赛闭幕",
+      "desc": "10月18日下午，首届全球具身智能应用创新挑战赛暨2026中国机器人大赛落下帷幕。",
+      "link": "https://www.qbitai.com/2026/10/504199.html",
+      "source": "量子位",
+      "category": "机器人",
+      "published": "2026-10-19T16:12:45+08:00",
+      "time": "16:12"
+    },
+    {
       "title": "Git 被换掉，LLM 被替代：AI 编码开始反噬传统工具链？",
       "desc": "Anthropic 代码量暴涨，GitHub 密钥扫描又慢又贵，两家被迫改造系统。 作者丨 郑佳美 编辑丨岑 峰 Git 已经支撑软件开发二十多年，Anthropic 却决定把它换掉…",
       "link": "https://www.leiphone.com/category/ai/wHcf2tZUiQkXGM0i.html",
@@ -92,6 +110,15 @@
       "category": "融资",
       "published": "2026-10-19T12:27:00+08:00",
       "time": "12:27"
+    },
+    {
+      "title": "谷歌开源RSI新成果！华人浓度爆表",
+      "desc": "Harness层的RSI",
+      "link": "https://www.qbitai.com/2026/10/504184.html",
+      "source": "量子位",
+      "category": "产品",
+      "published": "2026-10-19T11:11:58+08:00",
+      "time": "11:11"
     },
     {
       "title": "复旦贾萧松：VLA、WAM新架构层出不穷，但真正的瓶颈不在模型架构 | 世界模型50人",

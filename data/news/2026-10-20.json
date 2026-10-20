@@ -1,8 +1,89 @@
 {
   "date": "2026-10-20",
-  "generated_at": "2026-10-20T03:02:02+08:00",
-  "count": 7,
+  "generated_at": "2026-10-20T13:47:51+08:00",
+  "count": 16,
   "items": [
+    {
+      "title": "全年最优惠！真正的双11今晚8点天猫开卖",
+      "desc": "全年最优惠时刻开启！真正的双11今晚8点天猫开卖。 到手价就是划算的，店铺立减叠加平台消费券，低至7.2折。如果再加上行业加补券、国家补贴、淘金币这些权益，到手价还能更低，甚至到5折！ 这样买省更多 已经加好购物车的消费者，今晚记得做两件事。 第一，领齐券…",
+      "link": "https://www.leiphone.com/category/industrynews/PxChMV65ai4TKgYz.html",
+      "source": "雷峰网",
+      "category": "机器人",
+      "published": "2026-10-20T10:23:00+08:00",
+      "time": "10:23"
+    },
+    {
+      "title": "中科通量亮相2026 RISC-V中国峰会，全栈RISC-V智能覆盖视频+智算全场景",
+      "desc": "10月18日，第六届RISC-V中国峰会在深圳会展中心（福田）开幕。中科通量携SmarCo AI工作站、SmarCo智能视频编码一体机、SmarCo智算加速卡等产品与解决方案亮相，并以“全栈RISC-V智能 覆盖视频+智算全场景”为主题，集中展示国产RISC-V在视频与智算领域的全栈能力…",
+      "link": "https://www.leiphone.com/category/industrynews/2KBJmyhuJeiRQ7Op.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-10-20T09:38:00+08:00",
+      "time": "09:38"
+    },
+    {
+      "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
+      "desc": "OpenAI只掏出一个6.1 Terra…",
+      "link": "https://www.qbitai.com/2026/10/504314.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-20T09:09:43+08:00",
+      "time": "09:09"
+    },
+    {
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "desc": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-20T07:39:38+08:00",
+      "time": "07:39"
+    },
+    {
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "desc": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+      "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-10-20T06:04:28+08:00",
+      "time": "06:04"
+    },
+    {
+      "title": "CoreWeave’s debt is becoming the whole AI industry’s problem",
+      "desc": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-10-20T05:28:20+08:00",
+      "time": "05:28"
+    },
+    {
+      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+      "desc": "On Monday, a court granted the US government's request to deny release of a former OpenAI engineer accused of bugging a top-secret conference room to steal the…",
+      "link": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+      "source": "Ars Technica",
+      "category": "产品",
+      "published": "2026-10-20T04:21:53+08:00",
+      "time": "04:21"
+    },
+    {
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "desc": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like…",
+      "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-10-20T04:09:24+08:00",
+      "time": "04:09"
+    },
+    {
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "desc": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor…",
+      "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-10-20T03:28:34+08:00",
+      "time": "03:28"
+    },
     {
       "title": "Tolan snags $30M for its AI companion that helps users navigate life",
       "desc": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
