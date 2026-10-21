@@ -1,8 +1,62 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-21T13:51:07+08:00",
-  "count": 17,
+  "generated_at": "2026-10-22T01:54:31+08:00",
+  "count": 23,
   "items": [
+    {
+      "title": "The $15 billion ad-powered AI startup your doctor may already be using",
+      "desc": "Nearly two-thirds of US doctors are turning to an AI-powered search engine to make patient decisions, propelling a little-known tech startup to a $15 billion…",
+      "link": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
+      "source": "Ars Technica",
+      "category": "融资",
+      "published": "2026-10-21T23:14:07+08:00",
+      "time": "23:14"
+    },
+    {
+      "title": "Conversational Gemini navigation comes to Apple CarPlay",
+      "desc": "After introducing its Gemini AI assistant to Android Auto last year , Google is now bringing it to Apple CarPlay users…",
+      "link": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-10-21T23:00:00+08:00",
+      "time": "23:00"
+    },
+    {
+      "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+      "desc": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+      "source": "The Verge AI",
+      "category": "研究",
+      "published": "2026-10-21T21:57:43+08:00",
+      "time": "21:57"
+    },
+    {
+      "title": "一次抓取背后：读懂智能的“计量”，Token经济学如何聚合“算力、模型、语料”？",
+      "desc": "质检线上，一台人形机器人从料框里取出平板，送进检测柜；完成检测后，再将成品分流。抓取入柜、多项目质检、成品分拣，机器人与工人同线作 业，一气呵 成 。 一次看似简单的抓取，背后串联起感知、判断与执行…",
+      "link": "https://www.leiphone.com/category/industrynews/me3CuOBHyOqL14Pd.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-10-21T14:29:00+08:00",
+      "time": "14:29"
+    },
+    {
+      "title": "当Agent“有工号”：从一人一工具到一人一团队，组织如何做好AI时代的分工与协作？",
+      "desc": "智能体也开始领“工号”了。8月31日，张江科学之门模力社区， 智能体身份码节点管理平台 正式上线，30家单位参与节点发放。越来越多的智能体将拥有可识别、可管理的数字身份。 但当Agent从个人电脑里的工具，变成能够跨系统调用、参与业务流程的“数字同事”，一个比技术更现实的问题随之浮现：谁给它派活，谁来验收成果…",
+      "link": "https://www.leiphone.com/category/industrynews/wiMNbdfLr54ciVBE.html",
+      "source": "雷峰网",
+      "category": "政策",
+      "published": "2026-10-21T14:14:00+08:00",
+      "time": "14:14"
+    },
+    {
+      "title": "大肥鱼遇劲敌：MiniMax M3.1 Flash 拿下 Agent 任务第一，我们实测了",
+      "desc": "MiniMax 把 DeepSeek 的低谷价变成了全天价，Flash 价格战又卷起来了。 作者丨 吴海明 李娜 编辑丨李娜 DeepSeek 刚刚把国产 Flash 的性价比标杆往前推了一步，MiniMax 就带着实名的“太空兔”追来了…",
+      "link": "https://www.leiphone.com/category/yanxishe/IMOE7FfuhC0qGxZk.html",
+      "source": "雷峰网",
+      "category": "政策",
+      "published": "2026-10-21T12:09:00+08:00",
+      "time": "12:09"
+    },
     {
       "title": "不做提分工具，CapaLeap在AI教育焦虑中找「15度夹角」",
       "desc": "一个六岁的孩子问AI“为什么天是蓝的”。三秒钟，“瑞利散射”的解释弹了出来，精确、流畅、挑不出毛病。 孩子听完，点了点头，问了下一个问题。 答案拿到了。但自己仰头看天、追问为什么早晚颜色不一样、在脑子里慢慢搭出因果链条的过程，被跳过了。 这不是个例…",

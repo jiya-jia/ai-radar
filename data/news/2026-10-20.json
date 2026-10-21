@@ -1,7 +1,7 @@
 {
   "date": "2026-10-20",
-  "generated_at": "2026-10-21T13:51:07+08:00",
-  "count": 26,
+  "generated_at": "2026-10-22T01:54:31+08:00",
+  "count": 27,
   "items": [
     {
       "title": "The new economics of enterprise AI",
@@ -56,6 +56,15 @@
       "category": "研究",
       "published": "2026-10-20T20:33:13+08:00",
       "time": "20:33"
+    },
+    {
+      "title": "Otter AI raises $320M from General Catalyst’s growth fund for its meeting tool",
+      "desc": "Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation.",
+      "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-10-20T19:00:00+08:00",
+      "time": "19:00"
     },
     {
       "title": "停止加薪！大众计划冻结全球大量员工薪酬至2030年；突发！美国发布DeepSeek禁令；马斯克：明年向全美儿童赠送SpaceX股票",
