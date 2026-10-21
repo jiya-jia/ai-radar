@@ -1,7 +1,7 @@
 {
   "date": "2026-10-20",
-  "generated_at": "2026-10-21T01:47:12+08:00",
-  "count": 24,
+  "generated_at": "2026-10-21T13:51:07+08:00",
+  "count": 26,
   "items": [
     {
       "title": "The new economics of enterprise AI",
@@ -20,6 +20,15 @@
       "category": "产品",
       "published": "2026-10-20T22:18:37+08:00",
       "time": "22:18"
+    },
+    {
+      "title": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
+      "desc": "兔皮底下，竟然是MiniMax！",
+      "link": "https://www.qbitai.com/2026/10/504517.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-10-20T21:29:54+08:00",
+      "time": "21:29"
     },
     {
       "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
@@ -74,6 +83,15 @@
       "category": "模型",
       "published": "2026-10-20T18:04:00+08:00",
       "time": "18:04"
+    },
+    {
+      "title": "Meshy推出Meshy Edit：基于全新自研AI模型，一句指令实现3D模型局部编辑",
+      "desc": "圈选修改区域，一句话描述改动，约一分钟生成新模型，未选中区域保持原样",
+      "link": "https://www.qbitai.com/2026/10/504415.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-20T12:59:04+08:00",
+      "time": "12:59"
     },
     {
       "title": "全年最优惠！真正的双11今晚8点天猫开卖",

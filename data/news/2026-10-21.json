@@ -1,8 +1,134 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-21T01:47:12+08:00",
-  "count": 3,
+  "generated_at": "2026-10-21T13:51:07+08:00",
+  "count": 17,
   "items": [
+    {
+      "title": "不做提分工具，CapaLeap在AI教育焦虑中找「15度夹角」",
+      "desc": "一个六岁的孩子问AI“为什么天是蓝的”。三秒钟，“瑞利散射”的解释弹了出来，精确、流畅、挑不出毛病。 孩子听完，点了点头，问了下一个问题。 答案拿到了。但自己仰头看天、追问为什么早晚颜色不一样、在脑子里慢慢搭出因果链条的过程，被跳过了。 这不是个例…",
+      "link": "https://www.leiphone.com/category/weiwu/2pumQSfiTnvcy26r.html",
+      "source": "雷峰网",
+      "category": "机器人",
+      "published": "2026-10-21T11:07:00+08:00",
+      "time": "11:07"
+    },
+    {
+      "title": "从安防到工业，海康威视底气从何而来",
+      "desc": "2026年中国国际工业博览会的工业自动化展区，海康威视的展台被人群围了好几层。 一百多款场景数字化产品铺开在眼前，从亚微米级精度的半导体封装3D AXI检测设备，到能在3200℃极限高温下看清工业现场的高清可视高温计，从为皮带托辊“悬丝诊脉”的听诊光纤，到给筒仓做三维建模的扫描成像雷达…",
+      "link": "https://www.leiphone.com/category/5G/4rvebFOnbOPic02a.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-10-21T10:57:00+08:00",
+      "time": "10:57"
+    },
+    {
+      "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
+      "desc": "先看真实问题解决力",
+      "link": "https://www.qbitai.com/2026/10/504608.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-10-21T10:37:39+08:00",
+      "time": "10:37"
+    },
+    {
+      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+      "desc": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+      "source": "The Verge AI",
+      "category": "政策",
+      "published": "2026-10-21T07:04:19+08:00",
+      "time": "07:04"
+    },
+    {
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "desc": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the…",
+      "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-10-21T07:01:23+08:00",
+      "time": "07:01"
+    },
+    {
+      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "desc": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full…",
+      "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-21T06:24:02+08:00",
+      "time": "06:24"
+    },
+    {
+      "title": "Google’s more personalized Gemini AI is heading to your car",
+      "desc": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your…",
+      "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-10-21T06:11:34+08:00",
+      "time": "06:11"
+    },
+    {
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "desc": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending…",
+      "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-10-21T05:25:22+08:00",
+      "time": "05:25"
+    },
+    {
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "desc": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench…",
+      "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "source": "TechCrunch AI",
+      "category": "研究",
+      "published": "2026-10-21T04:35:10+08:00",
+      "time": "04:35"
+    },
+    {
+      "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+      "desc": "Hoping to quell criticism, Meta has dropped the word “train” from its “streamlined” commercial terms of service that kick in on October 30…",
+      "link": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
+      "source": "Ars Technica",
+      "category": "资讯",
+      "published": "2026-10-21T04:07:58+08:00",
+      "time": "04:07"
+    },
+    {
+      "title": "Gemini's Personal Intelligence is coming to cars",
+      "desc": "Google kicked off 2026 with the addition of Personal Intelligence to Gemini, allowing its AI to pull in more of your data to formulate answers…",
+      "link": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
+      "source": "Ars Technica",
+      "category": "芯片",
+      "published": "2026-10-21T04:00:33+08:00",
+      "time": "04:00"
+    },
+    {
+      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+      "desc": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+      "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-10-21T02:38:24+08:00",
+      "time": "02:38"
+    },
+    {
+      "title": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
+      "desc": "Ukraine’s unprecedented drone rescue of a wounded soldier from the battlefield has shown once again how battlefield necessity can spur innovation…",
+      "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
+      "source": "Ars Technica",
+      "category": "机器人",
+      "published": "2026-10-21T02:22:54+08:00",
+      "time": "02:22"
+    },
+    {
+      "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
+      "desc": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as…",
+      "link": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+      "source": "The Verge AI",
+      "category": "研究",
+      "published": "2026-10-21T02:07:34+08:00",
+      "time": "02:07"
+    },
     {
       "title": "Meta ordered to name execs who approved torrenting for AI training",
       "desc": "In copyright lawsuits over AI training, Meta has spent weeks blaming staff for downloading torrents…",

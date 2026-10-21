@@ -1,7 +1,7 @@
 {
   "date": "2026-10-19",
-  "generated_at": "2026-10-21T01:47:12+08:00",
-  "count": 20,
+  "generated_at": "2026-10-21T13:51:07+08:00",
+  "count": 21,
   "items": [
     {
       "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
@@ -56,6 +56,15 @@
       "category": "研究",
       "published": "2026-10-19T21:58:41+08:00",
       "time": "21:58"
+    },
+    {
+      "title": "华中师大 CoReFuse-Med：先净化再融合，让低质模态不再拖后腿｜ACM MM 2026",
+      "desc": "来源：多模态信息融合 文章链接：https://mp.weixin.qq.com/s/SVr9DmtPyzORLYad-tNR-g 多模态融合 何时失效？ ACM MM 2026 · CoReFuse-Med 多模态并不是越多越好…",
+      "link": "https://www.leiphone.com/category/private/QgMWStz8hCPsFf68.html",
+      "source": "雷峰网",
+      "category": "研究",
+      "published": "2026-10-19T20:47:00+08:00",
+      "time": "20:47"
     },
     {
       "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
