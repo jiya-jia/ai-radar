@@ -1,7 +1,7 @@
 {
   "date": "2026-10-20",
-  "generated_at": "2026-10-22T01:54:31+08:00",
-  "count": 27,
+  "generated_at": "2026-10-22T13:54:41+08:00",
+  "count": 32,
   "items": [
     {
       "title": "The new economics of enterprise AI",
@@ -49,6 +49,15 @@
       "time": "21:06"
     },
     {
+      "title": "RSI三块关键拼图，MemT 1.0从模型层补上「记忆」",
+      "desc": "把记忆原生焊进Transformer",
+      "link": "https://www.qbitai.com/2026/10/504456.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-20T20:50:34+08:00",
+      "time": "20:50"
+    },
+    {
       "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
       "desc": "Muse, the new general-purpose AI agent from Meta, can expose sensitive information when users share conversations through web links, researchers reported…",
       "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
@@ -56,6 +65,15 @@
       "category": "研究",
       "published": "2026-10-20T20:33:13+08:00",
       "time": "20:33"
+    },
+    {
+      "title": "AI adoption by industry shows what other sectors can learn",
+      "desc": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley…",
+      "link": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+      "source": "MIT Tech Review",
+      "category": "芯片",
+      "published": "2026-10-20T20:00:00+08:00",
+      "time": "20:00"
     },
     {
       "title": "Otter AI raises $320M from General Catalyst’s growth fund for its meeting tool",
@@ -94,6 +112,15 @@
       "time": "18:04"
     },
     {
+      "title": "A visit to Samsung’s massive new semiconductor hub",
+      "desc": "_____________ THE PLACE Pyeongtaek, South Korea Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips…",
+      "link": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+      "source": "MIT Tech Review",
+      "category": "芯片",
+      "published": "2026-10-20T17:00:00+08:00",
+      "time": "17:00"
+    },
+    {
       "title": "Meshy推出Meshy Edit：基于全新自研AI模型，一句指令实现3D模型局部编辑",
       "desc": "圈选修改区域，一句话描述改动，约一分钟生成新模型，未选中区域保持原样",
       "link": "https://www.qbitai.com/2026/10/504415.html",
@@ -101,6 +128,24 @@
       "category": "模型",
       "published": "2026-10-20T12:59:04+08:00",
       "time": "12:59"
+    },
+    {
+      "title": "赛豆首款AI汽车公告图公示，价格被按零件猜到了20万以上",
+      "desc": "宁德时代电池上车",
+      "link": "https://www.qbitai.com/2026/10/504395.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-10-20T12:18:29+08:00",
+      "time": "12:18"
+    },
+    {
+      "title": "AI硬件出海，别当“背景板”，GTC2026 Shanghai「AI硬件专区」邀你占位",
+      "desc": "2026 年 11 月 4 日至 5 日，GTC2026 全球流量大会（上海）将在上海世博展览馆 H3 馆举办",
+      "link": "https://www.qbitai.com/2026/10/504372.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-10-20T12:08:15+08:00",
+      "time": "12:08"
     },
     {
       "title": "全年最优惠！真正的双11今晚8点天猫开卖",
