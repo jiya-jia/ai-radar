@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T01:51:27+08:00",
+  "count": 4,
+  "items": [
+    {
+      "title": "Someone hacked the Switch 2 by using an old game and AI",
+      "desc": "pepsipu on X \" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-10.19.11-AM.png?qu…",
+      "link": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-10-23T01:21:31+08:00",
+      "time": "01:21"
+    },
+    {
+      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+      "desc": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+      "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-23T00:47:17+08:00",
+      "time": "00:47"
+    },
+    {
+      "title": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
+      "desc": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman…",
+      "link": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-10-23T00:16:15+08:00",
+      "time": "00:16"
+    },
+    {
+      "title": "Uber puts all 30,000 employees on ChatGPT Work",
+      "desc": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
+      "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-10-23T00:00:00+08:00",
+      "time": "00:00"
+    }
+  ]
+}

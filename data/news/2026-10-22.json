@@ -1,8 +1,107 @@
 {
   "date": "2026-10-22",
-  "generated_at": "2026-10-22T13:54:41+08:00",
-  "count": 16,
+  "generated_at": "2026-10-23T01:51:27+08:00",
+  "count": 28,
   "items": [
+    {
+      "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+      "desc": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal…",
+      "link": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-10-22T23:50:30+08:00",
+      "time": "23:50"
+    },
+    {
+      "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
+      "desc": "Nicky Quamina-Woo \" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268806_Bill_Gates_NQuamina-Woo_0007_a8…",
+      "link": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-10-22T22:00:00+08:00",
+      "time": "22:00"
+    },
+    {
+      "title": "Claude Duet app is Anthropic’s bet on agents",
+      "desc": "Claude Duet is available through waitlist for Pro and Max plan users.",
+      "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-10-22T21:53:26+08:00",
+      "time": "21:53"
+    },
+    {
+      "title": "DeepSeek reportedly raises $15B days after US restrictions",
+      "desc": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S…",
+      "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-10-22T21:11:13+08:00",
+      "time": "21:11"
+    },
+    {
+      "title": "1Password lets AI agents use your passwords without seeing them",
+      "desc": "1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-10-22T21:00:00+08:00",
+      "time": "21:00"
+    },
+    {
+      "title": "Claude did not invent scorpion antivenom",
+      "desc": "An investment research firm wanted to prove AI could revolutionize drug development. So they teamed up with Anthropic to see whether an unreleased version of…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
+      "source": "The Verge AI",
+      "category": "研究",
+      "published": "2026-10-22T20:21:07+08:00",
+      "time": "20:21"
+    },
+    {
+      "title": "Making the case for context-aware AI",
+      "desc": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster…",
+      "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+      "source": "MIT Tech Review",
+      "category": "芯片",
+      "published": "2026-10-22T18:00:00+08:00",
+      "time": "18:00"
+    },
+    {
+      "title": "AI’s hidden storage bill: What inference leaves behind",
+      "desc": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon…",
+      "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "source": "MIT Tech Review",
+      "category": "芯片",
+      "published": "2026-10-22T16:41:18+08:00",
+      "time": "16:41"
+    },
+    {
+      "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+      "desc": "FSD一年增长70万付费用户",
+      "link": "https://www.qbitai.com/2026/10/504841.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-10-22T15:14:48+08:00",
+      "time": "15:14"
+    },
+    {
+      "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+      "desc": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
+      "link": "https://www.qbitai.com/2026/10/504832.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-22T15:11:14+08:00",
+      "time": "15:11"
+    },
+    {
+      "title": "谁在给OpenAI供应具身数据？",
+      "desc": "挤进全球Physical AI核心供应链",
+      "link": "https://www.qbitai.com/2026/10/504800.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-10-22T15:05:59+08:00",
+      "time": "15:05"
+    },
     {
       "title": "靳玉志：自动驾驶将重构新的出行方式",
       "desc": "10月21日，2026世界智能网联汽车大会在北京举行。华为公司高级副总裁、引望公司CEO靳玉志出席巅峰对话环节，围绕智能化下半场的变化、引望在技术生态中的角色等话题分享了观点。 靳玉志指出， “智能化下半场”正发生三大变化。第一是产业加速从辅助驾驶迈向自动驾驶…",
@@ -47,6 +146,15 @@
       "category": "资讯",
       "published": "2026-10-22T06:51:22+08:00",
       "time": "06:51"
+    },
+    {
+      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "desc": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+      "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-10-22T06:45:34+08:00",
+      "time": "06:45"
     },
     {
       "title": "Data centers could erase decades of air quality gains",

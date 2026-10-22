@@ -1,7 +1,7 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-22T13:54:41+08:00",
-  "count": 23,
+  "generated_at": "2026-10-23T01:51:27+08:00",
+  "count": 27,
   "items": [
     {
       "title": "The $15 billion ad-powered AI startup your doctor may already be using",
@@ -22,6 +22,15 @@
       "time": "23:00"
     },
     {
+      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+      "desc": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+      "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-21T22:00:00+08:00",
+      "time": "22:00"
+    },
+    {
       "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
       "desc": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks…",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
@@ -29,6 +38,33 @@
       "category": "研究",
       "published": "2026-10-21T21:57:43+08:00",
       "time": "21:57"
+    },
+    {
+      "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
+      "desc": "医疗AI质变时刻",
+      "link": "https://www.qbitai.com/2026/10/504734.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-10-21T19:30:59+08:00",
+      "time": "19:30"
+    },
+    {
+      "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
+      "desc": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播",
+      "link": "https://www.qbitai.com/2026/10/504730.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-21T17:45:22+08:00",
+      "time": "17:45"
+    },
+    {
+      "title": "LeCun押注的世界模型，中国一家清华系公司已经做进了机器人",
+      "desc": "世界模型赛道新看点：千诀隐变量可辨识性方向的研究，比LeCun相近工作早一年，不堆画面预测，主打物理规律与跨本体复用。",
+      "link": "https://www.qbitai.com/2026/10/504653.html",
+      "source": "量子位",
+      "category": "机器人",
+      "published": "2026-10-21T15:15:05+08:00",
+      "time": "15:15"
     },
     {
       "title": "一次抓取背后：读懂智能的“计量”，Token经济学如何聚合“算力、模型、语料”？",
