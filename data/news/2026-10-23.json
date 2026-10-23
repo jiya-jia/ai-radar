@@ -1,8 +1,98 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-23T01:51:27+08:00",
-  "count": 4,
+  "generated_at": "2026-10-23T13:52:13+08:00",
+  "count": 14,
   "items": [
+    {
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "desc": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+      "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-10-23T12:00:00+08:00",
+      "time": "12:00"
+    },
+    {
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "desc": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-10-23T06:08:24+08:00",
+      "time": "06:08"
+    },
+    {
+      "title": "Canva’s first AI image model plans designs before generating them",
+      "desc": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-10-23T05:51:25+08:00",
+      "time": "05:51"
+    },
+    {
+      "title": "Designing an AI serving harness built to last",
+      "desc": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift…",
+      "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "source": "MIT Tech Review",
+      "category": "融资",
+      "published": "2026-10-23T05:17:29+08:00",
+      "time": "05:17"
+    },
+    {
+      "title": "Meta’s AI could still scrape news sites, legal experts say",
+      "desc": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts…",
+      "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-10-23T04:32:05+08:00",
+      "time": "04:32"
+    },
+    {
+      "title": "Meta turns Muse sharing back on",
+      "desc": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find…",
+      "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+      "source": "The Verge AI",
+      "category": "研究",
+      "published": "2026-10-23T04:24:04+08:00",
+      "time": "04:24"
+    },
+    {
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "desc": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-10-23T03:00:00+08:00",
+      "time": "03:00"
+    },
+    {
+      "title": "The Foundations of Scalable AI",
+      "desc": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one…",
+      "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+      "source": "MIT Tech Review",
+      "category": "研究",
+      "published": "2026-10-23T02:48:04+08:00",
+      "time": "02:48"
+    },
+    {
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "desc": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science…",
+      "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "source": "TechCrunch AI",
+      "category": "研究",
+      "published": "2026-10-23T02:43:53+08:00",
+      "time": "02:43"
+    },
+    {
+      "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
+      "desc": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to…",
+      "link": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+      "source": "The Verge AI",
+      "category": "产品",
+      "published": "2026-10-23T02:15:00+08:00",
+      "time": "02:15"
+    },
     {
       "title": "Someone hacked the Switch 2 by using an old game and AI",
       "desc": "pepsipu on X \" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-10.19.11-AM.png?qu…",

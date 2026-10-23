@@ -1,7 +1,7 @@
 {
   "date": "2026-10-22",
-  "generated_at": "2026-10-23T01:51:27+08:00",
-  "count": 28,
+  "generated_at": "2026-10-23T13:52:13+08:00",
+  "count": 29,
   "items": [
     {
       "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
@@ -11,6 +11,15 @@
       "category": "芯片",
       "published": "2026-10-22T23:50:30+08:00",
       "time": "23:50"
+    },
+    {
+      "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
+      "desc": "Amazon has warned that vulnerabilities in a programming language that underpins much of the Internet, discovered using AI tools, are being “broadly exploited”…",
+      "link": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+      "source": "Ars Technica",
+      "category": "资讯",
+      "published": "2026-10-22T23:25:02+08:00",
+      "time": "23:25"
     },
     {
       "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
