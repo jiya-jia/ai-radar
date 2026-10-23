@@ -1,8 +1,71 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-23T13:52:13+08:00",
-  "count": 14,
+  "generated_at": "2026-10-24T01:43:54+08:00",
+  "count": 21,
   "items": [
+    {
+      "title": "Meta delays new business terms after publisher pushback on AI scraping",
+      "desc": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI…",
+      "link": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-10-23T22:47:41+08:00",
+      "time": "22:47"
+    },
+    {
+      "title": "宁德时代董秘被打？知情人士回应；怕担责先跑路？娃哈哈集团董事长许思敏离职；DeepSeek完成近1000亿元融资，宁德时代、腾讯参投",
+      "desc": "要闻提示 1.不少备孕人群购买！“好健康”牡蛎精被海关检出污染物，山姆紧急召回 2.宁德时代董秘被打？知情人士回应 3.怕担责先跑路？娃哈哈集团董事长许思敏离职 4.DeepSeek完成近1000亿元融资，宁德时代、腾讯参投 5.原“死了么”APP公布收费标准，创始人回应：最高收费199元/年…",
+      "link": "https://www.leiphone.com/category/zaobao/IlrVRbBiK9Klcuj1.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-10-23T19:16:00+08:00",
+      "time": "19:16"
+    },
+    {
+      "title": "Kimi K3.1 泄露：3D 成本仅有 GPT-6 Astra 的 1/14！横扫海外视觉三巨头",
+      "desc": "15 分钟交付工业级可交互3D 资产，重写视觉大模型的“理科生法则” 作者丨 高 允 毅 编辑丨岑 峰 刚刚，Kimi 官方发布了一段“极具暗示性”的先导片，各种高能科学画面与粒子特效快速切换，有眼尖的网友已经捕捉到画面中的彩蛋“Kimi K3.1”…",
+      "link": "https://www.leiphone.com/category/yanxishe/PZo9w14YeFSo4jmf.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-10-23T18:57:00+08:00",
+      "time": "18:57"
+    },
+    {
+      "title": "企业AI需要两个世界模型",
+      "desc": "特赞想让企业Agent真正懂业务",
+      "link": "https://www.qbitai.com/2026/10/505032.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-23T17:07:25+08:00",
+      "time": "17:07"
+    },
+    {
+      "title": "一张5090跑起34B实时世界模型，国产玩家拿下英伟达大奖！",
+      "desc": "房间秒变草原，抬手就能下雪",
+      "link": "https://www.qbitai.com/2026/10/504931.html",
+      "source": "量子位",
+      "category": "芯片",
+      "published": "2026-10-23T17:03:37+08:00",
+      "time": "17:03"
+    },
+    {
+      "title": "高德发布首个基于开放世界行为的全身基座模型λ0，推动机器人从“局部学习”迈向“全身动作对齐”",
+      "desc": "阿里巴巴集团旗下高德正式发布首个基于开放世界行为的全身基座模型λ0",
+      "link": "https://www.qbitai.com/2026/10/504905.html",
+      "source": "量子位",
+      "category": "机器人",
+      "published": "2026-10-23T16:40:57+08:00",
+      "time": "16:40"
+    },
+    {
+      "title": "从“算力”到“Token 生产力”，硅基流动助力央国企大模型规模化落地",
+      "desc": "在企业网 D1net 主办的 2026 秋季央国企 CIO 及数科公司高管峰会（第 19 届）上，硅基流动解决方案总监唐安波出席峰会并作主题分享：《从“算力”到“Token 生产力”：央国企大模型规模化落地的推理基础设施与 ROI 实践》。以下为分享内容精华…",
+      "link": "https://www.leiphone.com/category/industrynews/DVoE94j80j6cboxE.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-10-23T16:32:00+08:00",
+      "time": "16:32"
+    },
     {
       "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
       "desc": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",

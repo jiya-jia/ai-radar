@@ -1,7 +1,7 @@
 {
   "date": "2026-10-22",
-  "generated_at": "2026-10-23T13:52:13+08:00",
-  "count": 29,
+  "generated_at": "2026-10-24T01:43:54+08:00",
+  "count": 34,
   "items": [
     {
       "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
@@ -58,6 +58,15 @@
       "time": "21:00"
     },
     {
+      "title": "当车企抢着自研电池，智己为什么反着来？",
+      "desc": "围绕电池展开的产品定义权正在成为行业中的焦点话题。 小米、理想最近发布了自研电池品牌，与欣旺达、中创新航等电池厂商联手，宣告了车企要深入电池研发、制造环节的决心。李想说，“世界既需要最懂智能电动车的电池企业，也需要最懂电池的智能电动车企业。” 而宁德时代首席制造官倪军直言，\"还是要专业的人做专业的事\"…",
+      "link": "https://www.leiphone.com/category/transportation/tlrld8EmPpRuUKDa.html",
+      "source": "雷峰网",
+      "category": "产品",
+      "published": "2026-10-22T20:29:00+08:00",
+      "time": "20:29"
+    },
+    {
       "title": "Claude did not invent scorpion antivenom",
       "desc": "An investment research firm wanted to prove AI could revolutionize drug development. So they teamed up with Anthropic to see whether an unreleased version of…",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
@@ -67,6 +76,33 @@
       "time": "20:21"
     },
     {
+      "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+      "desc": "企业AI转型正在走向深水区，从单点工具和业务场景提效，向系统性的组织重构延伸。麦肯锡曾在《组织状态报告2026》中指出，尽管AI被视为新一轮生产力革命的重要驱动力，但真正将其转化为经营业绩的企业仍是少数，背后的关键在于，不少企业仍将AI转型停留在“工具升级”层面，却忽视了更本质的“组织重构”…",
+      "link": "https://www.leiphone.com/category/industrynews/vv6pTluWIUjUHMbi.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-10-22T20:03:00+08:00",
+      "time": "20:03"
+    },
+    {
+      "title": "深度解读全球 72 小时安全风暴：PHP 事件只是第一枪",
+      "desc": "如果你昨天刚好踩中了所有这些坑，那你大概是 2026 年最惨的安全工程师。 想象一下，你的网站跑在 Linux 服务器上，前端用 Nginx 做反向代理，后端 Go、PHP、Node.js 混着用，代码存在自己搭的 GitLab 里，靠自动发布流水线更新，HTTPS 证书还选了 eMudhra 签发的证书链…",
+      "link": "https://www.leiphone.com/category/yanxishe/tvPJIsotGRQWkdwV.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-10-22T19:14:00+08:00",
+      "time": "19:14"
+    },
+    {
+      "title": "超智深融 算力圳浓——第二十二届CCF全国高性能计算学术大会在深圳成功举办",
+      "desc": "鹏城向海潮起处，算力奔腾启新程。10月17-20日，第二十二届CCF全国高性能计算学术大会（CCF HPC2026）于深圳国际会展中心正式拉开帷幕。本次大会与2026世界算力博览会（WEC2026）同期同馆举办，让滨海都市的开放蓬勃与超级算力的澎湃革新、前沿学术的深耕探索与产业生态的落地赋能在此碰撞交融…",
+      "link": "https://www.leiphone.com/category/chips/ZciUaXjdyyGRgNRl.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-10-22T19:08:00+08:00",
+      "time": "19:08"
+    },
+    {
       "title": "Making the case for context-aware AI",
       "desc": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster…",
       "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
@@ -74,6 +110,15 @@
       "category": "芯片",
       "published": "2026-10-22T18:00:00+08:00",
       "time": "18:00"
+    },
+    {
+      "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+      "desc": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。",
+      "link": "https://www.qbitai.com/2026/10/504879.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-22T17:07:05+08:00",
+      "time": "17:07"
     },
     {
       "title": "AI’s hidden storage bill: What inference leaves behind",
