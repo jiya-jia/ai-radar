@@ -1,8 +1,53 @@
 {
   "date": "2026-10-24",
-  "generated_at": "2026-10-24T13:35:42+08:00",
-  "count": 9,
+  "generated_at": "2026-10-25T00:26:36+08:00",
+  "count": 14,
   "items": [
+    {
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "desc": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more…",
+      "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "source": "TechCrunch AI",
+      "category": "研究",
+      "published": "2026-10-24T23:00:00+08:00",
+      "time": "23:00"
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "desc": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-24T22:00:00+08:00",
+      "time": "22:00"
+    },
+    {
+      "title": "支付宝AI支付发起年度黑客松大赛，邀开发者把AI创意变成生意",
+      "desc": "从 Vibe Coding 到 Skill、Agent，AI 正打开新一轮创业窗口：一个人也能打造应用，一项技能也能成为产品。随着创作与开发门槛降低，新的机会正在浮现——让自己做出的 AI 产品，成为用户愿意付费的生意…",
+      "link": "https://www.leiphone.com/category/industrynews/ykWM8XAjpHi0biY1.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-10-24T16:49:00+08:00",
+      "time": "16:49"
+    },
+    {
+      "title": "“更懂你、会办事”，支付宝携手科大讯飞升级智能座舱服务",
+      "desc": "10月21日，支付宝车载助手亮相科大讯飞智能汽车产品技术发布会，宣布与讯飞星火智慧座舱战略合作升级，正式启动「讯宝计划」，推动智能座舱从信息交互向生活服务延伸，让车主在车内即可办理更多日常事物。 四大生活服务场景将落地，覆盖出行高频需求 发布会上，支付宝车载助手接入星火智慧座舱3.0的合作成果正式亮相…",
+      "link": "https://www.leiphone.com/category/industrynews/WOl6u17gkYoV3PVr.html",
+      "source": "雷峰网",
+      "category": "产品",
+      "published": "2026-10-24T16:43:00+08:00",
+      "time": "16:43"
+    },
+    {
+      "title": "行业第一！百度健康AI服务MAU超5000万，发布好医矩阵和健康相机",
+      "desc": "10月24日，百度健康宣布升级文心健康管家，发布「好医矩阵」和「健康相机」。其中好医矩阵包括“好医答、好医加号、好医说、好医榜、好医评”等多项功能，进一步实现AI+真人医生在线问诊与线下就诊等全流程医疗服务的闭环…",
+      "link": "https://www.leiphone.com/category/industrynews/RRFr9U8GKWjNNxfH.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-10-24T16:37:00+08:00",
+      "time": "16:37"
+    },
     {
       "title": "开门红强势爆发！抖音商城双11热卖品牌榜发布",
       "desc": "双11开门红阶段，大促消费热情全面释放，消费券带动成交额破亿的商家数量同比增长200%，宠物、母婴行业成交额过千万商家数同比增长分别为200%、83%，快消行业成交额破亿品牌数量同比增长167%。服饰、快消、耐消等赛道标杆品牌集中爆发，在开门红阶段迎来生意高峰…",
