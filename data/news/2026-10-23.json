@@ -1,7 +1,7 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-24T01:43:54+08:00",
-  "count": 21,
+  "generated_at": "2026-10-24T13:35:42+08:00",
+  "count": 24,
   "items": [
     {
       "title": "Meta delays new business terms after publisher pushback on AI scraping",
@@ -11,6 +11,15 @@
       "category": "资讯",
       "published": "2026-10-23T22:47:41+08:00",
       "time": "22:47"
+    },
+    {
+      "title": "Retro gaming is being overrun with AI",
+      "desc": "Retro video games are everywhere lately - especially in places where they aren't supposed to be…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-10-23T20:00:00+08:00",
+      "time": "20:00"
     },
     {
       "title": "宁德时代董秘被打？知情人士回应；怕担责先跑路？娃哈哈集团董事长许思敏离职；DeepSeek完成近1000亿元融资，宁德时代、腾讯参投",
@@ -65,6 +74,24 @@
       "category": "芯片",
       "published": "2026-10-23T16:32:00+08:00",
       "time": "16:32"
+    },
+    {
+      "title": "千问蒋冠军：构建Personal Agent技术框架，需要模型、记忆与生态协同推进",
+      "desc": "10月22日，在2026中国计算机大会上，阿里巴巴千问事业部AI算法负责人蒋冠军分享了千问打造Personal Agent的技术实践。他认为，真正的Personal Agent阶段，应该带来增量价值的创造和个性化的主动服务，模型、记忆与生态是共同构建这一核心能力的三要素…",
+      "link": "https://www.leiphone.com/category/industrynews/DHR4Qc9YwHX7lin8.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-10-23T15:38:00+08:00",
+      "time": "15:38"
+    },
+    {
+      "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+      "desc": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
+      "link": "https://www.qbitai.com/2026/10/504901.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-10-23T15:35:51+08:00",
+      "time": "15:35"
     },
     {
       "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",

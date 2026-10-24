@@ -1,7 +1,7 @@
 {
   "date": "2026-10-22",
-  "generated_at": "2026-10-24T01:43:54+08:00",
-  "count": 34,
+  "generated_at": "2026-10-24T13:35:42+08:00",
+  "count": 36,
   "items": [
     {
       "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
@@ -22,6 +22,15 @@
       "time": "23:25"
     },
     {
+      "title": "Spotify’s current AI bet is about being the music service that agents choose",
+      "desc": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+      "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-22T23:03:58+08:00",
+      "time": "23:03"
+    },
+    {
       "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
       "desc": "Nicky Quamina-Woo \" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268806_Bill_Gates_NQuamina-Woo_0007_a8…",
       "link": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
@@ -38,6 +47,15 @@
       "category": "模型",
       "published": "2026-10-22T21:53:26+08:00",
       "time": "21:53"
+    },
+    {
+      "title": "Nirva raises $33M for a pendant that only listens to you",
+      "desc": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
+      "link": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-10-22T21:26:52+08:00",
+      "time": "21:26"
     },
     {
       "title": "DeepSeek reportedly raises $15B days after US restrictions",
