@@ -1,8 +1,35 @@
 {
   "date": "2026-10-25",
-  "generated_at": "2026-10-25T13:50:38+08:00",
-  "count": 3,
+  "generated_at": "2026-10-26T00:57:44+08:00",
+  "count": 6,
   "items": [
+    {
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "desc": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-25T22:10:00+08:00",
+      "time": "22:10"
+    },
+    {
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "desc": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "source": "The Verge AI",
+      "category": "政策",
+      "published": "2026-10-25T21:25:32+08:00",
+      "time": "21:25"
+    },
+    {
+      "title": "Google’s AI search changes upended online publishing",
+      "desc": "This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth…",
+      "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-10-25T20:00:00+08:00",
+      "time": "20:00"
+    },
     {
       "title": "Blue Planet III is keeping the rough edges in the age of AI",
       "desc": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots…",

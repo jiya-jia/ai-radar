@@ -1,14 +1,15 @@
 {
-  "generated_at": "2026-10-25T13:50:38+08:00",
+  "generated_at": "2026-10-26T00:57:44+08:00",
   "total_dates": 48,
-  "total_items": 1117,
+  "total_items": 1120,
   "dates": [
     {
       "date": "2026-10-25",
-      "count": 3,
+      "count": 6,
       "sources": 2,
       "categories": {
-        "资讯": 2,
+        "资讯": 4,
+        "政策": 1,
         "产品": 1
       }
     },
