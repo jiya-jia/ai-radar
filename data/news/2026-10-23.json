@@ -1,7 +1,7 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-25T00:26:36+08:00",
-  "count": 24,
+  "generated_at": "2026-10-25T13:50:38+08:00",
+  "count": 26,
   "items": [
     {
       "title": "Meta delays new business terms after publisher pushback on AI scraping",
@@ -11,6 +11,15 @@
       "category": "资讯",
       "published": "2026-10-23T22:47:41+08:00",
       "time": "22:47"
+    },
+    {
+      "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
+      "desc": "10 月 23 日，以 “ AI is Profitable ” 为主题的 2026 TGC 科技增长大会于广州召开。 面向AI for Work数万亿美元级蓝海市场，全球领先的AI营销科技公司钛动科技，在会上正式发布行业首个 Pro Agent ——Navos Pro…",
+      "link": "https://www.leiphone.com/category/industrynews/sf7R7WgzGyvZwKLa.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-10-23T20:20:00+08:00",
+      "time": "20:20"
     },
     {
       "title": "Retro gaming is being overrun with AI",
@@ -101,6 +110,15 @@
       "category": "芯片",
       "published": "2026-10-23T12:00:00+08:00",
       "time": "12:00"
+    },
+    {
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "desc": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+      "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "source": "TechCrunch AI",
+      "category": "研究",
+      "published": "2026-10-23T08:45:37+08:00",
+      "time": "08:45"
     },
     {
       "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
