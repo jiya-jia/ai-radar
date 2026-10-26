@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T03:01:53+08:00",
+  "count": 6,
+  "items": [
+    {
+      "title": "Boston Dynamics employees want to block sale of robot dogs to ICE",
+      "desc": "Hundreds of employees at the US robotics firm Boston Dynamics signed a petition calling for executives to halt a sale of the company’s robot dogs to US…",
+      "link": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
+      "source": "Ars Technica",
+      "category": "机器人",
+      "published": "2026-10-27T02:50:41+08:00",
+      "time": "02:50"
+    },
+    {
+      "title": "Will the real Anthropic please stand up",
+      "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here…",
+      "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+      "source": "MIT Tech Review",
+      "category": "融资",
+      "published": "2026-10-27T01:45:43+08:00",
+      "time": "01:45"
+    },
+    {
+      "title": "The RealReal won’t let AI agents hog designer clothing",
+      "desc": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop…",
+      "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-10-27T01:30:55+08:00",
+      "time": "01:30"
+    },
+    {
+      "title": "Five weird details from Anthropic’s IPO filing",
+      "desc": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+      "source": "The Verge AI",
+      "category": "融资",
+      "published": "2026-10-27T01:10:23+08:00",
+      "time": "01:10"
+    },
+    {
+      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "desc": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook…",
+      "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-10-27T00:49:42+08:00",
+      "time": "00:49"
+    },
+    {
+      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "desc": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in…",
+      "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-10-27T00:46:36+08:00",
+      "time": "00:46"
+    }
+  ]
+}

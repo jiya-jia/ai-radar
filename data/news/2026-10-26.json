@@ -1,8 +1,98 @@
 {
   "date": "2026-10-26",
-  "generated_at": "2026-10-26T13:53:55+08:00",
-  "count": 3,
+  "generated_at": "2026-10-27T03:01:53+08:00",
+  "count": 13,
   "items": [
+    {
+      "title": "Microsoft offers buyouts to 60,000 employees",
+      "desc": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India…",
+      "link": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-10-26T23:58:27+08:00",
+      "time": "23:58"
+    },
+    {
+      "title": "Anthropic officially files for its public debut",
+      "desc": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed…",
+      "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-10-26T22:35:22+08:00",
+      "time": "22:35"
+    },
+    {
+      "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race.",
+      "desc": "Elon Musk’s “flying” Roadster jumped and flipped through the air this month in a stunt that went viral around the world…",
+      "link": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
+      "source": "Ars Technica",
+      "category": "模型",
+      "published": "2026-10-26T22:30:27+08:00",
+      "time": "22:30"
+    },
+    {
+      "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
+      "desc": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles , which details the recent and explosive transformation of the AI…",
+      "link": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
+      "source": "The Verge AI",
+      "category": "融资",
+      "published": "2026-10-26T22:00:00+08:00",
+      "time": "22:00"
+    },
+    {
+      "title": "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI",
+      "desc": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+      "source": "The Verge AI",
+      "category": "融资",
+      "published": "2026-10-26T21:32:49+08:00",
+      "time": "21:32"
+    },
+    {
+      "title": "Can AI help solve the COBOL code crisis?",
+      "desc": "A computer running COBOL 73, an antiquated computer programming language, awaits taxpayer information entries at the Internal Revenue Service in Austin, Tx.…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+      "source": "The Verge AI",
+      "category": "政策",
+      "published": "2026-10-26T21:15:00+08:00",
+      "time": "21:15"
+    },
+    {
+      "title": "腾讯绿泡泡短剧小程序月活过亿，10月首周周活环比增长44.1%",
+      "desc": "从知情人士处获悉，根据QuestMobile的数据，截至今年8月，腾讯绿泡泡短剧小程序月活跃用户规模已过亿级，达1.43亿。10月首周周活跃用户达8968万，较9月首周提升44.1%。自7月正式更名以来，该产品周活跃用户规模约三个月内逼近9000万…",
+      "link": "https://www.leiphone.com/category/industrynews/c4JSGcwzPuRrggOC.html",
+      "source": "雷峰网",
+      "category": "资讯",
+      "published": "2026-10-26T19:26:00+08:00",
+      "time": "19:26"
+    },
+    {
+      "title": "即梦推出 “短剧工作室”，打造更全能的 AI 内容创作平台",
+      "desc": "10月26日，即梦AI上线全新功能“短剧工作室”。作为即梦面向短剧创作场景推出的一站式AI工具，“短剧工作室”将剧本整理、角色与场景管理、分镜生成、视频制作及后期调整等全流程整合到同一个平台中，让创作者不必在多个平台间来回切换。 据悉，“短剧工作室”部分功能整合了小云雀短剧Agent的同款能力…",
+      "link": "https://www.leiphone.com/category/industrynews/x7VWhGaTdbidkwsa.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-10-26T18:25:00+08:00",
+      "time": "18:25"
+    },
+    {
+      "title": "The focus on AI safety disasters ignores everyday harms",
+      "desc": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide…",
+      "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+      "source": "MIT Tech Review",
+      "category": "政策",
+      "published": "2026-10-26T17:01:00+08:00",
+      "time": "17:01"
+    },
+    {
+      "title": "DeepSeek 开源看家算子的同一周，AI 超过了它",
+      "desc": "国产大模型的竞争，正从模型层延伸到算力层：再强的模型，最终都要基于算子在芯片上执行。同一个模型、同一块芯片，换一套更优的算子，有时会带来数倍的性能提升。算子的效率决定了同样的显卡能跑多快，也决定了每个 token 的价格。 DeepSeek 近日全面开源推理框架 DeepInfer…",
+      "link": "https://www.leiphone.com/category/industrynews/IaMw7vRrTCadlbCY.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-10-26T14:58:00+08:00",
+      "time": "14:58"
+    },
     {
       "title": "趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付",
       "desc": "近日，雷峰网获悉，高品质 AI Token 生产服务商趋境科技（Approaching.AI）完成 B 轮融资，本轮融资金额超13亿人民币；今年内已累计募得24亿人民币。多项核心经营指标在半年内实现超十倍速增长，持续获得产业和资本的高度认可…",
