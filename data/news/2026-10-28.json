@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T02:33:47+08:00",
+  "count": 6,
+  "items": [
+    {
+      "title": "VisionQuest is what happens when AI really goes rogue",
+      "desc": "In Marvel's VisionQuest , a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+      "source": "The Verge AI",
+      "category": "机器人",
+      "published": "2026-10-28T01:30:00+08:00",
+      "time": "01:30"
+    },
+    {
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "desc": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery",
+      "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-10-28T01:08:08+08:00",
+      "time": "01:08"
+    },
+    {
+      "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+      "desc": "Anthropic cofounder and CEO Dario Amodei. | Bloomberg via Getty Images Anthropic wants to have it both ways…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+      "source": "The Verge AI",
+      "category": "融资",
+      "published": "2026-10-28T00:51:22+08:00",
+      "time": "00:51"
+    },
+    {
+      "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+      "desc": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-10-28T00:14:18+08:00",
+      "time": "00:14"
+    },
+    {
+      "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+      "desc": "Last year, Google DeepMind sent gaming stocks tumbling with the reveal of its Genie 3 world model…",
+      "link": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
+      "source": "Ars Technica",
+      "category": "芯片",
+      "published": "2026-10-28T00:00:22+08:00",
+      "time": "00:00"
+    },
+    {
+      "title": "Google’s next Genie AI model generates more realistic experiences",
+      "desc": "Google announced today its Genie 4 world model for generating interactive experiences using AI…",
+      "link": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+      "source": "The Verge AI",
+      "category": "机器人",
+      "published": "2026-10-28T00:00:00+08:00",
+      "time": "00:00"
+    }
+  ]
+}

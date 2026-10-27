@@ -1,8 +1,71 @@
 {
   "date": "2026-10-27",
-  "generated_at": "2026-10-27T14:06:28+08:00",
-  "count": 14,
+  "generated_at": "2026-10-28T02:33:47+08:00",
+  "count": 21,
   "items": [
+    {
+      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "desc": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned…",
+      "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-10-27T22:59:09+08:00",
+      "time": "22:59"
+    },
+    {
+      "title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
+      "desc": "人形机器人全套图纸开源！从关节到算法，下载就能自己造。",
+      "link": "https://www.qbitai.com/2026/10/505865.html",
+      "source": "量子位",
+      "category": "机器人",
+      "published": "2026-10-27T20:57:51+08:00",
+      "time": "20:57"
+    },
+    {
+      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+      "desc": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers…",
+      "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+      "source": "MIT Tech Review",
+      "category": "机器人",
+      "published": "2026-10-27T19:19:18+08:00",
+      "time": "19:19"
+    },
+    {
+      "title": "长鑫拒绝苹果等海外订单，优先保障国内存储芯片需求；Anthropic公开上市申请，最快11月中旬上市；周畅被曝离职？接近字节人士回应",
+      "desc": "要闻提示 1.长鑫拒绝苹果等海外订单，优先保障国内存储芯片需求 2.Seedance 核心研发负责人周畅被曝离职？接近字节人士否认 3.李楠谈iPhone Duo屏幕开裂问题：本质是苹果和供应链生疏了 4.道歉也翻车？小鹏经理Etta道歉视频疑似用AI生成 5.奥迪中国四环标和字母标正式分家 6.会员使用K3.1…",
+      "link": "https://www.leiphone.com/category/zaobao/9LHYVcJC8iwgwnhk.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-10-27T17:34:00+08:00",
+      "time": "17:34"
+    },
+    {
+      "title": "GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力",
+      "desc": "同一天，OpenAI还甩出3项AI科学新发现",
+      "link": "https://www.qbitai.com/2026/10/505719.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-27T16:27:46+08:00",
+      "time": "16:27"
+    },
+    {
+      "title": "国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6",
+      "desc": "还是专业的模型做专业的事情",
+      "link": "https://www.qbitai.com/2026/10/505694.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-27T16:18:59+08:00",
+      "time": "16:18"
+    },
+    {
+      "title": "OCR 3.0 时代来了！文心 Unlimited OCR 2 开源发布，超长文档解析迎来“页数自由”",
+      "desc": "10月27日，百度发布并开源文心 Unlimited OCR 2，全球首次实现任意页数文档解析，将 OCR 的处理上限从数十页推向“无限”，并达到最先进水平（SOTA）。实测显示，该模型能够一次性解析《哈利·波特》全系列 7 部作品，累计超过 3600 页，在文档长度大幅增加的情况下，依然保持较高的精度和处理效率…",
+      "link": "https://www.leiphone.com/category/industrynews/2U4kLHAVeff62mJx.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-10-27T14:21:00+08:00",
+      "time": "14:21"
+    },
     {
       "title": "新华投控战略投资九识：赋能智能驾驶与物理AI，共筑智慧物流“中国路”",
       "desc": "10月23日，九识与新华社投资控股有限公司（新华投控）签署战略投资协议，达成深度战略合作。这是新华投控在智能驾驶和物理AI领域的首个产业直投项目。双方将在品牌塑造、智慧物流生态构建及海外拓展三方面强强联合…",
