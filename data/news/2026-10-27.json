@@ -1,8 +1,80 @@
 {
   "date": "2026-10-27",
-  "generated_at": "2026-10-27T03:01:53+08:00",
-  "count": 6,
+  "generated_at": "2026-10-27T14:06:28+08:00",
+  "count": 14,
   "items": [
+    {
+      "title": "新华投控战略投资九识：赋能智能驾驶与物理AI，共筑智慧物流“中国路”",
+      "desc": "10月23日，九识与新华社投资控股有限公司（新华投控）签署战略投资协议，达成深度战略合作。这是新华投控在智能驾驶和物理AI领域的首个产业直投项目。双方将在品牌塑造、智慧物流生态构建及海外拓展三方面强强联合…",
+      "link": "https://www.leiphone.com/category/industrynews/orc621EEenIn4Myu.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-10-27T10:05:00+08:00",
+      "time": "10:05"
+    },
+    {
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "desc": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+      "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-27T10:00:00+08:00",
+      "time": "10:00"
+    },
+    {
+      "title": "蚂蚁灵光2.0发布：从能聊会做，到记得住、盯得牢、办得了",
+      "desc": "机票订完后，AI 24小时盯价，发现降价及时提醒；翻看日常账单，AI识别可能闲置的续费订阅，帮你省钱；家长顾不上查看班级群，AI也能梳理老师通知、提取待办事项……这些过去需要用户自己发现、记住和安排的生活琐事，如今正开始由AI主动接手…",
+      "link": "https://www.leiphone.com/category/industrynews/IxG2F47VLIt3uTOW.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-10-27T09:55:00+08:00",
+      "time": "09:55"
+    },
+    {
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "desc": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training…",
+      "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "source": "TechCrunch AI",
+      "category": "研究",
+      "published": "2026-10-27T09:12:21+08:00",
+      "time": "09:12"
+    },
+    {
+      "title": "知名具身智能公司陷欠薪停工风波：员工称欠薪近800万元，CEO称联系不上实控人；iPhone Duo被曝屏幕亮线开裂！苹果客服回应：非硬件问题",
+      "desc": "要闻提示 1.知名具身智能公司陷欠薪停工风波：员工称欠薪近800万元，CEO称联系不上实控人 2.iPhone Duo被曝屏幕亮线开裂！苹果客服回应：非硬件问题 3.00后美女经理玩梗“老登”遭吐槽：小鹏总裁悬赏100万澄清 4.宇树机器人侧空翻表演甩断腿…",
+      "link": "https://www.leiphone.com/category/zaobao/owgP45BwczuhdF3j.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-10-27T08:20:00+08:00",
+      "time": "08:20"
+    },
+    {
+      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "desc": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-10-27T07:34:58+08:00",
+      "time": "07:34"
+    },
+    {
+      "title": "Anthropic is burning gas to feed the AI boom",
+      "desc": "As it prepares to go public , Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-10-27T05:45:31+08:00",
+      "time": "05:45"
+    },
+    {
+      "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+      "desc": "Today, Apple rolled out the 27.2 updates for its operating systems, including iOS, macOS, watchOS, tvOS, visionOS, and so on. Let's start with iOS 27.2…",
+      "link": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+      "source": "Ars Technica",
+      "category": "产品",
+      "published": "2026-10-27T04:04:16+08:00",
+      "time": "04:04"
+    },
     {
       "title": "Boston Dynamics employees want to block sale of robot dogs to ICE",
       "desc": "Hundreds of employees at the US robotics firm Boston Dynamics signed a petition calling for executives to halt a sale of the company’s robot dogs to US…",
