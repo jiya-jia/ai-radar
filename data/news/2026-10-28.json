@@ -1,8 +1,62 @@
 {
   "date": "2026-10-28",
-  "generated_at": "2026-10-28T14:44:48+08:00",
-  "count": 17,
+  "generated_at": "2026-10-29T02:39:47+08:00",
+  "count": 23,
   "items": [
+    {
+      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "desc": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step…",
+      "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-10-28T23:00:00+08:00",
+      "time": "23:00"
+    },
+    {
+      "title": "xAI is buying out homeowners who promise not to sue over data center noise",
+      "desc": "xAI’s Southaven, Mississippi data center. | Photo by Brandon Dill / AFP via Getty Images A subsidiary of Elon Musk's xAI is offering to buy up homes in a…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+      "source": "The Verge AI",
+      "category": "政策",
+      "published": "2026-10-28T22:44:00+08:00",
+      "time": "22:44"
+    },
+    {
+      "title": "Pairing industrial AI autonomy and human control",
+      "desc": "Pairing industrial AI autonomy and human control",
+      "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+      "source": "MIT Tech Review",
+      "category": "资讯",
+      "published": "2026-10-28T20:00:00+08:00",
+      "time": "20:00"
+    },
+    {
+      "title": "Meta quietly launched an ‘AI pet journal’ app",
+      "desc": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+      "source": "The Verge AI",
+      "category": "产品",
+      "published": "2026-10-28T19:27:30+08:00",
+      "time": "19:27"
+    },
+    {
+      "title": "字节辟谣\"群演数据喂大模型\"：严重失实！",
+      "desc": "近日，有网络传言称\"横店与字节合作，将15万名群演的肖像和声音喂给字节大模型\"。字节豆包公关负责人刘星今日通过微博作出回应，表示该传言严重失实。 据介绍，此次引发讨论的项目为横店影视AI服务平台建设项目…",
+      "link": "https://www.leiphone.com/category/industrynews/kw1tPKZvQauDl4UJ.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-10-28T17:16:00+08:00",
+      "time": "17:16"
+    },
+    {
+      "title": "模态缺失、噪声干扰怎么办？天津大学张长青：给多模态融合加上「可信度量尺」| CNCC 2026",
+      "desc": "真正的挑战，是让模型保留有效信息、识别可靠证据，并适应新的任务。 作者丨 张 璐 编辑丨 马晓宁 在具身智能、自动驾驶和智慧医疗等场景中，模型需要处理的数据远不止图像、文本和语音。雷达、触觉、心电、医学影像及各类传感器数据，都可能成为预测和决策的依据…",
+      "link": "https://www.leiphone.com/category/private/L0riZpWS688dpXnN.html",
+      "source": "雷峰网",
+      "category": "机器人",
+      "published": "2026-10-28T15:58:00+08:00",
+      "time": "15:58"
+    },
     {
       "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
       "desc": "10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。",

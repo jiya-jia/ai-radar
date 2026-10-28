@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T02:39:47+08:00",
+  "count": 5,
+  "items": [
+    {
+      "title": "Google AI gets cagey when asked who won the 2020 elections",
+      "desc": "If you ask some prominent US politicians who won the 2020 presidential election, you might get some weasely answers that fail to directly acknowledge Joe…",
+      "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+      "source": "Ars Technica",
+      "category": "资讯",
+      "published": "2026-10-29T01:46:32+08:00",
+      "time": "01:46"
+    },
+    {
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "desc": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+      "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-10-29T01:00:00+08:00",
+      "time": "01:00"
+    },
+    {
+      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "desc": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+      "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-29T01:00:00+08:00",
+      "time": "01:00"
+    },
+    {
+      "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+      "desc": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number , email address, and physical addresses sourced…",
+      "link": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-10-29T01:00:00+08:00",
+      "time": "01:00"
+    },
+    {
+      "title": "Meta says it’ll probably delay its controversial new business terms again",
+      "desc": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training…",
+      "link": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-10-29T00:15:30+08:00",
+      "time": "00:15"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "date": "2026-10-27",
-  "generated_at": "2026-10-28T14:44:48+08:00",
-  "count": 21,
+  "generated_at": "2026-10-29T02:39:47+08:00",
+  "count": 26,
   "items": [
     {
       "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
@@ -11,6 +11,15 @@
       "category": "融资",
       "published": "2026-10-27T22:59:09+08:00",
       "time": "22:59"
+    },
+    {
+      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+      "desc": "The new standard, WebAI, is designed to work with a variety of AI models.",
+      "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-10-27T21:00:00+08:00",
+      "time": "21:00"
     },
     {
       "title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
@@ -29,6 +38,24 @@
       "category": "机器人",
       "published": "2026-10-27T19:19:18+08:00",
       "time": "19:19"
+    },
+    {
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "desc": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
+      "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-10-27T19:00:00+08:00",
+      "time": "19:00"
+    },
+    {
+      "title": "Muse之后，灵光2.0让Personal Agent接手中国式日常",
+      "desc": "机票和酒店订好，还是忍不住隔几天查查价格。降了，算算退改费用，看要不要重订；没降，过两天再看。花不了多少时间，却总得惦记着。 为了追剧开了会员，剧看完就没再打开，自动续费却一直没停。直到某天翻账单，才发现又扣了几个月的钱。 这些事务单次处理并不复杂，却一直需要反复关注…",
+      "link": "https://www.leiphone.com/category/industrynews/PubkEap5yOtdT59V.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-10-27T17:56:00+08:00",
+      "time": "17:56"
     },
     {
       "title": "长鑫拒绝苹果等海外订单，优先保障国内存储芯片需求；Anthropic公开上市申请，最快11月中旬上市；周畅被曝离职？接近字节人士回应",
@@ -56,6 +83,24 @@
       "category": "模型",
       "published": "2026-10-27T16:18:59+08:00",
       "time": "16:18"
+    },
+    {
+      "title": "GLM-5.5 要来了？唐杰最新论文，曝出智谱神秘模型",
+      "desc": "图像生成正确率 54%，文字问答仅 14.57%。 作者丨 郑佳美 编辑丨岑 峰 智谱内部的 GLM-Omni，先在一篇论文里露了面。 这篇研究由清华大学与智谱 AI 联合完成，唐杰担任通讯作者。模型名称刚刚出现在论文中，社交平台上就有人把它与 GLM-5.5 联系起来…",
+      "link": "https://www.leiphone.com/category/ai/LjPPo6aqhHUrRMFg.html",
+      "source": "雷峰网",
+      "category": "研究",
+      "published": "2026-10-27T15:43:00+08:00",
+      "time": "15:43"
+    },
+    {
+      "title": "OXR强势开源！1.3B横扫全球三榜第一，速度快过Paddle、MinerU，RSI让它卷出新高度",
+      "desc": "开源一周，Github 拿下超 1000 star，X上关注度破百万，并登上 Today‘s news 推荐",
+      "link": "https://www.qbitai.com/2026/10/505635.html",
+      "source": "量子位",
+      "category": "产品",
+      "published": "2026-10-27T15:41:02+08:00",
+      "time": "15:41"
     },
     {
       "title": "OCR 3.0 时代来了！文心 Unlimited OCR 2 开源发布，超长文档解析迎来“页数自由”",
