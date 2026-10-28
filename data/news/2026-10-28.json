@@ -1,8 +1,107 @@
 {
   "date": "2026-10-28",
-  "generated_at": "2026-10-28T02:33:47+08:00",
-  "count": 6,
+  "generated_at": "2026-10-28T14:44:48+08:00",
+  "count": 17,
   "items": [
+    {
+      "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
+      "desc": "10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。",
+      "link": "https://www.qbitai.com/2026/10/505928.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-28T12:04:48+08:00",
+      "time": "12:04"
+    },
+    {
+      "title": "云鲸十年：技术承担繁琐，洁净回归日常",
+      "desc": "这十年，家庭清洁赛道的变化算不上轰轰烈烈，却足够扎实深刻。扫地机器人早已从少数人的新鲜尝鲜，走进千家万户，成为普通家庭里习以为常的家电。行业标准也一步步迭代，手动洗拖布成为过去，扫拖一体变成基础标配；基站自清洁、自动上下水、防缠绕、环境感知，串联起整个行业的升级脉络…",
+      "link": "https://www.leiphone.com/category/smarthome/NHOI9tpUsgkSX4BY.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-10-28T11:30:00+08:00",
+      "time": "11:30"
+    },
+    {
+      "title": "AI做中学 创未来｜智源SoulAgent持续拓展教育应用",
+      "desc": "10月19日至24日，北京智源人工智能研究院（以下简称“智源研究院”）连续走进中国人民大学附属中学，先后支持北京市“做中学”领航行动海淀区工作部署会暨科学与工程实践研讨会、“AI做中学，创未来——人工智能赋能创新人才培养研讨会”等活动，围绕SoulAgent在真实课堂、教研和学习场景中的应用开展实践与交流…",
+      "link": "https://www.leiphone.com/category/ai/TKr0YQ085uv1ME7X.html",
+      "source": "雷峰网",
+      "category": "研究",
+      "published": "2026-10-28T11:19:00+08:00",
+      "time": "11:19"
+    },
+    {
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "desc": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-10-28T09:15:28+08:00",
+      "time": "09:15"
+    },
+    {
+      "title": "微软向6万员工发出自愿离职邀请，补偿至少N+2；身家2800亿的梁文锋，被曝长期在北京租房；苹果否认iPhone Duo为赶产能放宽质检",
+      "desc": "要闻提示 1.加码AI精简人力！微软向 6 万员工发出自愿离职邀请，补偿至少N+2 2.DeepSeek大举扩充团队！梁文锋2800亿首登富豪榜前十，被曝长期在北京租房 3.iPhone Duo被曝为赶产能放宽质检！苹果客服否认 4.抖音回应中国互联网进入字节时间：极不严谨…",
+      "link": "https://www.leiphone.com/category/zaobao/SXb4aJpFWlpTjfkN.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-10-28T09:11:00+08:00",
+      "time": "09:11"
+    },
+    {
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "desc": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in…",
+      "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-10-28T07:34:27+08:00",
+      "time": "07:34"
+    },
+    {
+      "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+      "desc": "A Delaware proposal to let companies be operated by AI agents would help the firms' human owners evade legal responsibility for reckless and harmful actions…",
+      "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+      "source": "Ars Technica",
+      "category": "资讯",
+      "published": "2026-10-28T05:50:04+08:00",
+      "time": "05:50"
+    },
+    {
+      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "desc": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+      "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "source": "TechCrunch AI",
+      "category": "政策",
+      "published": "2026-10-28T05:44:34+08:00",
+      "time": "05:44"
+    },
+    {
+      "title": "Who’s really in charge at Anthropic after the IPO?",
+      "desc": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+      "link": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-10-28T05:38:28+08:00",
+      "time": "05:38"
+    },
+    {
+      "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+      "desc": "The Securities and Exchange Commission 's publication on Monday of Anthropic's S-1 form —ahead of a heavily anticipated initial public offering—has led to…",
+      "link": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+      "source": "Ars Technica",
+      "category": "融资",
+      "published": "2026-10-28T05:31:14+08:00",
+      "time": "05:31"
+    },
+    {
+      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "desc": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+      "source": "The Verge AI",
+      "category": "研究",
+      "published": "2026-10-28T04:48:58+08:00",
+      "time": "04:48"
+    },
     {
       "title": "VisionQuest is what happens when AI really goes rogue",
       "desc": "In Marvel's VisionQuest , a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other…",
