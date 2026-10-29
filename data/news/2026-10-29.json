@@ -1,8 +1,71 @@
 {
   "date": "2026-10-29",
-  "generated_at": "2026-10-29T14:52:05+08:00",
-  "count": 18,
+  "generated_at": "2026-10-30T02:48:05+08:00",
+  "count": 25,
   "items": [
+    {
+      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+      "desc": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
+      "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-10-29T22:35:26+08:00",
+      "time": "22:35"
+    },
+    {
+      "title": "别再盯着 800 亿美元亏损了，Anthropic 的 AI 造 AI 已推进到 26%！",
+      "desc": "AI 已接管 90% 代码编写，甚至为了完成任务开始“越狱”。 作者丨 郑佳美 编辑丨岑 峰 刚刚，Anthropic 在 IPO 招股书中披露了四起此前未公开的 Agent 安全事故…",
+      "link": "https://www.leiphone.com/category/ai/t2cIBqBZVfpYPhPg.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-10-29T22:23:00+08:00",
+      "time": "22:23"
+    },
+    {
+      "title": "DeepSeek 又一开源重器！深挖 DeepInfer 究竟藏着多少技术狠活？",
+      "desc": "单集群日处理约 155 万亿 Token，推理优化争夺毫秒。 作者丨 郑佳美 编辑丨岑 峰 昨天，DeepSeek 又在 GitHub 上开源了一个大项目，叫 DeepInfer…",
+      "link": "https://www.leiphone.com/category/ai/HecXToP0EHbPjPd0.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-10-29T22:14:00+08:00",
+      "time": "22:14"
+    },
+    {
+      "title": "Anthropic is asking Wall Street to believe in AGI",
+      "desc": "Today on Decoder , I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of…",
+      "link": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+      "source": "The Verge AI",
+      "category": "融资",
+      "published": "2026-10-29T22:00:00+08:00",
+      "time": "22:00"
+    },
+    {
+      "title": "Anthropic’s business plan: Build God or die trying",
+      "desc": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+      "source": "The Verge AI",
+      "category": "政策",
+      "published": "2026-10-29T21:30:00+08:00",
+      "time": "21:30"
+    },
+    {
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "desc": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a…",
+      "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "source": "MIT Tech Review",
+      "category": "融资",
+      "published": "2026-10-29T18:11:12+08:00",
+      "time": "18:11"
+    },
+    {
+      "title": "大语言模型“收入榜”出炉，阿里云以46.6%份额居首",
+      "desc": "10月29日，国际数据公司（IDC）最新发布的《中国AI软件市场半年度追踪，26H1》显示，2026年上半年，阿里云在中国大语言模型MaaS市场的份额为46.6%，智谱、火山引擎分别以10.6%、10.2%位列第二、第三。",
+      "link": "https://www.leiphone.com/category/industrynews/VsFzLhOgbV95UM6v.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-10-29T15:13:00+08:00",
+      "time": "15:13"
+    },
     {
       "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
       "desc": "10月29日，文远知行披露旗下子公司景烁科技首次融资进展",
