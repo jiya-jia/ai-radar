@@ -1,8 +1,125 @@
 {
   "date": "2026-10-29",
-  "generated_at": "2026-10-29T02:39:47+08:00",
-  "count": 5,
+  "generated_at": "2026-10-29T14:52:05+08:00",
+  "count": 18,
   "items": [
+    {
+      "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
+      "desc": "10月29日，文远知行披露旗下子公司景烁科技首次融资进展",
+      "link": "https://www.qbitai.com/2026/10/506281.html",
+      "source": "量子位",
+      "category": "融资",
+      "published": "2026-10-29T11:27:50+08:00",
+      "time": "11:27"
+    },
+    {
+      "title": "商场的黄金铺位，为什么换成了3D打印机？",
+      "desc": "在过去的十一假期，拓竹科技一口气开了两家商场品牌店，位于上海和北京，现在其线下渠道已覆盖国内100多座城市，销售触点突破400个。 在一二线城市顶级商圈的显眼位置，可能会看见一台台3D打印机和围着看的好奇消费者。如果假期到访，往往在开门前就已聚集起不少家长和小朋友，等着进店参观或报名体验课…",
+      "link": "https://www.leiphone.com/category/industrynews/QUCX94lmPkS6scqb.html",
+      "source": "雷峰网",
+      "category": "研究",
+      "published": "2026-10-29T11:23:00+08:00",
+      "time": "11:23"
+    },
+    {
+      "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
+      "desc": "用扩散模型怎么做做Agent？",
+      "link": "https://www.qbitai.com/2026/10/505934.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-29T10:18:28+08:00",
+      "time": "10:18"
+    },
+    {
+      "title": "抢跑双11开门红，这些品牌如何凭“好货与好策略”率先突围？",
+      "desc": "2026年抖音商城双11好物节开门红阶段已经打响，各行业品牌稳扎稳打、实现生意增长。在流量与销量的双重角逐中，打动消费者的不再局限于价格。将 优质的商品供给、丰富的内容生态、有竞争力的价格与稳定的履约服务相结合，同时善用智能工具提效， 是品牌在双11 实现增长的重要路径…",
+      "link": "https://www.leiphone.com/category/industrynews/7vvYw1kiPRTCA8w0.html",
+      "source": "雷峰网",
+      "category": "政策",
+      "published": "2026-10-29T10:13:00+08:00",
+      "time": "10:13"
+    },
+    {
+      "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
+      "desc": "能连肝数日修Bug，免疫提示词注入",
+      "link": "https://www.qbitai.com/2026/10/506227.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-29T08:03:58+08:00",
+      "time": "08:03"
+    },
+    {
+      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "desc": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "source": "The Verge AI",
+      "category": "产品",
+      "published": "2026-10-29T07:05:39+08:00",
+      "time": "07:05"
+    },
+    {
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "desc": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+      "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-29T05:48:37+08:00",
+      "time": "05:48"
+    },
+    {
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "desc": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30…",
+      "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-29T05:34:30+08:00",
+      "time": "05:34"
+    },
+    {
+      "title": "Creating AI value with enterprise context",
+      "desc": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational…",
+      "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "source": "MIT Tech Review",
+      "category": "研究",
+      "published": "2026-10-29T04:32:02+08:00",
+      "time": "04:32"
+    },
+    {
+      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "desc": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity…",
+      "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "source": "The Verge AI",
+      "category": "研究",
+      "published": "2026-10-29T04:03:00+08:00",
+      "time": "04:03"
+    },
+    {
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "desc": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+      "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-10-29T03:19:58+08:00",
+      "time": "03:19"
+    },
+    {
+      "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+      "desc": "It's almost like Google's got something to prove after taking a break from releasing new frontier AI models earlier this year…",
+      "link": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+      "source": "Ars Technica",
+      "category": "模型",
+      "published": "2026-10-29T02:47:27+08:00",
+      "time": "02:47"
+    },
+    {
+      "title": "Microsoft is ending Copilot support on smart TVs",
+      "desc": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending…",
+      "link": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-10-29T02:36:26+08:00",
+      "time": "02:36"
+    },
     {
       "title": "Google AI gets cagey when asked who won the 2020 elections",
       "desc": "If you ask some prominent US politicians who won the 2020 presidential election, you might get some weasely answers that fail to directly acknowledge Joe…",

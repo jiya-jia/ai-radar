@@ -1,7 +1,7 @@
 {
   "date": "2026-10-28",
-  "generated_at": "2026-10-29T02:39:47+08:00",
-  "count": 23,
+  "generated_at": "2026-10-29T14:52:05+08:00",
+  "count": 25,
   "items": [
     {
       "title": "Voice AI in vogue: Nvidia releases new open transcription model",
@@ -47,6 +47,24 @@
       "category": "模型",
       "published": "2026-10-28T17:16:00+08:00",
       "time": "17:16"
+    },
+    {
+      "title": "19个项目18个成功，6个GPCR靶点全获命中！国产AI制药再破技术天花板",
+      "desc": "精度达AlphaFold 3两倍，分子之心拿下高难度抗体设计",
+      "link": "https://www.qbitai.com/2026/10/506055.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-10-28T16:59:00+08:00",
+      "time": "16:59"
+    },
+    {
+      "title": "0营收估值200亿美元，具身版OpenAI又融10亿美元",
+      "desc": "斯坦福伯克利宗师组团，贝索斯红杉抢着送钱",
+      "link": "https://www.qbitai.com/2026/10/506042.html",
+      "source": "量子位",
+      "category": "融资",
+      "published": "2026-10-28T16:55:26+08:00",
+      "time": "16:55"
     },
     {
       "title": "模态缺失、噪声干扰怎么办？天津大学张长青：给多模态融合加上「可信度量尺」| CNCC 2026",
