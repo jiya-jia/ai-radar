@@ -1,8 +1,71 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-10-30T14:55:42+08:00",
-  "count": 18,
+  "generated_at": "2026-10-31T02:25:17+08:00",
+  "count": 25,
   "items": [
+    {
+      "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+      "desc": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\"…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+      "source": "The Verge AI",
+      "category": "政策",
+      "published": "2026-10-30T22:58:06+08:00",
+      "time": "22:58"
+    },
+    {
+      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+      "desc": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "source": "The Verge AI",
+      "category": "研究",
+      "published": "2026-10-30T21:01:14+08:00",
+      "time": "21:01"
+    },
+    {
+      "title": "沙钢接入千问办公，已将Agent落地核心业务场景",
+      "desc": "近日，江苏沙钢钢铁有限公司（以下简称“沙钢”）正式接入千问办公，已将Agent落地到电炉冶炼复盘、变压器状态评估、财务经营分析等业务场景，让分散的关键数据更快进入生产工作流，部分核心业务场景提效可达数百倍。 沙钢是全国最大的电炉钢生产基地，产品应用于港珠澳大桥、“西气东输”等国家重大工程，远销100多个国家和地区…",
+      "link": "https://www.leiphone.com/category/industrynews/mxLii4LkfIz829iH.html",
+      "source": "雷峰网",
+      "category": "资讯",
+      "published": "2026-10-30T18:38:00+08:00",
+      "time": "18:38"
+    },
+    {
+      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+      "desc": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models…",
+      "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "source": "The Verge AI",
+      "category": "政策",
+      "published": "2026-10-30T17:00:00+08:00",
+      "time": "17:00"
+    },
+    {
+      "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
+      "desc": "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重",
+      "link": "https://www.qbitai.com/2026/10/506743.html",
+      "source": "量子位",
+      "category": "芯片",
+      "published": "2026-10-30T15:31:11+08:00",
+      "time": "15:31"
+    },
+    {
+      "title": "伯牙智能刘欣：GPT-6 之后，轮到硬件拖机器人后腿了 | 物理AI 50人",
+      "desc": "灵巧手去年出货近 2 万只，大部分在「吃灰」 作者丨 向 欣 编辑丨 高景辉 去年，国内灵巧手公开可查的出货量是约两万只。在伯牙智能创始人刘欣的观察里，其中大部分灵巧手的归宿是跟着人形机器人表演几场，然后被搁在角落里， 「表演完就吃灰」…",
+      "link": "https://www.leiphone.com/category/robot/EnKFLg1RRmN9SaHJ.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-10-30T15:13:00+08:00",
+      "time": "15:13"
+    },
+    {
+      "title": "MiniMax H3 开源生态持续拓展，英伟达团队开源 4K 视频增强方案",
+      "desc": "近日，由英伟达与麻省理工学院研究人员组成的 Efficient-Large-Model 团队，在 Hugging Face 发布视频增强项目 Open-H3-Regenerate-2K 的模型权重，配套推理代码已在 NVlabs/Sana 仓库开放…",
+      "link": "https://www.leiphone.com/category/industrynews/eJ3swacisd2iTByo.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-10-30T15:06:00+08:00",
+      "time": "15:06"
+    },
     {
       "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
       "desc": "解析一切",

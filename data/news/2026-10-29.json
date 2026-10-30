@@ -1,8 +1,17 @@
 {
   "date": "2026-10-29",
-  "generated_at": "2026-10-30T14:55:42+08:00",
-  "count": 28,
+  "generated_at": "2026-10-31T02:25:17+08:00",
+  "count": 31,
   "items": [
+    {
+      "title": "The NYT Cooking app is testing AI recipe modifications",
+      "desc": "The AI tool provides recommendations and adjusts the recipe accordingly. | Image: The New York Times The New York Times is testing a new AI feature for its…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-10-29T22:39:37+08:00",
+      "time": "22:39"
+    },
     {
       "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
       "desc": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
@@ -49,6 +58,15 @@
       "time": "21:30"
     },
     {
+      "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+      "desc": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
+      "link": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-29T21:00:00+08:00",
+      "time": "21:00"
+    },
+    {
       "title": "We urgently need to monitor AI agents’ actions in real time",
       "desc": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a…",
       "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
@@ -74,6 +92,15 @@
       "category": "模型",
       "published": "2026-10-29T17:52:05+08:00",
       "time": "17:52"
+    },
+    {
+      "title": "AI安全是AI规模化应用“加速器”",
+      "desc": "AI安全不是AI发展的“刹车片”，而是AI高质量发展的“加速器”。",
+      "link": "https://www.qbitai.com/2026/10/506544.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-10-29T16:50:14+08:00",
+      "time": "16:50"
     },
     {
       "title": "大语言模型“收入榜”出炉，阿里云以46.6%份额居首",

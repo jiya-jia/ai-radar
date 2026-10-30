@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T02:25:17+08:00",
+  "count": 6,
+  "items": [
+    {
+      "title": "Google’s satellite AI server transmits its first response to Earth",
+      "desc": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the…",
+      "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-10-31T02:21:38+08:00",
+      "time": "02:21"
+    },
+    {
+      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "desc": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+      "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-31T01:47:12+08:00",
+      "time": "01:47"
+    },
+    {
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "desc": "In an announcement released Thursday, Fujifilm said it will invest roughly 10 billion yen (about $63 million) to increase its production capacity fivefold for…",
+      "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "source": "Ars Technica",
+      "category": "产品",
+      "published": "2026-10-31T01:38:19+08:00",
+      "time": "01:38"
+    },
+    {
+      "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+      "desc": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-10-31T01:38:04+08:00",
+      "time": "01:38"
+    },
+    {
+      "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+      "desc": "The US has charged five individuals as part of the first broad federal crackdown on “ghost students”—fraudsters who steal the identities of hundreds of…",
+      "link": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+      "source": "Ars Technica",
+      "category": "产品",
+      "published": "2026-10-31T00:53:49+08:00",
+      "time": "00:53"
+    },
+    {
+      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+      "desc": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar…",
+      "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-10-31T00:03:45+08:00",
+      "time": "00:03"
+    }
+  ]
+}
