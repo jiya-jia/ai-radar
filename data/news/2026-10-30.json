@@ -1,8 +1,107 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-10-30T02:48:05+08:00",
-  "count": 7,
+  "generated_at": "2026-10-30T14:55:42+08:00",
+  "count": 18,
   "items": [
+    {
+      "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
+      "desc": "解析一切",
+      "link": "https://www.qbitai.com/2026/10/506686.html",
+      "source": "量子位",
+      "category": "产品",
+      "published": "2026-10-30T13:52:47+08:00",
+      "time": "13:52"
+    },
+    {
+      "title": "Claude新模型曝光：新Fable，新Opus…",
+      "desc": "Claude新模型曝光：新Fable，新Opus…",
+      "link": "https://www.qbitai.com/2026/10/506674.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-30T13:50:44+08:00",
+      "time": "13:50"
+    },
+    {
+      "title": "阿里用速卖通把双11带到韩国，还豪送4辆特斯拉！",
+      "desc": "被韩国人实名羡慕的中国购物节，其实已经抵达韩国！ 据韩媒报道，阿里旗下跨境平台速卖通AliExpress宣布11月1日至18日开启海外双11，所有类别商品最高可享80%的折扣，还拿出4辆特斯拉Model Y做抽奖…",
+      "link": "https://www.leiphone.com/category/industrynews/pTCNnUnvfLfUtt27.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-10-30T12:20:00+08:00",
+      "time": "12:20"
+    },
+    {
+      "title": "阿里云发布新版飞天企业版，支持海外客户升级企业级AI能力",
+      "desc": "10月29日消息，阿里云在国际云栖大会上发布面向国际市场的新版飞天企业版（Apsara Stack International v3.18），提供可信AI云解决方案，支持全球政府、运营商及大型企业升级AI基础设施。目前，飞天企业版已在全球20余个国家和地区实现本地化部署…",
+      "link": "https://www.leiphone.com/category/industrynews/52mMRkhA2aqlY1FL.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-10-30T12:18:00+08:00",
+      "time": "12:18"
+    },
+    {
+      "title": "卓驭发布“磐行”智驾解决方案：切入商用车市场，一年可回本",
+      "desc": "10月29日晚，智能驾驶方案商卓驭科技正式发布商用车智能辅助驾驶解决方案“卓驭磐行”，并公布了商用重卡、客车、轻卡、ROBOVAN等业务进展。 此次卓驭磐行分为PDS 4和PDS 5两个版本。 PDS 4对应高悟性大模型4.0及以上版本，主要支持高速NOA，面向重卡干线物流。目前这一版本已经实现量产…",
+      "link": "https://www.leiphone.com/category/transportation/rwe6sLir6r3aYzeu.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-10-30T12:04:00+08:00",
+      "time": "12:04"
+    },
+    {
+      "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
+      "desc": "让机器人成为彼此的“老师”",
+      "link": "https://www.qbitai.com/2026/10/506662.html",
+      "source": "量子位",
+      "category": "机器人",
+      "published": "2026-10-30T11:48:04+08:00",
+      "time": "11:48"
+    },
+    {
+      "title": "瞬恒智能自研灵巧操作人形机器人SynDexy C1首次实现小批量交付",
+      "desc": "今日，瞬恒智能（SynDexy）宣布，自研灵巧操作人形机器人SynDexy C1完成首次小批量交付，产品正式从研发验证迈向工程化交付与场景应用新阶段，进一步推动具身智能在工业制造领域的商业化落地。 本次交付的机器人将应用于消费电子、电子元器件领域客户工厂的精密装配工序…",
+      "link": "https://www.leiphone.com/category/industrynews/CLO1sIKJzw59DmrI.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-10-30T10:43:00+08:00",
+      "time": "10:43"
+    },
+    {
+      "title": "买车送终身AI？智己LS8纯电版25万起！全系线控底盘宁德时代标配",
+      "desc": "Momenta世界模型上车",
+      "link": "https://www.qbitai.com/2026/10/506569.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-30T08:19:06+08:00",
+      "time": "08:19"
+    },
+    {
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "desc": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+      "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-30T03:56:19+08:00",
+      "time": "03:56"
+    },
+    {
+      "title": "Meta quietly launches an AI fashion app called Style Sketch",
+      "desc": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a…",
+      "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+      "source": "TechCrunch AI",
+      "category": "产品",
+      "published": "2026-10-30T03:14:36+08:00",
+      "time": "03:14"
+    },
+    {
+      "title": "Trump declares robot imports a national security threat",
+      "desc": "President Donald Trump has declared the imports of foreign-made factory robots to be a national security threat—ordering new US negotiations with trading…",
+      "link": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+      "source": "Ars Technica",
+      "category": "机器人",
+      "published": "2026-10-30T03:07:53+08:00",
+      "time": "03:07"
+    },
     {
       "title": "You can generate and edit Google Docs files directly in Gemini chats now",
       "desc": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini…",
