@@ -1,7 +1,7 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-10-31T14:49:58+08:00",
-  "count": 29,
+  "generated_at": "2026-11-01T01:30:54+08:00",
+  "count": 32,
   "items": [
     {
       "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
@@ -47,6 +47,33 @@
       "category": "资讯",
       "published": "2026-10-30T21:00:00+08:00",
       "time": "21:00"
+    },
+    {
+      "title": "榜一，拿来吧你！智元这波双模型杀穿多榜榜单",
+      "desc": "xs，还要给机器人打绩效",
+      "link": "https://www.qbitai.com/2026/10/506819.html",
+      "source": "量子位",
+      "category": "机器人",
+      "published": "2026-10-30T20:58:31+08:00",
+      "time": "20:58"
+    },
+    {
+      "title": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！",
+      "desc": "之前还连登昇腾三榜第一",
+      "link": "https://www.qbitai.com/2026/10/506785.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-30T19:05:06+08:00",
+      "time": "19:05"
+    },
+    {
+      "title": "Maine’s data center revolt will decide who controls the Senate",
+      "desc": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-10-30T19:00:00+08:00",
+      "time": "19:00"
     },
     {
       "title": "沙钢接入千问办公，已将Agent落地核心业务场景",

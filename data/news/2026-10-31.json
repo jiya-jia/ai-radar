@@ -1,8 +1,44 @@
 {
   "date": "2026-10-31",
-  "generated_at": "2026-10-31T14:49:58+08:00",
-  "count": 19,
+  "generated_at": "2026-11-01T01:30:54+08:00",
+  "count": 23,
   "items": [
+    {
+      "title": "从“懂回答”到“能执行”：Zoho如何让AI走进企业业务",
+      "desc": "10月20日，在以“助力中国企业全球化成长”为主题的Zoho北京媒体沟通会上， Zoho不仅向外界展示了其最新的企业级AI全景战略，更试图回答一个当前行业的普遍痛点：当AI大模型喧嚣了两年之后…",
+      "link": "https://www.leiphone.com/category/industrynews/00recUTGoMQ1JRh4.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-10-31T17:55:00+08:00",
+      "time": "17:55"
+    },
+    {
+      "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
+      "desc": "苹果“牛奶倒河里”式操作翻红",
+      "link": "https://www.qbitai.com/2026/10/506884.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-10-31T13:17:50+08:00",
+      "time": "13:17"
+    },
+    {
+      "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
+      "desc": "AI算力利用“九九成”",
+      "link": "https://www.qbitai.com/2026/10/506866.html",
+      "source": "量子位",
+      "category": "芯片",
+      "published": "2026-10-31T13:11:19+08:00",
+      "time": "13:11"
+    },
+    {
+      "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
+      "desc": "200美元Ultra用户先用",
+      "link": "https://www.qbitai.com/2026/10/506855.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-31T13:05:29+08:00",
+      "time": "13:05"
+    },
     {
       "title": "智能驾驶进入物理AI时代？7位行业嘉宾给出最新判断",
       "desc": "10月26日，第八届智能驾驶大会暨2026环秀湖物理AI产业发展推介会在苏州相城举行。 上一届，车路云一体化、智能驾驶出海和无人驾驶商业化是讨论重点，而到了今年，大会的讨论边界进一步从智能驾驶向物理AI延伸…",
