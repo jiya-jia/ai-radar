@@ -1,8 +1,125 @@
 {
   "date": "2026-10-31",
-  "generated_at": "2026-10-31T02:25:17+08:00",
-  "count": 6,
+  "generated_at": "2026-10-31T14:49:58+08:00",
+  "count": 19,
   "items": [
+    {
+      "title": "智能驾驶进入物理AI时代？7位行业嘉宾给出最新判断",
+      "desc": "10月26日，第八届智能驾驶大会暨2026环秀湖物理AI产业发展推介会在苏州相城举行。 上一届，车路云一体化、智能驾驶出海和无人驾驶商业化是讨论重点，而到了今年，大会的讨论边界进一步从智能驾驶向物理AI延伸…",
+      "link": "https://www.leiphone.com/category/transportation/pqEtZnYepE5D1PzD.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-10-31T11:31:00+08:00",
+      "time": "11:31"
+    },
+    {
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "desc": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+      "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-10-31T09:20:05+08:00",
+      "time": "09:20"
+    },
+    {
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "desc": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down…",
+      "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-31T06:56:13+08:00",
+      "time": "06:56"
+    },
+    {
+      "title": "阿里巴巴与 Apple 达成合作，将千问集成至 Apple 智能",
+      "desc": "10月31日，阿里巴巴与Apple达成合作，将千问集成至 Apple 智能，中国用户可以在Siri、写作工具及视觉智能中，直接调用千问的文本与图像理解、内容生成等能力。这些功能将于11月4日起随最新的iOS 开发者 Beta 版开放测试，并将于12月iOS 27.3正式发布时面向中国用户推出…",
+      "link": "https://www.leiphone.com/category/industrynews/es0ZV9LsDEsG7QLE.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-10-31T06:52:00+08:00",
+      "time": "06:52"
+    },
+    {
+      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "desc": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website , as reported by MacRumors…",
+      "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "source": "The Verge AI",
+      "category": "产品",
+      "published": "2026-10-31T06:32:53+08:00",
+      "time": "06:32"
+    },
+    {
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "desc": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to…",
+      "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-10-31T05:52:03+08:00",
+      "time": "05:52"
+    },
+    {
+      "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+      "desc": "Boom Supersonic CEO Blake Scholl recently declared “it’s time for a renaissance in energy and in supersonic flight” as the supersonic airliner company unveiled…",
+      "link": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
+      "source": "Ars Technica",
+      "category": "资讯",
+      "published": "2026-10-31T05:41:54+08:00",
+      "time": "05:41"
+    },
+    {
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "desc": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+      "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-31T05:26:59+08:00",
+      "time": "05:26"
+    },
+    {
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "desc": "An official extension for Anthropic’s Claude model was backdoored and threatened as many as 5,000 developers' machines, multiple sources reported Friday…",
+      "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "source": "Ars Technica",
+      "category": "研究",
+      "published": "2026-10-31T05:09:54+08:00",
+      "time": "05:09"
+    },
+    {
+      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "desc": "Asked about supply chain shortages, like the ongoing RAM shortage , OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-10-31T04:48:43+08:00",
+      "time": "04:48"
+    },
+    {
+      "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+      "desc": "On August 9, 2026, Dartmouth College provost Santiago Schnell wrote a Washington Post op-ed called \"Universities are fighting AI cheating…",
+      "link": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+      "source": "Ars Technica",
+      "category": "模型",
+      "published": "2026-10-31T04:40:13+08:00",
+      "time": "04:40"
+    },
+    {
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "desc": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by…",
+      "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "source": "The Verge AI",
+      "category": "机器人",
+      "published": "2026-10-31T04:26:10+08:00",
+      "time": "04:26"
+    },
+    {
+      "title": "Basically no one is using AI agents for their DoorDash orders",
+      "desc": "As AI tools and agents have continued their march across all aspects of digital life, many companies are trying to use LLMs to improve the experience of…",
+      "link": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "source": "Ars Technica",
+      "category": "模型",
+      "published": "2026-10-31T03:30:52+08:00",
+      "time": "03:30"
+    },
     {
       "title": "Google’s satellite AI server transmits its first response to Earth",
       "desc": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the…",

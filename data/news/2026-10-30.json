@@ -1,7 +1,7 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-10-31T02:25:17+08:00",
-  "count": 25,
+  "generated_at": "2026-10-31T14:49:58+08:00",
+  "count": 29,
   "items": [
     {
       "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
@@ -13,6 +13,24 @@
       "time": "22:58"
     },
     {
+      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "desc": "DoorDash said that it is open to working with third-party agent makers.",
+      "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-30T21:54:25+08:00",
+      "time": "21:54"
+    },
+    {
+      "title": "Silicon Valley wants you to invest in miracles",
+      "desc": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+      "source": "The Verge AI",
+      "category": "融资",
+      "published": "2026-10-30T21:11:05+08:00",
+      "time": "21:11"
+    },
+    {
       "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
       "desc": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers…",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
@@ -22,6 +40,15 @@
       "time": "21:01"
     },
     {
+      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "desc": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
+      "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-30T21:00:00+08:00",
+      "time": "21:00"
+    },
+    {
       "title": "沙钢接入千问办公，已将Agent落地核心业务场景",
       "desc": "近日，江苏沙钢钢铁有限公司（以下简称“沙钢”）正式接入千问办公，已将Agent落地到电炉冶炼复盘、变压器状态评估、财务经营分析等业务场景，让分散的关键数据更快进入生产工作流，部分核心业务场景提效可达数百倍。 沙钢是全国最大的电炉钢生产基地，产品应用于港珠澳大桥、“西气东输”等国家重大工程，远销100多个国家和地区…",
       "link": "https://www.leiphone.com/category/industrynews/mxLii4LkfIz829iH.html",
@@ -29,6 +56,15 @@
       "category": "资讯",
       "published": "2026-10-30T18:38:00+08:00",
       "time": "18:38"
+    },
+    {
+      "title": "天数智芯天垓300实测对标H200，国产GPU接下来拼什么？",
+      "desc": "在实测场景中达到H200的性能水平后，国产GPU的竞争，开始进一步转向系统效率、软件适配与实际交付。 本周的天数智芯媒体开放日上，最新一代天垓300与H200的实机对比，是最直观的性能展示。让GPU与专用芯片组成异构系统，是对推理效率的新探索…",
+      "link": "https://www.leiphone.com/category/chips/748GRHfg9VPRbp7x.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-10-30T17:02:00+08:00",
+      "time": "17:02"
     },
     {
       "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
