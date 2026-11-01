@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T15:15:35+08:00",
+  "count": 4,
+  "items": [
+    {
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "desc": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-11-01T05:41:00+08:00",
+      "time": "05:41"
+    },
+    {
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "desc": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "source": "TechCrunch AI",
+      "category": "政策",
+      "published": "2026-11-01T05:17:03+08:00",
+      "time": "05:17"
+    },
+    {
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "desc": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-11-01T00:12:55+08:00",
+      "time": "00:12"
+    },
+    {
+      "title": "I built an AI Tamagotchi before Meta could",
+      "desc": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can…",
+      "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-11-01T00:05:00+08:00",
+      "time": "00:05"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-11-01T01:30:54+08:00",
-  "count": 32,
+  "generated_at": "2026-11-01T15:15:35+08:00",
+  "count": 35,
   "items": [
     {
       "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
@@ -76,6 +76,15 @@
       "time": "19:00"
     },
     {
+      "title": "“超能模式”重磅登场！联想天禧AI 4.5全端升级，三大场景打造“职场超能搭档”",
+      "desc": "10月30日，联想天禧AI 4.5迎来AIPC端正式发布。",
+      "link": "https://www.qbitai.com/2026/10/506779.html",
+      "source": "量子位",
+      "category": "产品",
+      "published": "2026-10-30T18:44:01+08:00",
+      "time": "18:44"
+    },
+    {
       "title": "沙钢接入千问办公，已将Agent落地核心业务场景",
       "desc": "近日，江苏沙钢钢铁有限公司（以下简称“沙钢”）正式接入千问办公，已将Agent落地到电炉冶炼复盘、变压器状态评估、财务经营分析等业务场景，让分散的关键数据更快进入生产工作流，部分核心业务场景提效可达数百倍。 沙钢是全国最大的电炉钢生产基地，产品应用于港珠澳大桥、“西气东输”等国家重大工程，远销100多个国家和地区…",
       "link": "https://www.leiphone.com/category/industrynews/mxLii4LkfIz829iH.html",
@@ -101,6 +110,15 @@
       "category": "政策",
       "published": "2026-10-30T17:00:00+08:00",
       "time": "17:00"
+    },
+    {
+      "title": "让触觉像视觉一样可规模化，哥大李昀烛团队 FlexiTac 的开源实践 | IROS 2026",
+      "desc": "FlexiTac压阻式传感器可兼顾柔性、低成本与一致性。 作者丨 向欣 编辑丨岑峰 机器人的视觉能力正快速增强，但 触觉仍然是具身智能系统中的薄弱环节 。尤其是在精细操作场景中，当 物体被遮挡、透明、易碎，或需要精确判断接触力与手内姿态 时，仅靠视觉往往难以确认机器人是否真正抓稳了物体、是否发生了滑移…",
+      "link": "https://www.leiphone.com/category/robot/sRmmVes4DwBoIeRm.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-10-30T16:13:00+08:00",
+      "time": "16:13"
     },
     {
       "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
@@ -191,6 +209,15 @@
       "category": "芯片",
       "published": "2026-10-30T10:43:00+08:00",
       "time": "10:43"
+    },
+    {
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "desc": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+      "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-10-30T09:20:48+08:00",
+      "time": "09:20"
     },
     {
       "title": "买车送终身AI？智己LS8纯电版25万起！全系线控底盘宁德时代标配",
