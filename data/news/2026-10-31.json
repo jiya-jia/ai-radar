@@ -1,8 +1,17 @@
 {
   "date": "2026-10-31",
-  "generated_at": "2026-11-01T15:15:35+08:00",
-  "count": 23,
+  "generated_at": "2026-11-02T02:16:07+08:00",
+  "count": 25,
   "items": [
+    {
+      "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
+      "desc": "AI已经自己找到Bug并提交PR",
+      "link": "https://www.qbitai.com/2026/10/506904.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-10-31T21:49:44+08:00",
+      "time": "21:49"
+    },
     {
       "title": "从“懂回答”到“能执行”：Zoho如何让AI走进企业业务",
       "desc": "10月20日，在以“助力中国企业全球化成长”为主题的Zoho北京媒体沟通会上， Zoho不仅向外界展示了其最新的企业级AI全景战略，更试图回答一个当前行业的普遍痛点：当AI大模型喧嚣了两年之后…",
@@ -47,6 +56,15 @@
       "category": "芯片",
       "published": "2026-10-31T11:31:00+08:00",
       "time": "11:31"
+    },
+    {
+      "title": "商汤开源 SenseNova Loop-9B-Preview：探索以计算深度释放模型潜力",
+      "desc": "商汤开源日日新 SenseNova Loop-9B-Preview 。这是商汤面向下一代模型架构的一项前沿探索：它采用创新 Looped Transformer 架构，引入循环计算、扩展模型的有效计算深度，并探索更充分的信息交互机制，提升模型在复杂任务上的处理能力，在仅 9B 的有限参数规模下…",
+      "link": "https://www.leiphone.com/category/industrynews/f9tAHG0kPopK1Nnw.html",
+      "source": "雷峰网",
+      "category": "研究",
+      "published": "2026-10-31T10:51:00+08:00",
+      "time": "10:51"
     },
     {
       "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",

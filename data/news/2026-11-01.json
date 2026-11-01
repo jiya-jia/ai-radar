@@ -1,8 +1,71 @@
 {
   "date": "2026-11-01",
-  "generated_at": "2026-11-01T15:15:35+08:00",
-  "count": 4,
+  "generated_at": "2026-11-02T02:16:07+08:00",
+  "count": 11,
   "items": [
+    {
+      "title": "三年前布局，今年爆火丨西湖大学成立新中心",
+      "desc": "西湖世界模型研究中心成立",
+      "link": "https://www.qbitai.com/2026/11/507076.html",
+      "source": "量子位",
+      "category": "研究",
+      "published": "2026-11-01T21:28:10+08:00",
+      "time": "21:28"
+    },
+    {
+      "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
+      "desc": "Claude紧急叫停！暗改Harness禁止逆向游戏",
+      "link": "https://www.qbitai.com/2026/11/507038.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-11-01T21:09:55+08:00",
+      "time": "21:09"
+    },
+    {
+      "title": "Pika 基于 MiniMax H3 开源 H3 Flex，六步实现音视频联合生成",
+      "desc": "近日，Pika 发布 MiniMax H3 衍生模型 Pika H3 Flex，并开放适配器权重与推理代码。该模型通过六步去噪联合生成画面和声音，支持文本、首尾帧和多模态参考输入，供创作者进行镜头设计、参考生成和视频编辑…",
+      "link": "https://www.leiphone.com/category/industrynews/MK1z0js4sqcp1xca.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-11-01T17:46:00+08:00",
+      "time": "17:46"
+    },
+    {
+      "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
+      "desc": "让AI像牛顿一样思考",
+      "link": "https://www.qbitai.com/2026/11/507031.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-11-01T16:02:37+08:00",
+      "time": "16:02"
+    },
+    {
+      "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
+      "desc": "这事还是想得太简单了",
+      "link": "https://www.qbitai.com/2026/11/506990.html",
+      "source": "量子位",
+      "category": "机器人",
+      "published": "2026-11-01T15:50:57+08:00",
+      "time": "15:50"
+    },
+    {
+      "title": "吉利Q3营收近千亿，在英国跨过新手期",
+      "desc": "2025 年 11 月，从中国出发的 1000 辆 EX5 停靠在布里斯托港口，等待PDI 检测。这是英国进口车的法定动作：检查运输损伤、激活车机软件、补齐随车配件以及充电测试。然后装上板车，分拨发往英国的各大经销商…",
+      "link": "https://www.leiphone.com/category/transportation/rLaJDB8ySePtzPT2.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-01T14:36:00+08:00",
+      "time": "14:36"
+    },
+    {
+      "title": "Jev新成果，再次引爆开源",
+      "desc": "再次“性价比屠夫”",
+      "link": "https://www.qbitai.com/2026/11/506922.html",
+      "source": "量子位",
+      "category": "产品",
+      "published": "2026-11-01T12:18:37+08:00",
+      "time": "12:18"
+    },
     {
       "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
       "desc": "Apple's new CEO defended the company's current position in the AI landscape.",
