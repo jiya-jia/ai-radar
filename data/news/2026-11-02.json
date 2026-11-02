@@ -1,0 +1,52 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T15:30:25+08:00",
+  "count": 5,
+  "items": [
+    {
+      "title": "小米开源了个150元的AI小玩意，火到配件都涨价了",
+      "desc": "能指挥Agent干活，还能控制智能家居",
+      "link": "https://www.qbitai.com/2026/11/507107.html",
+      "source": "量子位",
+      "category": "产品",
+      "published": "2026-11-02T14:08:04+08:00",
+      "time": "14:08"
+    },
+    {
+      "title": "GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光",
+      "desc": "HuggingFace疑似泄露权重已被下5000次",
+      "link": "https://www.qbitai.com/2026/11/507082.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-11-02T12:28:53+08:00",
+      "time": "12:28"
+    },
+    {
+      "title": "2026 全球 AI 新云 NeoCloud：考验基本功的时候到了",
+      "desc": "10月19日，一张全球AI新云（NeoCloud）产业图谱引发行业关注。 CoreWeave、Nebius以GPU云服务为核心；Lambda、Together AI与九章云极 DataCanvas则在算力供给之上，跨入“训练・推理・Token工厂”交叉赛道；AI 工程与AIDC运营，则作为底层底座贯穿整条产业链…",
+      "link": "https://www.leiphone.com/category/industrynews/uZRzXBZy6pdl88Uf.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-02T09:54:00+08:00",
+      "time": "09:54"
+    },
+    {
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "desc": "Data centers are deeply unpopular. But what if we called them something else?",
+      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-11-02T05:55:23+08:00",
+      "time": "05:55"
+    },
+    {
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "desc": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-11-02T04:57:58+08:00",
+      "time": "04:57"
+    }
+  ]
+}

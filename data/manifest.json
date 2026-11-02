@@ -1,8 +1,19 @@
 {
-  "generated_at": "2026-11-02T02:16:07+08:00",
-  "total_dates": 55,
-  "total_items": 1292,
+  "generated_at": "2026-11-02T15:30:25+08:00",
+  "total_dates": 56,
+  "total_items": 1297,
   "dates": [
+    {
+      "date": "2026-11-02",
+      "count": 5,
+      "sources": 3,
+      "categories": {
+        "产品": 1,
+        "模型": 1,
+        "融资": 1,
+        "资讯": 2
+      }
+    },
     {
       "date": "2026-11-01",
       "count": 11,
