@@ -1,8 +1,107 @@
 {
   "date": "2026-11-02",
-  "generated_at": "2026-11-02T15:30:25+08:00",
-  "count": 5,
+  "generated_at": "2026-11-03T06:09:35+08:00",
+  "count": 17,
   "items": [
+    {
+      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "desc": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+      "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-11-02T23:00:00+08:00",
+      "time": "23:00"
+    },
+    {
+      "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
+      "desc": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
+      "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-11-02T21:57:53+08:00",
+      "time": "21:57"
+    },
+    {
+      "title": "顶级AI翻车的活儿，被这个新出的免费国产AI接住了！",
+      "desc": "商汤SenseNova 6.8 Flash",
+      "link": "https://www.qbitai.com/2026/11/507277.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-11-02T21:36:41+08:00",
+      "time": "21:36"
+    },
+    {
+      "title": "Stop counting tokens, start counting what ships",
+      "desc": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to…",
+      "link": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "source": "MIT Tech Review",
+      "category": "研究",
+      "published": "2026-11-02T21:10:32+08:00",
+      "time": "21:10"
+    },
+    {
+      "title": "90 后北大副教授董豪：启元机器人，正在勇闯具身终局",
+      "desc": "做具身，不能一上来什么都干，也不能什么都不干。 作者丨 齐铖湧 编辑丨岑 峰 董豪是具身行业里一个十足的非典型选手。 大多数人对他的印象，停在 29 岁便是北大博导的年轻学者身份，以及最近任职启元机器人首席科学家、带队攻坚家用具身智能的产业标签…",
+      "link": "https://www.leiphone.com/category/ai/1mfsMzxNwaTmqZ7e.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-02T18:34:00+08:00",
+      "time": "18:34"
+    },
+    {
+      "title": "破解智能体跨端协同办事难题，支付宝AHA方案获世界互联网大会“新耀”场景奖",
+      "desc": "11月2日，2026年世界互联网大会乌镇峰会开幕。支付宝AHA（Agent Hub Access）智能体多端互联方案获“新耀”场景奖。该奖项重点考察数智技术落地实效与复制推广价值，是峰会在产业应用侧的重要认可。 本批20个获奖方案覆盖金融、制造、城市治理、具身智能等多领域…",
+      "link": "https://www.leiphone.com/category/industrynews/oPrDWg9bNg1Dgy4a.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-11-02T17:41:00+08:00",
+      "time": "17:41"
+    },
+    {
+      "title": "The agentic web is here",
+      "desc": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision…",
+      "link": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "source": "MIT Tech Review",
+      "category": "芯片",
+      "published": "2026-11-02T17:35:19+08:00",
+      "time": "17:35"
+    },
+    {
+      "title": "何小鹏：如果你想证明自己的智驾强，那你就应该出国；奇瑞高管回应智界独立；DeepSeek最新融资细节曝光！vivo、美团等位列投资者名单",
+      "desc": "要闻提示 1.何小鹏：如果你想证明自己的智驾强，那你就应该出国 2.39岁宇树前高管出走创业，遭投资人嫌年龄大备注老登！融资如零下40度 3.奇瑞高管回应智界独立：要更像新势力，而非“大一号”传统车企 4.重磅！美团公告：两位80后晋升副总裁…",
+      "link": "https://www.leiphone.com/category/zaobao/hsSSzyalKJd6vnkf.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-02T16:30:00+08:00",
+      "time": "16:30"
+    },
+    {
+      "title": "OpenAI重写大模型法则，第一条：忠于人类！！",
+      "desc": "新版“机器人三定律”。",
+      "link": "https://www.qbitai.com/2026/11/507225.html",
+      "source": "量子位",
+      "category": "机器人",
+      "published": "2026-11-02T15:27:54+08:00",
+      "time": "15:27"
+    },
+    {
+      "title": "美团发布LongCat-2.5大模型，“国芯国模”实现新突破",
+      "desc": "11月2日，美团发布新一代大模型LongCat-2.5，这是一款面向长程智能体任务的原生多模态模型，总参数1.6万亿。LongCat-2.5延续了此前LongCat系列模型的研发方向，全程在国产算力上训练，是目前国产算力上完成的最大训练任务。",
+      "link": "https://www.leiphone.com/category/industrynews/mUPVr3RF0MHNmn3t.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-11-02T15:23:00+08:00",
+      "time": "15:23"
+    },
+    {
+      "title": "央视严选「中国AI创业十骏」：唯一AI制药公司是清华系",
+      "desc": "模型管线双驱动",
+      "link": "https://www.qbitai.com/2026/11/507150.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-11-02T14:28:07+08:00",
+      "time": "14:28"
+    },
     {
       "title": "小米开源了个150元的AI小玩意，火到配件都涨价了",
       "desc": "能指挥Agent干活，还能控制智能家居",
@@ -11,6 +110,15 @@
       "category": "产品",
       "published": "2026-11-02T14:08:04+08:00",
       "time": "14:08"
+    },
+    {
+      "title": "Agent在金融机构走出「试用期」后，价值账怎么算？",
+      "desc": "“去年我讲的内容有一半是云，今年基本上已经没有了，都在讲AI。” 10月28日，雷峰网在腾讯全球数字生态大会的一场金融行业群访中了解到，腾讯云副总裁胡利明用“天翻地覆”形容金融团队近一年的变化。销售团队去金融客户现场聊什么，往往最直接地反映客户正在关心什么：过去是云和基础设施，如今几乎全部转向了AI…",
+      "link": "https://www.leiphone.com/category/fintech/y2eDRanVtlSZl8w6.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-11-02T13:59:00+08:00",
+      "time": "13:59"
     },
     {
       "title": "GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光",

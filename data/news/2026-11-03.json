@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T06:09:35+08:00",
+  "count": 9,
+  "items": [
+    {
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "desc": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to…",
+      "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-11-03T03:19:17+08:00",
+      "time": "03:19"
+    },
+    {
+      "title": "Anthropic clamps down on Claude’s AI video game clones",
+      "desc": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-11-03T02:56:02+08:00",
+      "time": "02:56"
+    },
+    {
+      "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+      "desc": "Apple’s new CEO, John Ternus, is apparently pushing the tech company’s development of household robots—and the first to debut may be a home robot designed to…",
+      "link": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
+      "source": "Ars Technica",
+      "category": "机器人",
+      "published": "2026-11-03T02:32:21+08:00",
+      "time": "02:32"
+    },
+    {
+      "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
+      "desc": "Last week, Anthropic introduced a new system prompt designed to stop its Claude models from re-creating specific, existing video games…",
+      "link": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+      "source": "Ars Technica",
+      "category": "模型",
+      "published": "2026-11-03T02:05:31+08:00",
+      "time": "02:05"
+    },
+    {
+      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+      "desc": "In an announcement on Monday , OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-11-03T02:01:30+08:00",
+      "time": "02:01"
+    },
+    {
+      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "desc": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to…",
+      "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "source": "The Verge AI",
+      "category": "政策",
+      "published": "2026-11-03T01:51:19+08:00",
+      "time": "01:51"
+    },
+    {
+      "title": "Raising the quality of insights in agentic analytics",
+      "desc": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization…",
+      "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "source": "MIT Tech Review",
+      "category": "芯片",
+      "published": "2026-11-03T01:00:00+08:00",
+      "time": "01:00"
+    },
+    {
+      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+      "desc": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+      "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-11-03T00:30:00+08:00",
+      "time": "00:30"
+    },
+    {
+      "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+      "desc": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+      "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-11-03T00:23:21+08:00",
+      "time": "00:23"
+    }
+  ]
+}

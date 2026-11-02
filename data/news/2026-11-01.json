@@ -1,7 +1,7 @@
 {
   "date": "2026-11-01",
-  "generated_at": "2026-11-02T15:30:25+08:00",
-  "count": 11,
+  "generated_at": "2026-11-03T06:09:35+08:00",
+  "count": 12,
   "items": [
     {
       "title": "三年前布局，今年爆火丨西湖大学成立新中心",
@@ -65,6 +65,15 @@
       "category": "产品",
       "published": "2026-11-01T12:18:37+08:00",
       "time": "12:18"
+    },
+    {
+      "title": "Data centers are now a midterm issue, even in Brooklyn",
+      "desc": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party…",
+      "link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-11-01T10:22:10+08:00",
+      "time": "10:22"
     },
     {
       "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
