@@ -1,8 +1,62 @@
 {
   "date": "2026-11-03",
-  "generated_at": "2026-11-03T15:44:56+08:00",
-  "count": 18,
+  "generated_at": "2026-11-04T03:57:40+08:00",
+  "count": 25,
   "items": [
+    {
+      "title": "Apple restricts dating apps and AI companions to users 18 and up",
+      "desc": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
+      "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-11-03T23:38:27+08:00",
+      "time": "23:38"
+    },
+    {
+      "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
+      "desc": "The Stargate AI data center “compute campus” in Abilene, Texas. | Photo: Bloomberg via Getty Images People hate data centers…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+      "source": "The Verge AI",
+      "category": "产品",
+      "published": "2026-11-03T23:00:44+08:00",
+      "time": "23:00"
+    },
+    {
+      "title": "AI教AI开车！百度Apollo World世界模型叩开无人驾驶产业“AGI时刻”",
+      "desc": "“世界模型，重点不是渲染的画质是否好看，而是模拟器是否能忠实还原现实物理规律和行为的因果”。11月3日，在深圳举行的百度AI Day·Apollo专场上，百度Apollo首次披露面向物理AI的智能体驱动全模态世界模型Apollo World，并提出世界模型“2+3”判断标准…",
+      "link": "https://www.leiphone.com/category/industrynews/NVxn28w1vAG2qbFy.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-03T21:59:00+08:00",
+      "time": "21:59"
+    },
+    {
+      "title": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
+      "desc": "AI接管调度运营，仓库越干越聪明",
+      "link": "https://www.qbitai.com/2026/11/507507.html",
+      "source": "量子位",
+      "category": "机器人",
+      "published": "2026-11-03T21:57:11+08:00",
+      "time": "21:57"
+    },
+    {
+      "title": "模型谁都买得到，拉开差距的是AI生产力系统",
+      "desc": "AI的下一程是生产力系统之争",
+      "link": "https://www.qbitai.com/2026/11/507448.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-11-03T19:13:49+08:00",
+      "time": "19:13"
+    },
+    {
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "desc": "Rules over reasoning: Instead of trying to peer inside AI \"brains\" to ensure good behavior, a growing group of researchers wants to design incentive systems…",
+      "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "source": "MIT Tech Review",
+      "category": "芯片",
+      "published": "2026-11-03T18:43:41+08:00",
+      "time": "18:43"
+    },
     {
       "title": "纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri",
       "desc": "终于，有了一个可以触摸的起点",
@@ -11,6 +65,15 @@
       "category": "资讯",
       "published": "2026-11-03T14:55:30+08:00",
       "time": "14:55"
+    },
+    {
+      "title": "蚂蚁数科携智能体超级工厂亮相香港金融科技周，加速全球企业AGI升级",
+      "desc": "蚂蚁数科携「智能体超级工厂」亮相香港金融科技周，全新发布KYA方案 一座智能体工厂如何运转？从企业提出业务需求，到大模型提供智能能力，再到不同智能体被开发、部署，并安全地协同完成任务。这不仅是智能体规模化进入企业的技术路径，也正在成为企业AI发展的新课题…",
+      "link": "https://www.leiphone.com/category/industrynews/rDBfh9DpSlCgX0Ic.html",
+      "source": "雷峰网",
+      "category": "政策",
+      "published": "2026-11-03T14:35:00+08:00",
+      "time": "14:35"
     },
     {
       "title": "独家丨元环智能获数亿元融资：用「元模型」让 AI长出「直觉」",
