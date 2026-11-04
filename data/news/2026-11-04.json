@@ -1,8 +1,107 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-04T03:57:40+08:00",
-  "count": 7,
+  "generated_at": "2026-11-04T15:23:38+08:00",
+  "count": 18,
   "items": [
+    {
+      "title": "哪里电便宜，算力就往哪里跑？没那么简单",
+      "desc": "候鸟迁徙，是为了追逐适宜生存的气候。 一项AI计算任务的迁徙，则可能因为另一座数据中心拥有更充足、更便宜的电力，被送往数百甚至上千公里之外。 过去，算力的运行位置大多随着机房选址而确定。如今，电力供给的变化，开始成为计算任务选择落脚点的新理由。 “ 用电需求通常不能移动，但计算任务却可以迁移…",
+      "link": "https://www.leiphone.com/category/chips/pXuAy8TH7q2u0Q9T.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-11-04T11:56:00+08:00",
+      "time": "11:56"
+    },
+    {
+      "title": "当10万个智能体已在运行，安全防线到底在哪？｜CNCC 2026专家激辩智能体安全挑战",
+      "desc": "2026年，智能体从概念走向了生产系统。 蚂蚁集团3万多名员工背后，已有10万余个智能体在运行。华为内部同样部署了成千上万个智能体，覆盖客服、办公、运维、研发各条业务线。放眼更广的产业图景，个人助手、AI for Science、网络安全自动化攻防、企业级工作流编排，智能体正在逐步接管人类过去亲力亲为的工作…",
+      "link": "https://www.leiphone.com/category/ai/tT9FskgaSMm7y4Ao.html",
+      "source": "雷峰网",
+      "category": "机器人",
+      "published": "2026-11-04T11:22:00+08:00",
+      "time": "11:22"
+    },
+    {
+      "title": "追觅科技亮相2026世界互联网大会人工智能嘉年华，以AI技术创新赋能智慧生活",
+      "desc": "11月2日，2026年世界互联网大会乌镇峰会在浙江嘉兴乌镇正式启幕。本届峰会以“开源开放、共建共享”为主题，聚焦人工智能等前沿技术发展与产业应用。追觅携旗下T70 Ultra Station、T60 Steam等多款旗舰洗地机亮相“人工智能嘉年华”展区，集中展示智能清洁领域的技术创新成果…",
+      "link": "https://www.leiphone.com/category/industrynews/hRlEqJpWm8oawq9h.html",
+      "source": "雷峰网",
+      "category": "机器人",
+      "published": "2026-11-04T11:06:00+08:00",
+      "time": "11:06"
+    },
+    {
+      "title": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
+      "desc": "长视频记忆精度飙升，问答时延最高降97%",
+      "link": "https://www.qbitai.com/2026/11/507533.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-11-04T10:49:02+08:00",
+      "time": "10:49"
+    },
+    {
+      "title": "后摩智能低调完成数十亿元B轮融资，端侧大模型AI芯片进入规模化兑现期",
+      "desc": "仅今年9月，国内就有近十家端侧AI芯片企业宣布完成新一轮融资。资本的目光，正在从云端的算力集群，移向手机、电脑和机器人里的那颗芯片。 最新的一笔大额融资来自后摩智能。据知情人士透露，存算一体AI芯片企业后摩智能已于近期完成B轮融资，单笔融资金额高达数十亿元人民币，近一年内连续完成多轮融资…",
+      "link": "https://www.leiphone.com/category/industrynews/cyDQKpjtzDEPhrr8.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-04T10:21:00+08:00",
+      "time": "10:21"
+    },
+    {
+      "title": "The biggest modding site in PC gaming is taking a stance on AI",
+      "desc": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare…",
+      "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-11-04T08:42:10+08:00",
+      "time": "08:42"
+    },
+    {
+      "title": "Please stop asking me when the AI bubble will pop",
+      "desc": "Emmanuel Roman, chief executive officer of Pacific Investment Management Co. (Pimco), during the Global Financial Leaders' Investment Summit in Hong Kong…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-11-04T07:37:45+08:00",
+      "time": "07:37"
+    },
+    {
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "desc": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+      "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-11-04T06:41:03+08:00",
+      "time": "06:41"
+    },
+    {
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "desc": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+      "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-11-04T05:43:08+08:00",
+      "time": "05:43"
+    },
+    {
+      "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
+      "desc": "Russian tech companies are scrambling to harden and hide their data centers underground after Ukrainian drone strikes damaged facilities housing AI…",
+      "link": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+      "source": "Ars Technica",
+      "category": "政策",
+      "published": "2026-11-04T04:39:55+08:00",
+      "time": "04:39"
+    },
+    {
+      "title": "Apple starts giving Siri AI access to third-party apps",
+      "desc": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now…",
+      "link": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-11-04T04:16:17+08:00",
+      "time": "04:16"
+    },
     {
       "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
       "desc": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
