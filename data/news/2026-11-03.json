@@ -1,7 +1,7 @@
 {
   "date": "2026-11-03",
-  "generated_at": "2026-11-04T15:23:38+08:00",
-  "count": 29,
+  "generated_at": "2026-11-05T04:17:05+08:00",
+  "count": 32,
   "items": [
     {
       "title": "Midterm elections 2026: all the news",
@@ -85,6 +85,15 @@
       "time": "18:09"
     },
     {
+      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "desc": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+      "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-11-03T15:20:00+08:00",
+      "time": "15:20"
+    },
+    {
       "title": "纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri",
       "desc": "终于，有了一个可以触摸的起点",
       "link": "https://www.qbitai.com/2026/11/507419.html",
@@ -101,6 +110,15 @@
       "category": "政策",
       "published": "2026-11-03T14:35:00+08:00",
       "time": "14:35"
+    },
+    {
+      "title": "苹果被曝的新产品，中国央企8个月前已装进公共卫生间",
+      "desc": "TeleAI智慧看护助手",
+      "link": "https://www.qbitai.com/2026/11/507410.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-11-03T14:29:11+08:00",
+      "time": "14:29"
     },
     {
       "title": "独家丨元环智能获数亿元融资：用「元模型」让 AI长出「直觉」",
@@ -155,6 +173,15 @@
       "category": "模型",
       "published": "2026-11-03T09:57:30+08:00",
       "time": "09:57"
+    },
+    {
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "desc": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-11-03T09:49:52+08:00",
+      "time": "09:49"
     },
     {
       "title": "爱诗科技PixVerse 与 OpenAI 共同推出产品集成和创作者教育计划，高效打通 AI 创意全流程",

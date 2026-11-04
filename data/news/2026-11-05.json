@@ -1,0 +1,124 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T04:17:05+08:00",
+  "count": 13,
+  "items": [
+    {
+      "title": "Open source AI is booming. Hugging Face explains who profits.",
+      "desc": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more…",
+      "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-11-05T03:30:04+08:00",
+      "time": "03:30"
+    },
+    {
+      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+      "desc": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+      "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-11-05T03:29:52+08:00",
+      "time": "03:29"
+    },
+    {
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "desc": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts…",
+      "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "source": "MIT Tech Review",
+      "category": "政策",
+      "published": "2026-11-05T02:50:55+08:00",
+      "time": "02:50"
+    },
+    {
+      "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+      "desc": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more…",
+      "link": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-11-05T02:44:57+08:00",
+      "time": "02:44"
+    },
+    {
+      "title": "Nothing teases a screen-free AI device ahead of launch next month",
+      "desc": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+      "source": "The Verge AI",
+      "category": "产品",
+      "published": "2026-11-05T02:26:07+08:00",
+      "time": "02:26"
+    },
+    {
+      "title": "ChatGPT will now make you animated GIFs",
+      "desc": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-11-05T02:00:00+08:00",
+      "time": "02:00"
+    },
+    {
+      "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
+      "desc": "Also, can I just say this LED indicator light is way too small and unnoticeable? This is Optimizer , a weekly newsletter sent from Verge senior reviewer…",
+      "link": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-11-05T02:00:00+08:00",
+      "time": "02:00"
+    },
+    {
+      "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+      "desc": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
+      "link": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-11-05T00:51:35+08:00",
+      "time": "00:51"
+    },
+    {
+      "title": "独家 | 腾讯前高级研究员获数千万投资，锚定物理AI接触智能",
+      "desc": "力合资本、合肥创新投等机构投资，Lux 系列视触觉传感器已实现规模化交付。 作者丨 董子博 编辑丨 张贤 雷峰网·鲸犀独家获悉， 触觉智能企业“灵感机器人”新近完成数千万元天使轮融资 ，投资方包括力合资本、合 肥 创新投 等机 构，治臻咨询担任财务顾问…",
+      "link": "https://www.leiphone.com/category/industrynews/30nTa8g0yzQmZGys.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-05T00:38:00+08:00",
+      "time": "00:38"
+    },
+    {
+      "title": "独家丨预测引擎 Prophetlab 获数千万种子轮，常春藤资本等机构联合投资",
+      "desc": "用 AI 通用地预测世界，或正成为资本关注的下一个大模型创业方向。 作者丨董子博 编辑丨张贤 雷峰网·鲸犀独家获悉， AI 预测引擎公司 Prophetlab 已获数千万元天使轮融资 ，由常春藤资本等投资机构投资。 成立不到四个月，Prophetlab 的早期项目，是利用 AI 大模型预测世界杯的赛果…",
+      "link": "https://www.leiphone.com/category/industrynews/5gyZIVYyxDzi67wu.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-05T00:30:00+08:00",
+      "time": "00:30"
+    },
+    {
+      "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+      "desc": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
+      "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-11-05T00:17:22+08:00",
+      "time": "00:17"
+    },
+    {
+      "title": "百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年",
+      "desc": "连路人都有自己的想法",
+      "link": "https://www.qbitai.com/2026/11/507647.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-11-05T00:13:23+08:00",
+      "time": "00:13"
+    },
+    {
+      "title": "Data centers lost the midterms",
+      "desc": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and…",
+      "link": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-11-05T00:05:39+08:00",
+      "time": "00:05"
+    }
+  ]
+}

@@ -1,8 +1,71 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-04T15:23:38+08:00",
-  "count": 18,
+  "generated_at": "2026-11-05T04:17:05+08:00",
+  "count": 25,
   "items": [
+    {
+      "title": "Uber only fulfilled 4 rides from AI agents last quarter",
+      "desc": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber…",
+      "link": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-11-04T23:58:45+08:00",
+      "time": "23:58"
+    },
+    {
+      "title": "Sam Altman addresses RAM comments: People should ‘put as much as they want in their computers’",
+      "desc": "OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases. He changed his name on X to \"Ram Altman\" in response to another user's…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-11-04T22:46:01+08:00",
+      "time": "22:46"
+    },
+    {
+      "title": "Securing the agentic enterprise with data lineage",
+      "desc": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal…",
+      "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "source": "MIT Tech Review",
+      "category": "芯片",
+      "published": "2026-11-04T21:00:00+08:00",
+      "time": "21:00"
+    },
+    {
+      "title": "Google hasn’t figured out how to make AI pay like its search engine",
+      "desc": "Google Chief Business Officer Philipp Schindler. | Bloomberg via Getty Images Search queries are growing at their fastest rate in five years, Google parent…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-11-04T20:00:00+08:00",
+      "time": "20:00"
+    },
+    {
+      "title": "不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型",
+      "desc": "仅激活3B参数，十项基准全线提升！",
+      "link": "https://www.qbitai.com/2026/11/507586.html",
+      "source": "量子位",
+      "category": "机器人",
+      "published": "2026-11-04T18:08:38+08:00",
+      "time": "18:08"
+    },
+    {
+      "title": "虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上",
+      "desc": "11月4日，虎鲸文娱集团打造的行业首个AI影视制作与管理平台“鲸锐AI”正式上线。",
+      "link": "https://www.qbitai.com/2026/11/507567.html",
+      "source": "量子位",
+      "category": "产品",
+      "published": "2026-11-04T16:49:12+08:00",
+      "time": "16:49"
+    },
+    {
+      "title": "榜单第一，市值暴跌！Gemini 4 Carbon「速成」背后，谷歌一场豪赌",
+      "desc": "Gemini 4 Carbon 登顶，幻觉率抬升，谷歌疯狂发模型在急什么？ 作者丨 高允毅 编辑丨岑 峰 昨天，Google 发布世界模型 Genie 4，人们惊呼“太疯狂了”。今早，Google 又紧接着推出 Gemini 4 Carbon，直接刷榜\"重回全球第一\"…",
+      "link": "https://www.leiphone.com/category/yanxishe/7uvYEZBsCWcPvhw3.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-04T14:39:00+08:00",
+      "time": "14:39"
+    },
     {
       "title": "哪里电便宜，算力就往哪里跑？没那么简单",
       "desc": "候鸟迁徙，是为了追逐适宜生存的气候。 一项AI计算任务的迁徙，则可能因为另一座数据中心拥有更充足、更便宜的电力，被送往数百甚至上千公里之外。 过去，算力的运行位置大多随着机房选址而确定。如今，电力供给的变化，开始成为计算任务选择落脚点的新理由。 “ 用电需求通常不能移动，但计算任务却可以迁移…",
