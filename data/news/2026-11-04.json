@@ -1,7 +1,7 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-05T15:49:35+08:00",
-  "count": 27,
+  "generated_at": "2026-11-06T04:28:25+08:00",
+  "count": 30,
   "items": [
     {
       "title": "Uber only fulfilled 4 rides from AI agents last quarter",
@@ -49,6 +49,15 @@
       "time": "18:08"
     },
     {
+      "title": "虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上",
+      "desc": "11月4日，虎鲸文娱集团打造的行业首个AI影视制作与管理平台“鲸锐AI”正式上线。鲸锐AI平台聚焦AI视频制作过程精准可控、银幕级质感成片交付、成本可管理三大目标，集成了市面上50余个主流AI视频生成模型与10余个自研模型，无限画布支持千级节点、百人实时协同创作…",
+      "link": "https://www.leiphone.com/category/industrynews/vxZxNvbxdDFhYp55.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-11-04T17:57:00+08:00",
+      "time": "17:57"
+    },
+    {
       "title": "智能体身份注册与解析平台在乌镇发布，蚂蚁参与首批运行平台建设",
       "desc": "11月4日，2026年世界互联网大会乌镇峰会“智能体互信互联互操作全球合作创新——携手构建智能互联网论坛”在乌镇举行，智能体信任治理成为产业各方关注的焦点。产业界普遍认为，互联网正从信息互联、服务互联走向智能体互联，智能体开始感知、决策并代表用户行动…",
       "link": "https://www.leiphone.com/category/industrynews/KStlwPyruE6hJ107.html",
@@ -56,6 +65,15 @@
       "category": "产品",
       "published": "2026-11-04T17:44:00+08:00",
       "time": "17:44"
+    },
+    {
+      "title": "双十一购机观察：从参数回到场景，华为Mate 90系列重新定义旗舰体验",
+      "desc": "双十一大幕已开启，手机市场进入全年竞争最激烈的阶段，厂商密集上新、优惠层层叠加，消费者面对的困扰早已不是选择太少，而是选择太多。当“参数军备竞赛”的同质化愈演愈烈，真正能打动人心的，从来不是纸面上的一次性峰值，而是落到具体生活场景里的那份“用得顺手”…",
+      "link": "https://www.leiphone.com/category/industrynews/xPIqScmZequRUOUt.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-11-04T17:43:00+08:00",
+      "time": "17:43"
     },
     {
       "title": "360参与发起《智能体发展自律公约》，助力构建可信智能体生态",
@@ -74,6 +92,15 @@
       "category": "产品",
       "published": "2026-11-04T16:49:12+08:00",
       "time": "16:49"
+    },
+    {
+      "title": "0.016% 的 Astra 微创手术，治好了 Qwen 的 3 万 Token 死循环",
+      "desc": "当「读懂权重」和「改写权重」被同一个模型打通，「AI 改进 AI」就多了一条不经过梯度下降的短路通道，模型维护与模型能力放大之间的边界开始模糊。 作者丨 郑佳美 编辑丨岑 峰 一个模型做数学题，写了 3 万多个 Token，仍然在重复相似的推理过程，最后连答案也交不出来…",
+      "link": "https://www.leiphone.com/category/ai/0F072La1etrUN0Tr.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-11-04T16:32:00+08:00",
+      "time": "16:32"
     },
     {
       "title": "榜单第一，市值暴跌！Gemini 4 Carbon「速成」背后，谷歌一场豪赌",

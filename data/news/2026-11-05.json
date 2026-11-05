@@ -1,8 +1,89 @@
 {
   "date": "2026-11-05",
-  "generated_at": "2026-11-05T15:49:35+08:00",
-  "count": 24,
+  "generated_at": "2026-11-06T04:28:25+08:00",
+  "count": 33,
   "items": [
+    {
+      "title": "The hidden supply chain costs of the AI boom",
+      "desc": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where…",
+      "link": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-11-05T23:00:00+08:00",
+      "time": "23:00"
+    },
+    {
+      "title": "You can post AI music straight to SoundCloud from ElevenLabs",
+      "desc": "BERLIN, GERMANY - JANUARY 16: In this photo illustration the logo of the music streaming service SoundCloud is displayed on a smartphone on January 16, 2019 in…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-11-05T23:00:00+08:00",
+      "time": "23:00"
+    },
+    {
+      "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+      "desc": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
+      "link": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-11-05T22:00:00+08:00",
+      "time": "22:00"
+    },
+    {
+      "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+      "desc": "Humanoid robots remain unproven at scale and have not yet achieved widespread commercialization, compared with industrial robots that have decades of proven…",
+      "link": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+      "source": "Ars Technica",
+      "category": "机器人",
+      "published": "2026-11-05T20:00:41+08:00",
+      "time": "20:00"
+    },
+    {
+      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+      "desc": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company.",
+      "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+      "source": "TechCrunch AI",
+      "category": "机器人",
+      "published": "2026-11-05T20:00:00+08:00",
+      "time": "20:00"
+    },
+    {
+      "title": "Big Tech’s big AI buildout will not end until someone stops it",
+      "desc": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-11-05T18:45:00+08:00",
+      "time": "18:45"
+    },
+    {
+      "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
+      "desc": "11月5日，百度正式开源最新基座模型文心5.5 Flash Base",
+      "link": "https://www.qbitai.com/2026/11/507787.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-11-05T15:15:13+08:00",
+      "time": "15:15"
+    },
+    {
+      "title": "挖走 Claude Code 产品负责人 Cat Wu，OpenAI 直击 Anthropic 上市命门",
+      "desc": "人、基建落位，OpenAI 押注团队 Agent。 作者丨 高允毅 编辑丨岑 峰 Anthropic 刚递交招股书一周，自家最赚钱的产品，产品负责人已经坐到了对面。 今早， 前 Claude Code 产品负责人 Cat Wu 在 X 上宣布加入 OpenAI，出任核心产品组的产品负责人…",
+      "link": "https://www.leiphone.com/category/yanxishe/iIUJoulGndesZear.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-05T15:01:00+08:00",
+      "time": "15:01"
+    },
+    {
+      "title": "91% ≈ 0%？谷歌最新研究，戳破工程 Agent 的高正确率泡沫",
+      "desc": "41.3% 的设计项跨过安全门槛，复杂工程仍困于约束耦合。 作者丨 郑佳美 岑 峰 编辑丨岑 峰 在工程世界里，91% 的正确，有时和 0% 的交付能力没有区别。 一条电缆桥架在机房顶部穿过消防管线，就能让几十页正确的计算书失去交付价值…",
+      "link": "https://www.leiphone.com/category/ai/YZ0bP2vh94KY45RG.html",
+      "source": "雷峰网",
+      "category": "机器人",
+      "published": "2026-11-05T13:51:00+08:00",
+      "time": "13:51"
+    },
     {
       "title": "上海交大邓志杰：扩散语言模型，怎样才能又快又好",
       "desc": "从基础路线到系统优化，讲解如何将并行潜力，转化为实际速度。 作者丨张璐 编辑丨 张驰 写作往往伴随着整体构思、局部推敲和反复修改。一句话中的用词，既取决于前文，也可能受到后文的影响…",
