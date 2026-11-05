@@ -1,7 +1,7 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-05T04:17:05+08:00",
-  "count": 25,
+  "generated_at": "2026-11-05T15:49:35+08:00",
+  "count": 27,
   "items": [
     {
       "title": "Uber only fulfilled 4 rides from AI agents last quarter",
@@ -47,6 +47,24 @@
       "category": "机器人",
       "published": "2026-11-04T18:08:38+08:00",
       "time": "18:08"
+    },
+    {
+      "title": "智能体身份注册与解析平台在乌镇发布，蚂蚁参与首批运行平台建设",
+      "desc": "11月4日，2026年世界互联网大会乌镇峰会“智能体互信互联互操作全球合作创新——携手构建智能互联网论坛”在乌镇举行，智能体信任治理成为产业各方关注的焦点。产业界普遍认为，互联网正从信息互联、服务互联走向智能体互联，智能体开始感知、决策并代表用户行动…",
+      "link": "https://www.leiphone.com/category/industrynews/KStlwPyruE6hJ107.html",
+      "source": "雷峰网",
+      "category": "产品",
+      "published": "2026-11-04T17:44:00+08:00",
+      "time": "17:44"
+    },
+    {
+      "title": "360参与发起《智能体发展自律公约》，助力构建可信智能体生态",
+      "desc": "11月4日，在2026年世界互联网大会乌镇峰会“智能体互信互联互操作全球合作创新”论坛上，中国信息通信研究院、360、华为等企业及机构共同发布《智能体发展自律公约》（以下简称《自律公约》）。360作为核心发起单位之一，深度参与了公约的起草与发布…",
+      "link": "https://www.leiphone.com/category/industrynews/UB25ocDFu1ntNMtz.html",
+      "source": "雷峰网",
+      "category": "研究",
+      "published": "2026-11-04T17:42:00+08:00",
+      "time": "17:42"
     },
     {
       "title": "虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上",
