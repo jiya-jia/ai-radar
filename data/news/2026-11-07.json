@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T03:51:10+08:00",
+  "count": 10,
+  "items": [
+    {
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "desc": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "source": "TechCrunch AI",
+      "category": "研究",
+      "published": "2026-11-07T02:44:38+08:00",
+      "time": "02:44"
+    },
+    {
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "desc": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-11-07T02:44:20+08:00",
+      "time": "02:44"
+    },
+    {
+      "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+      "desc": "Meta will now allow you to build customized, app-like experiences within its Muse AI assistant…",
+      "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-11-07T02:10:10+08:00",
+      "time": "02:10"
+    },
+    {
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "desc": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry…",
+      "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-11-07T02:00:00+08:00",
+      "time": "02:00"
+    },
+    {
+      "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+      "desc": "After weeks of backlash —and a failed attempt to quell it —Meta has indefinitely delayed plans to update its commercial terms and require Meta Business account…",
+      "link": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+      "source": "Ars Technica",
+      "category": "机器人",
+      "published": "2026-11-07T01:43:02+08:00",
+      "time": "01:43"
+    },
+    {
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "desc": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry…",
+      "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-11-07T01:23:52+08:00",
+      "time": "01:23"
+    },
+    {
+      "title": "AI is the new dating dealbreaker",
+      "desc": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-11-07T01:00:00+08:00",
+      "time": "01:00"
+    },
+    {
+      "title": "Big Tech lost big in the 2026 election",
+      "desc": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI…",
+      "link": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
+      "source": "The Verge AI",
+      "category": "政策",
+      "published": "2026-11-07T00:38:02+08:00",
+      "time": "00:38"
+    },
+    {
+      "title": "How Akai and Moog are embracing vibe-coded mods",
+      "desc": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community…",
+      "link": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
+      "source": "The Verge AI",
+      "category": "产品",
+      "published": "2026-11-07T00:34:39+08:00",
+      "time": "00:34"
+    },
+    {
+      "title": "Could potential AI clones of GTA VI force a quicker official port?",
+      "desc": "Yesterday, when reporting on emerging efforts to pipe the console version of GTA VI through a PC's DLSS-powered Nvidia GPU , we mentioned in passing that PC…",
+      "link": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+      "source": "Ars Technica",
+      "category": "芯片",
+      "published": "2026-11-07T00:19:12+08:00",
+      "time": "00:19"
+    }
+  ]
+}

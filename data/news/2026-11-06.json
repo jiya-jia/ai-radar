@@ -1,8 +1,35 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T15:49:27+08:00",
-  "count": 21,
+  "generated_at": "2026-11-07T03:51:10+08:00",
+  "count": 25,
   "items": [
+    {
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "desc": "A robot cleaned my apartment for $30 — San Francisco startup Tau Robotics is sending humanoid robots into people's homes, piloted remotely by humans who…",
+      "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "source": "MIT Tech Review",
+      "category": "机器人",
+      "published": "2026-11-06T18:00:00+08:00",
+      "time": "18:00"
+    },
+    {
+      "title": "OpenAI 「重置大神」换人了？Tibo 去救火，Andrew 上位",
+      "desc": "Tibo 不发糖了？因为Open AI 的内部安全烂透了 作者丨 高允毅 编辑丨岑 峰 OpenAI 的“赛博义父”好像换人了？最先发现不对劲的是敏锐的网友。 11 月 4 日， Codex 团队的产品负责人 Andrew Ambrosino 发帖称，关于 OpenAI 产品的任何意见都可以反馈给他…",
+      "link": "https://www.leiphone.com/category/yanxishe/u5N6lCUT0bEfanp1.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-06T17:11:00+08:00",
+      "time": "17:11"
+    },
+    {
+      "title": "豆包工作个人版取消5小时额度限制",
+      "desc": "11月6日起，豆包工作个人版取消5小时额度限制。调整后，个人用户不再受到5小时短周期额度限制，可以在周额度范围内，根据实际工作节奏灵活安排使用时间。周额度及其他使用规则仍以对应套餐为准。 据了解，此前豆包工作个人版与市面上主流大模型类似，采用5小时、7天双周期额度管理…",
+      "link": "https://www.leiphone.com/category/industrynews/Ii6W43GghzJA7V1u.html",
+      "source": "雷峰网",
+      "category": "研究",
+      "published": "2026-11-06T16:29:00+08:00",
+      "time": "16:29"
+    },
     {
       "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
       "desc": "Q3营收实现数倍增长",
@@ -83,6 +110,15 @@
       "category": "产品",
       "published": "2026-11-06T06:40:55+08:00",
       "time": "06:40"
+    },
+    {
+      "title": "Perplexity launches its own take on AI agents for work",
+      "desc": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-11-06T06:26:50+08:00",
+      "time": "06:26"
     },
     {
       "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",

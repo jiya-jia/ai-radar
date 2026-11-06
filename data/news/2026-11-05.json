@@ -1,7 +1,7 @@
 {
   "date": "2026-11-05",
-  "generated_at": "2026-11-06T15:49:27+08:00",
-  "count": 38,
+  "generated_at": "2026-11-07T03:51:10+08:00",
+  "count": 43,
   "items": [
     {
       "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
@@ -31,6 +31,15 @@
       "time": "23:00"
     },
     {
+      "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+      "desc": "Aina's ring can also take calls and help you dictate notes on your Mac.",
+      "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-11-05T22:42:00+08:00",
+      "time": "22:42"
+    },
+    {
       "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
       "desc": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
       "link": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
@@ -40,6 +49,15 @@
       "time": "22:00"
     },
     {
+      "title": "累计发货量突破100万台！鸿蒙电脑厚积薄发，持续拓展桌面应用生态",
+      "desc": "全球桌面操作系统市场格局已固化数十年。面对极高的生态壁垒，传统替代型系统往往困于“特定场景可用、大众市场难推”的瓶颈，难以实现规模化商业闭环。在11月5日启幕的2026鸿蒙办公产业峰会上，一个数字非常亮眼，截至2026年10月，鸿蒙电脑累计发货量突破100万台…",
+      "link": "https://www.leiphone.com/category/industrynews/6igykQlGwvA6vyCV.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-11-05T21:48:00+08:00",
+      "time": "21:48"
+    },
+    {
       "title": "孩子的人生大事，你要怎样的AI？海亮科服把AI生涯规划带给更多家庭",
       "desc": "基础规划免费！",
       "link": "https://www.qbitai.com/2026/11/507919.html",
@@ -47,6 +65,15 @@
       "category": "资讯",
       "published": "2026-11-05T21:17:00+08:00",
       "time": "21:17"
+    },
+    {
+      "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
+      "desc": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly…",
+      "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-11-05T21:00:00+08:00",
+      "time": "21:00"
     },
     {
       "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
@@ -67,6 +94,15 @@
       "time": "20:00"
     },
     {
+      "title": "李彦宏百度世界2026演讲海报曝光，或分享智能组织进化新思考",
+      "desc": "11月4日，百度官方发布了一则百度世界2026大会预热海报，提前透露了百度创始人李彦宏将于11月12日在大会开幕式上发表主题演讲的相关线索。 海报中的三个问题引人关注：“什么是AI时代的新厂房？”“组织进化三原则是哪些？”“智能组织将迎来的三大机会是什么？” 结合本届大会“下一幕，智能组织”的主题…",
+      "link": "https://www.leiphone.com/category/industrynews/49uolfG855V4Zc9M.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-05T19:26:00+08:00",
+      "time": "19:26"
+    },
+    {
       "title": "Big Tech’s big AI buildout will not end until someone stops it",
       "desc": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record…",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
@@ -83,6 +119,15 @@
       "category": "模型",
       "published": "2026-11-05T17:37:40+08:00",
       "time": "17:37"
+    },
+    {
+      "title": "从卖配置到铺自研技术，理想i6的第二年",
+      "desc": "上市一年、累计销量近19万辆之后，理想给i6提出了一个更大的目标。 “我们希望理想i6成为理想汽车在全球销量最高的一款车。”理想汽车董事长兼CEO李想在新车发布时表示。 10月28日，2026款理想i6正式发布，全国统一零售价24.98万元，首销期限时权益价23.98万元，同步开启试驾、定购与交付…",
+      "link": "https://www.leiphone.com/category/transportation/rQrb2B1pDwOfnMlg.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-05T17:13:00+08:00",
+      "time": "17:13"
     },
     {
       "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
