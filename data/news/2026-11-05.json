@@ -1,8 +1,17 @@
 {
   "date": "2026-11-05",
-  "generated_at": "2026-11-06T04:28:25+08:00",
-  "count": 33,
+  "generated_at": "2026-11-06T15:49:27+08:00",
+  "count": 38,
   "items": [
+    {
+      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "desc": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
+      "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-11-05T23:19:05+08:00",
+      "time": "23:19"
+    },
     {
       "title": "The hidden supply chain costs of the AI boom",
       "desc": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where…",
@@ -29,6 +38,15 @@
       "category": "芯片",
       "published": "2026-11-05T22:00:00+08:00",
       "time": "22:00"
+    },
+    {
+      "title": "孩子的人生大事，你要怎样的AI？海亮科服把AI生涯规划带给更多家庭",
+      "desc": "基础规划免费！",
+      "link": "https://www.qbitai.com/2026/11/507919.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-11-05T21:17:00+08:00",
+      "time": "21:17"
     },
     {
       "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
@@ -58,6 +76,15 @@
       "time": "18:45"
     },
     {
+      "title": "三条AI技术路线终将合流？智象创始人梅涛提出智能体化的世界模型",
+      "desc": "走向“智能体化世界模型”。",
+      "link": "https://www.qbitai.com/2026/11/507834.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-11-05T17:37:40+08:00",
+      "time": "17:37"
+    },
+    {
       "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
       "desc": "11月5日，百度正式开源最新基座模型文心5.5 Flash Base",
       "link": "https://www.qbitai.com/2026/11/507787.html",
@@ -76,6 +103,15 @@
       "time": "15:01"
     },
     {
+      "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
+      "desc": "11月5日，百度正式开源最新基座模型文心5.5 Flash Base（ERNIE 5.5 Flash Base）。模型采用MoE架构，总参数量2800亿，每个 Token 激活140亿参数，使用33.5万亿个 Token 完成预训练，预训练上下文长度最高达128K，微调与推理阶段支持最长100万 Token上下文…",
+      "link": "https://www.leiphone.com/category/industrynews/XOv7MDFAP99kUMEW.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-11-05T14:53:00+08:00",
+      "time": "14:53"
+    },
+    {
       "title": "91% ≈ 0%？谷歌最新研究，戳破工程 Agent 的高正确率泡沫",
       "desc": "41.3% 的设计项跨过安全门槛，复杂工程仍困于约束耦合。 作者丨 郑佳美 岑 峰 编辑丨岑 峰 在工程世界里，91% 的正确，有时和 0% 的交付能力没有区别。 一条电缆桥架在机房顶部穿过消防管线，就能让几十页正确的计算书失去交付价值…",
       "link": "https://www.leiphone.com/category/ai/YZ0bP2vh94KY45RG.html",
@@ -83,6 +119,15 @@
       "category": "机器人",
       "published": "2026-11-05T13:51:00+08:00",
       "time": "13:51"
+    },
+    {
+      "title": "更强的模型之外，ACM MM 2026还在关注什么？",
+      "desc": "模型能力的提升，正在与更具体的人、更复杂的环境和更长远的影响结合。 作者丨 张璐 编辑丨张驰 更强的模型、更出色的性能，始终是多媒体研究令人期待的进展。但一场学术会议的吸引力，也来自它能够容纳更丰富的话题…",
+      "link": "https://www.leiphone.com/category/private/eQlbsTc2zonGxU4h.html",
+      "source": "雷峰网",
+      "category": "机器人",
+      "published": "2026-11-05T13:47:00+08:00",
+      "time": "13:47"
     },
     {
       "title": "上海交大邓志杰：扩散语言模型，怎样才能又快又好",

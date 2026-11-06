@@ -1,8 +1,107 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T04:28:25+08:00",
-  "count": 10,
+  "generated_at": "2026-11-06T15:49:27+08:00",
+  "count": 21,
   "items": [
+    {
+      "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
+      "desc": "Q3营收实现数倍增长",
+      "link": "https://www.qbitai.com/2026/11/508155.html",
+      "source": "量子位",
+      "category": "芯片",
+      "published": "2026-11-06T15:00:29+08:00",
+      "time": "15:00"
+    },
+    {
+      "title": "从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！",
+      "desc": "11 月 20—21 日，2026 奇点智能技术大会将在北京万达文华酒店举行。",
+      "link": "https://www.qbitai.com/2026/11/508143.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-11-06T14:43:14+08:00",
+      "time": "14:43"
+    },
+    {
+      "title": "解读丨融资 2 亿，这家 E-bike 公司凭什么押注户外新品类",
+      "desc": "VELOTRIC 正在研发外骨骼和高尔夫球车。 作者丨 陈玘凡 编辑丨吴优 雷峰网·鲸犀获悉，E-bike 品牌 VELOTRIC 已完成 C 轮融资，规模约 2 亿元人民币，投资方为国寿股权，琥珀资本跟投，老股东追投…",
+      "link": "https://www.leiphone.com/category/weiwu/ozMqvnoWJ6l3FAhl.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-06T11:21:00+08:00",
+      "time": "11:21"
+    },
+    {
+      "title": "独家丨腾讯20年老兵创业 AI 体感主机，融资超六千万",
+      "desc": "创始人刘丹曾任光子工作室群副总经理、《斗战神》制作人。 作者丨 陈玘凡 编辑丨 吴优 雷峰网·鲸犀独家获悉，AI 体感成长主机公司创想悦动已完成种子轮融资，投资方为创维战投、创维数字，总金额约六千万元。 创想悦动目前已经开启 新一轮融资 ，意在进行更多后续内容开发、东南亚海外市场拓展、线下渠道铺设及下一代产品预研…",
+      "link": "https://www.leiphone.com/category/weiwu/8xihmnpkWWIHsn9G.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-06T11:10:00+08:00",
+      "time": "11:10"
+    },
+    {
+      "title": "独家解读丨前飞书 CMO 创业，为何用「水晶球」赌一个AI入口？",
+      "desc": "这是梅花创投吴世春10分钟敲定的一笔投资。 作者丨陈玘凡 编辑丨吴优 雷峰网・鲸犀独家获悉，前字节飞书 CMO 孙峰创办的 A I 情绪 科技品牌 Ora-Orb ， 已完成累计数千万元融资。由梅花创投领投，知名产业资本跟投。向阳资本担任长期独家财务顾问。 新一轮融资同步启动，目标投后估值 2 亿元人民币…",
+      "link": "https://www.leiphone.com/category/weiwu/MiJKpPLqwFGB14X7.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-06T10:18:00+08:00",
+      "time": "10:18"
+    },
+    {
+      "title": "腾讯 Hy4 调用激增已十倍扩容，Agent 能力开源模型第一",
+      "desc": "11月 5 日，腾讯宣布因 Hy4 调用激增，WorkBuddy 已进行十倍扩容",
+      "link": "https://www.qbitai.com/2026/11/507967.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-11-06T10:00:11+08:00",
+      "time": "10:00"
+    },
+    {
+      "title": "OpenAI is stepping back from NDAs for data center projects",
+      "desc": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion , OpenAI today announced new commitments to…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-11-06T08:37:56+08:00",
+      "time": "08:37"
+    },
+    {
+      "title": "Airbnb is working on an AI travel agent",
+      "desc": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder…",
+      "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+      "source": "The Verge AI",
+      "category": "产品",
+      "published": "2026-11-06T08:06:12+08:00",
+      "time": "08:06"
+    },
+    {
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "desc": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+      "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "source": "TechCrunch AI",
+      "category": "产品",
+      "published": "2026-11-06T06:40:55+08:00",
+      "time": "06:40"
+    },
+    {
+      "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+      "desc": "Google faced the ire of educators and parents earlier this week when it announced a new AI policy for K–12 schools…",
+      "link": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+      "source": "Ars Technica",
+      "category": "模型",
+      "published": "2026-11-06T05:40:36+08:00",
+      "time": "05:40"
+    },
+    {
+      "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
+      "desc": "ChatGPT allegedly helped a North Carolina woman, Cheryl Gates, craft a “personalized plan” to poison her husband, James, after fueling her delusions that he…",
+      "link": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
+      "source": "Ars Technica",
+      "category": "政策",
+      "published": "2026-11-06T05:39:40+08:00",
+      "time": "05:39"
+    },
     {
       "title": "Meta says US users can now video chat with their Muse AI avatar",
       "desc": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
