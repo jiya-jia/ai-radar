@@ -1,8 +1,35 @@
 {
   "date": "2026-11-07",
-  "generated_at": "2026-11-07T14:57:06+08:00",
-  "count": 15,
+  "generated_at": "2026-11-08T01:56:43+08:00",
+  "count": 18,
   "items": [
+    {
+      "title": "AI broke the cybersecurity world. What’s next?",
+      "desc": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now…",
+      "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "source": "The Verge AI",
+      "category": "融资",
+      "published": "2026-11-07T23:00:00+08:00",
+      "time": "23:00"
+    },
+    {
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "desc": "Anthropic CEO Dario Amodei. | Photo: Jason Henry/Bloomberg via Getty Images Anthropic is using AI to build more powerful AI…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "source": "The Verge AI",
+      "category": "研究",
+      "published": "2026-11-07T20:30:00+08:00",
+      "time": "20:30"
+    },
+    {
+      "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
+      "desc": "苦单Session久矣，两大Agent玩家不谋而合。",
+      "link": "https://www.qbitai.com/2026/11/508264.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-11-07T13:01:17+08:00",
+      "time": "13:01"
+    },
     {
       "title": "百图生科与11家伙伴战略合作，AI生物计算覆盖医药研发及农业育种",
       "desc": "活动焦点： · 百图生科主办、港投公司支持的第三届峰会2026年11月6日开幕，汇聚约300名科研、产业及投资界代表，探讨人工智能与生命科学的融合发展 · 百图生科InnoHub分别与大学、科企及投资机构合作，以AI生物计算聚焦乳癌及中医药研究、农业育种、研发与产业配套，包括与香港大学推进「乳腺癌虚拟细胞大模型」项目…",
