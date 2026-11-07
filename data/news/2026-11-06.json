@@ -1,8 +1,35 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-07T03:51:10+08:00",
-  "count": 25,
+  "generated_at": "2026-11-07T14:57:06+08:00",
+  "count": 28,
   "items": [
+    {
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "desc": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about…",
+      "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-11-06T23:54:47+08:00",
+      "time": "23:54"
+    },
+    {
+      "title": "Amazon will let you text Alexa your shopping list",
+      "desc": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant…",
+      "link": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+      "source": "The Verge AI",
+      "category": "产品",
+      "published": "2026-11-06T22:00:00+08:00",
+      "time": "22:00"
+    },
+    {
+      "title": "Protesters break into Microsoft data center site in Amsterdam",
+      "desc": "Members of the action group Geef Tegengas put a banner on a crane during a protest. | Image: Getty Images Protesters have broken into a construction site of a…",
+      "link": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+      "source": "The Verge AI",
+      "category": "政策",
+      "published": "2026-11-06T19:55:19+08:00",
+      "time": "19:55"
+    },
     {
       "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
       "desc": "A robot cleaned my apartment for $30 — San Francisco startup Tau Robotics is sending humanoid robots into people's homes, piloted remotely by humans who…",

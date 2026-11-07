@@ -1,8 +1,53 @@
 {
   "date": "2026-11-07",
-  "generated_at": "2026-11-07T03:51:10+08:00",
-  "count": 10,
+  "generated_at": "2026-11-07T14:57:06+08:00",
+  "count": 15,
   "items": [
+    {
+      "title": "百图生科与11家伙伴战略合作，AI生物计算覆盖医药研发及农业育种",
+      "desc": "活动焦点： · 百图生科主办、港投公司支持的第三届峰会2026年11月6日开幕，汇聚约300名科研、产业及投资界代表，探讨人工智能与生命科学的融合发展 · 百图生科InnoHub分别与大学、科企及投资机构合作，以AI生物计算聚焦乳癌及中医药研究、农业育种、研发与产业配套，包括与香港大学推进「乳腺癌虚拟细胞大模型」项目…",
+      "link": "https://www.leiphone.com/category/industrynews/X7HwwQTEXJhiVVzK.html",
+      "source": "雷峰网",
+      "category": "政策",
+      "published": "2026-11-07T10:40:00+08:00",
+      "time": "10:40"
+    },
+    {
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "desc": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "source": "The Verge AI",
+      "category": "融资",
+      "published": "2026-11-07T07:46:18+08:00",
+      "time": "07:46"
+    },
+    {
+      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "desc": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times…",
+      "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-11-07T07:00:44+08:00",
+      "time": "07:00"
+    },
+    {
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "desc": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-11-07T06:53:46+08:00",
+      "time": "06:53"
+    },
+    {
+      "title": "All the latest updates on AI data centers",
+      "desc": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "source": "The Verge AI",
+      "category": "融资",
+      "published": "2026-11-07T04:02:22+08:00",
+      "time": "04:02"
+    },
     {
       "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
       "desc": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
