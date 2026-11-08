@@ -1,19 +1,28 @@
 {
-  "generated_at": "2026-11-08T15:04:19+08:00",
-  "total_dates": 61,
-  "total_items": 1470,
+  "generated_at": "2026-11-09T02:13:23+08:00",
+  "total_dates": 62,
+  "total_items": 1477,
   "dates": [
     {
+      "date": "2026-11-08",
+      "count": 4,
+      "sources": 3,
+      "categories": {
+        "模型": 2,
+        "芯片": 2
+      }
+    },
+    {
       "date": "2026-11-07",
-      "count": 18,
+      "count": 21,
       "sources": 5,
       "categories": {
-        "融资": 4,
+        "融资": 5,
         "研究": 2,
+        "资讯": 7,
         "模型": 1,
         "政策": 2,
         "芯片": 2,
-        "资讯": 5,
         "机器人": 1,
         "产品": 1
       }
