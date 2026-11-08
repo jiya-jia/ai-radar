@@ -1,7 +1,7 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-08T01:56:43+08:00",
-  "count": 32,
+  "generated_at": "2026-11-08T15:04:19+08:00",
+  "count": 35,
   "items": [
     {
       "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
@@ -11,6 +11,15 @@
       "category": "融资",
       "published": "2026-11-06T23:54:47+08:00",
       "time": "23:54"
+    },
+    {
+      "title": "A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
+      "desc": "Dario刚喊减速…",
+      "link": "https://www.qbitai.com/2026/11/508184.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-11-06T23:21:56+08:00",
+      "time": "23:21"
     },
     {
       "title": "Amazon will let you text Alexa your shopping list",
@@ -94,6 +103,15 @@
       "time": "15:57"
     },
     {
+      "title": "上交大张伟楠教授：AI如何走出屏幕，真正改变物理世界？ | CNCC 2026",
+      "desc": "物理智能的核心挑战：让 AI 在充满不确定性、行动后果难以撤销的真实世界中，形成感知、预测、行动与持续学习的完整闭环。 作者丨张 驰 编辑丨马晓宁 大语言模型已经得到了长足的发展，但 AI 的许多能力仍然发生在屏幕之内：理解文字、生成内容、编写代码，以及调用数字工具…",
+      "link": "https://www.leiphone.com/category/academic/TRS6Uqs5TY2MaUU4.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-11-06T15:25:00+08:00",
+      "time": "15:25"
+    },
+    {
       "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
       "desc": "Q3营收实现数倍增长",
       "link": "https://www.qbitai.com/2026/11/508155.html",
@@ -110,6 +128,15 @@
       "category": "资讯",
       "published": "2026-11-06T14:43:14+08:00",
       "time": "14:43"
+    },
+    {
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "desc": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-11-06T14:28:32+08:00",
+      "time": "14:28"
     },
     {
       "title": "解读丨融资 2 亿，这家 E-bike 公司凭什么押注户外新品类",
