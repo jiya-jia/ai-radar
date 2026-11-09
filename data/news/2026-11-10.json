@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T06:52:31+08:00",
+  "count": 12,
+  "items": [
+    {
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "desc": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-11-10T04:09:06+08:00",
+      "time": "04:09"
+    },
+    {
+      "title": "The backlash about data centers might really just be about electricity",
+      "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here…",
+      "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "source": "MIT Tech Review",
+      "category": "政策",
+      "published": "2026-11-10T03:35:33+08:00",
+      "time": "03:35"
+    },
+    {
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "desc": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-11-10T03:24:51+08:00",
+      "time": "03:24"
+    },
+    {
+      "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+      "desc": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an…",
+      "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-11-10T03:09:58+08:00",
+      "time": "03:09"
+    },
+    {
+      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "desc": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-11-10T03:00:00+08:00",
+      "time": "03:00"
+    },
+    {
+      "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+      "desc": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S…",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-11-10T02:09:52+08:00",
+      "time": "02:09"
+    },
+    {
+      "title": "Instagram’s Effect Builder makes new filters from AI prompts",
+      "desc": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts…",
+      "link": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+      "source": "The Verge AI",
+      "category": "产品",
+      "published": "2026-11-10T02:07:23+08:00",
+      "time": "02:07"
+    },
+    {
+      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "desc": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+      "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-11-10T02:00:00+08:00",
+      "time": "02:00"
+    },
+    {
+      "title": "The future of AI hinges on… Jensen Huang’s sex life?",
+      "desc": "Step 1. Cut a hole in the box. | Image: The Verge I would prefer that these people's sex lives were none of my business but I guess we have to talk about…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-11-10T01:36:08+08:00",
+      "time": "01:36"
+    },
+    {
+      "title": "Claude Code is accidentally exposing secrets all over GitHub",
+      "desc": "Claude Code is leaking sensitive information on public GitHub instances thanks to a partial oversight in the way its settings files are handled…",
+      "link": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+      "source": "Ars Technica",
+      "category": "研究",
+      "published": "2026-11-10T01:24:26+08:00",
+      "time": "01:24"
+    },
+    {
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "desc": "A new voice for AI regulation in Congress: Scott Wiener, who authored the country's first proposed frontier AI legislation, just won Nancy Pelosi's former…",
+      "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "source": "MIT Tech Review",
+      "category": "融资",
+      "published": "2026-11-10T01:05:43+08:00",
+      "time": "01:05"
+    },
+    {
+      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+      "desc": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-11-10T00:56:54+08:00",
+      "time": "00:56"
+    }
+  ]
+}

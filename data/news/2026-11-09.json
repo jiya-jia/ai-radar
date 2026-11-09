@@ -1,8 +1,107 @@
 {
   "date": "2026-11-09",
-  "generated_at": "2026-11-09T15:47:57+08:00",
-  "count": 11,
+  "generated_at": "2026-11-10T06:52:31+08:00",
+  "count": 22,
   "items": [
+    {
+      "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
+      "desc": "Asked about AI executives' warnings about their models' safety on 60 Minutes , Trump said, \"I think that the risk is not nearly as real as it- as they talk…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-11-09T23:50:38+08:00",
+      "time": "23:50"
+    },
+    {
+      "title": "Disney and Adobe are building generative AI tools together",
+      "desc": "Who wants a hand-designed and creatively curated monorail anyway. | Image: Disney / Adobe The Walt Disney Company has teamed up with Adobe to develop…",
+      "link": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-11-09T23:38:56+08:00",
+      "time": "23:38"
+    },
+    {
+      "title": "Hold up — I had a great time talking to the RIAA guy",
+      "desc": "Today, I’m talking with Mitch Glazier, who is CEO and chairman of the RIAA. This conversation was a real full-circle moment for me: I was in college when…",
+      "link": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music",
+      "source": "The Verge AI",
+      "category": "融资",
+      "published": "2026-11-09T23:30:00+08:00",
+      "time": "23:30"
+    },
+    {
+      "title": "Nvidia CEO's affair becomes a national security problem",
+      "desc": "Nvidia’s chief executive Jensen Huang has admitted having an affair two days after the FT reported his alleged romantic relationship with a woman the US…",
+      "link": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+      "source": "Ars Technica",
+      "category": "芯片",
+      "published": "2026-11-09T23:23:20+08:00",
+      "time": "23:23"
+    },
+    {
+      "title": "千问办公2.0，补上了办公Agent最关键的「短板」",
+      "desc": "“过去几个月，各家都在拼命证明AI越来越能干活。但说实话，一个人能干活，不代表一群人就能协作。” 一位长期关注AI办公的业内人士，试用完市面上主流的AI办公产品后发现，有些“麻烦”还是绕不开，最典型的就是有些活儿还得靠人工来回“倒腾”。 “Agent能独立完成任务，但很难接住任务在人与人之间的流转…",
+      "link": "https://www.leiphone.com/category/industrynews/ljjfjnedPmwgYh6Q.html",
+      "source": "雷峰网",
+      "category": "研究",
+      "published": "2026-11-09T22:16:00+08:00",
+      "time": "22:16"
+    },
+    {
+      "title": "Innovating with AI in the special chemicals industry",
+      "desc": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new…",
+      "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "source": "MIT Tech Review",
+      "category": "研究",
+      "published": "2026-11-09T21:00:00+08:00",
+      "time": "21:00"
+    },
+    {
+      "title": "无预警！ChatGPT突然大规模封号，包括付费用户；圆通总裁心疼儿子Tim：他比大多数人想象的辛苦；英伟达遭大劫案，价值超7千万元货物失踪",
+      "desc": "要闻提示 1.无预警！曝ChatGPT突然大规模封号，包括付费用户 2.圆通总裁心疼儿子Tim：他真的比大多数人想象的辛苦 3.马斯克：当年进中国建厂被要求合资，以特斯拉是婴儿为由拒绝了 4.智能指环售价2499元…",
+      "link": "https://www.leiphone.com/category/zaobao/Z2uc8AJRp0PQO7Kb.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-09T18:32:00+08:00",
+      "time": "18:32"
+    },
+    {
+      "title": "阿里云获中国专利金奖：破解AI时代的超大规模智能算力调度难题",
+      "desc": "11月6日，第二十六届中国专利奖颁奖大会在无锡举行，阿里云提交的专利\"一种用户请求的处理方法和装置\"荣获中国专利金奖，这也是本届唯一云厂商荣获金奖。该专利技术可动态实时感知算力需求变化，尤其针对互联网和AI时代剧烈的需求潮汐，实现了超大规模智能算力的按需分配、随需伸缩、安全供给——高峰时撑得住，低谷时收得回…",
+      "link": "https://www.leiphone.com/category/industrynews/ljc6ifIFxCUD6DYG.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-11-09T18:03:00+08:00",
+      "time": "18:03"
+    },
+    {
+      "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
+      "desc": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
+      "link": "https://www.qbitai.com/2026/11/507843.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-11-09T16:44:00+08:00",
+      "time": "16:44"
+    },
+    {
+      "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
+      "desc": "11月9日，千问办公发布2.0版本",
+      "link": "https://www.qbitai.com/2026/11/508694.html",
+      "source": "量子位",
+      "category": "产品",
+      "published": "2026-11-09T16:34:03+08:00",
+      "time": "16:34"
+    },
+    {
+      "title": "AI接管一家8万Star开源公司，写代码、派任务、查Bug全包了",
+      "desc": "Worker不够了主管Agent还能自己招！",
+      "link": "https://www.qbitai.com/2026/11/508607.html",
+      "source": "量子位",
+      "category": "产品",
+      "published": "2026-11-09T13:47:58+08:00",
+      "time": "13:47"
+    },
     {
       "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
       "desc": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip…",
