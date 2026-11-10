@@ -1,7 +1,7 @@
 {
   "date": "2026-11-09",
-  "generated_at": "2026-11-10T06:52:31+08:00",
-  "count": 22,
+  "generated_at": "2026-11-10T16:08:55+08:00",
+  "count": 24,
   "items": [
     {
       "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
@@ -74,6 +74,15 @@
       "category": "芯片",
       "published": "2026-11-09T18:03:00+08:00",
       "time": "18:03"
+    },
+    {
+      "title": "百度文心首次披露RSI进展：ERNIE Evolve已用于最新模型研发，文心5.5 Flash 或将近期发布",
+      "desc": "11月9日，百度文心首次披露 RSI 最新进展，公布参与文心 5.5 Flash 研发的自动研究系统 ERNIE Evolve，其能够围绕目标与约束，自主提出研究方向、开展实验、验证结果并积累经验，既可以持续优化已有路径，也能根据实际效果探索新方向…",
+      "link": "https://www.leiphone.com/category/industrynews/FO9Dx6HKj5Bvno5y.html",
+      "source": "雷峰网",
+      "category": "研究",
+      "published": "2026-11-09T17:18:00+08:00",
+      "time": "17:18"
     },
     {
       "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
@@ -155,6 +164,15 @@
       "category": "融资",
       "published": "2026-11-09T09:50:00+08:00",
       "time": "09:50"
+    },
+    {
+      "title": "黄仁勋承认出轨发全员信道歉！英伟达启动紧急调查",
+      "desc": "英伟达暗盘跌2%",
+      "link": "https://www.qbitai.com/2026/11/508498.html",
+      "source": "量子位",
+      "category": "芯片",
+      "published": "2026-11-09T08:40:50+08:00",
+      "time": "08:40"
     },
     {
       "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
