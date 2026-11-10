@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T04:14:22+08:00",
+  "count": 10,
+  "items": [
+    {
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "desc": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the…",
+      "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-11-11T03:57:52+08:00",
+      "time": "03:57"
+    },
+    {
+      "title": "The US is winning the AI race. Jensen Huang could have blown it",
+      "desc": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-11-11T03:04:05+08:00",
+      "time": "03:04"
+    },
+    {
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "desc": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+      "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-11-11T03:03:52+08:00",
+      "time": "03:03"
+    },
+    {
+      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "desc": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+      "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-11-11T02:49:52+08:00",
+      "time": "02:49"
+    },
+    {
+      "title": "ChatGPT is getting verified AI ‘Business Agents’",
+      "desc": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-11-11T02:00:00+08:00",
+      "time": "02:00"
+    },
+    {
+      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "desc": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected…",
+      "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-11-11T01:30:00+08:00",
+      "time": "01:30"
+    },
+    {
+      "title": "Anthropic has its own AI-powered office suite now",
+      "desc": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-11-11T01:30:00+08:00",
+      "time": "01:30"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+      "desc": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-11-11T01:04:19+08:00",
+      "time": "01:04"
+    },
+    {
+      "title": "eBay appears to have shut the door on third-party AI agents",
+      "desc": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race…",
+      "link": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-11-11T00:20:30+08:00",
+      "time": "00:20"
+    },
+    {
+      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+      "desc": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-11-11T00:00:00+08:00",
+      "time": "00:00"
+    }
+  ]
+}

@@ -1,8 +1,98 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-10T16:08:55+08:00",
-  "count": 18,
+  "generated_at": "2026-11-11T04:14:22+08:00",
+  "count": 29,
   "items": [
+    {
+      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "desc": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+      "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-11-10T23:29:30+08:00",
+      "time": "23:29"
+    },
+    {
+      "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+      "desc": "Google DeepMind has revealed a new generation of the AI-powered Gemini Robotics platform. In the 2.5 release, Google says its robotic AI is getting…",
+      "link": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+      "source": "Ars Technica",
+      "category": "机器人",
+      "published": "2026-11-10T23:00:39+08:00",
+      "time": "23:00"
+    },
+    {
+      "title": "Anthropic targets $1.4 trillion IPO",
+      "desc": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+      "source": "The Verge AI",
+      "category": "融资",
+      "published": "2026-11-10T22:06:54+08:00",
+      "time": "22:06"
+    },
+    {
+      "title": "Adobe is going all in on agentic AI",
+      "desc": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive…",
+      "link": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-11-10T22:00:00+08:00",
+      "time": "22:00"
+    },
+    {
+      "title": "Hands-on with Ring’s new AI drone camera for your home",
+      "desc": "Ring’s new Drone Cam is a flying indoor security camera. Ring is finally shipping a flying indoor drone camera. For real this time…",
+      "link": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
+      "source": "The Verge AI",
+      "category": "产品",
+      "published": "2026-11-10T21:30:00+08:00",
+      "time": "21:30"
+    },
+    {
+      "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
+      "desc": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the…",
+      "link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+      "source": "TechCrunch AI",
+      "category": "产品",
+      "published": "2026-11-10T21:00:00+08:00",
+      "time": "21:00"
+    },
+    {
+      "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+      "desc": "Impervious to battlefield jamming, drones physically connected to human operators by miles of fiber-optic cables have become such a common weapon of war in…",
+      "link": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+      "source": "Ars Technica",
+      "category": "资讯",
+      "published": "2026-11-10T20:15:32+08:00",
+      "time": "20:15"
+    },
+    {
+      "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
+      "desc": "近亿元融资刚刚落袋",
+      "link": "https://www.qbitai.com/2026/11/509017.html",
+      "source": "量子位",
+      "category": "融资",
+      "published": "2026-11-10T16:33:25+08:00",
+      "time": "16:33"
+    },
+    {
+      "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
+      "desc": "11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch",
+      "link": "https://www.qbitai.com/2026/11/508996.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-11-10T15:57:45+08:00",
+      "time": "15:57"
+    },
+    {
+      "title": "四维图新创想大会 | 以数据与算力为基，SEEWAY.AI驶向新一站",
+      "desc": "11月6日，四维图新在上海举办2026 EVOLUTION创想大会。CEO 程鹏全面解读穿越 “极点” 的破局方向，以数据与算力为基，答行业焦点之问，并正式公布向移动智能体领域拓展的战略布局。 数据之战，先拿好合规这张入场券 \"过去十年，中国新能源赢在电池；未来十年，中国汽车要赢在数据…",
+      "link": "https://www.leiphone.com/category/industrynews/dZrtBnDtC720JWGW.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-10T15:23:00+08:00",
+      "time": "15:23"
+    },
     {
       "title": "从众筹爆款到现货开售，妙动科技Beni机器人开创影像新视角",
       "desc": "2026 年 11 月 10 日，消费级机器人公司妙动科技宣布，旗下全球首款多地形跟拍机器人 Beni 正式开启现货发售：标准套装售价 4999 元、探索套装售价 5799 元，国内用户可通过京东商城购买，即买即发货…",
@@ -37,6 +127,15 @@
       "source": "TechCrunch AI",
       "category": "融资",
       "published": "2026-11-10T09:27:12+08:00",
+      "time": "09:27"
+    },
+    {
+      "title": "千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常",
+      "desc": "办公AI结束单机模式",
+      "link": "https://www.qbitai.com/2026/11/508798.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-11-10T09:27:09+08:00",
       "time": "09:27"
     },
     {

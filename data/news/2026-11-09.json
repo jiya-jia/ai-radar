@@ -1,7 +1,7 @@
 {
   "date": "2026-11-09",
-  "generated_at": "2026-11-10T16:08:55+08:00",
-  "count": 24,
+  "generated_at": "2026-11-11T04:14:22+08:00",
+  "count": 25,
   "items": [
     {
       "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
@@ -74,6 +74,15 @@
       "category": "芯片",
       "published": "2026-11-09T18:03:00+08:00",
       "time": "18:03"
+    },
+    {
+      "title": "字节跳动发布Seedream 5.5，上线豆包、豆包工作、即梦",
+      "desc": "11 月 9 日，字节跳动正式发布豆包图像创作模型 Seedream 5.5。相较上一代 Seedream 5.0 Pro，新模型的生成速度大幅提升，同时增强了多轮编辑稳定性，原生支持透明素材生成，并针对图像真实感和小字渲染方面做了重点优化，更好地满足了专业创作场景对质量、稳定性与效率的要求…",
+      "link": "https://www.leiphone.com/category/industrynews/CoJod8Z9X1pDj1sv.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-11-09T17:41:00+08:00",
+      "time": "17:41"
     },
     {
       "title": "百度文心首次披露RSI进展：ERNIE Evolve已用于最新模型研发，文心5.5 Flash 或将近期发布",
