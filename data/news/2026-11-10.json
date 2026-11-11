@@ -1,8 +1,17 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-11T15:38:05+08:00",
-  "count": 29,
+  "generated_at": "2026-11-12T04:00:25+08:00",
+  "count": 33,
   "items": [
+    {
+      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+      "desc": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+      "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-11-10T23:54:08+08:00",
+      "time": "23:54"
+    },
     {
       "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
       "desc": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
@@ -29,6 +38,24 @@
       "category": "融资",
       "published": "2026-11-10T22:06:54+08:00",
       "time": "22:06"
+    },
+    {
+      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+      "desc": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+      "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-11-10T22:05:10+08:00",
+      "time": "22:05"
+    },
+    {
+      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+      "desc": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
+      "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-11-10T22:01:39+08:00",
+      "time": "22:01"
     },
     {
       "title": "Adobe is going all in on agentic AI",
@@ -65,6 +92,15 @@
       "category": "资讯",
       "published": "2026-11-10T20:15:32+08:00",
       "time": "20:15"
+    },
+    {
+      "title": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
+      "desc": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
+      "link": "https://www.qbitai.com/2026/11/509032.html",
+      "source": "量子位",
+      "category": "芯片",
+      "published": "2026-11-10T18:35:38+08:00",
+      "time": "18:35"
     },
     {
       "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",

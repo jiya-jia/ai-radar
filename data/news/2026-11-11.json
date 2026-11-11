@@ -1,8 +1,44 @@
 {
   "date": "2026-11-11",
-  "generated_at": "2026-11-11T15:38:05+08:00",
-  "count": 19,
+  "generated_at": "2026-11-12T04:00:25+08:00",
+  "count": 23,
   "items": [
+    {
+      "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "desc": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong…",
+      "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-11-11T23:00:00+08:00",
+      "time": "23:00"
+    },
+    {
+      "title": "和大疆抢食，这家公司做了台桌面摄影机器人",
+      "desc": "一个美食创作者想把镜头从餐桌全景慢慢推到一碗面上。这个动作不难，难的是他没有第二个人帮他推，也没有空间在桌上架一条滑轨。最后他切了一个固定机位，画面清楚，但缺少呼吸感。 这张桌子，是今天很多内容创作的真实现场。产品测评、美食、美妆、直播、带货，大量拍摄都发生在几平方米之内…",
+      "link": "https://www.leiphone.com/category/weiwu/7us3N77Jwt0jzWda.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-11T18:29:00+08:00",
+      "time": "18:29"
+    },
+    {
+      "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
+      "desc": "价格、门槛全打穿",
+      "link": "https://www.qbitai.com/2026/11/509146.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-11-11T14:41:26+08:00",
+      "time": "14:41"
+    },
+    {
+      "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
+      "desc": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。",
+      "link": "https://www.qbitai.com/2026/11/509085.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-11-11T14:18:09+08:00",
+      "time": "14:18"
+    },
     {
       "title": "文心 5.5 Flash Preview发布！编程、3D 建模、知识工作、内容创作等全面升级",
       "desc": "11月11日，百度最新基础模型文心 5.5 Flash Preview正式发布。文心 5.5 Flash Preview总参数量达 2800 亿，每个 Token 激活 140 亿参数，支持最长 100 万 Token 的上下文，在编程、3D 建模、知识工作、内容创作等方面表现突出…",
