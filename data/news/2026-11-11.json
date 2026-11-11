@@ -1,8 +1,89 @@
 {
   "date": "2026-11-11",
-  "generated_at": "2026-11-11T04:14:22+08:00",
-  "count": 10,
+  "generated_at": "2026-11-11T15:38:05+08:00",
+  "count": 19,
   "items": [
+    {
+      "title": "文心 5.5 Flash Preview发布！编程、3D 建模、知识工作、内容创作等全面升级",
+      "desc": "11月11日，百度最新基础模型文心 5.5 Flash Preview正式发布。文心 5.5 Flash Preview总参数量达 2800 亿，每个 Token 激活 140 亿参数，支持最长 100 万 Token 的上下文，在编程、3D 建模、知识工作、内容创作等方面表现突出…",
+      "link": "https://www.leiphone.com/category/industrynews/sqz0hf4DoTPX5mqI.html",
+      "source": "雷峰网",
+      "category": "研究",
+      "published": "2026-11-11T13:22:00+08:00",
+      "time": "13:22"
+    },
+    {
+      "title": "三个月估值涨十倍的芯片热潮里，5000万也没让他创业",
+      "desc": "作者｜包永刚 编辑｜刘伟 5000万元摆到桌上，张博士最后还是决定不创业。 他刚从一家被收购的公司离开，就赶上新一轮芯片创业热潮。一家知名VC愿意拿出5000万元，让他组团队、做CEO。张博士频繁见投资人、物色核心成员，项目已经走到启动阶段。 没过多久，他停了下来…",
+      "link": "https://www.leiphone.com/category/chipdesign/6mjibhXfWFoLrabg.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-11T10:51:00+08:00",
+      "time": "10:51"
+    },
+    {
+      "title": "AI接手运营后，速卖通潜力市场双11成交大涨超50%",
+      "desc": "今年海外双11，中国跨境商家的订单出现在不少意想不到的“冷门”市场。 记者从阿里旗下跨境电商平台速卖通AliExpress获悉，双11大促前7日，速卖通主力市场之外的潜力国家市场日均成交同比大涨超50%。借助AI智能托管，商家们把生意做到了更多平时顾不上经营的市场…",
+      "link": "https://www.leiphone.com/category/industrynews/zRG1ZBXyPvQHcb5o.html",
+      "source": "雷峰网",
+      "category": "产品",
+      "published": "2026-11-11T10:42:00+08:00",
+      "time": "10:42"
+    },
+    {
+      "title": "独家丨清华系团队创业做 AI 眼镜，拿下传统眼镜厂商种子轮",
+      "desc": "清目创始团队均为清华背景，成员背景涵盖XREAL、荣耀、阿里等。 作者丨黄艳冰 编辑丨姚单 雷峰网·鲸犀独家获悉， 智能眼镜初创公司深圳市清目数字科技有限公司 （下文简称清目数字 ） 已完成种子轮融资，投资方为南京视客 ，天使轮融资正在推进中…",
+      "link": "https://www.leiphone.com/category/weiwu/Lfff1nBYqpWoqgMF.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-11T10:02:00+08:00",
+      "time": "10:02"
+    },
+    {
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "desc": "Amazon is betting that many Ring customers will also want an AI-powered security drone and robot patrolling their homes or offices…",
+      "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "source": "Ars Technica",
+      "category": "机器人",
+      "published": "2026-11-11T06:35:01+08:00",
+      "time": "06:35"
+    },
+    {
+      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "desc": "Grok Build, the vibe-coding agent from SpaceXSI, is leaking data—some of it proprietary business information and other sensitive secrets—from thousands of its…",
+      "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "source": "Ars Technica",
+      "category": "研究",
+      "published": "2026-11-11T05:12:59+08:00",
+      "time": "05:12"
+    },
+    {
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "desc": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+      "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-11-11T05:08:52+08:00",
+      "time": "05:08"
+    },
+    {
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "desc": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and…",
+      "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-11-11T04:52:13+08:00",
+      "time": "04:52"
+    },
+    {
+      "title": "What happens to mathematics when AI becomes an oracle?",
+      "desc": "Our modern world runs on math, from social media algorithms, package delivery, and weather prediction to medical imaging and machine learning…",
+      "link": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
+      "source": "Ars Technica",
+      "category": "研究",
+      "published": "2026-11-11T04:30:01+08:00",
+      "time": "04:30"
+    },
     {
       "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
       "desc": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the…",

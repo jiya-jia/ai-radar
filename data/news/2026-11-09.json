@@ -1,7 +1,7 @@
 {
   "date": "2026-11-09",
-  "generated_at": "2026-11-11T04:14:22+08:00",
-  "count": 25,
+  "generated_at": "2026-11-11T15:38:05+08:00",
+  "count": 27,
   "items": [
     {
       "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
@@ -31,6 +31,15 @@
       "time": "23:30"
     },
     {
+      "title": "云深处发布全新四足机器人 实现50Kg大负载、复杂地形作业",
+      "desc": "11月6日，云深处科技正式发布四足机器人新产品——绝影X50。它通过“感控融合”全新升级，搭配高刚性高响应关节系统，实现了更大负载、更强通行与更稳姿态的综合突破。云深处进一步拓展了四足机器人在极端环境下的重载作业边界，为应急消防、能源电力等高风险行业解决痛点…",
+      "link": "https://www.leiphone.com/category/industrynews/EihvEi3hKb9icG62.html",
+      "source": "雷峰网",
+      "category": "机器人",
+      "published": "2026-11-09T23:27:00+08:00",
+      "time": "23:27"
+    },
+    {
       "title": "Nvidia CEO's affair becomes a national security problem",
       "desc": "Nvidia’s chief executive Jensen Huang has admitted having an affair two days after the FT reported his alleged romantic relationship with a woman the US…",
       "link": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
@@ -45,6 +54,15 @@
       "link": "https://www.leiphone.com/category/industrynews/ljjfjnedPmwgYh6Q.html",
       "source": "雷峰网",
       "category": "研究",
+      "published": "2026-11-09T22:16:00+08:00",
+      "time": "22:16"
+    },
+    {
+      "title": "百度搭子连中三元：中信建投、国家电投数科、通用数科",
+      "desc": "11月5日至6日，中信建投证券、国家电投集团数字科技有限公司、通用技术数科公司相继公布成交候选人名单。三个项目分别有5家、4家和3家厂商入围，百度均排名第一。三次竞标的产品都是百度搭子…",
+      "link": "https://www.leiphone.com/category/industrynews/tm7T5JBmm4u6YUQi.html",
+      "source": "雷峰网",
+      "category": "产品",
       "published": "2026-11-09T22:16:00+08:00",
       "time": "22:16"
     },
