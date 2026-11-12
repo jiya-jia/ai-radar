@@ -1,8 +1,98 @@
 {
   "date": "2026-11-12",
-  "generated_at": "2026-11-12T16:06:41+08:00",
-  "count": 18,
+  "generated_at": "2026-11-13T04:39:23+08:00",
+  "count": 28,
   "items": [
+    {
+      "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
+      "desc": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-11-12T23:48:12+08:00",
+      "time": "23:48"
+    },
+    {
+      "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+      "desc": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
+      "link": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-11-12T23:37:29+08:00",
+      "time": "23:37"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
+      "desc": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-11-12T23:01:31+08:00",
+      "time": "23:01"
+    },
+    {
+      "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
+      "desc": "Smartglasses have always faced an uphill road to acceptance. Not only is propping a computer up on your nose an uncomfortable proposition, but the privacy…",
+      "link": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
+      "source": "Ars Technica",
+      "category": "模型",
+      "published": "2026-11-12T22:50:17+08:00",
+      "time": "22:50"
+    },
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "desc": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S…",
+      "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-11-12T22:30:01+08:00",
+      "time": "22:30"
+    },
+    {
+      "title": "I reviewed the Apple HomeView, ask me anything",
+      "desc": "Getting up close and personal with the Apple HomeView. | Photo: Hunter McRae for The Verge Hi! I'm Jen Tuohy, The Verge's senior smart home reviewer…",
+      "link": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything",
+      "source": "The Verge AI",
+      "category": "政策",
+      "published": "2026-11-12T22:10:00+08:00",
+      "time": "22:10"
+    },
+    {
+      "title": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
+      "desc": "「CAD拆解」",
+      "link": "https://www.qbitai.com/2026/11/509440.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-11-12T19:36:20+08:00",
+      "time": "19:36"
+    },
+    {
+      "title": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
+      "desc": "银河智学首席科学家邓澍军博士发表主题演讲",
+      "link": "https://www.qbitai.com/2026/11/509404.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-11-12T18:45:33+08:00",
+      "time": "18:45"
+    },
+    {
+      "title": "马斯克Grok泄露自家机密！SpaceX特斯拉工资绩效全曝光",
+      "desc": "Grok在让人破绷这件事上，从来不会让人失望。",
+      "link": "https://www.qbitai.com/2026/11/509355.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-11-12T18:08:24+08:00",
+      "time": "18:08"
+    },
+    {
+      "title": "10个月融资20轮，第三方AI Infra为何越有争议越抢手？",
+      "desc": "海外Neocloud（新云厂商）的融资模式遭到质疑，国内第三方AI Infra企业的融资却在加速。 上月，无问芯穹、清程极智、趋境科技相继宣布完成新一轮融资。雷峰网梳理八家国内第三方AI Infra企业的融资历程发现，2026年前10个月，这些企业累计完成了20轮融资…",
+      "link": "https://www.leiphone.com/category/chips/ouA8GvSp9LIhZPmp.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-12T17:47:00+08:00",
+      "time": "17:47"
+    },
     {
       "title": "「失声」的头部跨境ERP领星，亲手把自己拖入了信任危机",
       "desc": "过去的一周，中国跨境行业发生了一起最致命的突发事故。 头部跨境ERP企业领星的WMS仓库管理系统全面崩盘，6000多家海外仓、数以万计卖家的履约链路全线停摆，大量订单停滞积压，摆在电脑前的只有满屏的系统报错截图、卡单预警、平台发货超时警告和处罚提醒…",

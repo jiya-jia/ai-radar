@@ -1,7 +1,7 @@
 {
   "date": "2026-11-11",
-  "generated_at": "2026-11-12T16:06:41+08:00",
-  "count": 25,
+  "generated_at": "2026-11-13T04:39:23+08:00",
+  "count": 28,
   "items": [
     {
       "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
@@ -11,6 +11,15 @@
       "category": "资讯",
       "published": "2026-11-11T23:00:00+08:00",
       "time": "23:00"
+    },
+    {
+      "title": "Google DeepMind just mathematically verified key parts of Signal",
+      "desc": "Google DeepMind researchers used agentic AI to mathematically prove, or “formally verify,” a number of the Signal protocol’s key cryptographic guarantees—a…",
+      "link": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
+      "source": "Ars Technica",
+      "category": "研究",
+      "published": "2026-11-11T22:08:57+08:00",
+      "time": "22:08"
     },
     {
       "title": "纯代码造《后室》，116秒切20种画风！文心新模型玩嗨了",
@@ -38,6 +47,24 @@
       "category": "机器人",
       "published": "2026-11-11T17:58:49+08:00",
       "time": "17:58"
+    },
+    {
+      "title": "双十一换机正当时：华为Mate X7购机好礼，降低折叠旗舰换新门槛",
+      "desc": "双十一临近尾声，手机市场换新热潮持续走高。不少华为老用户面临换新抉择：手中的华为直板机虽可正常使用，但电池已需一天两充，夜景拍摄时常模糊，多应用同开切换偶尔卡顿……如果换新直板旗舰，仅能收获影像、性能的小幅提升，日常用起来几乎没有区别，新鲜感三天就没了…",
+      "link": "https://www.leiphone.com/category/industrynews/C6UjjlUlmA70WLVq.html",
+      "source": "雷峰网",
+      "category": "产品",
+      "published": "2026-11-11T17:31:00+08:00",
+      "time": "17:31"
+    },
+    {
+      "title": "阿里云获中国游戏云市场整体和六项细分第一",
+      "desc": "近日，国际数据公司（IDC）最新发布的《中国游戏云市场跟踪研究，2026H1》报告显示，2026年上半年阿里云以37%的市场份额位居整体市场第一，并在基础设施IaaS+CDN、基础设施IaaS+解决方案、基础设施IaaS、解决方案、通用云平台、云游戏平台六大细分市场获得第一…",
+      "link": "https://www.leiphone.com/category/industrynews/JfRMJsIb0HJvjdrl.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-11-11T15:20:00+08:00",
+      "time": "15:20"
     },
     {
       "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
