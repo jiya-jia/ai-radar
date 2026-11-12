@@ -1,8 +1,107 @@
 {
   "date": "2026-11-12",
-  "generated_at": "2026-11-12T04:00:25+08:00",
-  "count": 7,
+  "generated_at": "2026-11-12T16:06:41+08:00",
+  "count": 18,
   "items": [
+    {
+      "title": "「失声」的头部跨境ERP领星，亲手把自己拖入了信任危机",
+      "desc": "过去的一周，中国跨境行业发生了一起最致命的突发事故。 头部跨境ERP企业领星的WMS仓库管理系统全面崩盘，6000多家海外仓、数以万计卖家的履约链路全线停摆，大量订单停滞积压，摆在电脑前的只有满屏的系统报错截图、卡单预警、平台发货超时警告和处罚提醒…",
+      "link": "https://www.leiphone.com/category/industrynews/E94acArQHXRwtUGl.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-12T13:48:00+08:00",
+      "time": "13:48"
+    },
+    {
+      "title": "豆包工作接入更多模型 并推出限时额度优惠",
+      "desc": "为满足用户根据不同任务自主选择模型的需求，11月12日，豆包工作正式接入 Kimi 3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash 等多款第三方模型，并推出限时特惠计划。用户可根据实际工作需要，选择相应模型完成任务…",
+      "link": "https://www.leiphone.com/category/industrynews/5Y2bdtPv21ZnFJCY.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-11-12T11:12:00+08:00",
+      "time": "11:12"
+    },
+    {
+      "title": "灵光生态再扩容！新增微信 ClawBot、QQ机器人、瑞幸咖啡等六大连接器",
+      "desc": "11月12日，灵光开放生态再次扩容，新增支持微信 ClawBot、QQ机器人、瑞幸咖啡、有道云笔记、滴答清单、腾讯新闻等六大连接器。连接器拓宽了灵光的能力边界，此次扩容让灵光的服务覆盖即时通讯、知识管理、任务协同等高频场景，外部连接服务增加到47项…",
+      "link": "https://www.leiphone.com/category/industrynews/nKpbdFlkI7WUDqOl.html",
+      "source": "雷峰网",
+      "category": "机器人",
+      "published": "2026-11-12T11:04:00+08:00",
+      "time": "11:04"
+    },
+    {
+      "title": "低调追赶的文心，一口气打出了快、省、开源三张牌",
+      "desc": "文心这轮追赶够不够硬？ 作者丨 周蕾 林杰鑫 编辑丨 岑峰 今天，百度文心 5.5 Flash Preview 正式发布，这已是文心在一周之内的第三次出牌。 11月5日，基座模型文心 5.5 Flash Base开源； 11月9日，首次披露 RSI 进展，发布 ERNIE Evolve…",
+      "link": "https://www.leiphone.com/category/ai/b3ASOkGmqznTQWCH.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-11-12T10:46:00+08:00",
+      "time": "10:46"
+    },
+    {
+      "title": "“双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段",
+      "desc": "跨境称重量方等场景完成PMF验证并出现客户复购，新一代构型机器人计划12月底发布",
+      "link": "https://www.qbitai.com/2026/11/509281.html",
+      "source": "量子位",
+      "category": "机器人",
+      "published": "2026-11-12T09:45:04+08:00",
+      "time": "09:45"
+    },
+    {
+      "title": "突发！黄仁勋被曝与高管有新婚外情，英伟达启动罢免，猎头已物色其接班人；百度发布文心全新开源模型；余承东官宣华为子品牌「星芒」",
+      "desc": "要闻提示 1.突发！黄仁勋被曝与高管有新婚外情，英伟达董事会启动罢免，猎头已物色其接班人 2.奔驰 CEO 康林松：在中国，“车要大，非常大，大得惊人” 3.百度文心发布 ERNIE 5.5 Flash Preview 模型…",
+      "link": "https://www.leiphone.com/category/zaobao/eX3oZsWdbpVbMcto.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-12T09:23:00+08:00",
+      "time": "09:23"
+    },
+    {
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "desc": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+      "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-11-12T07:28:45+08:00",
+      "time": "07:28"
+    },
+    {
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "desc": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a…",
+      "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-11-12T07:17:05+08:00",
+      "time": "07:17"
+    },
+    {
+      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+      "desc": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair , just days after…",
+      "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-11-12T06:44:36+08:00",
+      "time": "06:44"
+    },
+    {
+      "title": "United won’t let your AI agent book your flight",
+      "desc": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-11-12T05:54:21+08:00",
+      "time": "05:54"
+    },
+    {
+      "title": "Meta is losing its longtime head of infrastructure",
+      "desc": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
+      "link": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-11-12T04:12:01+08:00",
+      "time": "04:12"
+    },
     {
       "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
       "desc": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher…",

@@ -1,7 +1,7 @@
 {
   "date": "2026-11-11",
-  "generated_at": "2026-11-12T04:00:25+08:00",
-  "count": 23,
+  "generated_at": "2026-11-12T16:06:41+08:00",
+  "count": 25,
   "items": [
     {
       "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
@@ -13,6 +13,15 @@
       "time": "23:00"
     },
     {
+      "title": "纯代码造《后室》，116秒切20种画风！文心新模型玩嗨了",
+      "desc": "模型即将开源",
+      "link": "https://www.qbitai.com/2026/11/509224.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-11-11T20:43:54+08:00",
+      "time": "20:43"
+    },
+    {
       "title": "和大疆抢食，这家公司做了台桌面摄影机器人",
       "desc": "一个美食创作者想把镜头从餐桌全景慢慢推到一碗面上。这个动作不难，难的是他没有第二个人帮他推，也没有空间在桌上架一条滑轨。最后他切了一个固定机位，画面清楚，但缺少呼吸感。 这张桌子，是今天很多内容创作的真实现场。产品测评、美食、美妆、直播、带货，大量拍摄都发生在几平方米之内…",
       "link": "https://www.leiphone.com/category/weiwu/7us3N77Jwt0jzWda.html",
@@ -20,6 +29,15 @@
       "category": "融资",
       "published": "2026-11-11T18:29:00+08:00",
       "time": "18:29"
+    },
+    {
+      "title": "机器人接管酒店洗衣！双脑协同+RSI，顶级Astra驾驶员来了",
+      "desc": "复刻一个物理世界",
+      "link": "https://www.qbitai.com/2026/11/509203.html",
+      "source": "量子位",
+      "category": "机器人",
+      "published": "2026-11-11T17:58:49+08:00",
+      "time": "17:58"
     },
     {
       "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
