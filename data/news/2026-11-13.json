@@ -1,8 +1,71 @@
 {
   "date": "2026-11-13",
-  "generated_at": "2026-11-13T15:42:46+08:00",
-  "count": 19,
+  "generated_at": "2026-11-14T04:20:23+08:00",
+  "count": 26,
   "items": [
+    {
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "desc": "Let’s get to work. | Photo: Allison Johnson / The Verge Normally, the products I test don't offer to help me write up my experience with them…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-11-13T22:00:00+08:00",
+      "time": "22:00"
+    },
+    {
+      "title": "独家丨港大孵化的半导体材料公司，融资数千万",
+      "desc": "一个发表于《Nature》的技术，能在三步剥出晶圆级薄膜，公司获耀途独家投资。 作者丨陈玘凡 编辑 丨吴优 雷峰网 ·鲸犀独家获悉， 半导体材料公司钻耐科思科技（DiamNEX）已完成 数千万元 新一轮融资，由耀途资本独家投资…",
+      "link": "https://www.leiphone.com/category/weiwu/DewyIGiyxQl09nUM.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-13T17:22:00+08:00",
+      "time": "17:22"
+    },
+    {
+      "title": "独家丨一家主动灭火的智慧消防公司，融资超千万",
+      "desc": "把 AI 用在“水火之间”——菲思拓的整体方案，已接入超三万家单位。 作者丨 陈玘凡 编辑 丨吴优 雷峰网·鲸犀独家获悉，做主动灭火的智慧消防公司菲思拓已完成千万级天使轮融资，投资方为北京国润智投科技有限公司。 菲思拓 已经开启新一轮融资， 投前估值 3 亿元，本轮资金意在进行产品研发、市场拓展和推动产能落地…",
+      "link": "https://www.leiphone.com/category/weiwu/c3euXbtYsl0O6fm2.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-13T17:04:00+08:00",
+      "time": "17:04"
+    },
+    {
+      "title": "黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿",
+      "desc": "一个时代结束了",
+      "link": "https://www.qbitai.com/2026/11/509995.html",
+      "source": "量子位",
+      "category": "芯片",
+      "published": "2026-11-13T17:02:39+08:00",
+      "time": "17:02"
+    },
+    {
+      "title": "英伟达博客发声：她不一样，她懂显卡 ( bushi )，她懂端到端！",
+      "desc": "她叫Alpamayo 2 Edge，因果推理结合扩散动作，端到端输出闭环表现提升 48.9%。 作者丨 郑佳美 编辑丨岑 峰 点开前，你以为老黄家的惊天大瓜又有了什么后续； 点开后才发现：这个“她”连人都不是。 她叫 Alpamayo 2 Edge。 英伟达11月10日刚发布出来的一款端到端自动驾驶模型…",
+      "link": "https://www.leiphone.com/category/ai/1jG5k34DSlHSSJE9.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-11-13T15:49:00+08:00",
+      "time": "15:49"
+    },
+    {
+      "title": "高难盲测超越GPT-6-Astra与Opus-5！无界前沿开源Fx-Bio-1031，把RSI带进生命科学",
+      "desc": "数据不出域、本地可部署",
+      "link": "https://www.qbitai.com/2026/11/509663.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-11-13T15:06:32+08:00",
+      "time": "15:06"
+    },
+    {
+      "title": "openJiuwen发布RSI原生AgentOS，让Agent自由变身，持续迭代！",
+      "desc": "想要什么功能，让Agent自己开发",
+      "link": "https://www.qbitai.com/2026/11/509653.html",
+      "source": "量子位",
+      "category": "产品",
+      "published": "2026-11-13T14:54:44+08:00",
+      "time": "14:54"
+    },
     {
       "title": "独家丨腾讯 AI 李牧青离职，出任 AI 公司联席 CEO",
       "desc": "雷峰网独家获悉，近日，腾讯云 AI 全球业务负责人李牧青，正式出任教育 AI 科技公司启鸣达人联席 CEO。 雷峰网了解到，李牧青本科、硕士毕业于上海交通大学，曾任 UCLA 访问学者。2016 年，他加入依图科技，主导早期 AI 产业化体系的建设，亲历「AI 四小龙」从初创走向鼎盛…",

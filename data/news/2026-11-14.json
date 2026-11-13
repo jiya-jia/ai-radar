@@ -1,0 +1,52 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T04:20:23+08:00",
+  "count": 5,
+  "items": [
+    {
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "desc": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-11-14T03:37:57+08:00",
+      "time": "03:37"
+    },
+    {
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+      "desc": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-11-14T02:40:30+08:00",
+      "time": "02:40"
+    },
+    {
+      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "desc": "How do you think you're going to die? If you go by the current statistics for deaths in the US , it's reasonable to expect that cancer or heart disease will…",
+      "link": "https://arstechnica.com/features/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "source": "Ars Technica",
+      "category": "研究",
+      "published": "2026-11-14T01:25:45+08:00",
+      "time": "01:25"
+    },
+    {
+      "title": "浙大彭思达：从元宇宙到具身智能，一个三维视觉研究者的八年 | 世界模型50人",
+      "desc": "八年研究，两个落地系统，超六万GitHub Stars。 作者丨 李秋悦 编辑丨 吴 彤 一支女团跳舞，镜头不必再听导演安排，观众甚至能看到拍摄时不存在的机位。 传统MV拍摄，摄影机架在哪里，观众看到的就是哪个角度…",
+      "link": "https://www.leiphone.com/category/ai/lpK3LQWqmpZP8jcG.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-11-14T00:50:00+08:00",
+      "time": "00:50"
+    },
+    {
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "desc": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-11-14T00:00:12+08:00",
+      "time": "00:00"
+    }
+  ]
+}
