@@ -1,8 +1,71 @@
 {
   "date": "2026-11-13",
-  "generated_at": "2026-11-13T04:39:23+08:00",
-  "count": 12,
+  "generated_at": "2026-11-13T15:42:46+08:00",
+  "count": 19,
   "items": [
+    {
+      "title": "独家丨腾讯 AI 李牧青离职，出任 AI 公司联席 CEO",
+      "desc": "雷峰网独家获悉，近日，腾讯云 AI 全球业务负责人李牧青，正式出任教育 AI 科技公司启鸣达人联席 CEO。 雷峰网了解到，李牧青本科、硕士毕业于上海交通大学，曾任 UCLA 访问学者。2016 年，他加入依图科技，主导早期 AI 产业化体系的建设，亲历「AI 四小龙」从初创走向鼎盛…",
+      "link": "https://www.leiphone.com/category/industrynews/xfpQo71RiPDWJHvS.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-11-13T11:43:00+08:00",
+      "time": "11:43"
+    },
+    {
+      "title": "VLM 在预测性空间推理上的缺口还有多大？21 个模型，最高准确率仅 58.0%",
+      "desc": "空间专项模型反而不如通用模型？浙大庄越挺团队提出空间智能新基准 作者丨 张岂萍 编辑丨 幸丽娟 空间智能正在成为 AI 竞赛的主战场。视觉语言模型（Vision-Language Model，VLM）已经能回答不少空间问题：一个物体在另一个物体的哪一侧，两者距离多远，换一个视角后物体在哪里…",
+      "link": "https://www.leiphone.com/category/academic/Ma9dfYJE9ifGDZ9I.html",
+      "source": "雷峰网",
+      "category": "机器人",
+      "published": "2026-11-13T10:59:00+08:00",
+      "time": "10:59"
+    },
+    {
+      "title": "灵睿智芯完成数亿元Pre-A+轮融资，产业资本密集押注",
+      "desc": "近日，上海灵睿智芯计算技术有限公司（以下简称“灵睿智芯”）宣布完成数亿元Pre-A+轮融资。本轮融资由美团战投领投，京东关联基金、干杯基金、力合算芯基金（东方算芯CVC）、钧犀资本、商汤国香资本、尚颀资本（上汽CVC）、深信服科技的产业投资基金琥珀资本等头部产业资本和众多老股东跟投…",
+      "link": "https://www.leiphone.com/category/chips/yAWrh861diKVS1KU.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-13T09:52:00+08:00",
+      "time": "09:52"
+    },
+    {
+      "title": "百度智能云与普渡机器人达成战略合作 聚焦具身模型训练、真实场景数据等四大方向",
+      "desc": "11月12日，在2026百度世界大会期间，百度与全球商用服务机器人领军企业深圳市普渡科技股份有限公司正式达成战略合作。百度智能云将为普渡提供模型训练所需的基础设施与云服务支撑；普渡将依托自身技术体系，自主开展具身基座模型训练，建设完善多元场景数据体系，并推进智能体平台能力升级。双方还将在产业生态协同方面展开深度合作…",
+      "link": "https://www.leiphone.com/category/industrynews/AXjuWVSD7DdsPxls.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-11-13T09:19:00+08:00",
+      "time": "09:19"
+    },
+    {
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "desc": "The US government has expanded the use of an AI tool for advising air traffic controllers to assist in managing air traffic across the entire national airspace…",
+      "link": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "source": "Ars Technica",
+      "category": "资讯",
+      "published": "2026-11-13T06:28:47+08:00",
+      "time": "06:28"
+    },
+    {
+      "title": "Google’s new Gemini model is better at understanding complicated questions",
+      "desc": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-11-13T05:55:32+08:00",
+      "time": "05:55"
+    },
+    {
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "desc": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for…",
+      "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "source": "MIT Tech Review",
+      "category": "芯片",
+      "published": "2026-11-13T04:16:24+08:00",
+      "time": "04:16"
+    },
     {
       "title": "No, AI agents did not discover a previously unknown Maya site",
       "desc": "Pietro Miotti \" data-portal-copyright=\"Image: Pietro Miotti \" data-has-syndication-rights=\"1\"…",

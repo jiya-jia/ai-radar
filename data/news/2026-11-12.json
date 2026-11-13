@@ -1,7 +1,7 @@
 {
   "date": "2026-11-12",
-  "generated_at": "2026-11-13T04:39:23+08:00",
-  "count": 28,
+  "generated_at": "2026-11-13T15:42:46+08:00",
+  "count": 32,
   "items": [
     {
       "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
@@ -20,6 +20,24 @@
       "category": "芯片",
       "published": "2026-11-12T23:37:29+08:00",
       "time": "23:37"
+    },
+    {
+      "title": "Norwest pushes deeper into AI with new $4B fund",
+      "desc": "This is the investment firm's largest fund to date.",
+      "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-11-12T23:18:14+08:00",
+      "time": "23:18"
+    },
+    {
+      "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+      "desc": "This is Fireworks' second data breach in as many months.",
+      "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-11-12T23:02:28+08:00",
+      "time": "23:02"
     },
     {
       "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
@@ -94,6 +112,15 @@
       "time": "17:47"
     },
     {
+      "title": "姚期智杨植麟首次联手给 AI 出的博士级题目，Kimi 多画出了「关键一条边」",
+      "desc": "Kimi 刷新 629 条边图论参考纪录，只多加了1条边，为什么数学界等了这么多年？ 作者丨 郑佳美 编辑丨岑 峰 给 124 个点连线，不能出现三角形，也不能出现四边形。此前的参考记录是 629 条——数学界认为这已经接近极限。而Kimi K3 构造出了 630 条边的图，并通过程序验证。 多1条边，听起来不多…",
+      "link": "https://www.leiphone.com/category/ai/3vRqaeAILJdgRlhL.html",
+      "source": "雷峰网",
+      "category": "研究",
+      "published": "2026-11-12T17:09:00+08:00",
+      "time": "17:09"
+    },
+    {
       "title": "「失声」的头部跨境ERP领星，亲手把自己拖入了信任危机",
       "desc": "过去的一周，中国跨境行业发生了一起最致命的突发事故。 头部跨境ERP企业领星的WMS仓库管理系统全面崩盘，6000多家海外仓、数以万计卖家的履约链路全线停摆，大量订单停滞积压，摆在电脑前的只有满屏的系统报错截图、卡单预警、平台发货超时警告和处罚提醒…",
       "link": "https://www.leiphone.com/category/industrynews/E94acArQHXRwtUGl.html",
@@ -101,6 +128,15 @@
       "category": "融资",
       "published": "2026-11-12T13:48:00+08:00",
       "time": "13:48"
+    },
+    {
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "desc": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+      "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-11-12T11:13:10+08:00",
+      "time": "11:13"
     },
     {
       "title": "豆包工作接入更多模型 并推出限时额度优惠",
