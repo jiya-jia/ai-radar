@@ -1,7 +1,7 @@
 {
   "date": "2026-11-13",
-  "generated_at": "2026-11-14T04:20:23+08:00",
-  "count": 26,
+  "generated_at": "2026-11-14T15:29:22+08:00",
+  "count": 27,
   "items": [
     {
       "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
@@ -11,6 +11,15 @@
       "category": "模型",
       "published": "2026-11-13T22:00:00+08:00",
       "time": "22:00"
+    },
+    {
+      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+      "desc": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+      "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-11-13T20:52:19+08:00",
+      "time": "20:52"
     },
     {
       "title": "独家丨港大孵化的半导体材料公司，融资数千万",

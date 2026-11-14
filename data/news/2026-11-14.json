@@ -1,8 +1,44 @@
 {
   "date": "2026-11-14",
-  "generated_at": "2026-11-14T04:20:23+08:00",
-  "count": 5,
+  "generated_at": "2026-11-14T15:29:22+08:00",
+  "count": 10,
   "items": [
+    {
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "desc": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available…",
+      "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "source": "The Verge AI",
+      "category": "研究",
+      "published": "2026-11-14T07:49:11+08:00",
+      "time": "07:49"
+    },
+    {
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "desc": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-11-14T06:43:00+08:00",
+      "time": "06:43"
+    },
+    {
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "desc": "The US government has expanded the use of an AI tool for advising air traffic controllers to assist in managing air traffic across the entire national airspace…",
+      "link": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "source": "Ars Technica",
+      "category": "资讯",
+      "published": "2026-11-14T05:20:47+08:00",
+      "time": "05:20"
+    },
+    {
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "desc": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-11-14T04:45:10+08:00",
+      "time": "04:45"
+    },
     {
       "title": "AI agent startup LangChain hits $3B valuation",
       "desc": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
@@ -25,6 +61,15 @@
       "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
       "desc": "How do you think you're going to die? If you go by the current statistics for deaths in the US , it's reasonable to expect that cancer or heart disease will…",
       "link": "https://arstechnica.com/features/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "source": "Ars Technica",
+      "category": "研究",
+      "published": "2026-11-14T01:25:45+08:00",
+      "time": "01:25"
+    },
+    {
+      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "desc": "How do you think you're going to die? If you go by the current statistics for deaths in the US , it's reasonable to expect that cancer or heart disease will…",
+      "link": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
       "source": "Ars Technica",
       "category": "研究",
       "published": "2026-11-14T01:25:45+08:00",
