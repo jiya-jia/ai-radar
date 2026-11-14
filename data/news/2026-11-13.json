@@ -1,8 +1,17 @@
 {
   "date": "2026-11-13",
-  "generated_at": "2026-11-14T15:29:22+08:00",
-  "count": 27,
+  "generated_at": "2026-11-15T02:39:07+08:00",
+  "count": 30,
   "items": [
+    {
+      "title": "What’s really at stake in the Jensen Huang saga",
+      "desc": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company…",
+      "link": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-11-13T22:47:16+08:00",
+      "time": "22:47"
+    },
     {
       "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
       "desc": "Let’s get to work. | Photo: Allison Johnson / The Verge Normally, the products I test don't offer to help me write up my experience with them…",
@@ -49,6 +58,15 @@
       "time": "17:02"
     },
     {
+      "title": "MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！",
+      "desc": "12.9 北京，来MEET2027现场",
+      "link": "https://www.qbitai.com/2026/11/509827.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-11-13T15:51:08+08:00",
+      "time": "15:51"
+    },
+    {
       "title": "英伟达博客发声：她不一样，她懂显卡 ( bushi )，她懂端到端！",
       "desc": "她叫Alpamayo 2 Edge，因果推理结合扩散动作，端到端输出闭环表现提升 48.9%。 作者丨 郑佳美 编辑丨岑 峰 点开前，你以为老黄家的惊天大瓜又有了什么后续； 点开后才发现：这个“她”连人都不是。 她叫 Alpamayo 2 Edge。 英伟达11月10日刚发布出来的一款端到端自动驾驶模型…",
       "link": "https://www.leiphone.com/category/ai/1jG5k34DSlHSSJE9.html",
@@ -56,6 +74,15 @@
       "category": "芯片",
       "published": "2026-11-13T15:49:00+08:00",
       "time": "15:49"
+    },
+    {
+      "title": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
+      "desc": "250名国内顶尖三甲医院医生联合评测",
+      "link": "https://www.qbitai.com/2026/11/509796.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-11-13T15:43:03+08:00",
+      "time": "15:43"
     },
     {
       "title": "高难盲测超越GPT-6-Astra与Opus-5！无界前沿开源Fx-Bio-1031，把RSI带进生命科学",
