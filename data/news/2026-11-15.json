@@ -1,8 +1,17 @@
 {
   "date": "2026-11-15",
-  "generated_at": "2026-11-15T15:42:26+08:00",
-  "count": 4,
+  "generated_at": "2026-11-16T03:15:01+08:00",
+  "count": 5,
   "items": [
+    {
+      "title": "An overview of Jensen Huang’s messy days",
+      "desc": "This is The Stepback , a weekly newsletter breaking down one essential story from the tech world…",
+      "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-11-15T21:00:00+08:00",
+      "time": "21:00"
+    },
     {
       "title": "Where was Nvidia’s security team?",
       "desc": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a…",
