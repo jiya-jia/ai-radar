@@ -1,8 +1,17 @@
 {
   "date": "2026-11-13",
-  "generated_at": "2026-11-15T02:39:07+08:00",
-  "count": 30,
+  "generated_at": "2026-11-15T15:42:26+08:00",
+  "count": 34,
   "items": [
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "desc": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S…",
+      "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-11-13T23:58:00+08:00",
+      "time": "23:58"
+    },
     {
       "title": "What’s really at stake in the Jensen Huang saga",
       "desc": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company…",
@@ -31,6 +40,15 @@
       "time": "20:52"
     },
     {
+      "title": "Let’s talk about Jensen Huang’s many affairs!",
+      "desc": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-11-13T20:00:00+08:00",
+      "time": "20:00"
+    },
+    {
       "title": "独家丨港大孵化的半导体材料公司，融资数千万",
       "desc": "一个发表于《Nature》的技术，能在三步剥出晶圆级薄膜，公司获耀途独家投资。 作者丨陈玘凡 编辑 丨吴优 雷峰网 ·鲸犀独家获悉， 半导体材料公司钻耐科思科技（DiamNEX）已完成 数千万元 新一轮融资，由耀途资本独家投资…",
       "link": "https://www.leiphone.com/category/weiwu/DewyIGiyxQl09nUM.html",
@@ -38,6 +56,15 @@
       "category": "融资",
       "published": "2026-11-13T17:22:00+08:00",
       "time": "17:22"
+    },
+    {
+      "title": "中金公司与蚂蚁集团达成战略合作 共探AI赋能财富管理",
+      "desc": "11月13日，中国国际金融股份有限公司（简称“中金公司”）与蚂蚁科技集团股份有限公司（简称“蚂蚁集团”）签署战略合作协议。 双方将结合中金公司在专业投研、金融服务等方面的积累，以及蚂蚁集团在人工智能、行业生态、客户运营等方面的优势，围绕金融大模型技术创新、AI赋能财富管理、客户全生命周期服务等领域开展合作…",
+      "link": "https://www.leiphone.com/category/industrynews/U7WtbV9kyb90UuZ0.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-13T17:05:00+08:00",
+      "time": "17:05"
     },
     {
       "title": "独家丨一家主动灭火的智慧消防公司，融资超千万",
@@ -83,6 +110,15 @@
       "category": "资讯",
       "published": "2026-11-13T15:43:03+08:00",
       "time": "15:43"
+    },
+    {
+      "title": "谷歌的遗憾，被高德弥补了",
+      "desc": "谷歌曾在I/O 开发者大会上展示了一段令外界惊叹的演示：用户可以从高空“飞入”3D地图，沉浸式感受城市街景。 不过，这项被称为“沉浸式视图”的功能，至今仍未在谷歌地图中规模化落地。反倒是在今年，国内的高德后来居上，用更前沿的技术，将飞行视角从街道延伸至了店铺，并且真正实现了规模化应用…",
+      "link": "https://www.leiphone.com/category/industrynews/VKIfDDIJRVZxJZR7.html",
+      "source": "雷峰网",
+      "category": "研究",
+      "published": "2026-11-13T15:15:00+08:00",
+      "time": "15:15"
     },
     {
       "title": "高难盲测超越GPT-6-Astra与Opus-5！无界前沿开源Fx-Bio-1031，把RSI带进生命科学",

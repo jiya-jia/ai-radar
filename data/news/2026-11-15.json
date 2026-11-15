@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T15:42:26+08:00",
+  "count": 4,
+  "items": [
+    {
+      "title": "Where was Nvidia’s security team?",
+      "desc": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a…",
+      "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-11-15T08:08:07+08:00",
+      "time": "08:08"
+    },
+    {
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "desc": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-11-15T05:41:22+08:00",
+      "time": "05:41"
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "desc": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch AI",
+      "category": "产品",
+      "published": "2026-11-15T01:30:00+08:00",
+      "time": "01:30"
+    },
+    {
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "desc": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+      "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-11-15T00:34:15+08:00",
+      "time": "00:34"
+    }
+  ]
+}
