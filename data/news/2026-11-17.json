@@ -1,0 +1,124 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T06:44:19+08:00",
+  "count": 13,
+  "items": [
+    {
+      "title": "California sues OpenAI over rogue AI hacking incidents",
+      "desc": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "source": "The Verge AI",
+      "category": "政策",
+      "published": "2026-11-17T04:46:01+08:00",
+      "time": "04:46"
+    },
+    {
+      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+      "desc": "Sam…thank you. | Image: Getty Images OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-11-17T04:41:28+08:00",
+      "time": "04:41"
+    },
+    {
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "desc": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
+      "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "source": "TechCrunch AI",
+      "category": "政策",
+      "published": "2026-11-17T04:07:13+08:00",
+      "time": "04:07"
+    },
+    {
+      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+      "desc": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some…",
+      "link": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+      "source": "The Verge AI",
+      "category": "产品",
+      "published": "2026-11-17T03:24:40+08:00",
+      "time": "03:24"
+    },
+    {
+      "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+      "desc": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly…",
+      "link": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-11-17T03:23:45+08:00",
+      "time": "03:23"
+    },
+    {
+      "title": "US moves to cut China’s remote access to AI chips",
+      "desc": "On the heels of the Nvidia scandal , the Trump administration is preparing to crack down on foreign data centers that are fueling China’s advancements in…",
+      "link": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+      "source": "Ars Technica",
+      "category": "芯片",
+      "published": "2026-11-17T03:10:09+08:00",
+      "time": "03:10"
+    },
+    {
+      "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
+      "desc": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC…",
+      "link": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-11-17T02:43:35+08:00",
+      "time": "02:43"
+    },
+    {
+      "title": "The open-source movement wants Jensen Huang back",
+      "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here…",
+      "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "source": "MIT Tech Review",
+      "category": "芯片",
+      "published": "2026-11-17T02:38:47+08:00",
+      "time": "02:38"
+    },
+    {
+      "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+      "desc": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine”…",
+      "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-11-17T02:11:10+08:00",
+      "time": "02:11"
+    },
+    {
+      "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+      "desc": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+      "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+      "source": "TechCrunch AI",
+      "category": "产品",
+      "published": "2026-11-17T01:36:43+08:00",
+      "time": "01:36"
+    },
+    {
+      "title": "OpenAI will embed safety researchers to investigate AI subversion",
+      "desc": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure…",
+      "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+      "source": "TechCrunch AI",
+      "category": "研究",
+      "published": "2026-11-17T01:02:43+08:00",
+      "time": "01:02"
+    },
+    {
+      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "desc": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
+      "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+      "source": "TechCrunch AI",
+      "category": "政策",
+      "published": "2026-11-17T01:00:00+08:00",
+      "time": "01:00"
+    },
+    {
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
+      "desc": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them…",
+      "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "source": "MIT Tech Review",
+      "category": "融资",
+      "published": "2026-11-17T00:04:28+08:00",
+      "time": "00:04"
+    }
+  ]
+}
