@@ -1,8 +1,35 @@
 {
   "date": "2026-11-17",
-  "generated_at": "2026-11-17T16:56:40+08:00",
-  "count": 16,
+  "generated_at": "2026-11-18T05:30:25+08:00",
+  "count": 21,
   "items": [
+    {
+      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+      "desc": "Researchers recently discovered unexpected behavior from Grok Bot, the AI agent platform from Elon Musk’s SpaceXSI…",
+      "link": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+      "source": "Ars Technica",
+      "category": "芯片",
+      "published": "2026-11-17T22:00:29+08:00",
+      "time": "22:00"
+    },
+    {
+      "title": "李沐加盟的Aimotion，是一家什么AI公司？",
+      "desc": "瞄准「产业级世界模型」",
+      "link": "https://www.qbitai.com/2026/11/510688.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-11-17T19:40:37+08:00",
+      "time": "19:40"
+    },
+    {
+      "title": "“BAT 做 Personal Agent，我没那么乐观”",
+      "desc": "“国内大厂里面，你最看好哪家公司做 Personal Agent？” 过去这一个月，自从北美那边Instinct、Muse 这俩产品爆火后，投资人刘墨昱每次去见同行和朋友，这个话题都会被反复拎出来讨论。 然而，这偏偏又是一个没有共识的问题…",
+      "link": "https://www.leiphone.com/category/CorporateServices/7flnC8myrlPgPbPs.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-17T16:34:00+08:00",
+      "time": "16:34"
+    },
     {
       "title": "闲鱼亮相联合国气候变化大会：AI加速闲置流转，低碳融入日常",
       "desc": "一台上架长达923天的相机，在AI辅助调整商品信息和价格并重新发布后，仅用时约两小时便成功出售；一台屏幕损坏、看似失去使用价值的便携影音播放器，经AI梳理故障和剩余可用功能后，仅65分钟便找到了买家，实现物尽其用…",
@@ -11,6 +38,24 @@
       "category": "模型",
       "published": "2026-11-17T14:40:00+08:00",
       "time": "14:40"
+    },
+    {
+      "title": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
+      "desc": "筛材料、找配方、开发新模型…拿下多项科研任务",
+      "link": "https://www.qbitai.com/2026/11/510652.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-11-17T14:09:40+08:00",
+      "time": "14:09"
+    },
+    {
+      "title": "奥特曼共情黄仁勋，“英雄也有缺陷”，但支持他重返英伟达CEO嘛…",
+      "desc": "奥特曼首谈黄仁勋离职",
+      "link": "https://www.qbitai.com/2026/11/510592.html",
+      "source": "量子位",
+      "category": "芯片",
+      "published": "2026-11-17T10:33:13+08:00",
+      "time": "10:33"
     },
     {
       "title": "网传360集团副总裁涉贪腐问题被带走调查；英伟达董事会：没考虑让黄仁勋复任CEO；知名手游宣布明年3月停止运营，曾月流水破10亿",

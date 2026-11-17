@@ -1,0 +1,106 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T05:30:25+08:00",
+  "count": 11,
+  "items": [
+    {
+      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+      "desc": "Open AI CEO Sam Altman does a television interview | Getty Images Instagram is filled with people posting deepfaked content - including, as of late, from one…",
+      "link": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-11-18T05:00:55+08:00",
+      "time": "05:00"
+    },
+    {
+      "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
+      "desc": "On Monday, large trucks began circling the streets of Washington, DC, carrying billboards urging Congress to investigate the Trump administration’s ties with…",
+      "link": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
+      "source": "Ars Technica",
+      "category": "芯片",
+      "published": "2026-11-18T04:32:55+08:00",
+      "time": "04:32"
+    },
+    {
+      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "desc": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+      "link": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-11-18T03:02:20+08:00",
+      "time": "03:02"
+    },
+    {
+      "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+      "desc": "You can now switch from the “Chat” toggle to “Tasks.” | Image: Google Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use…",
+      "link": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-11-18T02:58:01+08:00",
+      "time": "02:58"
+    },
+    {
+      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "desc": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+      "link": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-11-18T02:48:23+08:00",
+      "time": "02:48"
+    },
+    {
+      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "desc": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI…",
+      "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-11-18T01:32:25+08:00",
+      "time": "01:32"
+    },
+    {
+      "title": "Google makes it easier to use Gemini without training AI on your data",
+      "desc": "It can be hard to use Google products—or even the Internet itself—without coming into contact with Gemini AI. That is, of course, by design…",
+      "link": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+      "source": "Ars Technica",
+      "category": "模型",
+      "published": "2026-11-18T00:50:10+08:00",
+      "time": "00:50"
+    },
+    {
+      "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+      "desc": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
+      "link": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-11-18T00:44:15+08:00",
+      "time": "00:44"
+    },
+    {
+      "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+      "desc": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
+      "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-11-18T00:32:55+08:00",
+      "time": "00:32"
+    },
+    {
+      "title": "The DOJ says it’s investigating Megaspeed",
+      "desc": "The Justice and Commerce Departments said that they are investigating Megaspeed , the Singapore-based data center company intertwined with the resignation of…",
+      "link": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-11-18T00:19:03+08:00",
+      "time": "00:19"
+    },
+    {
+      "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
+      "desc": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement…",
+      "link": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-11-18T00:09:57+08:00",
+      "time": "00:09"
+    }
+  ]
+}

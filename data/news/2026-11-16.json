@@ -1,7 +1,7 @@
 {
   "date": "2026-11-16",
-  "generated_at": "2026-11-17T16:56:40+08:00",
-  "count": 26,
+  "generated_at": "2026-11-18T05:30:25+08:00",
+  "count": 28,
   "items": [
     {
       "title": "Audible turns to AI to help users discover audiobooks",
@@ -92,6 +92,24 @@
       "category": "机器人",
       "published": "2026-11-16T18:57:31+08:00",
       "time": "18:57"
+    },
+    {
+      "title": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
+      "desc": "12月1日，细数AI的未竟之问。",
+      "link": "https://www.qbitai.com/2026/11/510526.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-11-16T16:45:17+08:00",
+      "time": "16:45"
+    },
+    {
+      "title": "智算接棒：物理AI的下一个风口，在于计算基础设施",
+      "desc": "物理AI的热度，正从机器人本体向产业链上下游扩散。 过去一年，人形机器人、四足机器狗频繁出现在工厂、仓库和门店。产业界关心的问题正在变化：从“机器人能完成什么动作”转向“如何让它越做越准”。 答案不只在机器人本体，更在其背后的计算系统：数据从哪里来，仿真在哪里运行，模型多久迭代，算力如何匹配研发节奏…",
+      "link": "https://www.leiphone.com/category/chips/yYPDwzuTBbcMSCSx.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-11-16T16:04:00+08:00",
+      "time": "16:04"
     },
     {
       "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
