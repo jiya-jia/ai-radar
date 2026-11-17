@@ -1,8 +1,35 @@
 {
   "date": "2026-11-17",
-  "generated_at": "2026-11-17T06:44:19+08:00",
-  "count": 13,
+  "generated_at": "2026-11-17T16:56:40+08:00",
+  "count": 16,
   "items": [
+    {
+      "title": "闲鱼亮相联合国气候变化大会：AI加速闲置流转，低碳融入日常",
+      "desc": "一台上架长达923天的相机，在AI辅助调整商品信息和价格并重新发布后，仅用时约两小时便成功出售；一台屏幕损坏、看似失去使用价值的便携影音播放器，经AI梳理故障和剩余可用功能后，仅65分钟便找到了买家，实现物尽其用…",
+      "link": "https://www.leiphone.com/category/industrynews/fZwDw188Li4SuyQM.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-11-17T14:40:00+08:00",
+      "time": "14:40"
+    },
+    {
+      "title": "网传360集团副总裁涉贪腐问题被带走调查；英伟达董事会：没考虑让黄仁勋复任CEO；知名手游宣布明年3月停止运营，曾月流水破10亿",
+      "desc": "要闻提示 1.黄仁勋借钱成新型诈骗！英伟达董事会：没考虑让黄仁勋复任 CEO 2.已到生死存亡时刻！腾讯内部讲话：现在不是和平年代，大家不能自以为站在高处很安全 3.网传360集团副总裁卜思南涉贪腐问题被带走调查，本人回应：不是真的，在处理ing 4.网易《哈利波特：魔法觉醒》手游宣布明年 3 月停止运营…",
+      "link": "https://www.leiphone.com/category/zaobao/ksECYyYOXDL6IQ2q.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-17T09:33:00+08:00",
+      "time": "09:33"
+    },
+    {
+      "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+      "desc": "A humanoid robotics company backed and advised by President Donald Trump’s son, Eric Trump, has reportedly missed payroll and may be on the brink of collapse…",
+      "link": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+      "source": "Ars Technica",
+      "category": "融资",
+      "published": "2026-11-17T06:58:27+08:00",
+      "time": "06:58"
+    },
     {
       "title": "California sues OpenAI over rogue AI hacking incidents",
       "desc": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face…",
