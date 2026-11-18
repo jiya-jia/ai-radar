@@ -1,8 +1,107 @@
 {
   "date": "2026-11-18",
-  "generated_at": "2026-11-18T05:30:25+08:00",
-  "count": 11,
+  "generated_at": "2026-11-18T16:22:05+08:00",
+  "count": 22,
   "items": [
+    {
+      "title": "海外算力通道收窄！众智 FlagOS × 清昴智能，助力国芯高性能上线商用 Token 工厂",
+      "desc": "11 月 16 日，美国商务部工业与安全局（BIS）最新出口管制政策正式落地，将限制范围从芯片实物进一步延伸至远程算力访问，旨在封堵中国企业通过海外数据中心获取先进 AI 算力的路径。 这一外部变量正在迅速传导至国内算力供给侧…",
+      "link": "https://www.leiphone.com/category/industrynews/ukrIJ082d0MIuodR.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-11-18T13:31:00+08:00",
+      "time": "13:31"
+    },
+    {
+      "title": "思维链一作Jason Wei离职！怎么去Meta待一年都跑路",
+      "desc": "入职Meta刚满一年出头，竟然直接提桶跑路了！",
+      "link": "https://www.qbitai.com/2026/11/510811.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-11-18T12:49:51+08:00",
+      "time": "12:49"
+    },
+    {
+      "title": "英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿",
+      "desc": "具身全栈玩家",
+      "link": "https://www.qbitai.com/2026/11/510821.html",
+      "source": "量子位",
+      "category": "融资",
+      "published": "2026-11-18T12:28:57+08:00",
+      "time": "12:28"
+    },
+    {
+      "title": "千问办公电商版推出“品牌知识库”，让Agent先懂品牌，再干活",
+      "desc": "11月18日，千问办公电商版推出全新“品牌知识库”功能。商家在千问办公网页端切换至“电商经营”模式，上传网店链接、过往图片和设计规范等品牌资料后，千问办公就能理解品牌风格，在生成图片、视频和文案时统一品牌调性，用得越多越懂品牌。此前，千问办公电商版面向部分商家邀测，目前已向所有电商商家开放…",
+      "link": "https://www.leiphone.com/category/industrynews/DEwlGyHOnFTL6jRy.html",
+      "source": "雷峰网",
+      "category": "产品",
+      "published": "2026-11-18T11:26:00+08:00",
+      "time": "11:26"
+    },
+    {
+      "title": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
+      "desc": "英伟达公布了老黄离职后的首份财报",
+      "link": "https://www.qbitai.com/2026/11/510726.html",
+      "source": "量子位",
+      "category": "芯片",
+      "published": "2026-11-18T09:03:42+08:00",
+      "time": "09:03"
+    },
+    {
+      "title": "黄仁勋打破沉默：为美国人身份自豪，愿意重返英伟达担任CEO；阿里调整员工回流政策：离职两次不得回流原集团；红果被曝筹备电视端独立APP",
+      "desc": "要闻提示 1.黄仁勋打破沉默：为美国人身份自豪，愿意重返英伟达担任CEO！英伟达董事会拒绝其回归 2.不让吃回头草了？阿里调整员工回流政策：离职两次不得回流原集团 3.抢客厅时长！红果短剧被曝筹备电视端独立APP 4.抖音生活服务负责人换帅，老将浦燕子转顾问 5.小米回应雷军APEC发言紧张：这么大的国际场合…",
+      "link": "https://www.leiphone.com/category/zaobao/OlqabqceGorcm242.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-18T08:56:00+08:00",
+      "time": "08:56"
+    },
+    {
+      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+      "desc": "Opening the keynote at its Ignite event, Microsoft CEO Satya Nadella outlined the company's vision for its new \"frontier ecosystem,\" announcing Tuesday the…",
+      "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+      "source": "Ars Technica",
+      "category": "资讯",
+      "published": "2026-11-18T08:27:29+08:00",
+      "time": "08:27"
+    },
+    {
+      "title": "Satya Nadella says he’s AGI-pilled now",
+      "desc": "Microsoft CEO Satya Nadella onstage at Microsoft Ignite. | Image: Microsoft / YouTube Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes…",
+      "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-11-18T07:41:18+08:00",
+      "time": "07:41"
+    },
+    {
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "desc": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-11-18T07:04:35+08:00",
+      "time": "07:04"
+    },
+    {
+      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "desc": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
+      "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-11-18T06:29:05+08:00",
+      "time": "06:29"
+    },
+    {
+      "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+      "desc": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his…",
+      "link": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-11-18T05:40:59+08:00",
+      "time": "05:40"
+    },
     {
       "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
       "desc": "Open AI CEO Sam Altman does a television interview | Getty Images Instagram is filled with people posting deepfaked content - including, as of late, from one…",
