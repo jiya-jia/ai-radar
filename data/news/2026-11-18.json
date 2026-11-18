@@ -1,8 +1,80 @@
 {
   "date": "2026-11-18",
-  "generated_at": "2026-11-18T16:22:05+08:00",
-  "count": 22,
+  "generated_at": "2026-11-19T05:06:42+08:00",
+  "count": 30,
   "items": [
+    {
+      "title": "Remember the frontier AI pause? Chip companies don’t either",
+      "desc": "Nvidia began shipping its most advanced AI computing system, the Vera Rubin NVL72, calling it the “fastest product ramp in the company’s history.” | Image:…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-11-18T23:44:02+08:00",
+      "time": "23:44"
+    },
+    {
+      "title": "The AI Hype Index: AI is everywhere",
+      "desc": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad…",
+      "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+      "source": "MIT Tech Review",
+      "category": "机器人",
+      "published": "2026-11-18T22:42:44+08:00",
+      "time": "22:42"
+    },
+    {
+      "title": "豆包工作日活突破 800 万，企业客户 ARR 突破 20 亿元",
+      "desc": "11月18日，豆包官方宣布，上线仅三个月的豆包工作日活跃用户数（DAU）突破 800 万，企业客户年度经常性收入（ARR）突破 20 亿元。 豆包工作是豆包面向生产力场景推出的 AI 产品及品牌，自8月25日正式发布以来，持续更新专业办公能力…",
+      "link": "https://www.leiphone.com/category/industrynews/cC8dbvo5f5k5tgnE.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-11-18T21:18:00+08:00",
+      "time": "21:18"
+    },
+    {
+      "title": "Nvidia isn’t selling any more AI chips to China",
+      "desc": "Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year…",
+      "link": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-11-18T21:01:05+08:00",
+      "time": "21:01"
+    },
+    {
+      "title": "纽娲机器人创始人杨睿刚：自动驾驶踩过的数据坑，机器人还会再踩一遍丨物理 AI 50 人",
+      "desc": "做了十多年自动驾驶之后，杨睿刚决定把下一次创业的方向，从高速公路转向居民社区。 在此之前，他曾在美国高校研究三维视觉，后来加入百度研究院，负责机器人与自动驾驶实验室，又担任嬴彻科技CTO，推动自动驾驶重卡前装量产。从研究算法到让几十吨重的卡车真正跑上高速公路，他经历了自动驾驶从技术探索走向商业化的过程…",
+      "link": "https://www.leiphone.com/category/transportation/GLv3yGaPGK64teuS.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-18T18:28:00+08:00",
+      "time": "18:28"
+    },
+    {
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "desc": "Giving computers a nose: AI startup Osmo claims its model has reached \"human-level olfactory intelligence\" — roughly as capable as the average person at…",
+      "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+      "source": "MIT Tech Review",
+      "category": "融资",
+      "published": "2026-11-18T18:20:30+08:00",
+      "time": "18:20"
+    },
+    {
+      "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
+      "desc": "氖人寻味！",
+      "link": "https://www.qbitai.com/2026/11/510922.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-11-18T17:41:55+08:00",
+      "time": "17:41"
+    },
+    {
+      "title": "GPT-6.2难产！OpenAI怕了",
+      "desc": "OpenAI也终于活成了2022年谷歌的样子",
+      "link": "https://www.qbitai.com/2026/11/510914.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-11-18T15:53:29+08:00",
+      "time": "15:53"
+    },
     {
       "title": "海外算力通道收窄！众智 FlagOS × 清昴智能，助力国芯高性能上线商用 Token 工厂",
       "desc": "11 月 16 日，美国商务部工业与安全局（BIS）最新出口管制政策正式落地，将限制范围从芯片实物进一步延伸至远程算力访问，旨在封堵中国企业通过海外数据中心获取先进 AI 算力的路径。 这一外部变量正在迅速传导至国内算力供给侧…",

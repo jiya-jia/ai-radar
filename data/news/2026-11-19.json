@@ -1,0 +1,106 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T05:06:42+08:00",
+  "count": 11,
+  "items": [
+    {
+      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+      "desc": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
+      "link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-11-19T03:56:39+08:00",
+      "time": "03:56"
+    },
+    {
+      "title": "Trump’s latest land grab is an AI hub in the Philippines",
+      "desc": "President Donald Trump is welcomed upon his arrival at Villamor Air Base on November 17th, 2026, in Manila, Philippines…",
+      "link": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-11-19T03:40:36+08:00",
+      "time": "03:40"
+    },
+    {
+      "title": "What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat",
+      "desc": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes…",
+      "link": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-11-19T03:30:00+08:00",
+      "time": "03:30"
+    },
+    {
+      "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
+      "desc": "After some early adopters of Meta’s Muse AI agent complained that it was spying on private messages and behaving unpredictably earlier this fall, Reuters…",
+      "link": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
+      "source": "Ars Technica",
+      "category": "芯片",
+      "published": "2026-11-19T03:19:33+08:00",
+      "time": "03:19"
+    },
+    {
+      "title": "What is Nvidia without AI’s sugar daddy in charge?",
+      "desc": "Building a successful company means that it can run smoothly without you. Did Jensen Huang actually build a successful company? | Image: The Verge; Getty…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-11-19T02:34:15+08:00",
+      "time": "02:34"
+    },
+    {
+      "title": "Will Wright's next simulation will use AI to mine content from your memories",
+      "desc": "The computer gaming world hasn't heard much from Will Wright ( SimCity , The Sims ) since the underwhelming release of Spore in 2008 and Wright's subsequent…",
+      "link": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
+      "source": "Ars Technica",
+      "category": "产品",
+      "published": "2026-11-19T02:10:33+08:00",
+      "time": "02:10"
+    },
+    {
+      "title": "Google’s AI feature in Search gets its own incognito mode",
+      "desc": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
+      "link": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-11-19T02:04:05+08:00",
+      "time": "02:04"
+    },
+    {
+      "title": "Disney’s new Star Wars animatronics interact with guests using AI",
+      "desc": "As advanced and lifelike as the animatronic characters at Disney parks have become, they typically either stick to predefined movements and routines, or…",
+      "link": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-11-19T01:50:57+08:00",
+      "time": "01:50"
+    },
+    {
+      "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+      "desc": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+      "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+      "source": "TechCrunch AI",
+      "category": "政策",
+      "published": "2026-11-19T01:32:10+08:00",
+      "time": "01:32"
+    },
+    {
+      "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+      "desc": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced…",
+      "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-11-19T00:59:00+08:00",
+      "time": "00:59"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+      "desc": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
+      "link": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-11-19T00:14:09+08:00",
+      "time": "00:14"
+    }
+  ]
+}

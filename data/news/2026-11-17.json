@@ -1,7 +1,7 @@
 {
   "date": "2026-11-17",
-  "generated_at": "2026-11-18T16:22:05+08:00",
-  "count": 25,
+  "generated_at": "2026-11-19T05:06:42+08:00",
+  "count": 28,
   "items": [
     {
       "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
@@ -56,6 +56,33 @@
       "category": "融资",
       "published": "2026-11-17T16:34:00+08:00",
       "time": "16:34"
+    },
+    {
+      "title": "智源悟界·PhysCapBench：首个跨领域的世界模型“物理数据量尺”",
+      "desc": "物理AI基模的核心，是从真实经验中学习可迁移的物理规律，形成理解、预测和作用于物理世界的能力。真实世界的数据里藏着丰富的物理信息：互联网视频记录运动与环境演化，Egocentric呈现手物交互，真机轨迹记录动作与状态响应，力触反馈补充接触力、滑移与形变，不同数据共同提供了互补的物理经验…",
+      "link": "https://www.leiphone.com/category/aijuejinzhi/KPwGklj93OeTbkrg.html",
+      "source": "雷峰网",
+      "category": "机器人",
+      "published": "2026-11-17T16:33:00+08:00",
+      "time": "16:33"
+    },
+    {
+      "title": "独家丨腾讯优图实验室研究总监孙星离职",
+      "desc": "雷峰网独家消息，腾讯优图实验室研究总监、专家研究员孙星已离职。 据公开资源显示，孙星本科毕业于南京理工大学，博士毕业于香港大学工程学院。2016年加入腾讯优图实验室。 早期，他主要深耕医疗影像 AI，参与了肺癌识别和糖尿病视网膜病变筛查研究，相关技术应用于腾讯觅影…",
+      "link": "https://www.leiphone.com/category/CorporateServices/ndF7IsEHBffZkbzy.html",
+      "source": "雷峰网",
+      "category": "研究",
+      "published": "2026-11-17T16:28:00+08:00",
+      "time": "16:28"
+    },
+    {
+      "title": "谁来帮助企业走向「智能组织」？",
+      "desc": "上个月，雷峰网拜访过一家创业公司老板，他对我们说，他决定把公司的 AI 开销砍掉近九成。 这个决定非常出乎我们的意料，因为一直以来他都属于“AI 激进派”，属于愿意为 AI 花钱的主。今年5月，他就给员工配备了每月200美元的 Codex，公司的各项 AI 开销加起来，每月大约10万美元…",
+      "link": "https://www.leiphone.com/category/CorporateServices/Hsnbxo0xUgb2FWkB.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-11-17T16:24:00+08:00",
+      "time": "16:24"
     },
     {
       "title": "闲鱼亮相联合国气候变化大会：AI加速闲置流转，低碳融入日常",
