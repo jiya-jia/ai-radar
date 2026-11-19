@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T05:11:38+08:00",
+  "count": 10,
+  "items": [
+    {
+      "title": "Meta’s Muse Charm might cost $300",
+      "desc": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information…",
+      "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-11-20T04:22:17+08:00",
+      "time": "04:22"
+    },
+    {
+      "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+      "desc": "In October 2025, four Black high school students were sharing Cool Ranch Doritos after football practice, winding down, and waiting for their rides home to…",
+      "link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+      "source": "Ars Technica",
+      "category": "芯片",
+      "published": "2026-11-20T04:19:28+08:00",
+      "time": "04:19"
+    },
+    {
+      "title": "Google is putting AI chats right on the homepage",
+      "desc": "Google is updating its homepage to include AI searches. In a post on X , Google's vice president of product, Robby Stein, shows how you can now open a…",
+      "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-11-20T04:05:06+08:00",
+      "time": "04:05"
+    },
+    {
+      "title": "Anthropic’s IPO could deliver $156 billion to charity",
+      "desc": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-11-20T03:10:45+08:00",
+      "time": "03:10"
+    },
+    {
+      "title": "Gemini on Mac can now use your computer",
+      "desc": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the…",
+      "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-11-20T02:21:13+08:00",
+      "time": "02:21"
+    },
+    {
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "desc": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+      "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-11-20T02:09:11+08:00",
+      "time": "02:09"
+    },
+    {
+      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+      "desc": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders…",
+      "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "source": "TechCrunch AI",
+      "category": "政策",
+      "published": "2026-11-20T01:38:40+08:00",
+      "time": "01:38"
+    },
+    {
+      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+      "desc": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+      "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-11-20T00:59:23+08:00",
+      "time": "00:59"
+    },
+    {
+      "title": "Anthropic starts trading on Wall Street",
+      "desc": "Anthropic CEO Dario Amodei speaks at the Nasdaq ahead of his company’s public debut. | Photo by Michael Nagle/Bloomberg via Getty Images Anthropic has…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-11-20T00:52:01+08:00",
+      "time": "00:52"
+    },
+    {
+      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+      "desc": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+      "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-11-20T00:19:41+08:00",
+      "time": "00:19"
+    }
+  ]
+}
