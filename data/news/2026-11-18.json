@@ -1,7 +1,7 @@
 {
   "date": "2026-11-18",
-  "generated_at": "2026-11-19T05:06:42+08:00",
-  "count": 30,
+  "generated_at": "2026-11-19T16:33:56+08:00",
+  "count": 35,
   "items": [
     {
       "title": "Remember the frontier AI pause? Chip companies don’t either",
@@ -22,6 +22,15 @@
       "time": "22:42"
     },
     {
+      "title": "Will Wright’s next game uses AI to map your memories",
+      "desc": "Will Wright, the creator of legendary franchises like SimCity and The Sims , is working on a new game - and it's built around AI…",
+      "link": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-11-18T22:00:00+08:00",
+      "time": "22:00"
+    },
+    {
       "title": "豆包工作日活突破 800 万，企业客户 ARR 突破 20 亿元",
       "desc": "11月18日，豆包官方宣布，上线仅三个月的豆包工作日活跃用户数（DAU）突破 800 万，企业客户年度经常性收入（ARR）突破 20 亿元。 豆包工作是豆包面向生产力场景推出的 AI 产品及品牌，自8月25日正式发布以来，持续更新专业办公能力…",
       "link": "https://www.leiphone.com/category/industrynews/cC8dbvo5f5k5tgnE.html",
@@ -38,6 +47,15 @@
       "category": "芯片",
       "published": "2026-11-18T21:01:05+08:00",
       "time": "21:01"
+    },
+    {
+      "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
+      "desc": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia…",
+      "link": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-11-18T21:00:00+08:00",
+      "time": "21:00"
     },
     {
       "title": "纽娲机器人创始人杨睿刚：自动驾驶踩过的数据坑，机器人还会再踩一遍丨物理 AI 50 人",
@@ -76,6 +94,15 @@
       "time": "15:53"
     },
     {
+      "title": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线",
+      "desc": "近日，全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线",
+      "link": "https://www.qbitai.com/2026/11/510916.html",
+      "source": "量子位",
+      "category": "产品",
+      "published": "2026-11-18T15:24:50+08:00",
+      "time": "15:24"
+    },
+    {
       "title": "海外算力通道收窄！众智 FlagOS × 清昴智能，助力国芯高性能上线商用 Token 工厂",
       "desc": "11 月 16 日，美国商务部工业与安全局（BIS）最新出口管制政策正式落地，将限制范围从芯片实物进一步延伸至远程算力访问，旨在封堵中国企业通过海外数据中心获取先进 AI 算力的路径。 这一外部变量正在迅速传导至国内算力供给侧…",
       "link": "https://www.leiphone.com/category/industrynews/ukrIJ082d0MIuodR.html",
@@ -112,6 +139,15 @@
       "time": "11:26"
     },
     {
+      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+      "desc": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of…",
+      "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-11-18T09:44:21+08:00",
+      "time": "09:44"
+    },
+    {
       "title": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
       "desc": "英伟达公布了老黄离职后的首份财报",
       "link": "https://www.qbitai.com/2026/11/510726.html",
@@ -137,6 +173,15 @@
       "category": "资讯",
       "published": "2026-11-18T08:27:29+08:00",
       "time": "08:27"
+    },
+    {
+      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "desc": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking…",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-11-18T08:16:50+08:00",
+      "time": "08:16"
     },
     {
       "title": "Satya Nadella says he’s AGI-pilled now",

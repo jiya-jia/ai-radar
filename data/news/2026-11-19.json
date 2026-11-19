@@ -1,8 +1,89 @@
 {
   "date": "2026-11-19",
-  "generated_at": "2026-11-19T05:06:42+08:00",
-  "count": 11,
+  "generated_at": "2026-11-19T16:33:56+08:00",
+  "count": 20,
   "items": [
+    {
+      "title": "百图生科正式发布AI药物安全性评价系统，从虚拟细胞走向虚拟猴，为药物研发带来全新助力",
+      "desc": "11月19日，百图生科正式发布AI药物安全性评价系统（以下简称“AI安评系统”），将虚拟细胞模型、毒性预测能力与非临床安全性评价服务相结合，依托“虚拟猴”等安全性预测模型，将AI预测从细胞层面延伸至动物体内…",
+      "link": "https://www.leiphone.com/category/industrynews/UlpahlWOHi0OeI7Y.html",
+      "source": "雷峰网",
+      "category": "研究",
+      "published": "2026-11-19T14:25:00+08:00",
+      "time": "14:25"
+    },
+    {
+      "title": "AI基建大潮方兴未艾，联想集团最佳财季诞生！",
+      "desc": "全球AI生态链领先企业联想集团今日公布截至2026/27财年第二季度业绩",
+      "link": "https://www.qbitai.com/2026/11/511088.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-11-19T12:51:31+08:00",
+      "time": "12:51"
+    },
+    {
+      "title": "AI 已经进入企业，为什么组织还没有进化？",
+      "desc": "十年前看人工智能，十年后看智能组织。 作者丨 成妍菁 编辑丨 胡 敏 最近与AI圈子的人聊，普遍谈到一个点，人已经接受AI提效，但企业还没准备好。 （雷峰网雷峰网雷峰网） 一边是员工已经在用agent 干活、甚至开始自己搭小系统；另一边是公司的KPI、审批链、汇报节奏，还按着三年前的样子在转…",
+      "link": "https://www.leiphone.com/category/industrynews/98sAVeAaYPhJQvgY.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-11-19T11:17:00+08:00",
+      "time": "11:17"
+    },
+    {
+      "title": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+      "desc": "语言模型单张3090卡即可运行",
+      "link": "https://www.qbitai.com/2026/11/511071.html",
+      "source": "量子位",
+      "category": "芯片",
+      "published": "2026-11-19T11:01:45+08:00",
+      "time": "11:01"
+    },
+    {
+      "title": "英伟达临时CEO称将不再向中国出货H200芯片；一天之内173名管理人员被免，宗馥莉大规模「动刀」；英特尔被曝再度裁员，波及全球IT员工",
+      "desc": "要闻提示 1.英特尔被曝再度裁员，波及全球IT员工 2.英伟达临时CEO称将不再向中国出货H200芯片，外交部回应 3.权志龙母公司将推机器人女团，与宇树合作的K-pop演唱会12月首演 4.宗馥莉再掀人事风暴：173名管理人员被免职 5.最高涨560元！大疆两款手持云台相机涨价 6.腾讯第三季度营收2073亿元…",
+      "link": "https://www.leiphone.com/category/zaobao/wMg9SCFKwT7JSsGq.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-11-19T08:59:00+08:00",
+      "time": "08:59"
+    },
+    {
+      "title": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
+      "desc": "国产AI工具实现「一个人就是一个剧组」",
+      "link": "https://www.qbitai.com/2026/11/510947.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-11-19T08:26:40+08:00",
+      "time": "08:26"
+    },
+    {
+      "title": "The nation’s largest school districts consider ditching Google Search",
+      "desc": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-11-19T07:18:35+08:00",
+      "time": "07:18"
+    },
+    {
+      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+      "desc": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-11-19T07:17:28+08:00",
+      "time": "07:17"
+    },
+    {
+      "title": "Anthropic prices IPO at $83 a share, above projected range",
+      "desc": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+      "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-11-19T06:11:15+08:00",
+      "time": "06:11"
+    },
     {
       "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
       "desc": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
