@@ -1,8 +1,98 @@
 {
   "date": "2026-11-20",
-  "generated_at": "2026-11-20T05:11:38+08:00",
-  "count": 10,
+  "generated_at": "2026-11-20T16:16:23+08:00",
+  "count": 20,
   "items": [
+    {
+      "title": "大二「天才少女」刚拿下 ACM 最佳论文，立陷造假疑云，通讯作者独家回应",
+      "desc": "事件全貌梳理 + 当事人独家回应 作者丨 邓哲敏 编辑丨 齐铖湧 近日，一场疑似“学术造假”事件，在国内学术圈掀起了轩然大波。 事件的暴风眼，来自刚刚结束的顶级学术会议 ACM MM 2026，这场国际多媒体领域顶会上的一篇 Best Paper，被指出诸多疑点…",
+      "link": "https://www.leiphone.com/category/private/fTZ8RbFMcD34HieP.html",
+      "source": "雷峰网",
+      "category": "政策",
+      "published": "2026-11-20T14:03:00+08:00",
+      "time": "14:03"
+    },
+    {
+      "title": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！",
+      "desc": "已开源Agnes Harness",
+      "link": "https://www.qbitai.com/2026/11/511582.html",
+      "source": "量子位",
+      "category": "产品",
+      "published": "2026-11-20T13:24:11+08:00",
+      "time": "13:24"
+    },
+    {
+      "title": "独家丨荣耀、腾讯背景团队创业做 AI 交互吊坠，已获李泽湘早期投资",
+      "desc": "创始人肖裕炜曾在荣耀工作五年，经历横跨 GPU 底层技术与 AI 终端设备。 作者丨黄艳冰 编辑丨 姚单 雷峰网·鲸犀独家获悉， 荣耀前高级算法工程师肖裕炜已离职创业，于今年年中创立 AI 交互硬件公司 KnowVoice。 其目前正在李泽湘教授的下深圳科创学院孵化，已获得早期投资支持…",
+      "link": "https://www.leiphone.com/category/weiwu/cmj50XKwCB4drkus.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-11-20T11:22:00+08:00",
+      "time": "11:22"
+    },
+    {
+      "title": "独家｜前京东健康市场营销部总经理王丁虓加入面壁智能，担任品牌公关负责人",
+      "desc": "雷峰网独家获悉，原京东健康市场营销部总经理王丁虓（九虎）已于近期加入面壁智能，担任品牌公关负责人。 公开资料显示，2010 年，王丁虓从天津师范大学广告学专业本科毕业，先后在电通数码、奥美广告任策略经理和策略总监，是根正苗红的广告人。2017年9月，王丁虓加入字节，开始了从广告人到营销人的转变…",
+      "link": "https://www.leiphone.com/category/industrynews/r1chb5ofkWYaKjMn.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-20T10:58:00+08:00",
+      "time": "10:58"
+    },
+    {
+      "title": "独家丨影石研究院首度公开：字节旧将亓鲁任负责人",
+      "desc": "雷峰网·鲸犀独家获悉，影石创新董事亓鲁已出任影石研究院中心负责人，并兼任公司首席 AI 官。知情人士称，他将主要负责相关算法及人工智能领域的研发工作。 亓鲁是一位 90 后，本硕博先后毕业于山东大学、中国科学院、香港中文大学，并在加州大学默塞德分校做过博士后，当前为武汉大学计算机学院教授…",
+      "link": "https://www.leiphone.com/category/weiwu/o4pLV3X7mPE6sfxq.html",
+      "source": "雷峰网",
+      "category": "研究",
+      "published": "2026-11-20T10:01:00+08:00",
+      "time": "10:01"
+    },
+    {
+      "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
+      "desc": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。",
+      "link": "https://www.qbitai.com/2026/11/511426.html",
+      "source": "量子位",
+      "category": "芯片",
+      "published": "2026-11-20T09:07:38+08:00",
+      "time": "09:07"
+    },
+    {
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "desc": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-11-20T08:56:01+08:00",
+      "time": "08:56"
+    },
+    {
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "desc": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-11-20T08:43:50+08:00",
+      "time": "08:43"
+    },
+    {
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "desc": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling…",
+      "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-11-20T06:31:41+08:00",
+      "time": "06:31"
+    },
+    {
+      "title": "A brief history of Nvidia’s recent stock fluctuations",
+      "desc": "Traders work on the floor of the New York Stock Exchange during morning trading on November 18, 2026 in New York City…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-11-20T05:59:35+08:00",
+      "time": "05:59"
+    },
     {
       "title": "Meta’s Muse Charm might cost $300",
       "desc": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information…",

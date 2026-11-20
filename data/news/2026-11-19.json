@@ -1,7 +1,7 @@
 {
   "date": "2026-11-19",
-  "generated_at": "2026-11-20T05:11:38+08:00",
-  "count": 26,
+  "generated_at": "2026-11-20T16:16:23+08:00",
+  "count": 30,
   "items": [
     {
       "title": "ChatGPT can transcribe as you speak now with Live Dictation",
@@ -40,6 +40,15 @@
       "time": "21:00"
     },
     {
+      "title": "Canva adds an AI ‘off’ button",
+      "desc": "Canva will now allow you to turn off its generative AI features. With this change , you can disable the graphic design platform's array of AI tools, such as…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-11-19T20:30:00+08:00",
+      "time": "20:30"
+    },
+    {
       "title": "田渊栋创业合伙人：通往 AGI 最快的路，只能是 AI 造 AI | CoRL 2026",
       "desc": "Recursive 联创 Jeff Clune ：“QD、开放式、AI 生成算法，我觉得它们就是下一代伟大的 AI。” 作者丨 邓哲敏 编辑丨 齐铖湧 11 月 12 日，CoRL 2026 最后一天…",
       "link": "https://www.leiphone.com/category/private/wIgMWmjlB5GTKg6e.html",
@@ -56,6 +65,24 @@
       "category": "融资",
       "published": "2026-11-19T17:08:00+08:00",
       "time": "17:08"
+    },
+    {
+      "title": "诺亦腾机器人入选 The Information 2026 全球最具潜力50家初创企业榜单",
+      "desc": "核心要点（Key Facts） · 在 The Information 于 11 月 11 日发布的“2026 全球最具潜力 50 家初创企业”榜单中，诺亦腾机器人（Noitom Robotics）位列亚洲分区第一…",
+      "link": "https://www.leiphone.com/category/ai/AfdiA9NBN3TJrgDL.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-19T17:07:00+08:00",
+      "time": "17:07"
+    },
+    {
+      "title": "GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了",
+      "desc": "媒体均分登顶历史第一，细节多到爆炸",
+      "link": "https://www.qbitai.com/2026/11/511180.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-11-19T16:18:30+08:00",
+      "time": "16:18"
     },
     {
       "title": "百图生科正式发布AI药物安全性评价系统，从虚拟细胞走向虚拟猴，为药物研发带来全新助力",
@@ -137,6 +164,15 @@
       "category": "融资",
       "published": "2026-11-19T06:11:15+08:00",
       "time": "06:11"
+    },
+    {
+      "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+      "desc": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for…",
+      "link": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-11-19T05:57:40+08:00",
+      "time": "05:57"
     },
     {
       "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
