@@ -1,0 +1,52 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T04:55:48+08:00",
+  "count": 5,
+  "items": [
+    {
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "desc": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "source": "TechCrunch AI",
+      "category": "研究",
+      "published": "2026-11-21T03:53:41+08:00",
+      "time": "03:53"
+    },
+    {
+      "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+      "desc": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+      "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-11-21T03:32:08+08:00",
+      "time": "03:32"
+    },
+    {
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "desc": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country…",
+      "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-11-21T02:50:19+08:00",
+      "time": "02:50"
+    },
+    {
+      "title": "The most misunderstood graph in AI just got a major update",
+      "desc": "AI keeps getting faster at verifiable tasks — METR's updated report confirms that frontier AI models are doubling their performance on measurable tasks every…",
+      "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "source": "MIT Tech Review",
+      "category": "融资",
+      "published": "2026-11-21T02:15:15+08:00",
+      "time": "02:15"
+    },
+    {
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "desc": "Anthropic went public on November 19th, 2026. | Photo: Getty Images Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-11-21T00:34:13+08:00",
+      "time": "00:34"
+    }
+  ]
+}
