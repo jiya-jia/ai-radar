@@ -1,7 +1,7 @@
 {
   "date": "2026-11-20",
-  "generated_at": "2026-11-21T16:08:15+08:00",
-  "count": 26,
+  "generated_at": "2026-11-22T03:56:19+08:00",
+  "count": 27,
   "items": [
     {
       "title": "Signal is blocking Gemini and Siri AI from reading your screen",
@@ -11,6 +11,15 @@
       "category": "模型",
       "published": "2026-11-20T20:30:47+08:00",
       "time": "20:30"
+    },
+    {
+      "title": "美国AI音乐巨头进军视频生成，底层模型来自中国MiniMax",
+      "desc": "美国AI音乐平台Suno宣布推出视觉创作工具Visuals",
+      "link": "https://www.qbitai.com/2026/11/511722.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-11-20T20:18:01+08:00",
+      "time": "20:18"
     },
     {
       "title": "灵掌机器人太空灵巧手亮相世界智能制造博览会",

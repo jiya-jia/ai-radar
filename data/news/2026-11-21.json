@@ -1,8 +1,44 @@
 {
   "date": "2026-11-21",
-  "generated_at": "2026-11-21T16:08:15+08:00",
-  "count": 10,
+  "generated_at": "2026-11-22T03:56:19+08:00",
+  "count": 15,
   "items": [
+    {
+      "title": "Can Anthropic afford to put safety first?",
+      "desc": "Today, I’m talking with Hayden Field, The Verge ’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real…",
+      "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "source": "The Verge AI",
+      "category": "融资",
+      "published": "2026-11-21T23:00:00+08:00",
+      "time": "23:00"
+    },
+    {
+      "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+      "desc": "还实现可变形物体操控全球首通",
+      "link": "https://www.qbitai.com/2026/11/511779.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-11-21T14:35:59+08:00",
+      "time": "14:35"
+    },
+    {
+      "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+      "desc": "专为本地部署而生",
+      "link": "https://www.qbitai.com/2026/11/511570.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-11-21T14:32:31+08:00",
+      "time": "14:32"
+    },
+    {
+      "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+      "desc": "还透露了不少训练背后的秘诀",
+      "link": "https://www.qbitai.com/2026/11/511757.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-11-21T14:30:55+08:00",
+      "time": "14:30"
+    },
     {
       "title": "享界V8上市即开启全国大规模交付，以为家而生的100个设计锁定爆款",
       "desc": "一款车，从上市到全国范围交付，需要多长时间？ 享界V8给出了答案！ 11月20日下午，享界V8在 鸿蒙智行享界V8及星芒品牌发布会 正式上市， 售价31.98～42.98万元，即刻下定享至高93000元权益 。 当晚，首批新车交付仪式于北京鸿蒙智行用户中心启动…",
@@ -92,6 +128,15 @@
       "category": "模型",
       "published": "2026-11-21T00:34:13+08:00",
       "time": "00:34"
+    },
+    {
+      "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
+      "desc": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
+      "link": "https://www.qbitai.com/2026/11/511727.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-11-21T00:07:39+08:00",
+      "time": "00:07"
     }
   ]
 }
