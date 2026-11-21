@@ -1,8 +1,53 @@
 {
   "date": "2026-11-21",
-  "generated_at": "2026-11-21T04:55:48+08:00",
-  "count": 5,
+  "generated_at": "2026-11-21T16:08:15+08:00",
+  "count": 10,
   "items": [
+    {
+      "title": "享界V8上市即开启全国大规模交付，以为家而生的100个设计锁定爆款",
+      "desc": "一款车，从上市到全国范围交付，需要多长时间？ 享界V8给出了答案！ 11月20日下午，享界V8在 鸿蒙智行享界V8及星芒品牌发布会 正式上市， 售价31.98～42.98万元，即刻下定享至高93000元权益 。 当晚，首批新车交付仪式于北京鸿蒙智行用户中心启动…",
+      "link": "https://www.leiphone.com/category/industrynews/cjpukqhxIgaEYhyQ.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-21T11:47:00+08:00",
+      "time": "11:47"
+    },
+    {
+      "title": "当 Kling Image 4.0 自己出设计方案，生图的门槛又变了！",
+      "desc": "过去几年，AI 生图模型在真实感、分辨率和光影表现上不断刷新人们的认知。但当这些图片真正被用于海报、广告这些商业场景时仍会面临文字能否准确呈现、局部修改是否能保留原有设计等问题。 这些看似不起眼的要求，至今仍是图像模型的难题…",
+      "link": "https://www.leiphone.com/category/yanxishe/zjw3hyGGqzhBaPj7.html",
+      "source": "雷峰网",
+      "category": "研究",
+      "published": "2026-11-21T10:59:00+08:00",
+      "time": "10:59"
+    },
+    {
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "desc": "Google's flagship search experience is evolving into an AI experience with stunning speed…",
+      "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "source": "Ars Technica",
+      "category": "模型",
+      "published": "2026-11-21T05:58:29+08:00",
+      "time": "05:58"
+    },
+    {
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "desc": "Meta’s executives are rethinking the company’s original goal of achieving net-zero emissions by 2030…",
+      "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "source": "Ars Technica",
+      "category": "资讯",
+      "published": "2026-11-21T05:47:10+08:00",
+      "time": "05:47"
+    },
+    {
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "desc": "Researchers planted 2 million digital tripwires in requests sent through a sprawling network of AI services to find out what happened to sensitive information…",
+      "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "source": "Ars Technica",
+      "category": "研究",
+      "published": "2026-11-21T04:59:08+08:00",
+      "time": "04:59"
+    },
     {
       "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
       "desc": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
