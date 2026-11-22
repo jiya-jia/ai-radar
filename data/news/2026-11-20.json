@@ -1,8 +1,26 @@
 {
   "date": "2026-11-20",
-  "generated_at": "2026-11-22T03:56:19+08:00",
-  "count": 27,
+  "generated_at": "2026-11-22T15:53:38+08:00",
+  "count": 30,
   "items": [
+    {
+      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "desc": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and…",
+      "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-11-20T22:55:44+08:00",
+      "time": "22:55"
+    },
+    {
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "desc": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+      "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-11-20T22:00:00+08:00",
+      "time": "22:00"
+    },
     {
       "title": "Signal is blocking Gemini and Siri AI from reading your screen",
       "desc": "Signal users on iOS will see this option to toggle blocking screenshots and preventing Siri AI from scanning on-screen content…",
@@ -56,6 +74,15 @@
       "category": "融资",
       "published": "2026-11-20T15:49:00+08:00",
       "time": "15:49"
+    },
+    {
+      "title": "第六代 AMD EPYC 处理器技术峰会在京举行",
+      "desc": "重塑计算，领航 AI 时代：AMD 携手生态伙伴推动 Agentic AI 基础设施创新 2026年11月19日，中国北京——今日，以“重塑计算，领航 AI 时代”为主题的第六代 AMD EPYC 处理器技术峰会在北京中国大饭店举行，吸引1237位嘉宾参会…",
+      "link": "https://www.leiphone.com/category/industrynews/TVtcS88CGW5q5JDk.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-20T15:47:00+08:00",
+      "time": "15:47"
     },
     {
       "title": "当AI影视遇上文化出海：优秀作品亮相第47届美国电影市场",

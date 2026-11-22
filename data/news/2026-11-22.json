@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T15:53:38+08:00",
+  "count": 4,
+  "items": [
+    {
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "desc": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-11-22T05:37:10+08:00",
+      "time": "05:37"
+    },
+    {
+      "title": "A tale of two Nvidias",
+      "desc": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-11-22T05:07:42+08:00",
+      "time": "05:07"
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "desc": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-11-22T01:00:00+08:00",
+      "time": "01:00"
+    },
+    {
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "desc": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China…",
+      "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-11-22T00:00:00+08:00",
+      "time": "00:00"
+    }
+  ]
+}
