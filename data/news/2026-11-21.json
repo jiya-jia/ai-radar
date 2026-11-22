@@ -1,7 +1,7 @@
 {
   "date": "2026-11-21",
-  "generated_at": "2026-11-22T15:53:38+08:00",
-  "count": 15,
+  "generated_at": "2026-11-23T04:09:34+08:00",
+  "count": 18,
   "items": [
     {
       "title": "Can Anthropic afford to put safety first?",
@@ -11,6 +11,33 @@
       "category": "融资",
       "published": "2026-11-21T23:00:00+08:00",
       "time": "23:00"
+    },
+    {
+      "title": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
+      "desc": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
+      "link": "https://www.qbitai.com/2026/11/511841.html",
+      "source": "量子位",
+      "category": "产品",
+      "published": "2026-11-21T19:40:11+08:00",
+      "time": "19:40"
+    },
+    {
+      "title": "全网疯传！Grok一姐教你如何月提交3000个PR",
+      "desc": "全网疯传！Grok一姐教你如何月提交3000个PR",
+      "link": "https://www.qbitai.com/2026/11/511830.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-11-21T19:34:18+08:00",
+      "time": "19:34"
+    },
+    {
+      "title": "反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢",
+      "desc": "反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢",
+      "link": "https://www.qbitai.com/2026/11/511791.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-11-21T19:24:29+08:00",
+      "time": "19:24"
     },
     {
       "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
