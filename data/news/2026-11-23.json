@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T16:47:28+08:00",
+  "count": 8,
+  "items": [
+    {
+      "title": "首届AI音乐视觉黑客松：从一句话到一块大屏，剪映 Hub 让 AI 视觉进入音乐现场",
+      "desc": "11月20日至21日，首届AI音乐视觉黑客松在北京国家会议中心举办。本次黑客松活动由剪映、全球AI原生共创社区WaytoAGI与北京ACE科技创新大会ACE-CON拔尖儿联合发起，是行业内首个面向音乐视觉的AI黑客松，旨在为开发者与创作者提供跨界协作与创意展示的平台…",
+      "link": "https://www.leiphone.com/category/industrynews/tf4yrVFgiVRXvipk.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-11-23T14:39:00+08:00",
+      "time": "14:39"
+    },
+    {
+      "title": "深拆 GPT-6.2 Astra：性能涨了、价格降了，任务成本减少近一半，OpenAI 怎么做到的？",
+      "desc": "性能提升 6.2 分，Token 少 22%，API 价格降 20%。 作者丨 郑佳美 编辑丨岑 峰 刚刚，OpenAI 发布了 GPT-6.2 Astra 和 GPT-6.2 Sol…",
+      "link": "https://www.leiphone.com/category/ai/MR1Osv9r2Rtr4V7F.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-23T13:50:00+08:00",
+      "time": "13:50"
+    },
+    {
+      "title": "加州起诉 OpenAI：说起来你可能不信，是模型先动的手",
+      "desc": "长任务、子 Agent 委派与共享服务凭证，让传统安全架构面临权限失控风险。 作者丨 郑佳美 编辑丨岑 峰 说起来你可能不信，这次真的是模型先动的手。 当地时间 11 月 16 日，加州总检察长 Rob Bonta 一纸诉状把 OpenAI 告上了法庭…",
+      "link": "https://www.leiphone.com/category/ai/c9ZMpnn48OtWzF0Z.html",
+      "source": "雷峰网",
+      "category": "机器人",
+      "published": "2026-11-23T13:36:00+08:00",
+      "time": "13:36"
+    },
+    {
+      "title": "蚂蚁CEO韩歆毅：AI拓宽人类健康自塑边界，1.5亿人已用阿福管健康",
+      "desc": "11月22-23日，2026蚂蚁阿福医疗健康生态大会在广州举行。蚂蚁集团首席执行官韩歆毅在主论坛发言中表示，AI正在拓宽人类健康自塑的边界，让健康管理从“千人一方”走向“一人一方”、从“以治病为中心”转向“以健康为中心”，这是AI对医疗健康领域最深远的影响之一，其价值不亚于AI医疗和AI药物研发…",
+      "link": "https://www.leiphone.com/category/industrynews/VK4viDe2WQp64rON.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-23T12:10:00+08:00",
+      "time": "12:10"
+    },
+    {
+      "title": "中通快递与阿里云伶鹊达成深度合作，智慧AI打造客服新体验",
+      "desc": "近日，阿里云伶鹊与中通快递达成深度合作，为中通快递打造企业级AI客服，在小件末端配送场景中落地智能语音热线和智能语音外呼两大能力。上线后“呼入+外呼”日均服务量达数十万通，AI“呼入”热线带来的下单转化率提升近20%…",
+      "link": "https://www.leiphone.com/category/industrynews/MseGRLc64j2hTZxj.html",
+      "source": "雷峰网",
+      "category": "模型",
+      "published": "2026-11-23T10:26:00+08:00",
+      "time": "10:26"
+    },
+    {
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "desc": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-11-23T09:25:53+08:00",
+      "time": "09:25"
+    },
+    {
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "desc": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-11-23T05:14:07+08:00",
+      "time": "05:14"
+    },
+    {
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "desc": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game…",
+      "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-11-23T01:25:20+08:00",
+      "time": "01:25"
+    }
+  ]
+}
