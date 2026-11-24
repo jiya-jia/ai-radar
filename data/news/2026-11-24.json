@@ -1,8 +1,62 @@
 {
   "date": "2026-11-24",
-  "generated_at": "2026-11-24T08:35:43+08:00",
-  "count": 12,
+  "generated_at": "2026-11-24T18:46:18+08:00",
+  "count": 18,
   "items": [
+    {
+      "title": "蚂蚁OceanBase发布AI数据平台：统一管理多模态数据，为Agent提供业务上下文",
+      "desc": "11月24日，蚂蚁OceanBase AI数据大会在北京召开。OceanBase CEO杨冰在会上表示，当模型越来越先进，Agent基建越来越成熟，挑战终将回归数据。面向这一变化，AI时代的数据基础设施应坚持“湖库一体、多模融合、Agent友好、开源开放”四大原则…",
+      "link": "https://www.leiphone.com/category/industrynews/vo7BI6hIy3wL6Mi4.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-11-24T15:18:00+08:00",
+      "time": "15:18"
+    },
+    {
+      "title": "从“望闻问切”到开源模型，蚂蚁阿福加速打通AI健康服务闭环",
+      "desc": "大模型进入医疗健康行业后，最先被改变的是“问”。 健康问答、报告解读、预问诊、挂号导诊，用户只需输入一段文字，AI就能迅速给出看似专业的回答。但健康服务真正漫长的部分，往往发生在提问之后：患者描述的信息是否完整，AI的建议能否得到医生确认，院外数据能否持续沉淀，健康方案能否长期执行，最终又由谁为健康改善付费…",
+      "link": "https://www.leiphone.com/category/medigital/P6Ota0mqLwk8wsN2.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-11-24T15:13:00+08:00",
+      "time": "15:13"
+    },
+    {
+      "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
+      "desc": "端侧老炮辛米尔，打通物理AI规模化落地之路",
+      "link": "https://www.qbitai.com/2026/11/512362.html",
+      "source": "量子位",
+      "category": "芯片",
+      "published": "2026-11-24T14:35:06+08:00",
+      "time": "14:35"
+    },
+    {
+      "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
+      "desc": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
+      "link": "https://www.qbitai.com/2026/11/512354.html",
+      "source": "量子位",
+      "category": "产品",
+      "published": "2026-11-24T14:22:28+08:00",
+      "time": "14:22"
+    },
+    {
+      "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
+      "desc": "2026年11月20日，第八届亿邦产业互联网年会与首届产业智能体大会在北京国贸大酒店首次合体举行。",
+      "link": "https://www.qbitai.com/2026/11/512305.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-11-24T11:21:12+08:00",
+      "time": "11:21"
+    },
+    {
+      "title": "英伟达恢复黄仁勋CEO职务！黄仁勋重返公司总部，受到数百名员工迎接；DeepSeek最新估值或达6078亿元；蚂蚁开源医疗AI模型家族丨雷峰早报",
+      "desc": "要闻提示 1.英伟达恢复黄仁勋CEO职务！黄仁勋重返公司总部，受到数百名员工迎接 2.DeepSeek最新估值或达6078亿元 3.送100台iPhone Duo被质疑内定！影视飓风Tim：很难自证，但这点信誉还是有的 4.智谱发布新一代大模型GLM-5.4 5.从多模态理解到疾病风险预测…",
+      "link": "https://www.leiphone.com/category/zaobao/Ao31dQuXPBTU7qpK.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-24T09:42:00+08:00",
+      "time": "09:42"
+    },
     {
       "title": "Nvidia CEO Jensen Huang is back. What happens next?",
       "desc": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company…",
