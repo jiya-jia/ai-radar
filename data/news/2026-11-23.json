@@ -1,8 +1,89 @@
 {
   "date": "2026-11-23",
-  "generated_at": "2026-11-23T16:47:28+08:00",
-  "count": 8,
+  "generated_at": "2026-11-24T08:35:43+08:00",
+  "count": 20,
   "items": [
+    {
+      "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+      "desc": "Nvidia's board of directors has voted to reinstate Jensen Huang as CEO and chairman of the board, just 11 days after he resigned in the wake of multiple…",
+      "link": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+      "source": "Ars Technica",
+      "category": "芯片",
+      "published": "2026-11-23T23:46:18+08:00",
+      "time": "23:46"
+    },
+    {
+      "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+      "desc": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
+      "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-11-23T23:04:01+08:00",
+      "time": "23:04"
+    },
+    {
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "desc": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series…",
+      "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "source": "TechCrunch AI",
+      "category": "融资",
+      "published": "2026-11-23T22:43:03+08:00",
+      "time": "22:43"
+    },
+    {
+      "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "desc": "The stunning reversal was supported by senior officials in the U.S. government.",
+      "link": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-11-23T22:21:59+08:00",
+      "time": "22:21"
+    },
+    {
+      "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+      "desc": "Buying a new computer in the last few years has meant wading through all manner of AI branding nonsense…",
+      "link": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
+      "source": "Ars Technica",
+      "category": "芯片",
+      "published": "2026-11-23T20:00:00+08:00",
+      "time": "20:00"
+    },
+    {
+      "title": "实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了",
+      "desc": "零Token成本，断网也能自由Vibe Coding",
+      "link": "https://www.qbitai.com/2026/11/512195.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-11-23T19:01:15+08:00",
+      "time": "19:01"
+    },
+    {
+      "title": "华为星芒限时5499元起，网友喊话再便宜500，刘赫回应：我们选择创新优先；英伟达才说H200芯片不卖中国，美财长突喊：不用再限丨雷峰早报",
+      "desc": "要闻提示 1.英伟达才说H200芯片不卖中国，美财长突喊：不用再限 2.限时售价5499元起！华为星芒总经理回应OSTA O1 Pro定价高：我们选择创新优先 3.ASML总裁急了：切断光刻机售后也没用…",
+      "link": "https://www.leiphone.com/category/zaobao/WvQYh5bertpjOZdF.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-23T18:40:00+08:00",
+      "time": "18:40"
+    },
+    {
+      "title": "独家解读丨苦战三个月，AI办公经得起财报检验吗？",
+      "desc": "AI办公，正在进入财报检验期。 过去一个季度，大厂集中火力攻克这门AI应用生意。腾讯在Q3财报及业绩电话会中披露了WorkBuddy更多商业化进展， 包括Token消耗、企业客户采用情况，以及相关收入增长数据。 二级市场有人买账，认为“WorkBuddy进展不错”，但也有人泼冷水，“还是得看带来多少收益”…",
+      "link": "https://www.leiphone.com/category/industrynews/A2PIgIjrlQx63RSp.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-11-23T17:54:00+08:00",
+      "time": "17:54"
+    },
+    {
+      "title": "“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了",
+      "desc": "一个完全由AI组成的科学家社会，是什么样？",
+      "link": "https://www.qbitai.com/2026/11/512004.html",
+      "source": "量子位",
+      "category": "研究",
+      "published": "2026-11-23T14:59:38+08:00",
+      "time": "14:59"
+    },
     {
       "title": "首届AI音乐视觉黑客松：从一句话到一块大屏，剪映 Hub 让 AI 视觉进入音乐现场",
       "desc": "11月20日至21日，首届AI音乐视觉黑客松在北京国家会议中心举办。本次黑客松活动由剪映、全球AI原生共创社区WaytoAGI与北京ACE科技创新大会ACE-CON拔尖儿联合发起，是行业内首个面向音乐视觉的AI黑客松，旨在为开发者与创作者提供跨界协作与创意展示的平台…",
@@ -38,6 +119,33 @@
       "category": "融资",
       "published": "2026-11-23T12:10:00+08:00",
       "time": "12:10"
+    },
+    {
+      "title": "蚂蚁阿福同款大模型宣布开源，全球医生一台电脑就能解锁专业医疗 AI 能力",
+      "desc": "阿福App宣布新一轮升级，解锁越来越多健康服务新本领",
+      "link": "https://www.qbitai.com/2026/11/511998.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-11-23T11:56:34+08:00",
+      "time": "11:56"
+    },
+    {
+      "title": "当大模型接上真实机器人：RoboChallenge Zero首期评测发布",
+      "desc": "RoboChallenge正式发布全新评测基准RoboChallenge Zero",
+      "link": "https://www.qbitai.com/2026/11/511978.html",
+      "source": "量子位",
+      "category": "机器人",
+      "published": "2026-11-23T11:13:06+08:00",
+      "time": "11:13"
+    },
+    {
+      "title": "豆姐威武！豆包工作上新21个专业工作台，AI直接替你上班",
+      "desc": "豆包工作是目前字节优先级最高的产品",
+      "link": "https://www.qbitai.com/2026/11/511933.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-11-23T10:29:24+08:00",
+      "time": "10:29"
     },
     {
       "title": "中通快递与阿里云伶鹊达成深度合作，智慧AI打造客服新体验",
