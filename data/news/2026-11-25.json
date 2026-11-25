@@ -1,8 +1,71 @@
 {
   "date": "2026-11-25",
-  "generated_at": "2026-11-25T06:55:03+08:00",
-  "count": 12,
+  "generated_at": "2026-11-25T17:42:17+08:00",
+  "count": 19,
   "items": [
+    {
+      "title": "Anthropic还藏着2个最强模型…",
+      "desc": "Fable5.2已经很旧了。",
+      "link": "https://www.qbitai.com/2026/11/512538.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-11-25T16:23:24+08:00",
+      "time": "16:23"
+    },
+    {
+      "title": "A社Tibo被曝加盟OpenAI！上市前离职三人组异地团圆",
+      "desc": "OpenAI这下要有俩Tibo了",
+      "link": "https://www.qbitai.com/2026/11/512515.html",
+      "source": "量子位",
+      "category": "融资",
+      "published": "2026-11-25T15:46:52+08:00",
+      "time": "15:46"
+    },
+    {
+      "title": "从 AGI 到 ASI，DeepMind 提出让 AI 自己「开公司」、重塑组织架构，自己进化",
+      "desc": "100 个 AI 联合做题竟学会「集体作弊」？谷歌抛出 ASI 演进新框架，揭示组织化进化的恐怖与隐忧。 作者丨 郑佳美 编辑丨岑 峰 刚刚，Google DeepMind 抛出了一套从 AGI 迈向 ASI 的技术演进框架，其中有个相当大胆的设想： 未来 AI 的能力增长，可能要靠它自己学会组建公司…",
+      "link": "https://www.leiphone.com/category/ai/12hVnzl8xc2Hblwx.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-25T15:12:00+08:00",
+      "time": "15:12"
+    },
+    {
+      "title": "OpenAI 联手 AMD，在旗舰 GPU 中抠出 14% 物理极限",
+      "desc": "不到 5 个月完成约 1 年工程进展，从自研推理芯片 Jalapeño 到商用流片，大模型正式接管前端微架构。 作者丨 郑佳美 编辑丨岑 峰 刚刚，OpenAI 让 AI 直接改写的芯片电路，进入了 AMD 的实际制造流程。 而且，改的还是已经被工程师打磨多年的旗舰 GPU IP…",
+      "link": "https://www.leiphone.com/category/ai/9tAw4Cw8AcxtFzUm.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-11-25T15:01:00+08:00",
+      "time": "15:01"
+    },
+    {
+      "title": "华人计算机视觉泰斗二次创业！离开苹果下场，专注下一代空间与物理AI",
+      "desc": "复杂场景三维建模成本降至10美元以内",
+      "link": "https://www.qbitai.com/2026/11/512498.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-11-25T14:49:27+08:00",
+      "time": "14:49"
+    },
+    {
+      "title": "CCF HPC 2026访谈：HPC与AI需求推动算力走向系统协同",
+      "desc": "过去两年，从 ChatGPT 到国内外各路大模型百舸争流，AI 从只会聊天的机器人，一路长成了能看图、能听声、能剪视频的多面手。短剧、内容创作、智能客服、企业办公……应用场景越铺越开，模型规模越做越大，训练和推理的胃口也随之水涨船高…",
+      "link": "https://www.leiphone.com/category/chips/yHCLu9wEjr4z9AgA.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-11-25T09:51:00+08:00",
+      "time": "09:51"
+    },
+    {
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "desc": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a…",
+      "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-11-25T08:12:02+08:00",
+      "time": "08:12"
+    },
     {
       "title": "Even the best AI agents struggle with everyday life",
       "desc": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and…",
