@@ -1,8 +1,80 @@
 {
   "date": "2026-11-25",
-  "generated_at": "2026-11-25T17:42:17+08:00",
-  "count": 19,
+  "generated_at": "2026-11-26T06:08:58+08:00",
+  "count": 27,
   "items": [
+    {
+      "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
+      "desc": "智元推出行业首个开放且完整的具身智能生态技术体系AIMA",
+      "link": "https://www.qbitai.com/2026/11/512715.html",
+      "source": "量子位",
+      "category": "机器人",
+      "published": "2026-11-25T22:32:57+08:00",
+      "time": "22:32"
+    },
+    {
+      "title": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
+      "desc": "11月25日，以“算力唤醒真实世界”为主题的2026物理AI行业峰会暨九章云极智算生态大会在深圳举行。",
+      "link": "https://www.qbitai.com/2026/11/512582.html",
+      "source": "量子位",
+      "category": "芯片",
+      "published": "2026-11-25T22:21:20+08:00",
+      "time": "22:21"
+    },
+    {
+      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "desc": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune…",
+      "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-11-25T22:12:33+08:00",
+      "time": "22:12"
+    },
+    {
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "desc": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+      "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "source": "TechCrunch AI",
+      "category": "资讯",
+      "published": "2026-11-25T22:10:18+08:00",
+      "time": "22:10"
+    },
+    {
+      "title": "Has vibe coding made open source the new normal for synths?",
+      "desc": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world , leaving companies scrambling…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-11-25T21:00:00+08:00",
+      "time": "21:00"
+    },
+    {
+      "title": "AI may soon change what it means to be a theoretical physicist",
+      "desc": "About six months ago, Suvrat Raju, a professor of theoretical physics at the International Centre for Theoretical Sciences in Bengaluru, India, asked a…",
+      "link": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
+      "source": "Ars Technica",
+      "category": "研究",
+      "published": "2026-11-25T20:00:28+08:00",
+      "time": "20:00"
+    },
+    {
+      "title": "元材新界发布 FrontierMat：330 道真实研发难题难住 GPT-6 Astra，自研跨尺度材料大模型登顶",
+      "desc": "今年 10 月，在美国得克萨斯州的 SpaceX 测试基地，马斯克让一辆特斯拉 Roadster“飞”了起来。支撑这次腾空的高压气体，其核心储能部件，正是塞满车身空间的碳纤维缠绕的复合材料压力容器。 从飞行汽车、大飞机到聚变装置，极端工况下先进装备的上限，归根结底受制于材料研发的边界…",
+      "link": "https://www.leiphone.com/category/industrynews/GMIW0ZLuJPyQHSR4.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-11-25T19:04:00+08:00",
+      "time": "19:04"
+    },
+    {
+      "title": "AI is straining America’s open records systems",
+      "desc": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s…",
+      "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "source": "MIT Tech Review",
+      "category": "融资",
+      "published": "2026-11-25T18:00:00+08:00",
+      "time": "18:00"
+    },
     {
       "title": "Anthropic还藏着2个最强模型…",
       "desc": "Fable5.2已经很旧了。",

@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T06:08:58+08:00",
+  "count": 9,
+  "items": [
+    {
+      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "desc": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and…",
+      "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "source": "The Verge AI",
+      "category": "模型",
+      "published": "2026-11-26T05:51:26+08:00",
+      "time": "05:51"
+    },
+    {
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "desc": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-11-26T04:03:27+08:00",
+      "time": "04:03"
+    },
+    {
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "desc": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+      "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-11-26T03:54:57+08:00",
+      "time": "03:54"
+    },
+    {
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "desc": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly…",
+      "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "source": "TechCrunch AI",
+      "category": "研究",
+      "published": "2026-11-26T03:44:24+08:00",
+      "time": "03:44"
+    },
+    {
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "desc": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to…",
+      "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "source": "TechCrunch AI",
+      "category": "政策",
+      "published": "2026-11-26T02:11:46+08:00",
+      "time": "02:11"
+    },
+    {
+      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "desc": "In an announcement on Wednesday , the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned…",
+      "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "source": "The Verge AI",
+      "category": "芯片",
+      "published": "2026-11-26T01:44:51+08:00",
+      "time": "01:44"
+    },
+    {
+      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "desc": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S…",
+      "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "source": "TechCrunch AI",
+      "category": "政策",
+      "published": "2026-11-26T01:35:58+08:00",
+      "time": "01:35"
+    },
+    {
+      "title": "我以为这是摄影作品，你告诉我这是最新的国产AI？！",
+      "desc": "商汤SenseNova U1.6",
+      "link": "https://www.qbitai.com/2026/11/512748.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-11-26T00:34:09+08:00",
+      "time": "00:34"
+    },
+    {
+      "title": "Nothing offers a full look at its AI earbuds and charging case",
+      "desc": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release…",
+      "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+      "source": "The Verge AI",
+      "category": "产品",
+      "published": "2026-11-26T00:00:59+08:00",
+      "time": "00:00"
+    }
+  ]
+}
