@@ -1,7 +1,7 @@
 {
   "date": "2026-11-25",
-  "generated_at": "2026-11-26T17:17:49+08:00",
-  "count": 30,
+  "generated_at": "2026-11-27T06:07:54+08:00",
+  "count": 33,
   "items": [
     {
       "title": "丢个故事就行！直出15分钟AI短片，家里二舅也能上手",
@@ -56,6 +56,33 @@
       "category": "资讯",
       "published": "2026-11-25T22:10:18+08:00",
       "time": "22:10"
+    },
+    {
+      "title": "中国算力采购信心指数启动 九章云极核心共建算力市场先行指标",
+      "desc": "11月25日，在2026物理AI行业峰会暨九章云极智算生态大会上，中国经济信息社新华指数研究院副院长周宇涵宣布“中国算力采购信心指数”正式启动。北京九章云极科技股份有限公司（下称“九章云极”）作为核心共建单位，参与指数体系搭建。 当前，中国算力产业正处于高速增长与结构性调整并行的阶段…",
+      "link": "https://www.leiphone.com/category/chips/G3lWNUyVJphxOTU2.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-11-25T22:01:00+08:00",
+      "time": "22:01"
+    },
+    {
+      "title": "九章云极携手多方战略合作，物理AI工厂生态协作走进真实场景",
+      "desc": "11月25日，在2026物理AI行业峰会暨九章云极智算生态大会上，北京九章云极科技股份有限公司（九章云极DataCanvas，下称“九章云极”）与深圳市龙华区工业和信息化局、北京清程智汇有限公司、深圳市怡亚通供应链股份有限公司签署物理AI工厂项目战略合作协议…",
+      "link": "https://www.leiphone.com/category/chips/JWelmQaWCBCTOJi3.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-11-25T21:59:00+08:00",
+      "time": "21:59"
+    },
+    {
+      "title": "九章云极开放两大接口，携手伙伴共建物理AI产业生态",
+      "desc": "11月25日，在2026物理AI行业峰会暨九章云极智算生态大会上，九章云极DataCanvas宣布面向物理AI开放Physical AI Infra API和Physical AI Dev API两大接口，并联合二十余家产业伙伴成立极光物理AI产业生态联盟，推动技术连接与产业协作…",
+      "link": "https://www.leiphone.com/category/chips/omZ0PFr6zVtmUnap.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-11-25T21:56:00+08:00",
+      "time": "21:56"
     },
     {
       "title": "Has vibe coding made open source the new normal for synths?",

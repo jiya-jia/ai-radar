@@ -1,8 +1,44 @@
 {
   "date": "2026-11-26",
-  "generated_at": "2026-11-26T17:17:49+08:00",
-  "count": 18,
+  "generated_at": "2026-11-27T06:07:54+08:00",
+  "count": 22,
   "items": [
+    {
+      "title": "直播 25 天训出一个模型，五项登顶，一群 00 后的 Physical AI 实验",
+      "desc": "聊聊榜单之外的 Motubrain 2.0，和它背后那支不太一样的团队。 作者丨 齐铖湧 编辑丨岑 峰 近日，行业独角兽企业 生数科技 正式发布 Motubrain 2.0，并宣布将于近期开源。 这次发布包括一个 20B 参数的世界动作模型（WAM），以及一套名为 Motubrain-Harness 的智能体系统…",
+      "link": "https://www.leiphone.com/category/ai/0DEts3fxmZTZ7ojp.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-11-26T20:50:00+08:00",
+      "time": "20:50"
+    },
+    {
+      "title": "90 秒自动换装补能，具微科技“潘多拉”支撑机器人无人化值守",
+      "desc": "全栈方案破解工业机器人连续作业难题",
+      "link": "https://www.qbitai.com/2026/11/512972.html",
+      "source": "量子位",
+      "category": "机器人",
+      "published": "2026-11-26T18:07:55+08:00",
+      "time": "18:07"
+    },
+    {
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "desc": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings…",
+      "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "source": "The Verge AI",
+      "category": "政策",
+      "published": "2026-11-26T17:54:40+08:00",
+      "time": "17:54"
+    },
+    {
+      "title": "手表和眼镜，如何成为AI智能体的「随身感官」？",
+      "desc": "去年，Humane关闭了AI Pin的消费者云服务。这款别在衣服上的AI设备一度被寄予厚望，用户只需开口，就能完成许多原本需要掏出手机才能做的事。AI Pin最终没能进入主流市场，却给后来者留下了一道产品定义题 ， 手机已经有了成熟的计算、通信和应用生态， 用户为什么还需要一件戴在身上的AI设备？ 11月25日…",
+      "link": "https://www.leiphone.com/category/chips/1tx0UpMMROQn9vCW.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-26T17:22:00+08:00",
+      "time": "17:22"
+    },
     {
       "title": "报名最后2天｜AI浪潮之中，来认识创造未来的人",
       "desc": "12月6日，WAIC将携手第六届“海聚英才”全球创新创业峰会，把这场关于“人”的讨论带回现场。",
