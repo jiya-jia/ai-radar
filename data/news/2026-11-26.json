@@ -1,8 +1,89 @@
 {
   "date": "2026-11-26",
-  "generated_at": "2026-11-26T06:08:58+08:00",
-  "count": 9,
+  "generated_at": "2026-11-26T17:17:49+08:00",
+  "count": 18,
   "items": [
+    {
+      "title": "报名最后2天｜AI浪潮之中，来认识创造未来的人",
+      "desc": "12月6日，WAIC将携手第六届“海聚英才”全球创新创业峰会，把这场关于“人”的讨论带回现场。",
+      "link": "https://www.qbitai.com/2026/11/512942.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-11-26T15:36:04+08:00",
+      "time": "15:36"
+    },
+    {
+      "title": "顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一",
+      "desc": "30秒一镜到底，可自动编排镜头",
+      "link": "https://www.qbitai.com/2026/11/512916.html",
+      "source": "量子位",
+      "category": "产品",
+      "published": "2026-11-26T14:41:23+08:00",
+      "time": "14:41"
+    },
+    {
+      "title": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
+      "desc": "李斌坦言：不做AI变革可能活不下去",
+      "link": "https://www.qbitai.com/2026/11/512897.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-11-26T11:23:35+08:00",
+      "time": "11:23"
+    },
+    {
+      "title": "沈向洋刚讲了好多AI非共识啊",
+      "desc": "“灵巧手是人类最后的尊严”",
+      "link": "https://www.qbitai.com/2026/11/512840.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-11-26T11:13:16+08:00",
+      "time": "11:13"
+    },
+    {
+      "title": "AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了",
+      "desc": "叠满海淀最强AI Buff。",
+      "link": "https://www.qbitai.com/2026/11/512828.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-11-26T10:53:14+08:00",
+      "time": "10:53"
+    },
+    {
+      "title": "国产模型扎进 AI4S 深水区，几毫秒破译尘封18年密码学悬案",
+      "desc": "作者丨 高允毅 编辑丨岑 峰 11月20日， AI for Science 迎来了一个载入史册的日子：Anthropic 数学家联合 Claude 拿下黎曼猜想的关键突破，同一天，以复杂的数学计算著称的密码学领域，也被AI撼动…",
+      "link": "https://www.leiphone.com/category/yanxishe/T2xmmiMAC6WbuuCM.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-11-26T10:23:00+08:00",
+      "time": "10:23"
+    },
+    {
+      "title": "独家 | 华人 CV 先驱权龙二次创业，成立空间与物理 AI 公司「Envision AI」",
+      "desc": "融合语言、 逻辑、几 何、物理规律，要做统一和通用的空间物理原生基模。 作者丨 幸丽娟 编辑丨岑 峰 AI科技评论独家获悉， 香港科技大学计算机科学与工程系教授、前苹果空间智能首席科学家权龙二次创业，成立公司“Envision AI”（格秩科技），进军空间与物理 AI 赛道…",
+      "link": "https://www.leiphone.com/category/academic/S12DTjaFWmIPkwCk.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-11-26T10:09:00+08:00",
+      "time": "10:09"
+    },
+    {
+      "title": "机器人量产背后，物理AI开始算新账：研发底座何必各自建？",
+      "desc": "2026年，人形机器人加速走出实验室。 但是让机器人在真实世界产生价值，依然复杂而成本高昂。 从数据采集、物理仿真到模型训练、真机验证，机器人每掌握一项新技能，背后都可能是一整套研发流程的反复运转。 更复杂的是，这些能力分散在不同的专业厂商手中。产业分工越来越细，如何将分散的技术能力组织起来，反而成了一道新的难题…",
+      "link": "https://www.leiphone.com/category/chips/HQvbSEUnkDy0Tos9.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-26T09:35:00+08:00",
+      "time": "09:35"
+    },
+    {
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "desc": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+      "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "source": "TechCrunch AI",
+      "category": "芯片",
+      "published": "2026-11-26T06:44:32+08:00",
+      "time": "06:44"
+    },
     {
       "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
       "desc": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and…",

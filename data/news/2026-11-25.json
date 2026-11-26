@@ -1,8 +1,17 @@
 {
   "date": "2026-11-25",
-  "generated_at": "2026-11-26T06:08:58+08:00",
-  "count": 27,
+  "generated_at": "2026-11-26T17:17:49+08:00",
+  "count": 30,
   "items": [
+    {
+      "title": "丢个故事就行！直出15分钟AI短片，家里二舅也能上手",
+      "desc": "丢个故事就行！直出15分钟AI短片，家里二舅也能上手",
+      "link": "https://www.qbitai.com/2026/11/512727.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-11-25T22:51:06+08:00",
+      "time": "22:51"
+    },
     {
       "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
       "desc": "智元推出行业首个开放且完整的具身智能生态技术体系AIMA",
@@ -20,6 +29,15 @@
       "category": "芯片",
       "published": "2026-11-25T22:21:20+08:00",
       "time": "22:21"
+    },
+    {
+      "title": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
+      "desc": "11月25日，以“算力唤醒真实世界”为主题的2026物理AI行业峰会暨九章云极智算生态大会在深圳举行。会议由九章云极DataCanvas主办，深圳市龙华区工业和信息化局支持，清华大学互联网产业研究院为学术指导单位…",
+      "link": "https://www.leiphone.com/category/chips/Qz3QPf26nVIVA0ga.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-11-25T22:15:00+08:00",
+      "time": "22:15"
     },
     {
       "title": "Amazon is reportedly in talks to end Muse AI shopping block",
@@ -65,6 +83,15 @@
       "category": "芯片",
       "published": "2026-11-25T19:04:00+08:00",
       "time": "19:04"
+    },
+    {
+      "title": "芯片研发上云后，沐曦和火山引擎一起走进更多AI应用现场",
+      "desc": "芯片研发不同阶段，算力需求可能相差数倍。低峰期，按峰值配置的固定资源容易闲置；流片前的冲刺阶段，算力又可能在短时间内不足。与火山引擎合作后，沐曦股份逐步将科学计算从IDC托管迁移至云上，同配置最新机型的测试效率提升40%。 这只是双方合作的一部分…",
+      "link": "https://www.leiphone.com/category/industrynews/qpNTm1Kc6QN6mVY3.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-11-25T18:20:00+08:00",
+      "time": "18:20"
     },
     {
       "title": "AI is straining America’s open records systems",
