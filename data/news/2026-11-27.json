@@ -1,8 +1,53 @@
 {
   "date": "2026-11-27",
-  "generated_at": "2026-11-27T17:33:09+08:00",
-  "count": 12,
+  "generated_at": "2026-11-28T05:49:05+08:00",
+  "count": 17,
   "items": [
+    {
+      "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
+      "desc": "一支团队在真机上验证的成果，可以成为下一支团队继续开发的起点。",
+      "link": "https://www.qbitai.com/2026/11/513352.html",
+      "source": "量子位",
+      "category": "机器人",
+      "published": "2026-11-27T22:07:33+08:00",
+      "time": "22:07"
+    },
+    {
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "desc": "Widgets, your way. | Photo: Allison Johnson / The Verge Aside from dealing with my calendar , there's one thing I want AI to do: tell me if I'm about to miss…",
+      "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "source": "The Verge AI",
+      "category": "资讯",
+      "published": "2026-11-27T22:00:00+08:00",
+      "time": "22:00"
+    },
+    {
+      "title": "具微科技高交会双新品首秀，全栈方案破解工业机器人连续作业难题",
+      "desc": "11月26日，中国国际高新技术成果交易会（简称“高交会”）在深圳国际会展中心开幕。具微科技集中展示了具身智能在高危特种工业场景的全栈创新成果，并线下首展新一代工业特种作业移动底座 MOVENEW P3S ，首发模块化换装补能基站 MICBOT PANDORA，重构工业无人化作业的技术底座与落地路径…",
+      "link": "https://www.leiphone.com/category/robot/UTZbbw7CrHpZvIS7.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-11-27T17:37:00+08:00",
+      "time": "17:37"
+    },
+    {
+      "title": "Anthropic 放出 Claude Ship：内部 PR 合并量 3 个月翻倍，回滚比例下降超 40%",
+      "desc": "Claude 已写下约 90% 代码，单日代码变更从 2500 增至 3 万，审查覆盖率升至 54%。 作者丨 郑佳美 编辑丨岑 峰 刚刚，Anthropic 发布了 Claude Ship，将 AI Agent 的工作范围进一步延伸到 GitHub PR 的完整交付流程…",
+      "link": "https://www.leiphone.com/category/ai/iWUKWuRp4AmJ6dZE.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-11-27T16:41:00+08:00",
+      "time": "16:41"
+    },
+    {
+      "title": "OpenAI、Anthropic 内部出现分歧：AI 能力增长太快，模型隐藏行为，监测开始系统失灵？",
+      "desc": "强化学习让模型学会钻评分规则的空子，甚至能反过来操纵评估结果。 作者丨 郑佳美 编辑丨岑 峰 刚刚，Axios 报道称 Anthropic 和 OpenAI 内部已经有人提出，将尚未公开的前沿模型留在公司内部，甚至暂停继续训练…",
+      "link": "https://www.leiphone.com/category/ai/IMi92BFX4KU0R8uh.html",
+      "source": "雷峰网",
+      "category": "研究",
+      "published": "2026-11-27T16:18:00+08:00",
+      "time": "16:18"
+    },
     {
       "title": "DeepSeek APP突然更新账单，网友：要收费了？",
       "desc": "网页App双端亮出聊天账单",
