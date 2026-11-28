@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-29T04:44:52+08:00",
+  "count": 9,
+  "items": [
+    {
+      "title": "谷歌Tibo亲授Gemini 4 Neon内部打开方式！第一步：删光旧规则",
+      "desc": "这两天转投Gemini的有福了！",
+      "link": "https://www.qbitai.com/2026/11/513555.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-11-28T22:29:15+08:00",
+      "time": "22:29"
+    },
+    {
+      "title": "刚刚，8192张昇腾训出285B大模型！权重开源，32页训练手册全公开",
+      "desc": "国产芯片训千亿大模型，终于有人把施工图纸摊开了",
+      "link": "https://www.qbitai.com/2026/11/513535.html",
+      "source": "量子位",
+      "category": "芯片",
+      "published": "2026-11-28T22:12:50+08:00",
+      "time": "22:12"
+    },
+    {
+      "title": "Sakana AI’s CEO says its homegrown models are about more than Japan’s national security",
+      "desc": "Sakana AI aims to strengthen Japan’s industrial competitiveness with homegrown AI models.",
+      "link": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/",
+      "source": "TechCrunch AI",
+      "category": "模型",
+      "published": "2026-11-28T22:00:00+08:00",
+      "time": "22:00"
+    },
+    {
+      "title": "xAI联创张国栋戴自航创业，90天搓出互联网时光机",
+      "desc": "这还只是热身",
+      "link": "https://www.qbitai.com/2026/11/513507.html",
+      "source": "量子位",
+      "category": "资讯",
+      "published": "2026-11-28T20:53:02+08:00",
+      "time": "20:53"
+    },
+    {
+      "title": "用Claude证明黎曼猜想的90后数学家，收到了致命威胁",
+      "desc": "为了证明黎曼猜想，他已经准备了十几年",
+      "link": "https://www.qbitai.com/2026/11/513463.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-11-28T20:25:48+08:00",
+      "time": "20:25"
+    },
+    {
+      "title": "亏贼！卡帕西用Claude搓出“美国版《文明》”，网友直接玩成全球接力赛",
+      "desc": "这种大模型现做的即时交互工具，能不能来一波知识付费？",
+      "link": "https://www.qbitai.com/2026/11/513428.html",
+      "source": "量子位",
+      "category": "模型",
+      "published": "2026-11-28T13:54:46+08:00",
+      "time": "13:54"
+    },
+    {
+      "title": "双城联动首发｜共绩算力云平台，一站式跑通 AI 训推全流程",
+      "desc": "一个AI应用从想法到落地，往往要跨过不少门槛： 从开发环境搭建、数据预处理，到模型训练微调、推理部署上线，每一步都离不开算力的支撑，也需要计算资源、运行环境、数据存储和任务调度的协同配合…",
+      "link": "https://www.leiphone.com/category/industrynews/mFpSlgs8pnwUk320.html",
+      "source": "雷峰网",
+      "category": "芯片",
+      "published": "2026-11-28T10:40:00+08:00",
+      "time": "10:40"
+    },
+    {
+      "title": "独家丨瞄准 AI 算力天花板，「闪科光联」完成数千万融资",
+      "desc": "“AI算力的成本中心正在从‘计算’转向‘连接’。” 雷峰网·鲸犀独家获悉，MicroLED 高速光互连芯片与光引擎研发商「闪科光联」近日完成数千万元人民币天使轮融资。 种子轮由励石创投独家投资，天使轮由商汤国香、长石资本、厚雪资本联合领投，险峰长青（K2）、磐霖资本、小苗朗程、柯熙创投等多家产业基金共同跟投…",
+      "link": "https://www.leiphone.com/category/ai/ilqJyKclWkhaWIps.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-28T03:14:00+08:00",
+      "time": "03:14"
+    },
+    {
+      "title": "独家丨自研微水洗澡机，「润泽智造」拿下数百万元天使轮融资",
+      "desc": "雷峰网·鲸犀独家报道，微水清洁技术研发商「润泽智造」近期完成数百万元人民币天使轮融资，由一家市场化投资机构领投，金隼投资担任独家财务顾问。 润泽智造成立于 2025 年，旗下品牌“羽鸣 eoomii”主打的产品是一款便携式微水洗澡机…",
+      "link": "https://www.leiphone.com/category/weiwu/TThdKrM8psZJIudr.html",
+      "source": "雷峰网",
+      "category": "融资",
+      "published": "2026-11-28T03:06:00+08:00",
+      "time": "03:06"
+    }
+  ]
+}

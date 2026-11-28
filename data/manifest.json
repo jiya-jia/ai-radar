@@ -1,8 +1,19 @@
 {
-  "generated_at": "2026-11-28T16:46:18+08:00",
-  "total_dates": 81,
-  "total_items": 1967,
+  "generated_at": "2026-11-29T04:44:52+08:00",
+  "total_dates": 82,
+  "total_items": 1976,
   "dates": [
+    {
+      "date": "2026-11-28",
+      "count": 9,
+      "sources": 3,
+      "categories": {
+        "模型": 4,
+        "芯片": 2,
+        "资讯": 1,
+        "融资": 2
+      }
+    },
     {
       "date": "2026-11-27",
       "count": 17,
